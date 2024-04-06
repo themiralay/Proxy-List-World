@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|7|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|72.10.160.170|17949|Canada|Montreal|GloboTech Communications|
-|13|104.236.195.90|10012|United States|Clifton|DigitalOcean, LLC|
-|14|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
-|15|67.43.236.19|3871|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|27495|Canada|Montreal|GloboTech Communications|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|19|195.169.35.214|3128|The Netherlands|Vlaardingen|Surf B.V.|
-|20|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|10|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|11|134.35.194.234|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|72.10.160.170|17949|Canada|Montreal|GloboTech Communications|
+|15|222.127.220.86|8082|Philippines|Quezon City|GLBB|
+|16|217.219.74.130|8888|Iran|Tehran|Iran Telecommunication Company PJS|
+|17|111.225.152.245|8089|China|Zhoutou|China Telecom|
+|18|103.133.68.151|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|19|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
