@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|93.174.125.63|80|Greece|Athens|IpHost P.C.|
+|2|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|67.43.228.251|22821|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.90|24061|Canada|Montreal|GloboTech Communications|
-|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|67.43.228.251|22821|Canada|Montreal|GloboTech Communications|
+|9|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|72.10.160.90|4335|Canada|Montreal|GloboTech Communications|
 |11|72.10.164.178|3487|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|3487|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|30353|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|24061|Canada|Montreal|GloboTech Communications|
+|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|13|72.10.160.90|4335|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
 |15|72.10.164.178|3487|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|30353|Canada|Montreal|GloboTech Communications|
-|17|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
-|18|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|3487|Canada|Montreal|GloboTech Communications|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|209.14.113.2|999|Colombia|Cértegui|AGIS|
+|17|67.43.227.228|11187|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|12561|Canada|Montreal|GloboTech Communications|
+|19|103.127.220.98|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|20|205.234.156.124|3128|United States|Los Angeles|Hosteons Pte. Ltd|
 
 
 
