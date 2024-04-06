@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|182.253.109.162|8080|Indonesia|Semarang|Biznet Metronet|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|178.165.42.166|3128|Ukraine|Kharkiv|Maxnet Ltd|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|45.71.202.147|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
-|10|111.225.152.112|8089|China|Zhoutou|China Telecom|
-|11|72.10.164.178|14233|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|10835|Canada|Montreal|GloboTech Communications|
-|13|113.64.23.221|32650|China|Puning|Chinanet|
-|14|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
-|15|45.11.95.165|6050|Russia|Moscow|Delta Ltd|
-|16|67.43.227.227|10835|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|14233|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|30879|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|6921|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|14233|Canada|Montreal|GloboTech Communications|
+|5|182.253.109.162|8080|Indonesia|Semarang|Biznet Metronet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|72.10.164.178|26037|Canada|Montreal|GloboTech Communications|
+|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
+|13|111.225.153.122|8089|China|Zhoutou|China Telecom|
+|14|72.10.164.178|26037|Canada|Montreal|GloboTech Communications|
+|15|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|72.10.164.178|26037|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|6921|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|123.182.58.9|8089|China|Zhangjiakou|China Telecom|
+|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
