@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|72.128.133.154|16099|United States|Pflugerville|Charter Communications|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|8|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|12|67.43.227.228|18949|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.21|32251|Canada|Montreal|GloboTech Communications|
-|14|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|67.43.236.20|3827|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|3827|Canada|Montreal|GloboTech Communications|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|67.43.227.228|31523|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|3827|Canada|Montreal|GloboTech Communications|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|12|67.43.227.226|21213|Canada|Montreal|GloboTech Communications|
+|13|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|78.38.224.102|8080|Iran|Tehran|Telecommunication Company of Iran|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
 |18|72.10.160.92|17959|Canada|Montreal|GloboTech Communications|
-|19|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
-|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|72.10.164.178|28145|Canada|Montreal|GloboTech Communications|
+|20|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
