@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
-|5|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|6|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|7|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|8|72.10.160.170|7771|Canada|Montreal|GloboTech Communications|
-|9|83.151.4.172|57812|Russia|Kazan'|MTS PJSC|
-|10|72.10.164.178|18451|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|18451|Canada|Montreal|GloboTech Communications|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|72.10.164.178|18451|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|28747|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|30549|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|18451|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|19263|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|18451|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|18391|Canada|Montreal|GloboTech Communications|
-|20|223.247.47.247|8089|China|Rongcheng|Chinanet|
+|4|72.10.160.170|7771|Canada|Montreal|GloboTech Communications|
+|5|72.10.164.178|3035|Canada|Montreal|GloboTech Communications|
+|6|67.43.227.227|6637|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|3035|Canada|Montreal|GloboTech Communications|
+|8|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
+|9|72.10.164.178|3035|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|3035|Canada|Montreal|GloboTech Communications|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|67.43.228.253|7619|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|22181|Canada|Montreal|GloboTech Communications|
+|14|5.182.87.90|10101|Germany|Frankfurt am Main|Aeza International LTD|
+|15|223.247.47.247|8089|China|Rongcheng|Chinanet|
+|16|67.43.227.227|6637|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|6637|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|5175|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|3035|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|3035|Canada|Montreal|GloboTech Communications|
 
 
 
