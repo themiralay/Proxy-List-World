@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|182.253.109.162|8080|Indonesia|Semarang|Biznet Metronet|
-|6|134.35.184.81|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|9|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|72.128.133.154|16099|United States|Pflugerville|Charter Communications|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|13|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|103.217.224.69|8989|Indonesia|Semarang|PT Nesta Indo Media|
-|15|72.10.160.170|17479|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|11983|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|183.88.49.176|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|6|202.5.40.21|5020|Bangladesh|Khulna|BBTS-NEW|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|122.2.79.174|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|72.10.160.170|17479|Canada|Montreal|GloboTech Communications|
+|15|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|16|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
 |17|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|165.22.36.164|10014|United States|Clifton|DigitalOcean, LLC|
+|20|72.128.133.154|16099|United States|Pflugerville|Charter Communications|
 
 
 
