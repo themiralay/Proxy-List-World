@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|49.48.196.98|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|4|103.228.246.165|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|5|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
 |6|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 |8|183.165.224.162|8089|China|Shenzhen|Chinanet|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|27.158.47.242|8089|China|Guangzhou|Chinanet|
-|11|136.233.136.41|48976|India|Surat|Reliance Jio Infocomm Limited|
-|12|49.76.17.138|8089|China|Nanjing|Chinanet|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|163.5.182.37|80|The Netherlands|Amsterdam|NForce Entertainment B.V.|
-|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|122.10.101.13|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
-|18|103.156.75.41|8181|Indonesia|Singaraja|PT Trika Global Media|
-|19|123.182.58.3|8089|China|Zhangjiakou|China Telecom|
-|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|10|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|103.156.75.41|8181|Indonesia|Singaraja|PT Trika Global Media|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|1.0.205.87|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|72.10.164.178|2543|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|2543|Canada|Montreal|GloboTech Communications|
+|20|103.142.241.165|8085|Indonesia|Jember|Multi Teknologi Telematika|
 
 
 
