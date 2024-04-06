@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|72.10.160.173|27041|Canada|Montreal|GloboTech Communications|
 |8|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|9|72.10.164.178|21109|Canada|Montreal|GloboTech Communications|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|72.10.164.178|21109|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.19|17271|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.173|27041|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|23205|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|23205|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|10799|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|24447|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|13965|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.94|13301|Canada|Montreal|GloboTech Communications|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|12|72.10.160.170|24447|Canada|Montreal|GloboTech Communications|
+|13|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|14|67.43.236.18|10799|Canada|Montreal|GloboTech Communications|
+|15|110.34.13.4|8080|Nepal|Kathmandu|Subisu Cablenet|
+|16|72.10.160.90|4431|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|21109|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.19|17271|Canada|Montreal|GloboTech Communications|
 |19|72.10.164.178|21109|Canada|Montreal|GloboTech Communications|
-|20|103.250.130.111|8080|Indonesia|Surabaya|PT Jawara Lintas Data Nusantara|
+|20|72.10.164.178|21109|Canada|Montreal|GloboTech Communications|
 
 
 
