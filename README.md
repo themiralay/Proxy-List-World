@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|101.109.48.187|8080|Thailand|Bangkok|TOT Public Company Limited|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|47.76.69.226|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|103.112.163.92|8080|Indonesia|Jakarta|24AS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|11|38.7.7.209|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|67.43.227.227|9271|Canada|Montreal|GloboTech Communications|
-|16|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|17|72.10.164.178|1433|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|29263|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|15421|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|146.120.73.210|8080|Russia|St Petersburg|Unet Communication LLC|
+|7|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
+|8|67.43.227.227|15979|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|23795|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|15421|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.18|24377|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|23795|Canada|Montreal|GloboTech Communications|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|67.43.227.227|15979|Canada|Montreal|GloboTech Communications|
+|17|43.243.140.27|8181|Indonesia|Bogor|CEPATNET|
+|18|67.43.236.20|15421|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|23795|Canada|Montreal|GloboTech Communications|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
