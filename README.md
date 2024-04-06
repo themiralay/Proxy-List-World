@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |2|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|3|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|3|103.165.157.42|8080|Indonesia|Malang|MEGADATA-ISP|
 |4|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|5|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|6|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
-|12|67.43.228.253|26385|Canada|Montreal|GloboTech Communications|
-|13|103.148.44.101|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|14|36.225.43.175|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|15|67.43.227.227|23095|Canada|Montreal|GloboTech Communications|
-|16|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|5|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|6|103.26.176.60|3125|Indonesia|Kediri|PT Lintas Jaringan Nusantara|
+|7|193.30.13.18|999|Ecuador|Nobol|Eliana Vanessa Morocho Oña|
+|8|185.67.95.91|8080|Russia|St Petersburg|ru.elitel|
+|9|103.151.236.131|8080|Pakistan|Lahore|Lahore Express|
+|10|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|16|67.43.228.253|26385|Canada|Montreal|GloboTech Communications|
 |17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|18|67.43.236.20|8895|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.254|24763|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1951|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|1951|Canada|Montreal|GloboTech Communications|
+|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|20|36.68.168.204|8080|Indonesia|Wonokromo|PT. TELKOM INDONESIA|
 
 
 
