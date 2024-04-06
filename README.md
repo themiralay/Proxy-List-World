@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|103.180.247.6|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|11|103.26.129.27|8080|Indonesia|Demak|PT Panglima Kamayo Media|
-|12|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|11|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
-|16|136.233.80.157|4480|India|Chennai|Reliance Jio Infocomm Limited|
-|17|72.10.160.90|6467|Canada|Montreal|GloboTech Communications|
-|18|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
-|19|72.10.160.91|10567|Canada|Montreal|GloboTech Communications|
-|20|104.236.195.90|10012|United States|Clifton|DigitalOcean, LLC|
+|14|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|222.70.81.82|9000|China|Shanghai|China Telecom (Group)|
+|17|72.10.160.90|32373|Canada|Montreal|GloboTech Communications|
+|18|104.236.195.90|10012|United States|Clifton|DigitalOcean, LLC|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|72.10.164.178|15187|Canada|Montreal|GloboTech Communications|
 
 
 
