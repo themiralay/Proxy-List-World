@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|103.19.59.10|8080|Indonesia|Madiun|BITSNET|
+|4|101.255.116.161|33333|Indonesia|Bekasi|PT Remala Abadi|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|67.43.228.253|13237|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|1337|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|30143|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|29283|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|103.199.214.154|8080|India|Ambāla|RailTel Corporation|
-|18|137.184.189.144|3214|United States|Santa Clara|DigitalOcean, LLC|
-|19|49.75.122.43|8089|China|Nanjing|Chinanet|
-|20|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|207.138.39.145|999|United States|Santa Barbara|Galanet Solution C.A.|
+|10|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|11|103.19.59.10|8080|Indonesia|Madiun|BITSNET|
+|12|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
+|13|185.208.101.217|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|213.244.91.179|8080|Palestinian Territory|Gaza|PALTEL (Palestine Telecommunications Co.)|
+|16|190.94.212.149|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|72.10.160.170|1337|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|67.43.228.253|5993|Canada|Montreal|GloboTech Communications|
+|20|91.233.111.49|1080|Ukraine|Kyiv|Helpteh L-side|
 
 
 
