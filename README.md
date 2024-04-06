@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|6|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
-|10|36.95.249.157|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|12|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|13|72.10.160.90|25329|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|16|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|17|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|7|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|10|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|11|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|12|204.199.120.27|999|Colombia|Pasto|Level 3 Communications, Inc.|
+|13|36.91.20.5|8080|Indonesia|Kartini|PT. Telekomunikasi Indonesia|
+|14|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
+|15|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|16|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|17|38.156.74.87|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|19|8.242.176.37|999|Colombia|Santiago de Cali|CTL Colombia|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
