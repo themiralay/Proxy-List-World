@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|5.202.95.213|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
 |4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|9|103.160.205.86|8080|Indonesia|Mataram|PRIME|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|52.16.252.50|3128|Ireland|Dublin|Amazon.com, Inc.|
-|12|67.43.228.251|23713|Canada|Montreal|GloboTech Communications|
-|13|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|14|72.10.164.178|4885|Canada|Montreal|GloboTech Communications|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|72.10.160.91|28459|Canada|Montreal|GloboTech Communications|
-|17|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|18|72.10.160.90|19255|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.252|19695|Canada|Montreal|GloboTech Communications|
-|20|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
+|5|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|8|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|72.10.164.178|3117|Canada|Montreal|GloboTech Communications|
+|11|1.179.217.11|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|72.10.160.91|28459|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.251|23713|Canada|Montreal|GloboTech Communications|
+|14|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
+|15|103.247.21.225|2024|Indonesia|Bekasi|PT wifian Solution|
+|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|17|72.10.160.173|15673|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|1557|Canada|Montreal|GloboTech Communications|
+|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
 
 
 
