@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
-|3|202.180.20.66|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|4|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
-|5|103.244.107.65|8080|Indonesia|Karawang|PT Sahabat Fiber Indonesia|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|10|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
-|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|36.89.16.186|8866|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|103.55.33.59|8080|Indonesia|Bandung|UIN Sunan Gunung Djati Bandung|
-|18|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|19|85.113.55.123|8080|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
-|20|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|4|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|96.80.235.1|8080|United States|Dearborn|Comcast Cable Communications, LLC|
+|8|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|10|154.126.81.163|8080|Madagascar|Antananarivo|Telecom Malagasy|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
+|14|67.43.236.20|7285|Canada|Montreal|GloboTech Communications|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|67.43.227.227|18965|Canada|Montreal|GloboTech Communications|
+|18|167.172.238.6|10003|United States|Clifton|DigitalOcean, LLC|
+|19|5.58.25.124|8080|Ukraine|Ternopil|Columbus|
+|20|72.10.160.171|6467|Canada|Montreal|GloboTech Communications|
 
 
 
