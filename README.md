@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|9|202.180.20.11|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|10|103.178.42.29|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|11|72.10.160.171|20853|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|26867|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|16375|Canada|Montreal|GloboTech Communications|
-|14|178.130.94.249|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
-|15|72.10.164.178|1713|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|16375|Canada|Montreal|GloboTech Communications|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|72.10.164.178|1713|Canada|Montreal|GloboTech Communications|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|179.1.129.131|999|Colombia|Neiva|InterNexa Global Network|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|72.10.160.171|20853|Canada|Montreal|GloboTech Communications|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|67.43.227.227|31849|Canada|Montreal|GloboTech Communications|
+|13|118.117.189.200|8089|China|Muping|Chinanet|
+|14|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|67.43.228.250|14713|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|16667|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|72.10.164.178|16667|Canada|Montreal|GloboTech Communications|
+|20|117.57.93.138|8089|China|Shenzhen|Chinanet|
 
 
 
