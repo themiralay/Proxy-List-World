@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|154.65.101.131|3128|United States|Latham|Xneelo (Pty) Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|8|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|11|154.65.101.131|3128|United States|Latham|Xneelo (Pty) Ltd|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|17|95.51.18.49|443|Poland|Warsaw|Orange Polska Spolka Akcyjna|
-|18|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|2|101.109.56.150|8080|Thailand|Phetchaburi|TOT Public Company Limited|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|154.65.101.131|3128|United States|Latham|Xneelo (Pty) Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|113.160.154.23|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|8|154.65.101.131|3128|United States|Latham|Xneelo (Pty) Ltd|
+|9|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|10|203.79.29.218|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
+|11|159.65.176.77|10011|United States|Clifton|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.101.231.51|8080|Indonesia|Jakarta|Biznet Networks|
+|14|177.174.126.203|8080|Brazil|São Paulo|Vivo|
+|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|16|72.10.164.178|6497|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|6497|Canada|Montreal|GloboTech Communications|
+|18|49.76.17.159|8089|China|Nanjing|Chinanet|
 |19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|20|103.76.151.133|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|20|72.10.164.178|6497|Canada|Montreal|GloboTech Communications|
 
 
 
