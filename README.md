@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|49.49.193.165|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|49.49.193.165|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|191.102.254.50|8085|Argentina|Rosario|IP·RED|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|15|183.165.226.32|8089|China|Shenzhen|Chinanet|
-|16|183.165.250.242|8089|China|Shenzhen|Chinanet|
-|17|72.10.164.178|17803|Canada|Montreal|GloboTech Communications|
-|18|183.165.226.72|8089|China|Shenzhen|Chinanet|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|67.43.228.253|7853|Canada|Montreal|GloboTech Communications|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|8|204.199.120.61|999|Colombia|Pasto|Level 3 Communications, Inc.|
+|9|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|12|72.10.164.178|17803|Canada|Montreal|GloboTech Communications|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|67.43.228.253|10573|Canada|Montreal|GloboTech Communications|
+|15|111.225.153.69|8089|China|Zhoutou|China Telecom|
+|16|67.43.236.21|6045|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|26487|Canada|Montreal|GloboTech Communications|
+|18|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|19|72.10.160.91|19237|Canada|Montreal|GloboTech Communications|
+|20|183.165.250.242|8089|China|Shenzhen|Chinanet|
 
 
 
