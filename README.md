@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|5|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|36.91.20.5|8080|Indonesia|Kartini|PT. Telekomunikasi Indonesia|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|67.43.228.250|4431|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|7831|Canada|Montreal|GloboTech Communications|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|67.43.236.20|15253|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|15253|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|15253|Canada|Montreal|GloboTech Communications|
-|19|169.255.56.222|3128|Ghana|Accra|VIDOLU Group Pty Ltd-Web4Africa|
-|20|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|8|182.253.177.137|8080|Indonesia|Jakarta Pusat|BIZNET|
+|9|136.232.116.2|48976|India|Vadodara|Reliance Jio Infocomm Limited|
+|10|14.226.7.37|8080|Vietnam|Ha Long|VNPT|
+|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|188.240.102.192|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|183.165.250.242|8089|China|Shenzhen|Chinanet|
+|16|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|19|72.10.164.178|7831|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|1911|Canada|Montreal|GloboTech Communications|
 
 
 
