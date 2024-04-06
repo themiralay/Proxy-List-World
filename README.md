@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|103.154.230.119|5678|Indonesia|Lamongan|DIGITNET|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|67.43.236.20|32145|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|1673|Canada|Montreal|GloboTech Communications|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|67.43.228.254|19755|Canada|Montreal|GloboTech Communications|
-|13|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|14|72.10.164.178|1673|Canada|Montreal|GloboTech Communications|
-|15|52.16.252.50|3128|Ireland|Dublin|Amazon.com, Inc.|
-|16|154.65.101.131|3128|United States|Latham|Xneelo (Pty) Ltd|
-|17|67.43.236.20|32145|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|16121|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|32145|Canada|Montreal|GloboTech Communications|
-|20|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|4|103.109.57.250|8889|Bangladesh|Dhaka|Skynet Chowmuhani|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|186.125.218.172|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|8|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|9|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|10|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|38.156.75.130|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|13|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|14|124.105.21.141|8181|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|15|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|18|170.80.242.98|999|Mexico|Sombrerete|TV CABLE DEL GUADIANA S.A DE C.V.|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|36.89.16.186|8866|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
