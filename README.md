@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|134.35.245.108|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|181.78.82.211|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.137.84.17|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
-|9|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|10|72.10.164.178|2729|Canada|Montreal|GloboTech Communications|
-|11|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|67.43.228.253|26973|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|1801|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|26973|Canada|Montreal|GloboTech Communications|
-|16|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|17|67.43.227.228|1801|Canada|Montreal|GloboTech Communications|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|67.43.236.20|17869|Canada|Montreal|GloboTech Communications|
-|20|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|5|38.41.29.86|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|6|134.35.245.108|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|72.10.164.178|7851|Canada|Montreal|GloboTech Communications|
+|9|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|10|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|11|67.43.227.228|6207|Canada|Montreal|GloboTech Communications|
+|12|103.76.151.133|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|13|67.43.228.253|12561|Canada|Montreal|GloboTech Communications|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|72.10.164.178|7851|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|15117|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|12561|Canada|Montreal|GloboTech Communications|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
