@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|5|103.115.227.201|8071|Indonesia|Surakarta|Pemerintah Kota Surakarta|
-|6|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|7|189.6.22.158|80|Brazil|Brasília|Claro NXT Telecomunicacoes Ltda|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|11|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|67.43.228.253|8567|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.171|30539|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|10199|Canada|Montreal|GloboTech Communications|
-|17|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|19|72.10.164.178|8177|Canada|Montreal|GloboTech Communications|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|154.65.101.131|3128|United States|Latham|Xneelo (Pty) Ltd|
+|11|72.10.164.178|15095|Canada|Montreal|GloboTech Communications|
+|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|72.10.160.171|30539|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|30079|Canada|Montreal|GloboTech Communications|
+|15|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|16|72.10.164.178|15095|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.173|5673|Canada|Montreal|GloboTech Communications|
+|18|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
+|19|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|20|67.43.228.253|13135|Canada|Montreal|GloboTech Communications|
 
 
 
