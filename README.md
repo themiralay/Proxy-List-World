@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|36.225.45.109|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|67.43.228.253|22719|Canada|Montreal|GloboTech Communications|
-|16|159.65.176.77|10011|United States|Clifton|DigitalOcean, LLC|
-|17|72.10.160.90|10161|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1903|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|20917|Canada|Montreal|GloboTech Communications|
-|20|114.231.42.235|8089|China|Nanjing|Chinanet|
+|1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|159.65.176.77|10011|United States|Clifton|DigitalOcean, LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|72.10.164.178|32007|Canada|Montreal|GloboTech Communications|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|19|113.160.214.209|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|20|45.71.202.148|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
 
 
 
