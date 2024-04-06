@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
-|6|72.10.164.178|27349|Canada|Montreal|GloboTech Communications|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|67.43.227.227|2639|Canada|Montreal|GloboTech Communications|
-|9|114.231.41.47|8089|China|Nanjing|Chinanet|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|103.183.63.14|82|Bangladesh|Dhaka|Speed Online|
+|4|131.117.162.9|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|5|72.10.164.178|27407|Canada|Montreal|GloboTech Communications|
+|6|67.43.227.227|21091|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.90|4965|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|27407|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|4965|Canada|Montreal|GloboTech Communications|
 |10|72.10.160.173|9421|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|27349|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.93|20153|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|27349|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|29313|Canada|Montreal|GloboTech Communications|
-|15|5.182.87.90|10086|Germany|Frankfurt am Main|Aeza International LTD|
-|16|67.43.228.253|7619|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|29313|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|1537|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|1537|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|7619|Canada|Montreal|GloboTech Communications|
+|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|72.10.164.178|27407|Canada|Montreal|GloboTech Communications|
+|13|201.71.3.52|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|14|103.194.70.102|83|India|Patna|Hostaxis Network Private Limited|
+|15|72.10.160.170|19955|Canada|Montreal|GloboTech Communications|
+|16|114.231.41.47|8089|China|Nanjing|Chinanet|
+|17|67.43.227.227|21091|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.93|20153|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|5045|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|5045|Canada|Montreal|GloboTech Communications|
 
 
 
