@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|5|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|8|103.154.230.123|5678|Indonesia|Lamongan|DIGITNET|
-|9|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|10|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|11|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|72.10.164.178|19207|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|14101|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|19207|Canada|Montreal|GloboTech Communications|
-|16|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|17|103.73.164.190|32650|Cambodia|Phnom Penh|TPLC Holdings Ltd|
-|18|200.39.152.193|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
-|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|67.43.227.227|14101|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|4|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.39.152.193|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
+|11|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
+|12|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|13|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|14|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|15|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
+|16|93.125.3.22|8080|Belarus|Minsk|TELECOMAT|
+|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|18|103.179.246.30|8080|Pakistan|Bahawalpur|Orbit Networks Private Limited|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|72.10.164.178|19207|Canada|Montreal|GloboTech Communications|
 
 
 
