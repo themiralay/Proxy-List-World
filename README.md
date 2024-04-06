@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|6|38.7.7.209|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|7|203.253.142.176|8080|South Korea|Yuseong|KISTI|
 |8|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|38.7.7.209|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|12|67.43.227.228|1451|Canada|Montreal|GloboTech Communications|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|72.10.160.172|23783|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|12523|Canada|Montreal|GloboTech Communications|
-|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|18|67.43.236.20|10655|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.164.178|26743|Canada|Montreal|GloboTech Communications|
+|12|178.130.94.249|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|72.10.160.172|19215|Canada|Montreal|GloboTech Communications|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|67.43.227.227|12523|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|12523|Canada|Montreal|GloboTech Communications|
 
 
 
