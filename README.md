@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|202.5.36.152|5020|Bangladesh|Khulna|BBTS-NEW|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
-|5|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|8|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|207.230.8.69|999|Colombia|Popayán|Cogent Communications|
+|6|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|209.14.119.209|999|Colombia|Neiva|AGIS|
+|9|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
 |10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
-|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|13|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|14|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
-|17|72.10.164.178|23851|Canada|Montreal|GloboTech Communications|
-|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|19|67.43.228.253|6969|Canada|Montreal|GloboTech Communications|
-|20|49.48.90.219|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|11|66.211.155.34|8080|United States|Berlin|FirstLight Fiber|
+|12|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|16|72.10.164.178|23851|Canada|Montreal|GloboTech Communications|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|20|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
