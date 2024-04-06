@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|203.150.128.88|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|72.10.160.170|3799|Canada|Montreal|GloboTech Communications|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|12|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|72.10.160.170|3799|Canada|Montreal|GloboTech Communications|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.164.178|2309|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|38.156.235.36|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|7|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|9|38.253.253.6|1111|Indonesia|Jakarta|Cogent Communications|
+|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|11|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
+|14|34.154.161.152|80|Italy|Milan|Google LLC|
+|15|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|16|72.10.160.170|29669|Canada|Montreal|GloboTech Communications|
+|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 |18|72.10.164.178|2309|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|2309|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|13135|Canada|Montreal|GloboTech Communications|
+|19|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
