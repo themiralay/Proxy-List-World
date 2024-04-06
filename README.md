@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|5|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|6|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|102.36.217.30|8080|Uganda|Kampala|SimbaNET(U) p2p-Main POP|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|101.109.56.150|8080|Thailand|Phetchaburi|TOT Public Company Limited|
+|7|103.13.204.143|8090|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
 |8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|101.109.56.150|8080|Thailand|Phetchaburi|TOT Public Company Limited|
-|11|81.91.30.21|8080|Yemen|Dār an Nāşir|Public Telecommunication Corporation|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|14|64.225.4.12|10004|United States|Clifton|DigitalOcean, LLC|
-|15|104.236.195.90|10007|United States|Clifton|DigitalOcean, LLC|
-|16|67.43.227.226|21811|Canada|Montreal|GloboTech Communications|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|142.190.149.206|8080|United States|St. Petersburg|Uniti Fiber Holdings Inc.|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|20|67.43.227.227|24201|Canada|Montreal|GloboTech Communications|
+|9|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|10|64.225.4.12|10004|United States|Clifton|DigitalOcean, LLC|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|67.43.227.226|21811|Canada|Montreal|GloboTech Communications|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|72.10.164.178|8767|Canada|Montreal|GloboTech Communications|
+|16|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|17|67.43.227.227|24201|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|2201|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|8767|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|8767|Canada|Montreal|GloboTech Communications|
 
 
 
