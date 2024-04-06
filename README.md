@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|5|67.43.227.227|10717|Canada|Montreal|GloboTech Communications|
-|6|66.27.58.70|8080|United States|Anaheim|Spectrum|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|67.43.228.253|26107|Canada|Montreal|GloboTech Communications|
-|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|67.43.236.20|13831|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|26107|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|30885|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|13831|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|26107|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|1845|Canada|Montreal|GloboTech Communications|
-|17|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|18|72.10.160.91|11765|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|2691|Canada|Montreal|GloboTech Communications|
-|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|38.41.29.86|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|67.43.227.227|7899|Canada|Montreal|GloboTech Communications|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|11|181.78.82.211|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|12|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|38.41.29.86|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|16|67.43.236.20|30513|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|7899|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|12561|Canada|Montreal|GloboTech Communications|
+|19|190.94.212.247|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
