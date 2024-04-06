@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|8|68.183.48.146|10009|United States|Clifton|DigitalOcean, LLC|
-|9|131.100.48.73|999|Colombia|Neiva|Fibernet TV SAS|
-|10|41.86.150.98|8080|Nigeria|Lagos|Cobranet Limited|
-|11|72.10.164.178|19491|Canada|Montreal|GloboTech Communications|
-|12|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|67.43.236.20|8763|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|32841|Canada|Montreal|GloboTech Communications|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|67.43.228.253|33147|Canada|Montreal|GloboTech Communications|
-|18|106.75.241.3|80|China|Yangpu|UCLOUD|
-|19|72.10.164.178|19491|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19491|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|101.109.57.243|8080|Thailand|Phetchaburi|TOT Public Company Limited|
+|6|116.254.118.162|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|72.10.164.178|19491|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.253|21383|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|8763|Canada|Montreal|GloboTech Communications|
+|12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|72.10.160.90|10165|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.93|10165|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|19491|Canada|Montreal|GloboTech Communications|
+|17|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|38.252.208.114|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|20|181.209.89.66|999|Argentina|Lago Puelo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
