@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|9|67.43.227.227|23273|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|1083|Canada|Montreal|GloboTech Communications|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|72.10.160.171|18179|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|18965|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|8087|Canada|Montreal|GloboTech Communications|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|67.43.228.253|1805|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|11571|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|14507|Canada|Montreal|GloboTech Communications|
+|6|12.163.95.161|8080|United States|Alex|AT&T Services, Inc.|
+|7|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|8|67.43.227.227|23915|Canada|Montreal|GloboTech Communications|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|72.10.164.178|28807|Canada|Montreal|GloboTech Communications|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|103.179.46.49|6789|India|Mumbai|Jeebr Cloud Solution PVT LTD|
+|14|200.55.255.251|8083|Ecuador|Machala|Comm & Net S.A.|
+|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
+|18|72.10.160.90|14161|Canada|Montreal|GloboTech Communications|
+|19|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|20|67.43.228.253|24235|Canada|Montreal|GloboTech Communications|
 
 
 
