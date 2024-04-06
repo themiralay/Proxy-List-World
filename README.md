@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|154.65.101.131|3128|United States|Latham|Xneelo (Pty) Ltd|
+|2|101.109.56.150|8080|Thailand|Phetchaburi|TOT Public Company Limited|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|8|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|9|101.109.56.150|8080|Thailand|Phetchaburi|TOT Public Company Limited|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|154.65.101.131|3128|United States|Latham|Xneelo (Pty) Ltd|
-|12|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|154.65.101.131|3128|United States|Latham|Xneelo (Pty) Ltd|
+|13|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|14|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|15|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|16|72.10.164.178|4385|Canada|Montreal|GloboTech Communications|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|154.65.101.131|3128|United States|Latham|Xneelo (Pty) Ltd|
-|20|72.10.160.93|29913|Canada|Montreal|GloboTech Communications|
+|18|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
+|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|20|138.197.92.54|10013|United States|Clifton|DigitalOcean, LLC|
 
 
 
