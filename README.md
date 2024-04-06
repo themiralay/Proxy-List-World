@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|101.109.48.187|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
-|8|72.10.164.178|6805|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|72.10.160.170|2289|Canada|Montreal|GloboTech Communications|
-|12|93.174.125.63|80|Greece|Athens|IpHost P.C.|
-|13|68.183.48.146|10013|United States|Clifton|DigitalOcean, LLC|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|67.43.227.228|11187|Canada|Montreal|GloboTech Communications|
-|16|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|17|38.7.7.209|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|18|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|19|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|20|72.10.160.90|29033|Canada|Montreal|GloboTech Communications|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|5|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
+|9|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|10|72.10.160.170|2289|Canada|Montreal|GloboTech Communications|
+|11|93.174.125.63|80|Greece|Athens|IpHost P.C.|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|67.43.227.228|10881|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.160.90|29033|Canada|Montreal|GloboTech Communications|
+|17|201.246.118.47|999|Chile|Alto Hospicio|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|18|72.10.160.90|29033|Canada|Montreal|GloboTech Communications|
+|19|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
+|20|72.10.164.178|19411|Canada|Montreal|GloboTech Communications|
 
 
 
