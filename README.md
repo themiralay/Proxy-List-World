@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|124.121.87.138|8080|Thailand|Mueang Samut Prakan|TRUEBB|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|8|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|115.147.32.198|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|72.10.160.90|24199|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|17803|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|190.94.213.1|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|10|124.121.87.138|8080|Thailand|Mueang Samut Prakan|TRUEBB|
+|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|72.10.160.90|4787|Canada|Montreal|GloboTech Communications|
 |13|72.10.164.178|7335|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|17803|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|24199|Canada|Montreal|GloboTech Communications|
+|14|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|15|67.43.227.227|11671|Canada|Montreal|GloboTech Communications|
 |16|72.10.164.178|7335|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|24199|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|17803|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|67.43.227.227|11671|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
 
 
 
