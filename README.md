@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|110.77.181.50|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
-|4|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|5|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|6|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|7|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
+|1|110.77.181.50|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
+|4|103.124.137.203|3128|Indonesia|Jakarta|Global Media Data Prima|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|72.10.164.178|2175|Canada|Montreal|GloboTech Communications|
+|8|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|9|67.43.236.18|14851|Canada|Montreal|GloboTech Communications|
 |10|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|11|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|12|101.255.208.169|8080|Indonesia|Bekasi|PT Remala Abadi|
-|13|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.228.246.165|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|17|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
-|18|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|11|72.10.160.92|17577|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|2175|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|2857|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.226|25625|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|2317|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|2857|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|2857|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|2175|Canada|Montreal|GloboTech Communications|
 |19|72.10.164.178|2175|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2175|Canada|Montreal|GloboTech Communications|
+|20|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
 
 
 
