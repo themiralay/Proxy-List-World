@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|2|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|3|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
-|4|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|67.43.236.20|32721|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|32721|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.164.178|17625|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|15193|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|32721|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.92|6353|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|32721|Canada|Montreal|GloboTech Communications|
-|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|19|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|72.10.164.178|17625|Canada|Montreal|GloboTech Communications|
+|2|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
+|3|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|38.45.246.210|999|Mexico|Tancítaro|Jorge Luis Torres Fernandez|
+|6|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
+|7|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
+|12|67.43.236.20|8549|Canada|Montreal|GloboTech Communications|
+|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|17|72.10.164.178|8257|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|8257|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.92|6353|Canada|Montreal|GloboTech Communications|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
