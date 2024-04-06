@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|3|181.129.196.26|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
 |4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.242.154.34|999|Colombia|Girardot City|Level 3 Communications, Inc.|
-|7|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|8|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|9|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|10|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|11|200.32.64.126|999|Venezuela|Caracas|Level 3 Venezuela S.A|
-|12|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.126.238.97|7777|Indonesia|Kuala Tungkal|PT Indo Tungkal Net|
-|16|103.224.124.75|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
-|17|45.71.200.175|999|Ecuador|Atuntaqui|Negocios Y Telefonia Nedetel S.A|
-|18|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|19|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|20|103.99.22.162|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|5|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|10|189.6.22.158|80|Brazil|Brasília|Claro NXT Telecomunicacoes Ltda|
+|11|103.65.214.144|8080|Indonesia|Yogyakarta|PT.Broadband Indonesia Pratama|
+|12|103.94.57.122|80|India|Pune|Gazon Technologies Pvt.ltd.|
+|13|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|14|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|16|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|202.12.80.14|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
 
 
 
