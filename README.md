@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|134.35.132.48|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|67.43.227.230|7845|Canada|Montreal|GloboTech Communications|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|67.43.236.20|7339|Canada|Montreal|GloboTech Communications|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|11|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|12|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|13|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|72.10.160.92|6585|Canada|Montreal|GloboTech Communications|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|190.239.205.32|999|Peru|Chimbote|Telefonica del Peru|
-|18|67.43.227.229|15387|Canada|Montreal|GloboTech Communications|
-|19|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
-|20|189.6.22.158|80|Brazil|Brasília|Claro NXT Telecomunicacoes Ltda|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|171.6.72.241|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|134.35.132.48|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|67.43.227.230|7845|Canada|Montreal|GloboTech Communications|
+|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|20|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
