@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.236.195.90|10004|United States|Clifton|DigitalOcean, LLC|
-|2|104.236.195.90|10004|United States|Clifton|DigitalOcean, LLC|
-|3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|5|52.16.252.50|3128|Ireland|Dublin|Amazon.com, Inc.|
-|6|36.255.87.133|83|India|Bengaluru|Gatik Business Solutions|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|124.217.97.131|8080|Philippines|General Santos|Philippine Long Distance Telephone Co.|
-|9|67.43.236.20|25185|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|13097|Canada|Montreal|GloboTech Communications|
-|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.160.90|16353|Canada|Montreal|GloboTech Communications|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
-|16|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|17|67.43.227.228|21687|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|25185|Canada|Montreal|GloboTech Communications|
-|19|103.148.25.247|8080|Indonesia|Trenggalek|Menaksopal Link Nusantara|
-|20|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
+|1|103.124.97.12|8080|Nepal|Pokhara|Pokhara Internet Pvt. Ltd|
+|2|122.3.45.189|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|3|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|5|36.91.188.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|7|104.236.195.90|10004|United States|Clifton|DigitalOcean, LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|10|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|11|201.77.108.196|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|52.16.252.50|3128|Ireland|Dublin|Amazon.com, Inc.|
+|14|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|103.154.230.82|5678|Indonesia|Lamongan|DIGITNET|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|72.10.164.178|13097|Canada|Montreal|GloboTech Communications|
+|19|38.45.44.2|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|20|124.217.97.131|8080|Philippines|General Santos|Philippine Long Distance Telephone Co.|
 
 
 
