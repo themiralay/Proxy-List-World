@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|7|72.10.164.178|2207|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|5453|Canada|Montreal|GloboTech Communications|
-|9|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|10|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|67.43.236.20|5453|Canada|Montreal|GloboTech Communications|
-|12|167.172.238.15|10005|United States|Clifton|DigitalOcean, LLC|
-|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|14|67.43.228.253|11753|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|11753|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|1797|Canada|Montreal|GloboTech Communications|
-|17|111.225.152.96|8089|China|Zhoutou|China Telecom|
-|18|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
-|19|72.10.160.174|20873|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|5.182.87.90|10004|Germany|Frankfurt am Main|Aeza International LTD|
+|5|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|6|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|72.10.164.178|2603|Canada|Montreal|GloboTech Communications|
+|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|12|67.43.236.20|5453|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.170|1797|Canada|Montreal|GloboTech Communications|
+|14|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|15|72.10.160.90|22653|Canada|Montreal|GloboTech Communications|
+|16|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|67.43.236.20|5453|Canada|Montreal|GloboTech Communications|
+|18|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|19|67.43.236.20|5453|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|13177|Canada|Montreal|GloboTech Communications|
 
 
 
