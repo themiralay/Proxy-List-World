@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.9.24.210|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
 |2|64.225.4.12|10000|United States|Clifton|DigitalOcean, LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|5|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|6|177.43.72.250|3128|Brazil|Brasília|Vivo|
-|7|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|8|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|3|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|101.255.116.125|8080|Indonesia|Bekasi|PT Remala Abadi|
+|6|103.35.110.94|5020|Bangladesh|Dhaka|Ranks ITT|
+|7|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|64.225.4.12|10000|United States|Clifton|DigitalOcean, LLC|
 |9|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|10|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|11|202.47.189.106|8080|Indonesia|Jombang|PT.CITRA BERDIKARI NUSANTARA|
-|12|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|15|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|72.10.164.178|32831|Canada|Montreal|GloboTech Communications|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|72.10.160.170|10001|Canada|Montreal|GloboTech Communications|
-|20|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|10|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|167.172.238.15|10002|United States|Clifton|DigitalOcean, LLC|
+|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|72.10.160.170|10001|Canada|Montreal|GloboTech Communications|
+|17|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|18|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|67.43.228.253|27327|Canada|Montreal|GloboTech Communications|
 
 
 
