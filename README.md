@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|154.65.101.131|3128|United States|Latham|Xneelo (Pty) Ltd|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|72.10.164.178|22895|Canada|Montreal|GloboTech Communications|
-|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|17|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|20|72.10.160.173|2655|Canada|Montreal|GloboTech Communications|
+|2|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|5.202.95.213|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
+|10|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|154.65.101.131|3128|United States|Latham|Xneelo (Pty) Ltd|
+|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|18|154.65.101.131|3128|United States|Latham|Xneelo (Pty) Ltd|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|72.10.164.178|1797|Canada|Montreal|GloboTech Communications|
 
 
 
