@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|138.59.235.249|8080|Brazil|Curvelo|RZ NET LTDA|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|121.227.178.108|8089|China|Nanjing|China Telecom|
-|9|72.10.160.90|31631|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|28187|Canada|Montreal|GloboTech Communications|
-|11|131.117.163.91|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|12|67.43.227.227|13913|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|19013|Canada|Montreal|GloboTech Communications|
-|14|165.0.136.30|8080|South Africa|Somerset West|RSAWEB (PTY) LTD|
-|15|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
-|18|67.43.227.227|13913|Canada|Montreal|GloboTech Communications|
-|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|119.47.90.25|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|116.97.34.15|10089|Vietnam|Hanoi|Viettel Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|213.165.168.190|9898|Malta|Sliema|Melita plc|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|72.10.160.90|25647|Canada|Montreal|GloboTech Communications|
+|14|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|15|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
+|16|67.43.236.20|7551|Canada|Montreal|GloboTech Communications|
+|17|123.16.32.162|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|180.180.123.40|8080|Thailand|Pluak Daeng|TOT Public Company Limited|
+|19|72.10.160.90|25647|Canada|Montreal|GloboTech Communications|
+|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
