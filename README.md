@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|190.61.46.228|999|Colombia|Sincelejo|Ufinet Panama S.A.|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|188.240.112.81|8080|Yemen|‘Amrān|AS30873 annoucement YemenNet|
-|11|72.10.160.90|21249|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.229|28893|Canada|Montreal|GloboTech Communications|
-|13|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|14|67.43.228.253|29453|Canada|Montreal|GloboTech Communications|
-|15|181.212.161.3|999|Chile|Macul|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|16|210.156.35.196|80|Japan|Tamukai|Research Organization of Information and Systems, National Institute of Informa|
-|17|67.43.236.20|25271|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|32673|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|32673|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.21|32717|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|188.240.112.81|8080|Yemen|‘Amrān|AS30873 annoucement YemenNet|
+|6|103.156.248.55|8080|Indonesia|Percut|Trans Media Telekomunikasi|
+|7|203.150.128.88|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|134.35.10.103|8080|Yemen|Aden|Public Telecommunication Corporation|
+|10|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|67.43.227.229|28893|Canada|Montreal|GloboTech Communications|
+|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|67.43.228.253|2657|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|10239|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.21|32717|Canada|Montreal|GloboTech Communications|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|38.253.253.6|1111|Indonesia|Jakarta|Cogent Communications|
+|20|49.84.216.40|888|China|Nanjing|China Telecom|
 
 
 
