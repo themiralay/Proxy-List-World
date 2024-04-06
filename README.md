@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|188.240.112.81|8080|Yemen|‘Amrān|AS30873 annoucement YemenNet|
+|4|103.156.248.55|8080|Indonesia|Percut|Trans Media Telekomunikasi|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|181.212.161.3|999|Chile|Macul|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
 |8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|13|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|14|72.10.160.90|29445|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|29445|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|29445|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|20.205.138.223|80|Hong Kong|Hong Kong|Microsoft Corporation|
-|19|123.182.59.214|8089|China|Zhangjiakou|China Telecom|
-|20|72.10.164.178|29127|Canada|Montreal|GloboTech Communications|
+|9|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|10|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|13|103.132.52.123|8080|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
+|14|72.10.160.90|6921|Canada|Montreal|GloboTech Communications|
+|15|123.182.59.214|8089|China|Zhangjiakou|China Telecom|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
