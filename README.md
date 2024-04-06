@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.91.188.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|2|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|4|103.154.230.82|5678|Indonesia|Lamongan|DIGITNET|
-|5|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|103.189.116.18|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|8|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|9|52.16.252.50|3128|Ireland|Dublin|Amazon.com, Inc.|
-|10|104.236.195.90|10004|United States|Clifton|DigitalOcean, LLC|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
-|12|72.10.160.90|18015|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|30303|Canada|Montreal|GloboTech Communications|
-|14|34.154.161.152|80|Italy|Milan|Google LLC|
-|15|67.43.228.253|19327|Canada|Montreal|GloboTech Communications|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
-|18|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
-|19|72.10.160.170|15743|Canada|Montreal|GloboTech Communications|
-|20|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|1|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|2|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
+|3|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|6|119.92.188.29|8080|Philippines|Calaocan District|Philippine Long Distance Telephone Co.|
+|7|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|47.184.175.196|3128|United States|Garland|Frontier Communications Solutions|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
+|12|36.91.188.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|14|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|104.236.195.90|10004|United States|Clifton|DigitalOcean, LLC|
+|17|72.10.164.178|10263|Canada|Montreal|GloboTech Communications|
+|18|203.79.29.218|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
+|19|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|20|185.105.185.185|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
 
 
 
