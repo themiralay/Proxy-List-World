@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.109.55.251|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|82.65.249.238|8118|France|La Garenne-Colombes|Proxad / Free SAS|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|101.109.55.251|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|82.65.249.238|8118|France|La Garenne-Colombes|Proxad / Free SAS|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|7|185.208.101.89|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|203.79.29.218|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
-|10|72.10.164.178|15825|Canada|Montreal|GloboTech Communications|
-|11|81.23.153.93|8080|Russia|Kazan'|PJSC Rostelecom|
-|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|103.25.210.102|33240|Indonesia|Purwokerto|TRANSDATA|
-|14|60.174.0.171|8089|China|Guangzhou|Chinanet|
-|15|62.141.36.206|80|Germany|Düsseldorf|myLoc managed IT AG|
-|16|67.43.228.253|6387|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|15825|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.228.253|6387|Canada|Montreal|GloboTech Communications|
-|20|200.69.71.138|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|103.108.89.164|8082|Bangladesh|Nārāyanganj|BKB Network|
+|11|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|72.10.164.178|17269|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|1453|Canada|Montreal|GloboTech Communications|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|67.43.228.253|13545|Canada|Montreal|GloboTech Communications|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|72.10.160.173|13379|Canada|Montreal|GloboTech Communications|
+|20|190.12.95.170|47029|Peru|Santiago de Surco|WIN EMPRESAS S.A.C|
 
 
 
