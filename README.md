@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|1|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|8|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|9|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |15|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
-|16|67.43.227.227|5617|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|15529|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|22031|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|10431|Canada|Montreal|GloboTech Communications|
-|20|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|17|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|18|72.10.164.178|18307|Canada|Montreal|GloboTech Communications|
+|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|20|72.10.164.178|18307|Canada|Montreal|GloboTech Communications|
 
 
 
