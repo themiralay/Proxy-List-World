@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|27.112.70.59|1111|Indonesia|Jakarta|GRAHANET|
-|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
-|10|103.160.150.251|8080|Indonesia|Samarinda|PT. LINTASMAYA MULTI MEDIA|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|67.43.227.227|32713|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|16|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|72.10.164.178|3597|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|3597|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|3597|Canada|Montreal|GloboTech Communications|
+|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|5|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|67.43.236.20|4389|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|8425|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.22|25209|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|8575|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|24703|Canada|Montreal|GloboTech Communications|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|111.68.26.237|8080|Indonesia|Semarang|GMEDIA|
+|17|67.43.228.253|29067|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|11335|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|1509|Canada|Montreal|GloboTech Communications|
+|20|122.148.196.246|8080|Australia|Melbourne|Vocus PTY LTD|
 
 
 
