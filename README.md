@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|101.255.166.2|8080|Indonesia|Bekasi|PT Remala Abadi|
-|6|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|103.76.151.133|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|9|81.16.1.188|32650|Armenia|Yerevan|Ucom CJSC|
-|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|11|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
-|12|72.10.164.178|15187|Canada|Montreal|GloboTech Communications|
-|13|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|45.250.215.8|8080|India|Delhi|Geocity Network Solutions PVT LTD|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|5|41.254.100.192|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.115.29.65|8080|Indonesia|Depok|HSPNET|
+|9|207.230.8.69|999|Colombia|Popayán|Cogent Communications|
+|10|102.221.224.153|8080|Libya|Benghazi|SmartLink IT and Networking|
+|11|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|12|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
+|13|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|17|72.10.164.178|15187|Canada|Montreal|GloboTech Communications|
+|18|103.176.96.140|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
