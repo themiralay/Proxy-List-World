@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.49.193.165|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|103.87.169.194|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|49.49.193.165|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|103.178.42.29|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|5|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|36.64.52.226|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|11|67.43.236.20|20771|Canada|Montreal|GloboTech Communications|
+|12|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|13|72.10.160.90|18343|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|72.10.164.178|17803|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|3649|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|27475|Canada|Montreal|GloboTech Communications|
-|18|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.164.178|17803|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|23487|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|18343|Canada|Montreal|GloboTech Communications|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|72.10.160.171|25909|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.254|7169|Canada|Montreal|GloboTech Communications|
 
 
 
