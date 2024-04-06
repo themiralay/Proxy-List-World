@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|116.50.174.219|8080|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|187.189.175.136|999|Mexico|San Nicolás de los Garza|Total Play Telecomunicaciones SA De CV|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.32.5.130|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
+|6|103.1.51.23|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
 |7|186.148.195.168|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
-|10|72.10.164.178|22105|Canada|Montreal|GloboTech Communications|
-|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|52.16.252.50|3128|Ireland|Dublin|Amazon.com, Inc.|
-|14|67.43.236.20|31813|Canada|Montreal|GloboTech Communications|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|52.172.217.51|80|India|Pune|Microsoft Corporation|
-|17|72.10.160.90|29341|Canada|Montreal|GloboTech Communications|
-|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|72.10.160.174|28955|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|29341|Canada|Montreal|GloboTech Communications|
+|8|5.104.75.41|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
+|9|165.22.36.164|10008|United States|Clifton|DigitalOcean, LLC|
+|10|52.16.252.50|3128|Ireland|Dublin|Amazon.com, Inc.|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|190.217.69.203|999|Colombia|Tumaco|Level 3 Colombia S.A|
+|15|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|67.43.236.20|32113|Canada|Montreal|GloboTech Communications|
+|19|103.169.133.34|8080|Indonesia|Karawang|PT Alfa Omega Interkoneksi|
+|20|67.43.227.228|1309|Canada|Montreal|GloboTech Communications|
 
 
 
