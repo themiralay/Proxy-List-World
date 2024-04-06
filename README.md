@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|78.38.93.19|3128|Iran|Tehran|Iran Telecommunication Company PJS|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|81.23.153.93|8080|Russia|Kazan'|PJSC Rostelecom|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|159.203.48.63|9005|Canada|Toronto|DigitalOcean, LLC|
+|9|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
 |10|67.43.228.254|24367|Canada|Montreal|GloboTech Communications|
-|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|72.10.160.170|29231|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|9969|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|17599|Canada|Montreal|GloboTech Communications|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|72.10.164.178|3875|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|3875|Canada|Montreal|GloboTech Communications|
-|18|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|19|72.10.160.91|32211|Canada|Montreal|GloboTech Communications|
-|20|114.106.171.14|8089|China|Rongcheng|Chinanet|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|114.106.171.14|8089|China|Rongcheng|Chinanet|
+|14|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|15|72.10.160.170|23169|Canada|Montreal|GloboTech Communications|
+|16|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|67.43.227.227|13403|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|30287|Canada|Montreal|GloboTech Communications|
 
 
 
