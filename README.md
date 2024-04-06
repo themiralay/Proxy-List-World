@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|188.240.116.115|8080|Yemen|Bājil|AS30873 annoucement YemenNet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|6|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|72.10.164.178|14163|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|1243|Canada|Montreal|GloboTech Communications|
-|10|103.111.207.138|80|Indonesia|South Tangerang|PT Cyberindo Aditama|
-|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|154.65.99.206|3128|United States|Latham|Xneelo (Pty) Ltd|
-|13|67.43.236.20|20679|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|3011|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|14163|Canada|Montreal|GloboTech Communications|
-|16|60.174.0.34|8089|China|Guangzhou|Chinanet|
-|17|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|18|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
-|19|72.10.164.178|14163|Canada|Montreal|GloboTech Communications|
-|20|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|205.196.184.69|50704|United States|Houston|Phonoscope|
+|7|103.154.77.79|8080|Indonesia|Magelang|T2NET|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|72.10.164.178|1875|Canada|Montreal|GloboTech Communications|
+|12|60.174.0.34|8089|China|Guangzhou|Chinanet|
+|13|201.157.254.26|8080|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|14|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|15|103.162.63.161|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|16|189.6.78.168|5151|Brazil|Brasília|Claro NXT Telecomunicacoes Ltda|
+|17|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|18|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
 
 
 
