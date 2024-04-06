@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|2|103.167.68.77|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
 |3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|161.49.215.28|10101|Philippines|Bolacan|Converge Information and Communications Technology Solutions|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|103.51.205.98|8080|Indonesia|Karanganyar|Lintas Data Prima, PT|
-|8|200.10.31.220|999|Colombia|Pereira|Super Redes S.A.S|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|67.43.227.227|15397|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.251|2765|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|29161|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|31765|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|14197|Canada|Montreal|GloboTech Communications|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|165.22.36.164|10013|United States|Clifton|DigitalOcean, LLC|
-|20|218.145.131.182|443|South Korea|Seongnam-si|Korea Telecom|
+|6|103.160.15.38|3125|Indonesia|Tanjung Pinang|PT INFORMASI NUSANTARA TEKNOLOGI|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|107.178.9.186|8080|United States|Weatherford|Nextlink Broadband|
+|9|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|67.43.227.228|26687|Canada|Montreal|GloboTech Communications|
+|15|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|72.10.160.90|29161|Canada|Montreal|GloboTech Communications|
+|18|165.22.36.164|10013|United States|Clifton|DigitalOcean, LLC|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|72.10.164.178|14197|Canada|Montreal|GloboTech Communications|
 
 
 
