@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.156.248.55|8080|Indonesia|Percut|Trans Media Telekomunikasi|
+|2|34.154.161.152|80|Italy|Milan|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|188.240.112.81|8080|Yemen|‘Amrān|AS30873 annoucement YemenNet|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|67.43.236.20|8937|Canada|Montreal|GloboTech Communications|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|72.10.160.91|15385|Canada|Montreal|GloboTech Communications|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|67.43.227.227|14213|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|14213|Canada|Montreal|GloboTech Communications|
-|20|45.11.95.165|5037|Russia|Moscow|Delta Ltd|
+|5|203.150.128.88|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|38.156.235.36|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|8|188.240.112.81|8080|Yemen|‘Amrān|AS30873 annoucement YemenNet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|190.94.213.4|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|72.10.164.178|24495|Canada|Montreal|GloboTech Communications|
+|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|67.43.236.20|8937|Canada|Montreal|GloboTech Communications|
+|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|18|205.234.156.124|3128|United States|Los Angeles|Hosteons Pte. Ltd|
+|19|72.10.160.90|19357|Canada|Montreal|GloboTech Communications|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
