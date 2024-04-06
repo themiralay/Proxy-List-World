@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|6|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|7|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|8|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|9|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|10|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|11|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|12|181.129.196.26|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|72.10.160.90|19555|Canada|Montreal|GloboTech Communications|
-|15|36.6.144.2|8089|China|Guangzhou|Chinanet|
-|16|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|18|72.10.164.178|10243|Canada|Montreal|GloboTech Communications|
-|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|110.78.81.107|8080|Thailand|Si Maha Phot|CAT Telecom Public Company Limited|
+|2|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|5|103.94.57.122|80|India|Pune|Gazon Technologies Pvt.ltd.|
+|6|45.70.236.150|999|Ecuador|Puebloviejo|Ufinet Panama S.A.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|12|165.16.55.19|44444|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|14|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|15|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|16|159.65.184.81|80|United States|Clifton|DigitalOcean, LLC|
+|17|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|18|189.6.22.158|80|Brazil|Brasília|Claro NXT Telecomunicacoes Ltda|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
 
 
 
