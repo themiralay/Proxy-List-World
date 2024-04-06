@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|154.83.29.70|3030|Venezuela|Barinas|internautas system|
-|6|67.43.236.20|30549|Canada|Montreal|GloboTech Communications|
-|7|103.95.0.15|8080|Australia|Gold Coast|Channel Wireless Pty Ltd|
-|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|72.10.164.178|18451|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|7187|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.229|15261|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|6437|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|19721|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|30549|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|30699|Canada|Montreal|GloboTech Communications|
-|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|17|72.10.160.91|31311|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|30549|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|67.43.236.20|30549|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|103.87.169.204|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|11|72.10.160.91|28573|Canada|Montreal|GloboTech Communications|
+|12|201.71.3.45|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|15|67.43.236.20|30549|Canada|Montreal|GloboTech Communications|
+|16|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|17|72.10.164.178|18451|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|18451|Canada|Montreal|GloboTech Communications|
+|19|95.31.22.173|7777|Russia|Moscow|CORBINA-BROADBAND|
+|20|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
