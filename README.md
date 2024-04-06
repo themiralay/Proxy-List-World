@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|180.250.173.66|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|5|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|6|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|9|165.16.55.19|44444|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|10|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|103.94.57.122|80|India|Pune|Gazon Technologies Pvt.ltd.|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|15|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|16|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|19|67.43.227.227|4773|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17335|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|5|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
+|6|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|7|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
+|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|10|203.79.29.218|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
+|13|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|14|124.217.97.131|8080|Philippines|General Santos|Philippine Long Distance Telephone Co.|
+|15|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|17|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|103.50.4.133|82|India|Hodal|Elxire IT Solution|
+|20|70.63.90.245|8080|United States|Wilmington|Spectrum|
 
 
 
