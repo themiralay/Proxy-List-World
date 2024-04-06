@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|5|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|118.166.212.242|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|7|103.130.82.46|8080|Indonesia|Bengkalis|PT Central Digital Network|
-|8|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|9|72.10.164.178|15651|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|15651|Canada|Montreal|GloboTech Communications|
-|11|91.149.253.164|3128|Poland|Warsaw|Baxet Group Inc.|
-|12|72.10.160.170|7423|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|23021|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|15651|Canada|Montreal|GloboTech Communications|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|16|67.43.236.20|22349|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|11607|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|16823|Canada|Montreal|GloboTech Communications|
-|19|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|20|72.10.160.90|16823|Canada|Montreal|GloboTech Communications|
+|4|139.180.168.182|80|Australia|Sydney|Choopa|
+|5|202.138.230.113|1213|Indonesia|Bandung|PT Melvar Lintasnusa|
+|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|8|203.79.29.218|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
+|9|72.10.164.178|8553|Canada|Montreal|GloboTech Communications|
+|10|20.118.133.34|8118|United States|Phoenix|Microsoft Corporation|
+|11|61.129.2.212|8080|China|Beijing|CHINANET|
+|12|72.10.164.178|8553|Canada|Montreal|GloboTech Communications|
+|13|103.211.107.77|8080|Indonesia|Metro|PT Atmega Telecomindo Nusantara|
+|14|186.148.181.69|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|16|181.94.244.22|8080|Paraguay|Asunción|Núcleo S.A.|
+|17|118.166.212.242|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|18|67.43.228.251|11607|Canada|Montreal|GloboTech Communications|
+|19|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
+|20|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
 
 
 
