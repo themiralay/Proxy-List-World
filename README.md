@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|8|188.240.116.115|8080|Yemen|Bājil|AS30873 annoucement YemenNet|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |9|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|10|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|13|103.153.63.126|8090|Indonesia|Bekasi|IMEDIANET|
-|14|72.10.164.178|3231|Canada|Montreal|GloboTech Communications|
-|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|205.196.184.69|50704|United States|Houston|Phonoscope|
+|14|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
+|15|72.10.164.178|21157|Canada|Montreal|GloboTech Communications|
 |16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|67.43.227.228|2223|Canada|Montreal|GloboTech Communications|
-|18|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|19|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|20|67.43.236.20|27537|Canada|Montreal|GloboTech Communications|
+|17|91.233.111.49|1080|Ukraine|Kyiv|Helpteh L-side|
+|18|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|19|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
