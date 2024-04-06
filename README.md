@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|134.35.10.103|8080|Yemen|Aden|Public Telecommunication Corporation|
-|3|118.99.127.106|8080|Indonesia|Malang|Biznet Metronet|
-|4|38.156.235.36|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|2|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|38.253.253.6|1111|Indonesia|Jakarta|Cogent Communications|
+|4|118.99.127.106|8080|Indonesia|Malang|Biznet Metronet|
 |5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|72.10.164.178|16547|Canada|Montreal|GloboTech Communications|
+|6|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|134.35.10.103|8080|Yemen|Aden|Public Telecommunication Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|72.10.164.178|16547|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|16547|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|13455|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|1645|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|27527|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|16547|Canada|Montreal|GloboTech Communications|
-|17|123.182.59.131|8089|China|Zhangjiakou|China Telecom|
-|18|67.43.236.20|27527|Canada|Montreal|GloboTech Communications|
-|19|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|109.175.9.203|8080|Bosnia and Herzegovina|Živinice|BH Telecom d.d. Sarajevo|
+|12|72.10.164.178|7485|Canada|Montreal|GloboTech Communications|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|72.10.164.178|7485|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|28591|Canada|Montreal|GloboTech Communications|
+|16|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|17|72.10.164.178|7485|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|7485|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|28591|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|1497|Canada|Montreal|GloboTech Communications|
 
 
 
