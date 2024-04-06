@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|72.10.164.178|24495|Canada|Montreal|GloboTech Communications|
-|6|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|112.198.129.34|8082|Philippines|Nasugbu|Globe Telecom|
-|9|72.10.160.174|11859|Canada|Montreal|GloboTech Communications|
-|10|111.225.153.164|8089|China|Zhoutou|China Telecom|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|72.10.164.178|24495|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|38.253.253.6|1111|Indonesia|Jakarta|Cogent Communications|
-|15|72.10.160.90|16843|Canada|Montreal|GloboTech Communications|
-|16|123.182.58.76|8089|China|Zhangjiakou|China Telecom|
+|5|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|6|203.150.128.88|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|110.78.186.94|8080|Thailand|Rayong|CAT-BB|
+|8|134.35.10.103|8080|Yemen|Aden|Public Telecommunication Corporation|
+|9|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|38.156.235.36|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|12|188.240.112.81|8080|Yemen|‘Amrān|AS30873 annoucement YemenNet|
+|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|67.43.228.253|13135|Canada|Montreal|GloboTech Communications|
 |17|183.165.226.22|8089|China|Shenzhen|Chinanet|
-|18|67.43.228.250|29449|Canada|Montreal|GloboTech Communications|
-|19|111.225.153.90|8089|China|Zhoutou|China Telecom|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|67.43.227.227|2251|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|7801|Canada|Montreal|GloboTech Communications|
 
 
 
