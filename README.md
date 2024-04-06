@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|8|186.215.196.50|3128|Brazil|Recife|Vivo|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|125.167.33.208|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
-|19|67.43.227.227|10877|Canada|Montreal|GloboTech Communications|
-|20|121.37.10.212|8899|China|Guangzhou|Huawei Cloud Service data center|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|37.210.128.81|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|10|1.2.252.65|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|12|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
+|13|62.112.10.26|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|167.172.238.15|10003|United States|Clifton|DigitalOcean, LLC|
+|17|66.27.58.70|8080|United States|Anaheim|Spectrum|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 
 
 
