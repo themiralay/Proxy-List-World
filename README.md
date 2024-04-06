@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|7|67.43.227.227|20729|Canada|Montreal|GloboTech Communications|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|72.10.164.178|21103|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|33013|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|21103|Canada|Montreal|GloboTech Communications|
-|12|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
-|13|72.10.160.170|2563|Canada|Montreal|GloboTech Communications|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
-|16|67.43.236.20|8905|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|5385|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|21103|Canada|Montreal|GloboTech Communications|
-|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|20|72.10.164.178|21103|Canada|Montreal|GloboTech Communications|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|67.43.227.227|3147|Canada|Montreal|GloboTech Communications|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|183.89.9.82|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|9|67.43.236.20|18227|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.228|5385|Canada|Montreal|GloboTech Communications|
+|11|188.240.116.115|8080|Yemen|Bājil|AS30873 annoucement YemenNet|
+|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|13|67.43.227.227|3147|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|18227|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|11217|Canada|Montreal|GloboTech Communications|
+|16|38.123.220.16|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|17|67.43.228.253|22757|Canada|Montreal|GloboTech Communications|
+|18|66.27.58.70|8080|United States|Anaheim|Spectrum|
+|19|103.154.230.112|5678|Indonesia|Lamongan|DIGITNET|
+|20|67.43.228.253|22757|Canada|Montreal|GloboTech Communications|
 
 
 
