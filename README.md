@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|109.74.39.130|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|103.26.177.66|8080|Indonesia|Kediri|PT Lintas Jaringan Nusantara|
-|8|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|9|72.10.160.91|15347|Canada|Montreal|GloboTech Communications|
-|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|67.43.227.227|9989|Canada|Montreal|GloboTech Communications|
-|12|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|13|72.10.164.178|29703|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|29703|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|29703|Canada|Montreal|GloboTech Communications|
-|16|223.247.47.247|8089|China|Rongcheng|Chinanet|
-|17|72.10.164.178|29703|Canada|Montreal|GloboTech Communications|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|72.10.160.91|15347|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|6|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|7|67.43.227.227|9989|Canada|Montreal|GloboTech Communications|
+|8|103.172.70.191|8181|Indonesia|Cirebon|AZNET|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|11|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|12|67.43.236.20|29339|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|4409|Canada|Montreal|GloboTech Communications|
+|14|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|15|67.43.227.227|9989|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|17533|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.91|15347|Canada|Montreal|GloboTech Communications|
+|18|103.76.151.133|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
