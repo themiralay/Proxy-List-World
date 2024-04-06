@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|5|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|139.255.36.82|8080|Indonesia|Tangerang|PT. LINKNET|
-|8|138.0.228.185|8080|Honduras|San Pedro Sula|Multicable De Honduras|
-|9|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|10|147.139.140.74|80|Indonesia|Jakarta|Alibaba.com LLC|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|14.226.7.37|8080|Vietnam|Ha Long|VNPT|
-|18|72.10.160.90|3553|Canada|Montreal|GloboTech Communications|
-|19|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|72.10.164.178|21665|Canada|Montreal|GloboTech Communications|
+|7|152.32.67.107|65535|Philippines|Marikina City|Converge ICT Solution Inc|
+|8|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|10|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|11|45.173.231.15|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|12|180.191.51.63|8080|Philippines|Tarlac City|Globe Telecom|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|190.145.165.238|999|Colombia|Villavicencio|Telmex Colombia S.A.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.42.120.43|8080|Indonesia|Jakarta|PT Transhybrid Communication|
+|17|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|72.10.164.178|26535|Canada|Montreal|GloboTech Communications|
+|20|24.112.3.220|8080|United States|Durant|Vyve Broadband|
 
 
 
