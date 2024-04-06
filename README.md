@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|182.253.177.122|8080|Indonesia|Jakarta Pusat|BIZNET|
-|4|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
-|7|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|154.83.29.70|3030|Venezuela|Barinas|internautas system|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|200.108.190.34|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|14|67.43.236.19|9491|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|31969|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.164.178|13767|Canada|Montreal|GloboTech Communications|
-|18|223.215.177.169|8089|China|Rongcheng|Chinanet|
-|19|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
-|20|72.10.160.90|1597|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|67.43.227.228|1977|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.19|9491|Canada|Montreal|GloboTech Communications|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|72.10.164.178|6107|Canada|Montreal|GloboTech Communications|
+|13|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|17|72.10.164.178|6107|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|72.10.164.178|6107|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|9469|Canada|Montreal|GloboTech Communications|
 
 
 
