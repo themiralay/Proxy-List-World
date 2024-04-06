@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
-|5|103.247.23.198|8080|Indonesia|Bekasi|PT wifian Solution|
-|6|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
-|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|10|103.178.43.26|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
-|11|38.9.141.79|80|Indonesia|Medan|Cogent Communications|
-|12|116.254.117.234|3128|Indonesia|Yogyakarta|PT Media Sarana Data|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.153.246.61|8080|Indonesia|Depok|PRIMAHOME|
-|15|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|16|103.224.124.75|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
-|17|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|181.78.17.141|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|19|191.7.216.26|8080|Brazil|Guaraciaba do Norte|HTM SERVICOS DE TELECOMUNICACOES LTDA|
-|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|4|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|5|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
+|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|12|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
+|18|103.153.246.210|8080|Indonesia|Depok|PRIMAHOME|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
