@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|2|36.225.53.238|3128|Taiwan|Banqiao|Chunghwa Telecom Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|103.255.147.102|83|India|Hyderabad|Pioneer Elabs Ltd|
-|7|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|10|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
-|11|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|12|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|13|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|67.43.228.253|23507|Canada|Montreal|GloboTech Communications|
+|1|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|4|190.90.39.76|999|Colombia|Arauca|InterNexa Global Network|
+|5|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|6|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|16|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|17|67.43.228.253|12167|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|2955|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|24085|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|12167|Canada|Montreal|GloboTech Communications|
 
 
 
