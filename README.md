@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
-|6|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|67.43.227.228|30511|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
+|11|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|67.43.227.228|22453|Canada|Montreal|GloboTech Communications|
 |14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|17|203.190.44.203|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
+|18|72.10.164.178|3875|Canada|Montreal|GloboTech Communications|
+|19|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
