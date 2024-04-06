@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|1|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|2|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|9|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|10|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |11|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|17|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|18|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|13|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|14|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|178.94.231.93|3128|Ukraine|Odesa|UKRTELECOM|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |19|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 
 
 
