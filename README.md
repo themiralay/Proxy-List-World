@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|103.78.113.7|8080|Indonesia|Jakarta|MORATELINDO|
-|6|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
-|7|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|8|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|103.172.70.153|2022|Indonesia|Cirebon|AZNET|
-|10|115.147.23.249|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|118.27.33.17|8118|Japan|Chiyoda|GMO Internet, Inc|
-|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|13|159.138.63.165|8083|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|14|49.229.100.235|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|185.82.99.197|9092|Lebanon|Tripoli|NET 360 S.A.R.L|
-|19|103.127.38.46|7070|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
-|20|142.147.114.50|8080|United States|Dallas|Nextlink Broadband|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|4|118.70.49.64|8080|Vietnam|Hanoi|FPT Telecom Company|
+|5|157.119.211.133|8080|India|Tirupati|Finecom Internet services Pvt Ltd|
+|6|200.125.185.226|999|United States|Reston|Gold Data C.A|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|185.82.99.197|9092|Lebanon|Tripoli|NET 360 S.A.R.L|
+|13|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
 
 
 
