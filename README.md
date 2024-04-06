@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
 |6|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|7|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|177.174.126.203|8080|Brazil|São Paulo|Vivo|
-|10|66.211.155.34|8080|United States|Berlin|FirstLight Fiber|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|13|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
-|14|110.39.42.211|80|Pakistan|Lahore|Wateen Telecom Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
-|19|101.255.166.2|8080|Indonesia|Bekasi|PT Remala Abadi|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
+|12|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|13|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|154.65.97.117|3128|United States|Latham|Xneelo (Pty) Ltd|
+|17|103.153.246.210|8080|Indonesia|Depok|PRIMAHOME|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|36.89.16.186|8866|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|154.65.98.170|3128|United States|Latham|Xneelo (Pty) Ltd|
 
 
 
