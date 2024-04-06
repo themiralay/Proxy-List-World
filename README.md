@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
-|6|45.116.230.79|8080|India|Kottayam|DWANIRINN|
-|7|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
-|8|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|110.49.34.126|32650|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
-|10|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
-|11|203.79.29.218|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
-|12|72.10.164.178|11865|Canada|Montreal|GloboTech Communications|
-|13|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
-|14|72.10.164.178|11865|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|25277|Canada|Montreal|GloboTech Communications|
+|3|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|154.83.29.70|3030|Venezuela|Barinas|internautas system|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|201.246.118.47|999|Chile|Alto Hospicio|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|10|110.49.34.126|32650|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
+|13|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
+|14|103.26.177.66|8080|Indonesia|Kediri|PT Lintas Jaringan Nusantara|
+|15|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
 |16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|72.10.164.178|11865|Canada|Montreal|GloboTech Communications|
-|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|19|72.10.160.92|9747|Canada|Montreal|GloboTech Communications|
-|20|103.87.169.204|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|17|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|67.43.236.21|23507|Canada|Montreal|GloboTech Communications|
+|19|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|20|72.10.164.178|11865|Canada|Montreal|GloboTech Communications|
 
 
 
