@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
-|5|103.50.4.133|82|India|Hodal|Elxire IT Solution|
-|6|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|67.43.227.228|30769|Canada|Montreal|GloboTech Communications|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|67.43.227.228|30769|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|23361|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|22439|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.164.178|22105|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|22105|Canada|Montreal|GloboTech Communications|
-|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|17|67.43.227.228|30769|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|23281|Canada|Montreal|GloboTech Communications|
-|19|223.247.47.96|8089|China|Rongcheng|Chinanet|
-|20|67.43.236.20|20985|Canada|Montreal|GloboTech Communications|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|10|67.43.227.228|16371|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|22105|Canada|Montreal|GloboTech Communications|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|67.43.228.253|30859|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|67.43.227.228|16371|Canada|Montreal|GloboTech Communications|
+|17|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
+|18|67.43.227.227|11877|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|11877|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|22105|Canada|Montreal|GloboTech Communications|
 
 
 
