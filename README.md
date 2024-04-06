@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|101.109.48.187|8080|Thailand|Bangkok|TOT Public Company Limited|
+|2|124.104.137.102|9000|Philippines|Angeles City|Philippine Long Distance Telephone Co.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|72.10.160.90|3453|Canada|Montreal|GloboTech Communications|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|72.10.160.90|6171|Canada|Montreal|GloboTech Communications|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |9|72.10.160.174|1819|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|25131|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|25131|Canada|Montreal|GloboTech Communications|
-|13|113.64.23.221|32650|China|Puning|Chinanet|
-|14|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
-|15|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|16|72.10.160.92|4121|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|25131|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|32177|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|3453|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|30773|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|6171|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|6171|Canada|Montreal|GloboTech Communications|
+|13|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|14|67.43.228.251|30773|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|72.10.164.178|1185|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|1185|Canada|Montreal|GloboTech Communications|
+|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 
 
 
