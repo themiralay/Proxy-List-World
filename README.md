@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|110.78.81.107|8080|Thailand|Si Maha Phot|CAT Telecom Public Company Limited|
-|7|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
-|8|45.236.106.244|999|Ecuador|Cuenca|Eliana Vanessa Morocho Oña|
-|9|103.164.214.122|8080|Indonesia|Kedungdoro|PT iForte Global Internet|
-|10|72.10.164.178|18179|Canada|Montreal|GloboTech Communications|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|13|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|67.43.228.253|5679|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|5595|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|18179|Canada|Montreal|GloboTech Communications|
-|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|18|67.43.227.227|9127|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|5977|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|18179|Canada|Montreal|GloboTech Communications|
+|1|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
+|4|45.236.106.244|999|Ecuador|Cuenca|Eliana Vanessa Morocho Oña|
+|5|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|210.156.35.196|80|Japan|Tamukai|Research Organization of Information and Systems, National Institute of Informa|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|85.133.190.40|8099|Iran|Tehran|SEPANTA|
+|12|218.153.133.202|8080|South Korea|Anyang-si|Korea Telecom|
+|13|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
+|14|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
+|15|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|110.78.81.107|8080|Thailand|Si Maha Phot|CAT Telecom Public Company Limited|
+|17|190.128.201.235|3128|Paraguay|Asunción|Telecel S.A.|
+|18|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
+|19|103.154.230.123|5678|Indonesia|Lamongan|DIGITNET|
+|20|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
 
 
 
