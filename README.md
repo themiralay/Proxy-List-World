@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|2|5.202.95.213|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|2|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
 |3|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|154.65.98.192|3128|United States|Latham|Xneelo (Pty) Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |8|67.43.236.20|8859|Canada|Montreal|GloboTech Communications|
-|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|67.43.236.20|8859|Canada|Montreal|GloboTech Communications|
-|14|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|15|54.246.52.171|3128|Ireland|Dublin|Amazon.com, Inc.|
-|16|67.43.227.227|5253|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|25107|Canada|Montreal|GloboTech Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|67.43.227.227|5253|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|8859|Canada|Montreal|GloboTech Communications|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|103.154.230.148|8080|Indonesia|Lamongan|DIGITNET|
+|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|67.43.227.227|5055|Canada|Montreal|GloboTech Communications|
+|15|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
+|18|67.43.227.227|5055|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|5055|Canada|Montreal|GloboTech Communications|
+|20|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
