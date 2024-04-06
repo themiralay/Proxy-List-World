@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.35.10.103|8080|Yemen|Aden|Public Telecommunication Corporation|
-|2|36.64.52.226|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|3|118.99.127.106|8080|Indonesia|Malang|Biznet Metronet|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|67.43.227.227|9789|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|134.35.10.103|8080|Yemen|Aden|Public Telecommunication Corporation|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|5|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|6|152.231.106.191|999|Chile|Santiago|Entel Chile S.A.|
+|7|67.43.227.227|12135|Canada|Montreal|GloboTech Communications|
 |8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|72.10.164.178|7485|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.93|23139|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|9789|Canada|Montreal|GloboTech Communications|
-|13|109.175.9.203|8080|Bosnia and Herzegovina|Živinice|BH Telecom d.d. Sarajevo|
-|14|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|213.244.91.179|8080|Palestinian Territory|Gaza|PALTEL (Palestine Telecommunications Co.)|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.164.178|7485|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|23139|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.254|30645|Canada|Montreal|GloboTech Communications|
+|9|118.99.127.106|8080|Indonesia|Malang|Biznet Metronet|
+|10|67.43.228.254|30645|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|111.225.153.248|8089|China|Zhoutou|China Telecom|
+|14|72.10.160.93|23139|Canada|Montreal|GloboTech Communications|
+|15|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|67.43.227.230|7339|Canada|Montreal|GloboTech Communications|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|67.43.236.20|27711|Canada|Montreal|GloboTech Communications|
+|20|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
 
 
 
