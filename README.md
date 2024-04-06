@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|49.49.193.165|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|45.191.46.210|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.87.169.194|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|94.154.152.68|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|14|72.10.160.171|15321|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|4325|Canada|Montreal|GloboTech Communications|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|72.10.160.171|6329|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|22637|Canada|Montreal|GloboTech Communications|
+|19|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|20|67.43.228.254|27475|Canada|Montreal|GloboTech Communications|
 
 
 
