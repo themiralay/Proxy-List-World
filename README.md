@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|2|93.174.125.63|80|Greece|Athens|IpHost P.C.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|93.174.125.63|80|Greece|Athens|IpHost P.C.|
+|5|38.10.180.67|999|Colombia|Huila Department|INTEGRADOS S&S.NET SAS|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
-|9|101.109.48.187|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
-|15|72.10.160.90|18103|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|16261|Canada|Montreal|GloboTech Communications|
-|17|93.174.125.63|80|Greece|Athens|IpHost P.C.|
-|18|72.10.164.178|22487|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|182.253.177.122|8080|Indonesia|Jakarta Pusat|BIZNET|
+|7|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
+|8|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|103.158.253.187|8027|Indonesia|Brebes|Rapid Network|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|67.43.236.20|3149|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|30789|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|5487|Canada|Montreal|GloboTech Communications|
+|18|93.174.125.63|80|Greece|Athens|IpHost P.C.|
+|19|67.43.227.227|5487|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|30789|Canada|Montreal|GloboTech Communications|
 
 
 
