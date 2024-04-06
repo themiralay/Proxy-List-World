@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|182.253.109.162|8080|Indonesia|Semarang|Biznet Metronet|
-|7|72.128.133.154|16099|United States|Pflugerville|Charter Communications|
-|8|187.190.113.101|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
-|9|103.217.224.69|8989|Indonesia|Semarang|PT Nesta Indo Media|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|72.10.164.178|17549|Canada|Montreal|GloboTech Communications|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|14|72.128.133.154|16099|United States|Pflugerville|Charter Communications|
-|15|67.43.227.226|5627|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.227.228|23891|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|20785|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|20785|Canada|Montreal|GloboTech Communications|
-|20|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|64.225.4.81|10005|United States|Clifton|DigitalOcean, LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|182.253.109.162|8080|Indonesia|Semarang|Biznet Metronet|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|181.212.161.3|999|Chile|Macul|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|78.170.135.164|8080|Turkey|Istanbul|TurkTelecom|
+|14|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|37.187.24.201|81|France|Gravelines|OVH SAS|
+|16|203.29.26.47|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|159.65.176.77|10011|United States|Clifton|DigitalOcean, LLC|
+|19|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
