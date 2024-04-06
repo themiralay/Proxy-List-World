@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|101.109.56.150|8080|Thailand|Phetchaburi|TOT Public Company Limited|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|103.13.204.143|8090|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
-|12|194.124.36.75|8080|Türkiye|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|67.43.227.227|2029|Canada|Montreal|GloboTech Communications|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|111.68.26.237|8080|Indonesia|Semarang|GMEDIA|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|154.65.99.7|3128|United States|Latham|Xneelo (Pty) Ltd|
+|11|67.43.227.227|2029|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|6497|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|6497|Canada|Montreal|GloboTech Communications|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|67.43.227.227|2029|Canada|Montreal|GloboTech Communications|
+|16|200.32.51.179|8080|Argentina|Adrogue|Telefonica de Argentina|
+|17|72.10.160.170|2239|Canada|Montreal|GloboTech Communications|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 |20|67.43.227.227|2029|Canada|Montreal|GloboTech Communications|
 
