@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|118.99.127.106|8080|Indonesia|Malang|Biznet Metronet|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|186.201.63.83|3128|Brazil|São Paulo|Vivo|
-|6|49.49.193.165|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|111.225.153.216|8089|China|Zhoutou|China Telecom|
-|14|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|15|111.225.153.24|8089|China|Zhoutou|China Telecom|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|19|67.43.227.227|30667|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17047|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|118.99.127.106|8080|Indonesia|Malang|Biznet Metronet|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
+|5|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|6|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|72.10.160.173|7965|Canada|Montreal|GloboTech Communications|
+|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|11|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
+|12|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|13|72.10.164.178|7485|Canada|Montreal|GloboTech Communications|
+|14|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
+|15|72.10.164.178|7485|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|26657|Canada|Montreal|GloboTech Communications|
+|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|18|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|19|72.10.160.171|25909|Canada|Montreal|GloboTech Communications|
+|20|123.182.58.184|8089|China|Zhangjiakou|China Telecom|
 
 
 
