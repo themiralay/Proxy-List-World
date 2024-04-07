@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7131** proxies at the latest update. Usable proxies are below.
+> Scraper found **7130** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|136|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|135|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|734|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|437|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|131.117.166.7|8080|Yemen|Al Manşūrīyah|Public Telecommunication Corporation|
-|8|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
-|9|103.156.57.118|8080|Indonesia|Batam|PT Filltech Antar Nusa|
-|10|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
-|11|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
-|12|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|13|91.185.38.105|7050|Russia|Moscow|JSC "ER-Telecom Holding"|
-|14|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
-|15|67.43.227.227|2823|Canada|Montreal|GloboTech Communications|
-|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|9|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|10|200.24.154.218|999|Ecuador|Manta|Ufinet Panama S.A.|
+|11|38.47.171.70|8082|Philippines|Davao City|Dataconnect Network Services Inc.|
+|12|118.99.68.36|8080|Indonesia|Surabaya|Biznet Metronet|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
+|16|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|67.43.227.227|2823|Canada|Montreal|GloboTech Communications|
+|19|202.179.188.178|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
