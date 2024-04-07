@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|67.43.236.18|25093|Canada|Montreal|GloboTech Communications|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|72.10.160.170|4009|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|206.189.158.37|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|72.10.160.170|4009|Canada|Montreal|GloboTech Communications|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|12|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|13|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|14|62.140.233.192|41258|Russia|Fryazino|Fryazino.net|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
