@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|6|1.10.141.45|8080|Thailand|Bang Phli|TOT Public Company Limited|
+|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|103.153.40.38|8080|Indonesia|Bekasi|Persada Nayaka Infotama|
-|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|14|66.54.106.56|8080|United States|Itta Bena|Mobile Communications, LLC|
-|15|92.247.2.26|21231|Bulgaria|Kilifarevo|A1 Bulgaria EAD|
-|16|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|103.41.91.161|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|14|34.154.161.152|80|Italy|Milan|Google LLC|
+|15|43.245.95.178|53805|Nepal|Kathmandu|BroadLink Networks and Communications|
+|16|117.54.106.241|8080|Indonesia|Jakarta|PT IndoInternet|
+|17|103.78.113.15|8080|Indonesia|Jakarta|MORATELINDO|
+|18|45.234.61.12|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
 |19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|20|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 
 
 
