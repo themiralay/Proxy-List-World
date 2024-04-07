@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|10|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|11|157.254.28.10|999|Dominican Republic|Santo Domingo Este|Jarm Telecomunicaciones SRL|
-|12|45.89.230.174|3128|Russia|Zelenograd|LLC Baxet|
-|13|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|14|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|186.215.196.50|3128|Brazil|Recife|Vivo|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|72.10.164.178|15825|Canada|Montreal|GloboTech Communications|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|97.76.251.138|8080|United States|Tampa|Spectrum|
+|11|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|92.253.235.170|8082|Russia|Podolsk|Best Line Ltd.|
+|13|134.35.62.110|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
+|16|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
+|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|123.182.59.63|8089|China|Zhangjiakou|China Telecom|
+|19|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|20|103.130.104.33|83|India|Belda|Opticom Networks Private Limited|
 
 
 
