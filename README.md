@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -49,16 +49,16 @@ Click the file format that you want and copy the URL.
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|182.253.36.72|443|Indonesia|Jakarta Pusat|BIZNET|
-|12|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|16|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|17|72.10.160.90|4129|Canada|Montreal|GloboTech Communications|
-|18|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|19|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|14|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
+|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|20|67.43.227.228|7039|Canada|Montreal|GloboTech Communications|
 
 
 
