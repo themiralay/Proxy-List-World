@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|36.94.37.39|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|103.234.28.212|8181|Indonesia|Blora|PT Agung Barokah Network|
-|12|119.93.73.228|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|46.29.237.247|8080|The Netherlands|Amsterdam|Stark Industries Solutions LTD|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|110.164.132.235|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|20|67.43.236.20|1027|Canada|Montreal|GloboTech Communications|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|137.184.216.108|4033|United States|North Bergen|DigitalOcean, LLC|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|14|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|15|67.43.236.20|3407|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|72.10.160.170|20993|Canada|Montreal|GloboTech Communications|
+|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 
 
 
