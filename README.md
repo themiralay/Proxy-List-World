@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|12|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|16|72.10.160.90|4057|Canada|Montreal|GloboTech Communications|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|9|103.1.51.23|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|190.109.31.23|999|Colombia|Villavicencio|Columbus Networks de Colombia Limitada|
+|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|15|72.10.160.90|4057|Canada|Montreal|GloboTech Communications|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |17|72.10.164.178|22119|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|22453|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|18059|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|27585|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|20|154.73.111.153|1976|Libya|Tripoli|Trans-Sahara IT & Communication|
 
 
 
