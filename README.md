@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|206.189.158.37|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|62.140.233.192|41258|Russia|Fryazino|Fryazino.net|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|67.43.227.227|25755|Canada|Montreal|GloboTech Communications|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|67.43.236.20|18525|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|17831|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|17831|Canada|Montreal|GloboTech Communications|
+|8|138.0.141.46|8080|Brazil|São Paulo|F.B. BABETO ME|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|62.176.12.111|8080|Russia|Serpukhov|Rial Com JSC|
+|12|75.112.64.27|8080|United States|Orlando|Spectrum|
+|13|67.43.227.227|25755|Canada|Montreal|GloboTech Communications|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|17|67.43.228.253|23465|Canada|Montreal|GloboTech Communications|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|72.10.164.178|21141|Canada|Montreal|GloboTech Communications|
 |20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
