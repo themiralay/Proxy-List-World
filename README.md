@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|5|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
-|6|175.196.125.203|80|South Korea|Gangdong-gu|Korea Telecom|
-|7|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|9|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|103.171.245.14|8080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|129.154.224.75|80|India|Mumbai|Oracle Corporation|
-|18|70.113.250.186|16099|United States|Weslaco|Spectrum|
-|19|67.43.236.20|6215|Canada|Montreal|GloboTech Communications|
-|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|3|65.1.244.232|80|India|Mumbai|Amazon.com|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|9|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|10|177.200.91.109|12312|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|11|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|12|12.55.68.54|8081|United States|Powhatan|AT&T Services, Inc.|
+|13|103.27.22.65|32650|Pakistan|Lahore|Supernet|
+|14|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
+|16|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|17|103.84.177.212|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 
 
 
