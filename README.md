@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.217.224.27|8085|Indonesia|Semarang|PT Nesta Indo Media|
-|7|38.156.74.89|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|10|83.167.24.13|8080|Russia|Yekaterinburg|Insys LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|50.84.48.130|8080|United States|Carrollton|Spectrum|
-|14|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|15|138.0.26.120|9010|Brazil|Garanhuns|Erik Lucas Barbosa|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|18|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|170.80.203.46|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|6|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|7|124.83.74.218|8082|Philippines|Manaoag|Philippine Long Distance Telephone Co.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|72.10.160.171|28103|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.170|14593|Canada|Montreal|GloboTech Communications|
+|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|15|67.43.227.227|24863|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|4121|Canada|Montreal|GloboTech Communications|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|72.10.164.178|4121|Canada|Montreal|GloboTech Communications|
+|19|66.27.58.70|8080|United States|Anaheim|Spectrum|
+|20|72.10.164.178|4121|Canada|Montreal|GloboTech Communications|
 
 
 
