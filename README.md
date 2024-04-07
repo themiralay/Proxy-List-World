@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|103.234.31.66|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|6|45.76.110.62|12009|Japan|Shinagawa|The Constant Company|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|89.40.142.236|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|11|95.165.129.55|8833|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|14|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|15|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|67.43.236.20|2317|Canada|Montreal|GloboTech Communications|
-|20|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
+|9|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|67.43.236.20|2317|Canada|Montreal|GloboTech Communications|
+|15|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|16|165.22.36.164|10013|United States|Clifton|DigitalOcean, LLC|
+|17|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|20|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
 
 
 
