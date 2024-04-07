@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
-|4|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|122.10.101.13|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|14|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|15|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|16|122.185.44.46|83|India|Faridabad|Bharti Airtel Limited|
-|17|72.10.160.174|2857|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|21491|Canada|Montreal|GloboTech Communications|
-|19|200.110.169.57|999|Colombia|Pereira|Media Commerce Partners S.A|
-|20|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|125.26.5.140|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|11|113.160.241.196|19132|Vietnam|Ninh Binh|VietNam Post and Telecom Corporation|
+|12|118.163.13.200|8080|Taiwan|Sanchong District|Chunghwa Telecom Co., Ltd.|
+|13|103.166.161.34|8080|Indonesia|Dumai|PT Link Kita Teknologi|
+|14|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|15|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
+|16|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|17|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|18|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
+|19|186.190.225.187|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|111.225.153.93|8089|China|Zhoutou|China Telecom|
 
 
 
