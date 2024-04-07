@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6963** proxies at the latest update. Usable proxies are below.
+> Scraper found **7099** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|13|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|759|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|895|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|318|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4915|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.148.216.121|8080|Bangladesh|Dhaka|Little Boys|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|67.43.236.20|26339|Canada|Montreal|GloboTech Communications|
-|9|152.0.35.222|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|167.172.238.6|10002|United States|Clifton|DigitalOcean, LLC|
-|13|67.43.227.230|15795|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|19581|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|33137|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|14343|Canada|Montreal|GloboTech Communications|
-|17|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|11|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|139.226.163.48|3128|China|Shanghai|China Unicom Shanghai network|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|66.70.238.78|7777|United Kingdom|London|OVH SAS|
 |18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|144.76.42.215|8118|Germany|Bad Bellingen|Hetzner Online GmbH|
-|20|191.101.214.6|3128|Thailand|Bangkok|CSNE Co., Ltd.|
+|19|101.255.140.1|8090|Indonesia|Bekasi|PT Remala Abadi|
+|20|45.11.95.165|5013|Russia|Moscow|Delta Ltd|
 
 
 
