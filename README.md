@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|103.125.154.161|8080|India|Sulur|Live Fibernet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|91.232.241.114|8080|Ukraine|Lviv|LEOTEL Ltd.|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|139.226.163.48|3128|China|Shanghai|China Unicom Shanghai network|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|38.45.44.4|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|183.165.244.79|8089|China|Shenzhen|Chinanet|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|67.43.228.253|13615|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|11897|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|67.43.228.253|13615|Canada|Montreal|GloboTech Communications|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|67.43.227.227|11897|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|4669|Canada|Montreal|GloboTech Communications|
+|14|183.165.244.79|8089|China|Shenzhen|Chinanet|
+|15|67.43.228.253|4669|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.92|28855|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|30175|Canada|Montreal|GloboTech Communications|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|36.94.37.39|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
