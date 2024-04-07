@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.204.0.94|8080|Russia|Moscow|First Server Limited|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|9|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
-|10|38.158.202.82|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|12|103.76.151.133|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|16|37.148.217.234|999|Dominican Republic|Santiago de los Caballeros|IPXO|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|103.216.167.1|83|India|Mumbai|JPR NETWORK PRIVATE LIMITED|
+|16|1.0.171.213|8080|Thailand|Bangkok|TOT Public Company Limited|
 |17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|19|67.43.228.250|29283|Canada|Montreal|GloboTech Communications|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
