@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|10|114.106.170.161|8089|China|Rongcheng|Chinanet|
-|11|67.43.236.20|17255|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|25213|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|25213|Canada|Montreal|GloboTech Communications|
-|14|103.87.169.172|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.227.227|14255|Canada|Montreal|GloboTech Communications|
-|18|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|72.10.164.178|25213|Canada|Montreal|GloboTech Communications|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|72.10.164.178|3527|Canada|Montreal|GloboTech Communications|
+|13|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
+|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|202.168.69.226|8080|Malaysia|Cyberjaya|Allo Technology Sdn. Bhd.|
+|17|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|18|72.10.160.90|26231|Canada|Montreal|GloboTech Communications|
+|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|20|36.92.162.218|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
 
 
 
