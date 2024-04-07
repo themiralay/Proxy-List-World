@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.156.17.153|8080|Indonesia|Indramayu|RSTNET|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|202.148.16.150|8080|Indonesia|Bekasi|PT. Core Mediatech|
-|13|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|14|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|18|103.156.75.41|8181|Indonesia|Singaraja|PT Trika Global Media|
-|19|36.50.253.66|8080|Indonesia|Singosari|PT Capoeng Digital Nusantara|
-|20|1.10.141.45|8080|Thailand|Bang Phli|TOT Public Company Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|103.26.110.134|84|India|Tirunelveli|Niss Networks|
+|20|200.7.11.154|8080|Brazil|Goiatuba|Conexao Telematica XcelLink|
 
 
 
