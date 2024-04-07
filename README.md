@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|175.196.125.203|80|South Korea|Gangdong-gu|Korea Telecom|
-|3|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.234.159.5|8080|India|Bengaluru|MWPL|
-|8|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|9|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
-|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|11|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|103.234.159.5|8080|India|Bengaluru|MWPL|
+|6|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|7|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|8|186.125.235.253|999|Argentina|Simoca|Telecom Argentina S.A.|
+|9|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|103.99.27.3|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
+|11|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
+|12|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
 |14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|103.247.216.70|8080|Indonesia|Kramatjati|PT. Parsaoran Global Datatrans|
-|17|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|19|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|20|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|67.43.236.20|17939|Canada|Montreal|GloboTech Communications|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|67.43.236.20|17939|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|25697|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|29695|Canada|Montreal|GloboTech Communications|
 
 
 
