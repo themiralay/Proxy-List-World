@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|95.165.163.187|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|72.10.160.91|1419|Canada|Montreal|GloboTech Communications|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|12|111.225.153.0|8089|China|Zhoutou|China Telecom|
-|13|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|14|67.43.236.20|5149|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|15961|Canada|Montreal|GloboTech Communications|
-|16|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|17|187.110.227.78|8080|Brazil|Campo Alegre de Lourdes|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|18|67.43.227.227|15961|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|5149|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|8883|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|45.32.28.105|12009|Japan|Shinagawa|Choopa|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|18|67.43.236.21|20283|Canada|Montreal|GloboTech Communications|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|167.172.238.6|10018|United States|Clifton|DigitalOcean, LLC|
 
 
 
