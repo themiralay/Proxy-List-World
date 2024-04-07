@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|8|205.234.156.124|3128|United States|Los Angeles|Hosteons Pte. Ltd|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|149.28.166.55|12009|Australia|Sydney|The Constant Company|
-|11|67.43.227.226|13061|Canada|Montreal|GloboTech Communications|
-|12|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|13|72.10.160.90|11253|Canada|Montreal|GloboTech Communications|
-|14|111.225.152.134|8089|China|Zhoutou|China Telecom|
-|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|103.80.230.21|8080|Indonesia|Medan|DNSOLUSINDO|
-|17|67.43.227.227|26649|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|11253|Canada|Montreal|GloboTech Communications|
-|19|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|20|67.43.228.253|3023|Canada|Montreal|GloboTech Communications|
+|5|43.243.140.27|8181|Indonesia|Bogor|CEPATNET|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|12|111.225.152.214|8089|China|Zhoutou|China Telecom|
+|13|67.43.227.226|13061|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|26649|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|8101|Canada|Montreal|GloboTech Communications|
+|16|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|17|45.76.110.62|12009|Japan|Shinagawa|The Constant Company|
+|18|103.116.218.178|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|19|111.225.153.87|8089|China|Zhoutou|China Telecom|
+|20|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 
 
 
