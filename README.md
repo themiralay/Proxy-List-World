@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|103.152.232.61|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|7|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|139.226.163.48|3128|China|Shanghai|China Unicom Shanghai network|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|152.0.35.222|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|116.97.39.95|10011|Vietnam|Hanoi|Viettel Corporation|
 |17|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|101.255.140.1|8090|Indonesia|Bekasi|PT Remala Abadi|
-|20|45.11.95.165|5013|Russia|Moscow|Delta Ltd|
+|18|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|19|139.226.163.48|3128|China|Shanghai|China Unicom Shanghai network|
+|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
