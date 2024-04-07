@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|103.180.247.6|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|72.10.164.178|25525|Canada|Montreal|GloboTech Communications|
-|11|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|72.10.164.178|25525|Canada|Montreal|GloboTech Communications|
-|14|103.169.254.39|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|146.19.196.4|8118|Nigeria|Lagos|Melbikomas UAB|
-|19|72.10.160.90|2297|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.159.194.149|8081|Indonesia|Rembang|PT Giga Digital Nusantara|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|103.175.202.86|8080|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
+|10|103.167.171.43|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|72.10.164.178|22377|Canada|Montreal|GloboTech Communications|
+|14|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|16|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|17|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|18|36.89.16.186|8866|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|103.156.57.118|8080|Indonesia|Batam|PT Filltech Antar Nusa|
+|20|72.10.160.90|20375|Canada|Montreal|GloboTech Communications|
 
 
 
