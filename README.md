@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|200.108.190.38|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
-|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|11|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|12|118.99.119.18|8080|Indonesia|Bandar Lampung|Biznet Networks|
-|13|103.41.91.161|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|14|38.158.202.82|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|15|45.174.57.66|999|Mexico|Urequío|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|16|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
-|17|44.225.65.25|80|United States|Portland|Amazon.com, Inc.|
-|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|20|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|8|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|11|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|12|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|181.204.168.83|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|14|110.139.128.232|3127|Indonesia|Banjarmasin|PT. TELKOM INDONESIA|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 
 
 
