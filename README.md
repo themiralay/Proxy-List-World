@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|27.72.104.89|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|8|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|9|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|10|103.146.185.90|8080|Indonesia|Sragen|YAMNET|
-|11|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|44.225.65.25|80|United States|Portland|Amazon.com, Inc.|
-|14|181.204.168.83|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|15|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|16|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|17|67.43.227.228|19539|Canada|Montreal|GloboTech Communications|
-|18|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|72.10.164.178|32715|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|38.252.209.112|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|49.247.40.126|4000|South Korea|Gwangmyeong|SMILESERV|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|10|66.54.106.56|8080|United States|Itta Bena|Mobile Communications, LLC|
+|11|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|12|44.225.65.25|80|United States|Portland|Amazon.com, Inc.|
+|13|12.55.68.54|8081|United States|Powhatan|AT&T Services, Inc.|
+|14|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|15|65.20.147.153|80|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|18|49.247.40.126|4000|South Korea|Gwangmyeong|SMILESERV|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
 
 
 
