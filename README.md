@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.154.35.190|8080|Thailand|Vadhana|CAT Telecom Public Company Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|134.35.7.24|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|134.35.7.24|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|122.154.35.190|8080|Thailand|Vadhana|CAT Telecom Public Company Limited|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
-|9|168.119.117.125|80|Germany|Nuremberg|Hetzner Online GmbH|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|13|72.10.164.178|6187|Canada|Montreal|GloboTech Communications|
-|14|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|15|72.10.164.178|6187|Canada|Montreal|GloboTech Communications|
-|16|120.28.220.100|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|17|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|72.10.164.178|6187|Canada|Montreal|GloboTech Communications|
+|8|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|168.119.117.125|80|Germany|Nuremberg|Hetzner Online GmbH|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|72.10.164.178|18435|Canada|Montreal|GloboTech Communications|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|113.64.23.221|32650|China|Puning|Chinanet|
+|19|67.43.236.20|31805|Canada|Montreal|GloboTech Communications|
+|20|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
 
 
 
