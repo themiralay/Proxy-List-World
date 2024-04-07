@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
+|1|159.192.133.250|8088|Thailand|Bangkok|CAT-BB|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|159.192.133.250|8088|Thailand|Bangkok|CAT-BB|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |6|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
-|9|189.203.181.34|8080|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|12|179.1.198.36|999|Colombia|Bogotá|Internexa S.a. E.S.P|
-|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|18|95.111.238.142|3128|Germany|Nuremberg|Contabo GmbH|
-|19|189.161.230.149|999|Mexico|Puebla City|UNINET|
-|20|67.43.227.227|9035|Canada|Montreal|GloboTech Communications|
+|8|157.100.57.180|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|15|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|67.43.227.227|9035|Canada|Montreal|GloboTech Communications|
+|19|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
