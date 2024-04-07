@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.162.63.162|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|101.255.40.98|8080|Indonesia|Sunter Jaya|PT Remala Abadi|
-|8|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|103.24.213.124|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|203.202.252.149|1200|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|72.10.160.172|8711|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|103.162.63.162|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.24.213.124|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|10|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|16|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|17|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|72.10.160.172|8711|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.254|1487|Canada|Montreal|GloboTech Communications|
 |19|72.10.164.178|29069|Canada|Montreal|GloboTech Communications|
-|20|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
