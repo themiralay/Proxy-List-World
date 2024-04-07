@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|12|67.43.236.20|4833|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|1727|Canada|Montreal|GloboTech Communications|
+|10|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|12|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|13|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |14|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |15|67.43.236.18|14791|Canada|Montreal|GloboTech Communications|
-|16|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|17|72.10.164.178|13869|Canada|Montreal|GloboTech Communications|
-|18|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|67.43.236.20|6451|Canada|Montreal|GloboTech Communications|
 
 
 
