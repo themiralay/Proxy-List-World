@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|190.119.68.141|999|Peru|Lima|America Movil Peru S.A.C.|
-|7|68.183.14.206|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|177.38.72.38|9292|Brazil|Jales|MELFINET - National Telecom SCM Ltda|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|45.181.123.156|999|Chile|Villa Alemana|Interpit Telecomunicaciones Ltda|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|121.195.170.225|1024|China|Haidian|CERNET|
-|13|165.16.31.19|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|14|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
-|15|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|18|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|19|72.10.164.178|7361|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7361|Canada|Montreal|GloboTech Communications|
+|4|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|67.73.245.204|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|11|146.196.40.146|8888|Indonesia|Sembang Ilon|UNINA|
+|12|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
+|14|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
+|15|103.53.78.26|8080|Indonesia|Surabaya|INTI|
+|16|124.121.87.138|8080|Thailand|Mueang Samut Prakan|TRUEBB|
+|17|187.190.113.101|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
+|18|66.27.58.70|8080|United States|Anaheim|Spectrum|
+|19|103.47.13.29|8080|India|Dehradun|Precious netcom pvt ltd|
+|20|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
