@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|3|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|101.109.176.203|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|72.10.164.178|16137|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|16137|Canada|Montreal|GloboTech Communications|
-|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|12|67.43.227.228|5275|Canada|Montreal|GloboTech Communications|
-|13|103.176.97.166|8080|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|14|67.43.228.253|4033|Canada|Montreal|GloboTech Communications|
-|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|138.118.106.234|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
+|14|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |16|72.10.164.178|16137|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|31053|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|31739|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|67.43.228.253|4033|Canada|Montreal|GloboTech Communications|
+|17|94.154.152.104|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|18|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|19|205.234.156.124|3128|United States|Los Angeles|Hosteons Pte. Ltd|
+|20|67.43.236.20|13319|Canada|Montreal|GloboTech Communications|
 
 
 
