@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|183.80.23.179|4153|Vietnam|Hanoi|FPT Telecom Company|
-|15|152.32.148.233|3128|United States|Reston|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|207.230.8.71|999|Colombia|Popayán|Cogent Communications|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|67.43.227.227|20425|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|16147|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|172.105.56.59|9093|India|Mumbai|Akamai Technologies|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|103.154.230.101|5678|Indonesia|Lamongan|DIGITNET|
+|11|183.80.23.179|4153|Vietnam|Hanoi|FPT Telecom Company|
+|12|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|67.43.227.227|20425|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|16147|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.93|32399|Canada|Montreal|GloboTech Communications|
+|18|223.247.46.60|8089|China|Rongcheng|Chinanet|
+|19|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
+|20|72.10.160.173|5563|Canada|Montreal|GloboTech Communications|
 
 
 
