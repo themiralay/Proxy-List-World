@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|67.43.228.253|16561|Canada|Montreal|GloboTech Communications|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|67.43.236.22|17715|Canada|Montreal|GloboTech Communications|
-|10|134.35.197.169|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|67.43.228.253|16561|Canada|Montreal|GloboTech Communications|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |11|72.10.160.90|8517|Canada|Montreal|GloboTech Communications|
-|12|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|72.10.164.178|17831|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.22|17715|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |15|72.10.164.178|17831|Canada|Montreal|GloboTech Communications|
-|16|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|72.10.160.91|15559|Canada|Montreal|GloboTech Communications|
-|19|134.35.116.151|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|20|121.195.170.225|1024|China|Haidian|CERNET|
+|16|159.192.133.250|8088|Thailand|Bangkok|CAT-BB|
+|17|134.35.197.169|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|18|67.43.228.253|16561|Canada|Montreal|GloboTech Communications|
+|19|49.247.40.126|4000|South Korea|Gwangmyeong|SMILESERV|
+|20|67.43.228.253|16561|Canada|Montreal|GloboTech Communications|
 
 
 
