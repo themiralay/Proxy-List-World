@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|186.156.161.235|3128|Chile|Macul|VTR BANDA ANCHA S.A.|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|67.43.236.20|18589|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|186.215.196.50|3128|Brazil|Recife|Vivo|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|202.169.51.46|8080|Indonesia|Jakarta Pusat|Biznet - PSN-NAP|
+|10|67.43.236.20|13457|Canada|Montreal|GloboTech Communications|
+|11|103.159.194.149|8081|Indonesia|Rembang|PT Giga Digital Nusantara|
 |12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.160.90|4965|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|23871|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|23871|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|18589|Canada|Montreal|GloboTech Communications|
-|17|37.32.11.117|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|18|67.43.228.250|17321|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|4965|Canada|Montreal|GloboTech Communications|
-|20|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|13|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|14|72.10.160.94|31991|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|19373|Canada|Montreal|GloboTech Communications|
+|16|203.130.23.250|8080|Pakistan|Lahore|Supernet, PDS Limited|
+|17|103.114.97.98|8999|Bangladesh|Comilla|Skynet Chowmuhani|
+|18|72.10.164.178|19373|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|9279|Canada|Montreal|GloboTech Communications|
+|20|168.194.171.27|999|Peru|Lima|FASTNET|
 
 
 
