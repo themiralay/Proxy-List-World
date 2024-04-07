@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|184.82.130.44|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|177.190.189.16|44443|Brazil|Montanha|SPEED PLANET TELECOMUNICAÇÕES LTDA - EPP|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|200.60.4.238|999|Peru|Lima|Telefonica del Peru S.A.A.|
-|13|43.153.112.238|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|103.76.151.133|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|16|72.10.160.90|30079|Canada|Montreal|GloboTech Communications|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|67.43.228.254|1739|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|6131|Canada|Montreal|GloboTech Communications|
-|20|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|203.190.46.37|8080|Indonesia|Demak|PT Jaring Lintas Utara|
+|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|17|72.10.160.90|2297|Canada|Montreal|GloboTech Communications|
+|18|200.101.150.202|8080|Brazil|Curitiba|V tal|
+|19|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|20|72.10.160.170|22227|Canada|Montreal|GloboTech Communications|
 
 
 
