@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|119.76.142.132|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|45.189.252.245|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|12|186.125.218.162|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|15|88.255.168.4|8080|Turkey|Reyhanlı|Turk Telekomunikasyon Anonim Sirketi|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|182.78.42.112|83|India|Chīrāla|Bharti Airtel|
+|9|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
+|15|182.253.159.114|8080|Indonesia|Bandung|BIZNET|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|88.84.209.24|3128|Russia|Moscow|Flex Ltd.|
+|20|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
 
 
 
