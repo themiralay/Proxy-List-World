@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|45.189.252.245|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|6|103.173.138.171|8080|Indonesia|Tanggamus|PT Serayu Multi Connection|
+|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|2|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |7|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|41.254.53.70|1976|Libya|Waddān|LTT Network Backbone and POPs|
-|12|176.222.224.1|8118|Czechia|Kladno|Cable-NET s.r.o.|
-|13|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|14|45.238.58.1|999|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|15|200.7.11.154|8080|Brazil|Goiatuba|Conexao Telematica XcelLink|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|12|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|72.10.160.170|14931|Canada|Montreal|GloboTech Communications|
 
 
 
