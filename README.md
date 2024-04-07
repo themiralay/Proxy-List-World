@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|10|72.10.160.173|6935|Canada|Montreal|GloboTech Communications|
-|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|67.43.236.20|9713|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|15|168.194.248.18|8080|Brazil|Goiânia|CANAA TELECOMUNICAÇÕES LTDA - ME|
-|16|67.43.227.227|6443|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|6443|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|23651|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|15981|Canada|Montreal|GloboTech Communications|
-|20|188.209.250.216|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|7|67.43.236.20|15631|Canada|Montreal|GloboTech Communications|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|72.10.160.173|6935|Canada|Montreal|GloboTech Communications|
+|12|103.139.242.173|83|India|Pune|Spectram Telecom Pvt.Ltd|
+|13|103.124.137.150|20|Indonesia|Jakarta|Global Media Data Prima|
+|14|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|15|67.43.227.227|17793|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|15981|Canada|Montreal|GloboTech Communications|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|19|103.153.246.210|8080|Indonesia|Depok|PRIMAHOME|
+|20|67.43.228.253|13615|Canada|Montreal|GloboTech Communications|
 
 
 
