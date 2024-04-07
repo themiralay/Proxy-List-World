@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
+|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|12|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
-|13|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
-|14|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|103.26.110.209|84|India|Tirunelveli|Niss Networks|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|10|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|13|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|37.230.144.251|8118|Russia|St Petersburg|St. Petersburg State Unitary Enterprise "Information and Analytical Centre"|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|67.43.227.228|2967|Canada|Montreal|GloboTech Communications|
+|20|122.228.210.117|59394|China|Lipu|China Telecom|
 
 
 
