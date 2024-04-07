@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|101.109.176.203|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|101.109.176.203|8080|Thailand|Bangkok|TOT Public Company Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|67.43.236.20|6127|Canada|Montreal|GloboTech Communications|
-|11|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|38.253.88.242|999|Dominican Republic|Jarabacoa|Cogent Communications|
-|14|72.10.164.178|2829|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|17653|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|3807|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.160.90|17653|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|6127|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|1305|Canada|Montreal|GloboTech Communications|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|67.43.236.20|2489|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|2489|Canada|Montreal|GloboTech Communications|
+|11|103.141.109.143|8181|Indonesia|Setro|Data Buana Nusantara|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|67.43.236.20|2489|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|2489|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.174|1305|Canada|Montreal|GloboTech Communications|
+|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.160.173|3283|Canada|Montreal|GloboTech Communications|
+|19|110.164.175.110|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|20|67.43.228.253|4321|Canada|Montreal|GloboTech Communications|
 
 
 
