@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|222.127.67.204|8085|Philippines|Lahug|INNOVE|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|170.80.203.45|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
-|11|159.203.48.63|9005|Canada|Toronto|DigitalOcean, LLC|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|67.43.227.227|16013|Canada|Montreal|GloboTech Communications|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|72.10.160.90|29461|Canada|Montreal|GloboTech Communications|
-|19|45.177.179.25|999|Mexico|La Sauceda|Wantelco SAS de CV|
-|20|67.43.228.250|12753|Canada|Montreal|GloboTech Communications|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|38.158.202.82|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|12|72.10.160.172|27559|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|16649|Canada|Montreal|GloboTech Communications|
+|14|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|15|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|186.125.218.170|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|18|67.43.228.250|12753|Canada|Montreal|GloboTech Communications|
+|19|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|20|181.115.93.74|999|Honduras|Tegucigalpa|Telgua|
 
 
 
