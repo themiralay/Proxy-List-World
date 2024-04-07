@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|101.109.88.217|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
-|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|6|203.150.128.36|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|101.109.88.217|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
+|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 
 
 
