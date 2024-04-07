@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|67.43.227.227|25283|Canada|Montreal|GloboTech Communications|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
-|11|67.43.236.20|2559|Canada|Montreal|GloboTech Communications|
-|12|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|67.43.227.227|25283|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|11399|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|10879|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|11399|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|10879|Canada|Montreal|GloboTech Communications|
-|19|217.182.153.29|12000|France|Gravelines|OVH SAS|
-|20|72.10.164.178|11399|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|185.208.102.58|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|67.43.227.227|14255|Canada|Montreal|GloboTech Communications|
+|12|103.26.177.66|8080|Indonesia|Kediri|PT Lintas Jaringan Nusantara|
+|13|67.43.227.227|14255|Canada|Montreal|GloboTech Communications|
+|14|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|17|72.10.164.178|25213|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|9369|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|12481|Canada|Montreal|GloboTech Communications|
+|20|103.182.213.13|8080|Bangladesh|Tongi|Rapid Network|
 
 
 
