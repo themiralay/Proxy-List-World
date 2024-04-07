@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|103.177.8.48|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
-|8|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|67.43.236.20|23659|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|4495|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|8165|Canada|Montreal|GloboTech Communications|
-|14|167.172.238.6|10002|United States|Clifton|DigitalOcean, LLC|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|67.43.236.20|23659|Canada|Montreal|GloboTech Communications|
-|18|122.10.101.15|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
-|19|67.43.236.20|23659|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|4495|Canada|Montreal|GloboTech Communications|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|11|67.43.236.20|21181|Canada|Montreal|GloboTech Communications|
+|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|67.43.228.251|32239|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|4495|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|4495|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|21181|Canada|Montreal|GloboTech Communications|
+|18|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|19|103.160.150.251|8080|Indonesia|Samarinda|PT. LINTASMAYA MULTI MEDIA|
+|20|167.172.238.6|10002|United States|Clifton|DigitalOcean, LLC|
 
 
 
