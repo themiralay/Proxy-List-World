@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|152.0.35.222|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|24.183.146.246|8118|United States|Ludlow|Charter Communications|
-|14|88.255.65.120|8080|Türkiye|Kartal|Turk Telekomunikasyon Anonim Sirketi|
-|15|103.110.34.43|8081|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|79.106.165.246|8989|Albania|Tirana|ONE ALBANIA SH.A.|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|191.101.214.6|3128|Thailand|Bangkok|CSNE Co., Ltd.|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.148.216.121|8080|Bangladesh|Dhaka|Little Boys|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|67.43.236.20|26339|Canada|Montreal|GloboTech Communications|
+|9|152.0.35.222|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|167.172.238.6|10002|United States|Clifton|DigitalOcean, LLC|
+|13|67.43.227.230|15795|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|19581|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|33137|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|14343|Canada|Montreal|GloboTech Communications|
+|17|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|144.76.42.215|8118|Germany|Bad Bellingen|Hetzner Online GmbH|
+|20|191.101.214.6|3128|Thailand|Bangkok|CSNE Co., Ltd.|
 
 
 
