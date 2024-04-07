@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|187.249.20.153|8081|Mexico|Ciudad Acuña|Transtelco Inc|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|103.74.144.3|83|India|New Delhi|Anjani Broadband Solutions Pvt.ltd.|
-|14|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|205.234.156.124|3128|United States|Los Angeles|Hosteons Pte. Ltd|
-|17|72.10.164.178|2937|Canada|Montreal|GloboTech Communications|
-|18|141.145.210.110|3128|France|Paris|Oracle Corporation|
-|19|72.10.164.178|2937|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2937|Canada|Montreal|GloboTech Communications|
+|2|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
+|9|200.125.170.245|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|72.10.164.178|22859|Canada|Montreal|GloboTech Communications|
+|14|103.74.144.3|83|India|New Delhi|Anjani Broadband Solutions Pvt.ltd.|
+|15|72.10.164.178|22859|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|72.10.164.178|22859|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|13175|Canada|Montreal|GloboTech Communications|
+|19|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|20|72.10.160.90|25101|Canada|Montreal|GloboTech Communications|
 
 
 
