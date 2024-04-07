@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|103.234.159.5|8080|India|Bengaluru|MWPL|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.26.129.27|8080|Indonesia|Demak|PT Panglima Kamayo Media|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|181.204.168.83|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|9|200.101.150.202|8080|Brazil|Curitiba|V tal|
-|10|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|112.78.131.6|8080|Indonesia|Jagakarsa|Biznet Networks|
-|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|72.10.164.178|27109|Canada|Montreal|GloboTech Communications|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|200.101.150.202|8080|Brazil|Curitiba|V tal|
+|6|44.225.65.25|80|United States|Portland|Amazon.com, Inc.|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|181.78.65.58|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|10|85.118.117.165|8080|Georgia|Gori|EGRISI|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|72.10.164.178|20313|Canada|Montreal|GloboTech Communications|
+|14|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
+|15|72.10.160.90|13667|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|19109|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|20313|Canada|Montreal|GloboTech Communications|
+|18|45.11.95.165|5011|Russia|Moscow|Delta Ltd|
 |19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|72.10.160.90|29411|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.21|13055|Canada|Montreal|GloboTech Communications|
 
 
 
