@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|122.185.198.242|7999|India|Gurugram|Bharti Airtel Limited|
+|7|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
 |8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|12|116.97.34.15|10008|Vietnam|Hanoi|Viettel Corporation|
-|13|72.10.164.178|28171|Canada|Montreal|GloboTech Communications|
-|14|43.252.107.202|8089|Indonesia|Kudus|PT Lintas Data Prima|
-|15|72.10.164.178|28171|Canada|Montreal|GloboTech Communications|
-|16|161.49.176.173|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|67.43.228.253|1587|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|1587|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|1587|Canada|Montreal|GloboTech Communications|
+|9|103.167.171.43|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|12|203.79.29.218|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
+|13|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|14|174.108.200.2|8080|United States|Waxhaw|Road Runner|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|38.45.44.54|6332|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|18|66.223.176.201|8080|United States|Fairbanks|General Communication|
+|19|72.10.160.173|6837|Canada|Montreal|GloboTech Communications|
+|20|187.19.200.217|8090|Brazil|Coronel Joao Pessoa|Brisanet Servicos De Telecomunicacoes S.A|
 
 
 
