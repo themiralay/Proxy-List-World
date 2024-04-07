@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|5|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|10|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|103.186.8.162|8080|Indonesia|Lumajang|PRISMA|
-|12|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
-|13|66.27.58.70|8080|United States|Anaheim|Spectrum|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|103.191.115.114|82|India|Bānka|Xpress Fiber Private Limited|
-|17|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|18|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|83.167.24.13|8080|Russia|Yekaterinburg|Insys LLC|
+|12|103.53.78.26|8080|Indonesia|Surabaya|INTI|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|15|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|157.254.28.10|999|Dominican Republic|Santo Domingo Este|Jarm Telecomunicaciones SRL|
+|17|67.43.227.227|16129|Canada|Montreal|GloboTech Communications|
+|18|110.78.215.113|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|64.225.4.81|10011|United States|Clifton|DigitalOcean, LLC|
+|20|67.43.227.227|16129|Canada|Montreal|GloboTech Communications|
 
 
 
