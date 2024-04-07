@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
-|4|101.255.40.98|8080|Indonesia|Sunter Jaya|PT Remala Abadi|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|9|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
-|10|183.165.250.242|8089|China|Shenzhen|Chinanet|
-|11|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
-|12|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|6|134.35.0.53|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|200.101.150.202|8080|Brazil|Curitiba|V tal|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|17|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|18|72.10.160.172|8711|Canada|Montreal|GloboTech Communications|
+|14|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
+|17|134.35.37.250|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
 |19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|20|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
 
 
 
