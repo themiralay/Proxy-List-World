@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|125.26.5.140|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|103.139.126.235|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|8|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|38.158.202.82|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|15|41.76.217.175|8088|South Africa|Pretoria|Green Flash Trading|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.228.253|32583|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|32399|Canada|Montreal|GloboTech Communications|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|202.47.189.106|8080|Indonesia|Jombang|PT.CITRA BERDIKARI NUSANTARA|
+|9|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|10|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|67.43.228.253|27587|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|72.10.164.178|16147|Canada|Montreal|GloboTech Communications|
+|20|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
 
 
 
