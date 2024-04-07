@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.115.243.156|83|Bangladesh|Dohār|Md. Rashed Mollah|
-|6|45.7.24.102|3128|Brazil|Parauapebas|MBG TECNOLOGIA LTDA EPP|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|50.84.48.130|8080|United States|Carrollton|Spectrum|
-|9|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
-|11|72.10.164.178|12049|Canada|Montreal|GloboTech Communications|
-|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|13|67.43.228.250|18003|Canada|Montreal|GloboTech Communications|
-|14|191.240.153.144|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|67.43.228.253|2367|Canada|Montreal|GloboTech Communications|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|67.43.227.227|4831|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
+|4|46.245.77.52|3128|Iran|Tehran|Asiatech Data Transmission company|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|72.10.164.178|12049|Canada|Montreal|GloboTech Communications|
+|13|79.106.33.26|8079|Albania|Tirana|ONE ALBANIA SH.A.|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|67.43.228.250|8889|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|25139|Canada|Montreal|GloboTech Communications|
+|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|18|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 |20|72.10.160.170|31571|Canada|Montreal|GloboTech Communications|
 
 
