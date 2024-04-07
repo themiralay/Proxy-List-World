@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.112.163.89|8080|Indonesia|Jakarta|24AS|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|14|72.10.160.90|8833|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|21741|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|18573|Canada|Montreal|GloboTech Communications|
-|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|72.10.160.90|27883|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|23165|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|1519|Canada|Montreal|GloboTech Communications|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |18|72.10.160.174|3699|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|3049|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|25707|Canada|Montreal|GloboTech Communications|
+|19|68.183.48.146|10013|United States|Clifton|DigitalOcean, LLC|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
