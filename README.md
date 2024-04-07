@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|114.30.92.2|8989|Indonesia|Jakarta|ADSNET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|9|67.43.227.227|5809|Canada|Montreal|GloboTech Communications|
-|10|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|72.10.164.178|2193|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.173|15013|Canada|Montreal|GloboTech Communications|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
-|16|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|17|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
-|18|67.43.227.228|28511|Canada|Montreal|GloboTech Communications|
-|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|6|67.79.51.210|16099|United States|Beaumont|Spectrum|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|122.3.121.231|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|11|190.71.229.46|9992|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|12|65.20.154.62|28080|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|13|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|14|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|67.43.227.227|5809|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|5809|Canada|Montreal|GloboTech Communications|
+|18|66.223.176.201|8080|United States|Fairbanks|General Communication|
+|19|72.10.160.173|6837|Canada|Montreal|GloboTech Communications|
+|20|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
 
 
 
