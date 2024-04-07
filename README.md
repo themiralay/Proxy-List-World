@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|103.162.141.146|8085|Indonesia|Tanjung Pinang|PT Filltech Antar Nusa|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|178.207.11.148|3129|Russia|Al'met'yevsk|TATTELECOM|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|72.10.164.178|28307|Canada|Montreal|GloboTech Communications|
-|16|167.172.238.6|10018|United States|Clifton|DigitalOcean, LLC|
-|17|67.43.228.253|22569|Canada|Montreal|GloboTech Communications|
-|18|103.163.244.52|83|India|Panipat|Infolink System|
-|19|67.43.228.254|2545|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|22569|Canada|Montreal|GloboTech Communications|
+|6|157.245.218.226|8118|United States|Clifton|DigitalOcean, LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|67.43.227.227|23363|Canada|Montreal|GloboTech Communications|
+|13|186.148.195.165|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
+|14|72.10.164.178|28307|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|31619|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.254|2545|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|23363|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 
 
 
