@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|72.10.164.178|8481|Canada|Montreal|GloboTech Communications|
-|9|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
-|10|72.10.160.170|16829|Canada|Montreal|GloboTech Communications|
-|11|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|12|67.43.227.227|30463|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|30463|Canada|Montreal|GloboTech Communications|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|45.11.95.165|5205|Russia|Moscow|Delta Ltd|
-|16|67.43.236.20|5731|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|29457|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|8481|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|29457|Canada|Montreal|GloboTech Communications|
-|20|103.76.151.133|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|45.84.1.20|10086|Russia|Moscow|Stark Industries Solutions LTD|
+|4|61.19.110.30|8080|Thailand|Vadhana|CAT-ISP|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|72.10.164.178|20149|Canada|Montreal|GloboTech Communications|
+|14|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|67.43.227.227|30463|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.172|25361|Canada|Montreal|GloboTech Communications|
+|17|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
+|18|72.10.164.178|20149|Canada|Montreal|GloboTech Communications|
+|19|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|20|45.11.95.165|5011|Russia|Moscow|Delta Ltd|
 
 
 
