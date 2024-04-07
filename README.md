@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|103.172.70.237|8080|Indonesia|Karawang|AZNET|
-|9|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|67.43.228.251|17831|Canada|Montreal|GloboTech Communications|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|72.10.160.171|3217|Canada|Montreal|GloboTech Communications|
-|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|72.10.160.90|31631|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|22565|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|26091|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|26091|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|189.173.55.11|999|Mexico|Hermosillo|UNINET|
+|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|72.10.160.171|3217|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|10287|Canada|Montreal|GloboTech Communications|
+|14|154.73.109.201|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
+|15|72.10.160.174|27585|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|17455|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.91|10059|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|17455|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|17455|Canada|Montreal|GloboTech Communications|
+|20|68.183.48.146|10013|United States|Clifton|DigitalOcean, LLC|
 
 
 
