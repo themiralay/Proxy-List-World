@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|6|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|159.65.176.77|10011|United States|Clifton|DigitalOcean, LLC|
-|15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|1|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|13|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|14|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|72.10.160.93|10095|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|31831|Canada|Montreal|GloboTech Communications|
+|19|177.43.72.250|3128|Brazil|Brasília|Vivo|
+|20|49.48.90.219|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
 
 
 
