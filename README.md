@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|139.99.238.83|8080|Australia|Sydney|OVH SAS|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|38.156.74.89|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|103.115.243.156|83|Bangladesh|Dohār|Md. Rashed Mollah|
-|10|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|11|222.127.67.204|8085|Philippines|Lahug|INNOVE|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
-|14|34.154.161.152|80|Italy|Milan|Google LLC|
-|15|103.160.205.86|8080|Indonesia|Mataram|PRIME|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|165.22.36.164|10012|United States|Clifton|DigitalOcean, LLC|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|67.43.227.226|18119|Canada|Montreal|GloboTech Communications|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|115.127.9.214|8080|Bangladesh|Dhaka|bracNet|
+|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|67.43.227.228|17303|Canada|Montreal|GloboTech Communications|
+|11|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|12|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|13|72.10.164.178|12049|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|27609|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.226|18119|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|27609|Canada|Montreal|GloboTech Communications|
+|17|103.158.253.187|8027|Indonesia|Brebes|Rapid Network|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|20|67.43.228.253|11991|Canada|Montreal|GloboTech Communications|
 
 
 
