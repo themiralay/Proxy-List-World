@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|38.158.81.226|999|Dominican Republic|Nacional|Visnetwork SRL|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|72.10.160.90|12081|Canada|Montreal|GloboTech Communications|
-|12|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|72.10.160.90|12081|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.251|19225|Canada|Montreal|GloboTech Communications|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|72.10.160.170|1185|Canada|Montreal|GloboTech Communications|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|38.252.150.155|8080|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|15|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 |18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.160.90|12081|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|17213|Canada|Montreal|GloboTech Communications|
+|19|103.78.113.7|8080|Indonesia|Jakarta|MORATELINDO|
+|20|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
 
 
 
