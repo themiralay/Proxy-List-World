@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|134.35.5.204|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|134.35.5.204|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|9|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|13|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|200.110.169.57|999|Colombia|Pereira|Media Commerce Partners S.A|
-|15|182.253.66.148|8989|Indonesia|Surabaya|BIZNET|
-|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|18|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|72.10.160.90|13113|Canada|Montreal|GloboTech Communications|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|15|72.10.160.90|17265|Canada|Montreal|GloboTech Communications|
+|16|1.32.59.217|47045|Malaysia|Cheras|TM TECHNOLOGY SERVICES SDN BHD|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|103.179.139.81|1111|Indonesia|Bekasi|PT. Fiber Networks Indonesia|
+|20|72.10.160.90|17265|Canada|Montreal|GloboTech Communications|
 
 
 
