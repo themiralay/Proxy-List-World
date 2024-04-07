@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
-|9|67.43.236.20|14099|Canada|Montreal|GloboTech Communications|
-|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|11|72.10.164.178|18737|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|2317|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|14099|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|18737|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|18737|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|26129|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|14099|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|14099|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|3999|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|25785|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|67.43.236.20|14099|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|18737|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.171|26129|Canada|Montreal|GloboTech Communications|
+|10|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|11|67.43.236.20|14099|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.171|26129|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|18737|Canada|Montreal|GloboTech Communications|
+|14|188.132.222.52|8080|Turkey|Reyhanlı|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|67.43.228.251|19141|Canada|Montreal|GloboTech Communications|
+|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.160.90|29675|Canada|Montreal|GloboTech Communications|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
