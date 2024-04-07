@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
-|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|209.14.119.198|999|Colombia|Neiva|AGIS|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|137.59.48.20|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|7|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
 |10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
-|12|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|13|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
-|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|72.10.160.90|29199|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|28675|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|15147|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|2475|Canada|Montreal|GloboTech Communications|
-|19|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
-|20|72.10.164.178|15147|Canada|Montreal|GloboTech Communications|
+|11|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
+|12|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
+|13|200.101.150.202|8080|Brazil|Curitiba|V tal|
+|14|154.73.28.161|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|15|67.43.227.227|17531|Canada|Montreal|GloboTech Communications|
+|16|45.71.185.245|999|Ecuador|Machala|Ufinet Panama S.A.|
+|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.160.174|27449|Canada|Montreal|GloboTech Communications|
+|19|103.24.213.124|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
 
 
 
