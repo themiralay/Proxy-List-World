@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7256** proxies at the latest update. Usable proxies are below.
+> Scraper found **7268** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|141|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|725|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|142|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|736|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|391|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5040|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|38.183.144.117|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
 |7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|9|67.43.236.18|14727|Canada|Montreal|GloboTech Communications|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|67.43.236.20|14727|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.22|14727|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|6187|Canada|Montreal|GloboTech Communications|
-|14|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|72.10.164.178|6187|Canada|Montreal|GloboTech Communications|
-|17|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
-|18|138.197.16.249|10009|United States|Clifton|DigitalOcean, LLC|
-|19|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
-|20|72.10.160.171|10367|Canada|Montreal|GloboTech Communications|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|72.10.160.90|29835|Canada|Montreal|GloboTech Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|181.115.93.74|999|Honduras|Tegucigalpa|Telgua|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|138.197.16.249|10011|United States|Clifton|DigitalOcean, LLC|
+|14|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|72.10.160.171|30019|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|22683|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|29835|Canada|Montreal|GloboTech Communications|
+|18|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|19|45.11.95.165|5033|Russia|Moscow|Delta Ltd|
+|20|67.43.236.20|25931|Canada|Montreal|GloboTech Communications|
 
 
 
