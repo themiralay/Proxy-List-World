@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|80.209.229.234|8080|Lithuania|Vilnius|UAB "Interneto vizija"|
+|4|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
 |5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|111.225.152.39|8089|China|Zhoutou|China Telecom|
-|12|1.32.59.217|47045|Malaysia|Cheras|TM TECHNOLOGY SERVICES SDN BHD|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|103.38.104.131|8989|Indonesia|Wonosobo|PT Tunas Media Data|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|72.10.160.92|27027|Canada|Montreal|GloboTech Communications|
-|19|186.156.161.235|3128|Chile|Macul|VTR BANDA ANCHA S.A.|
-|20|72.10.164.178|27879|Canada|Montreal|GloboTech Communications|
+|8|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|9|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|14|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|15|181.78.82.211|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|186.190.225.187|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|19|103.139.126.235|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|20|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
