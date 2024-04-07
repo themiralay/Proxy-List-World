@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|64.225.48.234|3128|United States|Clifton|DigitalOcean, LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|64.225.48.234|3128|United States|Clifton|DigitalOcean, LLC|
 |7|95.165.163.187|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
-|10|103.167.69.242|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
-|11|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|64.225.48.234|3128|United States|Clifton|DigitalOcean, LLC|
 |13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|72.10.164.178|15557|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|10239|Canada|Montreal|GloboTech Communications|
-|16|123.182.59.210|8089|China|Zhangjiakou|China Telecom|
-|17|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
-|18|111.225.152.197|8089|China|Zhoutou|China Telecom|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|72.10.160.171|2941|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|1555|Canada|Montreal|GloboTech Communications|
+|15|14.143.172.238|8080|India|Kolkata|Tata Communications Limited|
+|16|27.123.1.46|3128|Indonesia|Bekasi|PT Tele Globe Global|
+|17|67.43.236.20|9765|Canada|Montreal|GloboTech Communications|
+|18|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
+|19|67.43.227.228|10239|Canada|Montreal|GloboTech Communications|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
