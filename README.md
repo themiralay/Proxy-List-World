@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.162.141.146|8085|Indonesia|Tanjung Pinang|PT Filltech Antar Nusa|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|67.43.236.22|25681|Canada|Montreal|GloboTech Communications|
+|1|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|67.43.227.227|20511|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|2799|Canada|Montreal|GloboTech Communications|
-|12|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|13|67.43.228.253|24879|Canada|Montreal|GloboTech Communications|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|67.43.227.227|20511|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|67.43.236.20|3023|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|20511|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|23433|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|31703|Canada|Montreal|GloboTech Communications|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|67.43.236.22|25681|Canada|Montreal|GloboTech Communications|
+|12|45.234.60.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|13|103.164.117.186|3128|Indonesia|Jakarta Pusat|SOLUSINET|
+|14|72.10.160.92|6015|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|24337|Canada|Montreal|GloboTech Communications|
+|16|103.45.247.128|8119|Netherlands|Amsterdam|Kamatera Inc|
+|17|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|18|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|67.43.227.228|2799|Canada|Montreal|GloboTech Communications|
 
 
 
