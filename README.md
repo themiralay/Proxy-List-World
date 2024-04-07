@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|45.114.145.199|32650|India|Jaipur|Tejays Dynamic Limited|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|103.155.196.114|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|8|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|9|200.7.11.154|8080|Brazil|Goiatuba|Conexao Telematica XcelLink|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|13|85.117.56.91|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|14|188.209.243.244|8080|Yemen|Al Ma‘allā’|AS30873 annoucement YemenNet|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|18|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
-|19|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|192.141.196.129|8080|Brazil|Jandira|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
+|10|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|45.114.145.199|32650|India|Jaipur|Tejays Dynamic Limited|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|200.7.11.154|8080|Brazil|Goiatuba|Conexao Telematica XcelLink|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
