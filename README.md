@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |8|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
-|9|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
-|11|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|67.43.236.20|17027|Canada|Montreal|GloboTech Communications|
-|14|168.119.117.125|80|Germany|Nuremberg|Hetzner Online GmbH|
-|15|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|67.43.236.18|14727|Canada|Montreal|GloboTech Communications|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|67.43.236.20|14727|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.22|14727|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|6187|Canada|Montreal|GloboTech Communications|
+|14|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|72.10.164.178|6187|Canada|Montreal|GloboTech Communications|
+|17|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
 |18|138.197.16.249|10009|United States|Clifton|DigitalOcean, LLC|
-|19|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
-|20|72.10.164.178|6187|Canada|Montreal|GloboTech Communications|
+|19|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
+|20|72.10.160.171|10367|Canada|Montreal|GloboTech Communications|
 
 
 
