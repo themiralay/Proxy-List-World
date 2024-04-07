@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|4|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|95.165.163.187|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|95.165.163.187|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|8|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |12|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|16|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|17|182.23.35.242|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|20|190.242.157.226|999|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|15|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|16|72.10.164.178|30125|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|1337|Canada|Montreal|GloboTech Communications|
+|18|223.206.46.158|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|19|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|20|67.43.227.227|2609|Canada|Montreal|GloboTech Communications|
 
 
 
