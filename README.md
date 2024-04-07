@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|109.70.189.30|38880|Russia|Novyy Khushet|JSC Elektrosvyaz|
-|7|91.185.38.105|7050|Russia|Moscow|JSC "ER-Telecom Holding"|
-|8|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|9|64.225.4.81|10010|United States|Clifton|DigitalOcean, LLC|
-|10|200.101.150.202|8080|Brazil|Curitiba|V tal|
-|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|13|72.10.164.178|23797|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|23797|Canada|Montreal|GloboTech Communications|
-|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|213.244.91.179|8080|Palestinian Territory|Gaza|PALTEL (Palestine Telecommunications Co.)|
-|19|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
-|20|14.226.7.37|8080|Vietnam|Ha Long|VNPT|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.182.213.13|8080|Bangladesh|Tongi|Rapid Network|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
+|10|103.169.254.39|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|12|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
+|13|45.58.52.5|80|United States|Dallas|HostUS|
+|14|111.95.41.44|8080|Indonesia|Cideng|Linknet-Fastnet ASN|
+|15|38.45.44.54|6332|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|16|216.176.187.99|39837|United States|Los Angeles|Wowrack.com|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
+|20|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
 
 
 
