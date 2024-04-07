@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|201.244.127.210|8080|Colombia|Bogotá|ETB - Colombia|
-|8|102.38.31.8|80|Libya|Zuwarah|GZA|
-|9|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
-|10|168.194.171.27|999|Peru|Lima|FASTNET|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.236.20|5055|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|29453|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|8209|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|8209|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.254|8177|Canada|Montreal|GloboTech Communications|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|67.43.228.253|29453|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.137.218.166|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
+|7|38.7.109.253|8080|Mexico|Tuxtla Gutiérrez|Grupo Convergente Arzola|
+|8|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|9|92.207.253.226|38157|United Kingdom|Northwich|Gamma Telecom Holdings Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.164.178|8209|Canada|Montreal|GloboTech Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|72.10.164.178|8209|Canada|Montreal|GloboTech Communications|
+|14|138.197.92.54|10004|United States|Clifton|DigitalOcean, LLC|
+|15|67.43.227.227|20709|Canada|Montreal|GloboTech Communications|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|67.43.228.253|29453|Canada|Montreal|GloboTech Communications|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|67.43.228.253|29453|Canada|Montreal|GloboTech Communications|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
