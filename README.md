@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
-|5|103.80.230.21|8080|Indonesia|Medan|DNSOLUSINDO|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|223.206.46.158|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|4|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.163.227.178|8080|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
-|15|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|61.254.81.88|9000|South Korea|Gwangjin-gu|SK Broadband Co Ltd|
-|18|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|19|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
-|20|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
+|7|95.165.163.187|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
+|11|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|12|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|17|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
