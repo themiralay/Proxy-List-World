@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|122.185.198.242|7999|India|Gurugram|Bharti Airtel Limited|
-|9|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|103.174.236.52|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|11|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|72.10.160.90|22335|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|25573|Canada|Montreal|GloboTech Communications|
-|17|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|36.72.139.76|8080|Indonesia|Cirebon|PT. TELKOM INDONESIA|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.174.236.52|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|64.227.4.90|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|72.10.160.90|22335|Canada|Montreal|GloboTech Communications|
+|13|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|72.10.164.178|21925|Canada|Montreal|GloboTech Communications|
+|17|134.35.235.108|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|190.120.255.205|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
 
 
 
