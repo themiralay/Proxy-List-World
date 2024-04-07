@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|9|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|10|183.80.23.179|4153|Vietnam|Hanoi|FPT Telecom Company|
-|11|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|67.43.227.227|16687|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|2317|Canada|Montreal|GloboTech Communications|
-|18|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|19|67.43.228.253|8101|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|2297|Canada|Montreal|GloboTech Communications|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|8|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|67.43.228.253|8101|Canada|Montreal|GloboTech Communications|
+|16|183.80.23.179|4153|Vietnam|Hanoi|FPT Telecom Company|
+|17|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|18|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|19|138.117.84.172|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
