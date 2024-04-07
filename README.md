@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|222.127.67.204|8085|Philippines|Lahug|INNOVE|
-|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|12|67.43.227.227|17661|Canada|Montreal|GloboTech Communications|
-|13|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|14|72.10.164.178|1929|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|5697|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|32637|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|5697|Canada|Montreal|GloboTech Communications|
-|18|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
-|19|72.10.164.178|1929|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1929|Canada|Montreal|GloboTech Communications|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|67.43.236.20|24383|Canada|Montreal|GloboTech Communications|
+|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|10|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|11|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|13|72.10.164.178|28763|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|28763|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|25949|Canada|Montreal|GloboTech Communications|
+|16|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|67.43.227.227|1555|Canada|Montreal|GloboTech Communications|
+|18|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|19|67.43.228.253|25949|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|1555|Canada|Montreal|GloboTech Communications|
 
 
 
