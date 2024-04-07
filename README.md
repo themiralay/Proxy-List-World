@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|103.246.78.21|8080|Indonesia|Pemalang|PT Saka Media Komunika|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|67.43.228.253|16427|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|1945|Canada|Montreal|GloboTech Communications|
+|8|24.152.58.22|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|9|31.146.116.18|8080|Georgia|Batumi|JSC "Silknet"|
+|10|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|67.43.236.20|19785|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|3599|Canada|Montreal|GloboTech Communications|
+|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 |16|72.10.160.174|3699|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|1945|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|19785|Canada|Montreal|GloboTech Communications|
-|19|103.46.4.7|3030|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|20|72.10.164.178|1945|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|31241|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|72.10.164.178|3599|Canada|Montreal|GloboTech Communications|
 
 
 
