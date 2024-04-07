@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|138.197.81.54|8080|United States|Clifton|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|138.197.81.54|8080|United States|Clifton|DigitalOcean, LLC|
-|9|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|203.142.77.226|8080|Indonesia|Semarang|BIZNET|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|13|64.225.8.118|10007|United States|Clifton|DigitalOcean, LLC|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|72.10.160.170|2841|Canada|Montreal|GloboTech Communications|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|67.43.236.20|18589|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|3599|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|26129|Canada|Montreal|GloboTech Communications|
+|13|38.51.52.193|999|Dominican Republic|Las Terrenas|CV HOTSPOT, S.R.L.|
+|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|188.209.241.112|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|17|91.185.84.228|3128|Russia|Moscow|CloudMTS|
+|18|103.174.175.99|8085|Indonesia|Bekasi|PT Lintas Teknologi Solusindo|
+|19|103.99.27.3|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
+|20|103.105.55.170|8085|Indonesia|Klaten|PT. Mega Artha Lintas Data|
 
 
 
