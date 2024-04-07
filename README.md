@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.156.17.153|8080|Indonesia|Indramayu|RSTNET|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|13|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|12|202.148.16.150|8080|Indonesia|Bekasi|PT. Core Mediatech|
+|13|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|14|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
-|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|103.156.17.153|8080|Indonesia|Indramayu|RSTNET|
+|17|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
+|18|103.156.75.41|8181|Indonesia|Singaraja|PT Trika Global Media|
+|19|36.50.253.66|8080|Indonesia|Singosari|PT Capoeng Digital Nusantara|
+|20|1.10.141.45|8080|Thailand|Bang Phli|TOT Public Company Limited|
 
 
 
