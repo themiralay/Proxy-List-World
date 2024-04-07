@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|134.35.116.151|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
-|11|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|167.172.238.6|10017|United States|Clifton|DigitalOcean, LLC|
-|18|72.10.164.178|33059|Canada|Montreal|GloboTech Communications|
-|19|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
-|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
+|14|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
+|15|167.172.238.6|10019|United States|Clifton|DigitalOcean, LLC|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|72.10.164.178|26861|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
