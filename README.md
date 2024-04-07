@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|103.162.141.146|8085|Indonesia|Tanjung Pinang|PT Filltech Antar Nusa|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|67.43.236.18|20523|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|4819|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.160.90|4107|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|31707|Canada|Montreal|GloboTech Communications|
-|16|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|72.10.160.90|27125|Canada|Montreal|GloboTech Communications|
+|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|14|67.43.236.18|20523|Canada|Montreal|GloboTech Communications|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|67.43.227.228|4819|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|26939|Canada|Montreal|GloboTech Communications|
 |19|67.43.236.20|31707|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|27647|Canada|Montreal|GloboTech Communications|
+|20|103.14.251.58|8080|Cambodia|Phnom Penh|SIGROUPS|
 
 
 
