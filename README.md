@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.154.35.190|8080|Thailand|Vadhana|CAT Telecom Public Company Limited|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|122.154.35.190|8080|Thailand|Vadhana|CAT Telecom Public Company Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|134.35.7.24|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|5|120.28.220.100|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|6|103.199.214.154|8080|India|Ambāla|RailTel Corporation|
-|7|181.29.205.47|8085|Argentina|Buenos Aires|Telecom Argentina S.A|
-|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
-|12|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|13|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|209.97.150.197|3128|United States|Clifton|DigitalOcean, LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
-|18|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|19|203.177.133.236|8080|Philippines|Calapan|Globe Telecom|
-|20|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.146.16.244|8888|United States|Phoenix|Oracle Corporation|
+|9|204.199.97.86|999|Colombia|Tuluá|CTL Colombia|
+|10|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|72.10.164.178|12125|Canada|Montreal|GloboTech Communications|
+|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|15|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|72.10.160.171|9661|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|12125|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|12125|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|25733|Canada|Montreal|GloboTech Communications|
+|20|50.235.247.114|8085|United States|Henrico|Comcast Cable Communications, LLC|
 
 
 
