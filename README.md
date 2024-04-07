@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|86.190.139.131|80|United Kingdom|Kensington|BT Public Internet Service|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|101.109.88.217|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|103.172.70.138|9191|Indonesia|Cirebon|AZNET|
-|13|38.183.144.117|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.236.20|5809|Canada|Montreal|GloboTech Communications|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|101.109.88.217|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
+|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|18|103.164.235.53|21251|Indonesia|Tasikmalaya|PT Bantani Media Utama|
+|19|67.43.228.253|2195|Canada|Montreal|GloboTech Communications|
+|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
