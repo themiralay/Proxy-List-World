@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|103.234.31.66|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|13|134.35.5.204|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|16|190.110.35.110|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|19|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|38.158.202.82|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|142.93.196.242|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|72.10.160.90|17265|Canada|Montreal|GloboTech Communications|
+|20|68.183.48.146|10012|United States|Clifton|DigitalOcean, LLC|
 
 
 
