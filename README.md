@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|103.162.62.111|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
-|14|101.109.88.217|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
-|15|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|103.162.16.47|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|18|187.108.40.253|8080|Brazil|São Paulo|America-NET Ltda.|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|101.109.88.217|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|72.10.164.178|21685|Canada|Montreal|GloboTech Communications|
 
 
 
