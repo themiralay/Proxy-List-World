@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|72.10.164.178|20223|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|20223|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|29411|Canada|Montreal|GloboTech Communications|
-|12|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|67.43.228.253|21459|Canada|Montreal|GloboTech Communications|
-|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|72.10.164.178|20223|Canada|Montreal|GloboTech Communications|
-|17|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|18|67.43.236.20|17831|Canada|Montreal|GloboTech Communications|
-|19|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
-|20|67.43.227.227|1799|Canada|Montreal|GloboTech Communications|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|9|67.43.228.251|19141|Canada|Montreal|GloboTech Communications|
+|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|45.70.236.150|999|Ecuador|Puebloviejo|Ufinet Panama S.A.|
+|15|72.10.160.172|12103|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|72.10.164.178|18085|Canada|Montreal|GloboTech Communications|
+|18|185.14.233.40|8080|Czechia|Říčany|INTERCONNECT s.r.o.|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|200.110.171.197|999|Colombia|Pereira|Media Commerce Partners S.A|
 
 
 
