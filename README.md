@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|103.165.155.77|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|6|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|7|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.189.249.163|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|12|103.218.25.245|8080|Bangladesh|Dhaka|Carnival Internet|
+|11|78.101.27.7|8080|Qatar|Doha|Qtel-ADSL|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|46.10.229.243|8080|Bulgaria|Tsalapitsa|Vivacom Bulgaria EAD|
-|16|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|67.43.236.20|28359|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|23611|Canada|Montreal|GloboTech Communications|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
+|18|67.43.236.20|32949|Canada|Montreal|GloboTech Communications|
+|19|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
+|20|72.10.160.172|32965|Canada|Montreal|GloboTech Communications|
 
 
 
