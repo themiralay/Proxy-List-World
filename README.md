@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|188.209.250.216|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|10|103.124.198.190|3125|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|11|38.7.17.163|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
-|12|83.167.24.13|8080|Russia|Yekaterinburg|Insys LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|67.43.228.253|2137|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17303|Canada|Montreal|GloboTech Communications|
-|18|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
-|19|67.43.236.20|15631|Canada|Montreal|GloboTech Communications|
-|20|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|102.176.103.134|8080|Ghana|Accra|Vodafone Ghana|
+|6|103.124.198.190|3125|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|7|72.10.160.90|23651|Canada|Montreal|GloboTech Communications|
+|8|188.209.250.216|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|12|72.10.164.178|2893|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|2893|Canada|Montreal|GloboTech Communications|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|17|67.43.236.20|9713|Canada|Montreal|GloboTech Communications|
+|18|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|19|72.10.160.92|25347|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|25721|Canada|Montreal|GloboTech Communications|
 
 
 
