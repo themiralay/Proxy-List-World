@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
-|7|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|8|103.180.247.6|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|9|88.250.60.33|8080|Turkey|Erzurum|TurkTelecom|
-|10|103.156.57.118|8080|Indonesia|Batam|PT Filltech Antar Nusa|
-|11|66.27.58.70|8080|United States|Anaheim|Spectrum|
-|12|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
-|13|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|213.133.98.201|1369|Germany|Nuremberg|Hetzner Online GmbH|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.156.57.118|8080|Indonesia|Batam|PT Filltech Antar Nusa|
+|13|131.117.166.7|8080|Yemen|Al Manşūrīyah|Public Telecommunication Corporation|
+|14|103.1.93.55|32650|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
 |15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|91.185.38.105|7050|Russia|Moscow|JSC "ER-Telecom Holding"|
-|18|72.10.164.178|8985|Canada|Montreal|GloboTech Communications|
-|19|103.167.170.6|3125|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|20|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|16|103.155.166.93|8181|Indonesia|Bogor|PT Network Lintas Fiberindo|
+|17|72.10.164.178|1191|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|1191|Canada|Montreal|GloboTech Communications|
+|19|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|67.43.227.228|7513|Canada|Montreal|GloboTech Communications|
 
 
 
