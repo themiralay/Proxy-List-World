@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|192.141.196.129|8080|Brazil|Jandira|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
-|10|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|45.114.145.199|32650|India|Jaipur|Tejays Dynamic Limited|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|45.189.252.245|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|6|103.173.138.171|8080|Indonesia|Tanggamus|PT Serayu Multi Connection|
+|7|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|41.254.53.70|1976|Libya|Waddān|LTT Network Backbone and POPs|
+|12|176.222.224.1|8118|Czechia|Kladno|Cable-NET s.r.o.|
+|13|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|14|45.238.58.1|999|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
 |15|200.7.11.154|8080|Brazil|Goiatuba|Conexao Telematica XcelLink|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
