@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|101.109.176.203|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|9|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|67.43.227.227|3573|Canada|Montreal|GloboTech Communications|
-|12|200.201.142.18|8080|Brazil|Embu das Artes|Telium Telecomunicações Ltda|
-|13|72.10.160.174|26131|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|5679|Canada|Montreal|GloboTech Communications|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|67.43.227.228|2973|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|5679|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|10847|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|10847|Canada|Montreal|GloboTech Communications|
-|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|101.109.176.203|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|165.22.36.164|10003|United States|Clifton|DigitalOcean, LLC|
+|10|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|103.154.230.82|5678|Indonesia|Lamongan|DIGITNET|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|67.43.228.253|20067|Canada|Montreal|GloboTech Communications|
+|15|165.16.42.173|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|18|72.10.160.170|11919|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|13105|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.19|20313|Canada|Montreal|GloboTech Communications|
 
 
 
