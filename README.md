@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|118.172.239.231|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|134.35.189.135|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|202.70.145.26|4995|Pakistan|Rawalpindi|Pakistan Telecommuication company limited|
-|8|186.156.161.235|3128|Chile|Macul|VTR BANDA ANCHA S.A.|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|38.7.109.253|8080|Mexico|Tuxtla Gutiérrez|Grupo Convergente Arzola|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|67.43.236.20|16709|Canada|Montreal|GloboTech Communications|
-|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|14|67.43.228.252|21843|Canada|Montreal|GloboTech Communications|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|72.10.164.178|22973|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|22973|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|9153|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|22973|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|22973|Canada|Montreal|GloboTech Communications|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
+|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|9|67.43.236.20|21329|Canada|Montreal|GloboTech Communications|
+|10|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|11|179.189.48.253|8080|Brazil|Sinop|EVO Networks|
+|12|67.43.227.226|9153|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|23871|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|23871|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|3767|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.171|6607|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|2003|Canada|Montreal|GloboTech Communications|
+|18|103.176.97.166|8080|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|19|180.191.254.130|8080|Philippines|General Trias|Globe Telecom|
+|20|190.128.152.37|8080|Paraguay|Asunción|Telecel S.A.|
 
 
 
