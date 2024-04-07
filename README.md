@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|9|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|10|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|11|103.167.170.6|3125|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|12|97.76.251.138|8080|United States|Tampa|Spectrum|
-|13|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|14|67.43.228.253|28477|Canada|Montreal|GloboTech Communications|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|5.161.219.250|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|19|178.32.57.118|1970|United Kingdom|Southwark|OVH ISP|
-|20|67.43.227.227|20917|Canada|Montreal|GloboTech Communications|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.156.57.118|8080|Indonesia|Batam|PT Filltech Antar Nusa|
+|7|103.182.213.13|8080|Bangladesh|Tongi|Rapid Network|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.1.93.55|32650|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|10|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|11|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|12|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|103.93.216.58|8080|Pakistan|Karachi|Rising Cable Net (Pvt) Ltd|
+|14|5.161.219.250|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|16|190.85.122.27|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|17|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|18|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|19|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|66.223.176.201|8080|United States|Fairbanks|General Communication|
 
 
 
