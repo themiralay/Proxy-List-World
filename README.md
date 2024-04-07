@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|223.206.46.158|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|95.165.163.187|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|101.51.55.153|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|123.182.59.229|8089|China|Zhangjiakou|China Telecom|
-|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
-|20|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|61.254.81.88|9000|South Korea|Gwangjin-gu|SK Broadband Co Ltd|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
+|17|103.147.247.79|8080|Indonesia|Tangerang|PLBNET|
+|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
