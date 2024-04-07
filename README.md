@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|183.80.23.179|4153|Vietnam|Hanoi|FPT Telecom Company|
-|4|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|67.43.227.227|10655|Canada|Montreal|GloboTech Communications|
-|10|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|10|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|11|103.156.14.18|8080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
+|12|67.43.227.227|14929|Canada|Montreal|GloboTech Communications|
 |13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|67.43.228.251|23069|Canada|Montreal|GloboTech Communications|
-|16|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|17|102.39.139.56|8080|South Africa|Saldanha|Vox Telecom|
-|18|45.174.46.5|999|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
-|19|139.226.163.48|3128|China|Shanghai|China Unicom Shanghai network|
-|20|67.43.236.20|2731|Canada|Montreal|GloboTech Communications|
+|14|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|67.43.236.20|15777|Canada|Montreal|GloboTech Communications|
+|17|183.80.23.179|4153|Vietnam|Hanoi|FPT Telecom Company|
+|18|103.230.81.135|8080|Indonesia|Banten|PT. Pandeglang Akses Semesta|
+|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|20|103.165.211.174|3128|Indonesia|Malang|PT iForte Global Internet|
 
 
 
