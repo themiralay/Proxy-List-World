@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|103.148.216.121|8080|Bangladesh|Dhaka|Little Boys|
-|6|222.127.75.23|8085|Philippines|Lahug|INNOVE|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|141.145.210.110|3128|France|Paris|Oracle Corporation|
-|13|103.132.52.210|3128|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
-|14|67.43.236.18|24747|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|6137|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|4171|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|6717|Canada|Montreal|GloboTech Communications|
-|18|74.208.29.124|3128|United States|Philadelphia|IONOS SE|
-|19|67.43.227.230|15795|Canada|Montreal|GloboTech Communications|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|9|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
+|10|67.43.236.18|6235|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|6137|Canada|Montreal|GloboTech Communications|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|14|72.10.160.90|7027|Canada|Montreal|GloboTech Communications|
+|15|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
+|16|152.0.35.222|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|17|123.182.59.213|8089|China|Zhangjiakou|China Telecom|
+|18|67.43.227.227|20397|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|19201|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
