@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|206.189.33.77|8888|Singapore|Singapore|DigitalOcean, LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
 |6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|180.183.143.93|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|8|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
+|9|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|58.69.247.70|8083|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|12|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
-|13|103.17.182.37|9091|Indonesia|Jakarta|PT Tinelo Digital Network|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|16|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|183.165.226.198|8089|China|Shenzhen|Chinanet|
-|19|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
-|20|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|11|115.248.66.131|3129|India|Hyderabad|Reliance Communications Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|15|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|66.54.106.56|8080|United States|Itta Bena|Mobile Communications, LLC|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|20|103.167.151.232|3128|Singapore|Singapore|HostHatch|
 
 
 
