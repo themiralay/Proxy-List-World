@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|3|119.76.142.132|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|4|36.93.61.193|65432|Indonesia|Ciputat|Telekomunikasi Indonesia|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|103.155.196.114|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|15|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|16|67.43.227.227|17667|Canada|Montreal|GloboTech Communications|
-|17|122.228.210.117|59394|China|Lipu|China Telecom|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
+|13|103.15.140.177|44759|Bangladesh|Khulna|ICC COMMUNICATION|
+|14|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|85.94.24.29|1488|Russia|Moscow|PJSC Rostelecom|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 |18|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.227.227|17667|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|12227|Canada|Montreal|GloboTech Communications|
+|19|122.228.210.117|59394|China|Lipu|China Telecom|
+|20|72.10.164.178|32661|Canada|Montreal|GloboTech Communications|
 
 
 
