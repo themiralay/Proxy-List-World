@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|45.233.67.200|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|37.204.157.91|41890|Russia|Moscow|NCNET|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.227.227|16129|Canada|Montreal|GloboTech Communications|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|12|45.176.97.90|999|Dominican Republic|Santo Domingo|Cable Onda Oriental, SRL|
+|13|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|200.108.190.185|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|16|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|20|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
 
 
 
