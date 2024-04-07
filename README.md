@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|72.10.164.178|11221|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.173|8167|Canada|Montreal|GloboTech Communications|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|72.10.160.173|8167|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|8881|Canada|Montreal|GloboTech Communications|
+|10|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 |11|67.43.227.227|4165|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|4165|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|11221|Canada|Montreal|GloboTech Communications|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|182.79.60.210|3129|India|Mumbai|Bharti Airtel|
-|16|67.43.236.20|5389|Canada|Montreal|GloboTech Communications|
-|17|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|19|67.43.236.20|5389|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|18875|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|8881|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|4165|Canada|Montreal|GloboTech Communications|
+|14|103.175.202.86|8080|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
+|17|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|18|67.43.227.227|4165|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|18875|Canada|Montreal|GloboTech Communications|
+|20|181.60.225.210|999|Colombia|Bogotá|Telmex Colombia S.A.|
 
 
 
