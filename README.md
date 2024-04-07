@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
-|9|103.169.130.36|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|72.10.164.178|17221|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.172|2635|Canada|Montreal|GloboTech Communications|
-|13|200.229.224.221|8080|Brazil|Rio de Janeiro|Wireless Comm Services LTDA|
-|14|67.43.227.227|15961|Canada|Montreal|GloboTech Communications|
-|15|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|16|72.10.160.90|30233|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17221|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.160.90|30233|Canada|Montreal|GloboTech Communications|
-|20|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
+|8|101.33.77.131|8081|South Korea|Seoul|Aceville Pte.ltd|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|11|103.189.116.180|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|12|72.10.160.90|30233|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|27451|Canada|Montreal|GloboTech Communications|
+|14|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|15|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|200.125.170.106|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|67.43.227.228|26349|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|4015|Canada|Montreal|GloboTech Communications|
+|20|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
 
 
 
