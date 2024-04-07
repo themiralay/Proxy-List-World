@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|103.162.141.146|8085|Indonesia|Tanjung Pinang|PT Filltech Antar Nusa|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|72.10.160.174|27585|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|7923|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|32901|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|2103|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|7923|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|1467|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|2523|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|72.10.160.170|25707|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|32901|Canada|Montreal|GloboTech Communications|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|186.125.235.213|999|Argentina|Simoca|Telecom Argentina S.A.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|72.10.164.178|30483|Canada|Montreal|GloboTech Communications|
+|15|45.234.60.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|16|67.43.228.250|1467|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.94|8033|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|2053|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.19|29583|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
