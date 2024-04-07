@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|13|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|14|72.10.164.178|14943|Canada|Montreal|GloboTech Communications|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|11|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|16|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|17|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 |18|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|19|67.43.236.20|6451|Canada|Montreal|GloboTech Communications|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 
 
 
