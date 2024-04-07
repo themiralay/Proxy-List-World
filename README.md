@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|9|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|11|218.145.131.182|443|South Korea|Seongnam-si|Korea Telecom|
-|12|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|13|103.159.195.233|9091|Indonesia|Demak|PT Giga Digital Nusantara|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|210.156.35.196|80|Japan|Tamukai|Research Organization of Information and Systems, National Institute of Informa|
-|17|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|18|72.10.164.178|10421|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|12521|Canada|Montreal|GloboTech Communications|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|38.156.74.89|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|11|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|12|72.10.160.171|12521|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|10421|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|10421|Canada|Montreal|GloboTech Communications|
+|15|103.9.188.228|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|45.58.52.5|80|United States|Dallas|HostUS|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|20|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
 
 
 
