@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.54.26.187|3128|South Korea|Gwanak-gu|Korea Telecom|
-|2|110.78.186.121|8080|Thailand|Rayong|CAT-BB|
-|3|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|77.41.146.13|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|134.35.5.204|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|72.10.164.178|2481|Canada|Montreal|GloboTech Communications|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|67.43.227.227|28721|Canada|Montreal|GloboTech Communications|
-|19|91.108.130.111|32650|Iran|Ahvaz|Rayaneh Gostar Farzanegan Ahvaz LTD|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|1|110.78.186.121|8080|Thailand|Rayong|CAT-BB|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|77.41.146.13|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|10|181.233.62.9|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|187.50.29.242|8080|Brazil|Itirapina|Vivo|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|72.10.164.178|6521|Canada|Montreal|GloboTech Communications|
+|16|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
+|17|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|18|72.10.160.174|2857|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|6521|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|6521|Canada|Montreal|GloboTech Communications|
 
 
 
