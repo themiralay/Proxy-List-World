@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|6|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
-|7|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
-|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|9|72.10.160.90|30951|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|30951|Canada|Montreal|GloboTech Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|67.43.227.227|10717|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|2367|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|10717|Canada|Montreal|GloboTech Communications|
-|15|114.106.171.14|8089|China|Rongcheng|Chinanet|
-|16|67.43.227.227|10717|Canada|Montreal|GloboTech Communications|
-|17|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|18|67.43.227.227|10717|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|10717|Canada|Montreal|GloboTech Communications|
-|20|178.18.241.49|80|Germany|Frankfurt am Main|Contabo GmbH|
+|6|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|7|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|8|114.106.171.14|8089|China|Rongcheng|Chinanet|
+|9|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
+|10|103.162.62.111|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|72.10.164.178|18213|Canada|Montreal|GloboTech Communications|
+|13|103.162.63.162|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|14|67.43.227.227|18327|Canada|Montreal|GloboTech Communications|
+|15|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|178.18.241.49|80|Germany|Frankfurt am Main|Contabo GmbH|
+|17|67.43.228.253|2367|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|72.10.164.178|18213|Canada|Montreal|GloboTech Communications|
+|20|50.84.48.130|8080|United States|Carrollton|Spectrum|
 
 
 
