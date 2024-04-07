@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |9|205.234.156.124|3128|United States|Los Angeles|Hosteons Pte. Ltd|
-|10|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|67.43.227.227|1789|Canada|Montreal|GloboTech Communications|
-|12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|13|162.252.151.113|8282|United States|Brookville|ALTIUS Broadband, LLC|
-|14|72.10.160.170|18549|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|3067|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|19007|Canada|Montreal|GloboTech Communications|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|72.10.164.178|15989|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|18549|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|19007|Canada|Montreal|GloboTech Communications|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|12|72.10.160.90|3067|Canada|Montreal|GloboTech Communications|
+|13|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|14|72.10.164.178|15865|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|15865|Canada|Montreal|GloboTech Communications|
+|16|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|17|67.43.236.20|2731|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|13739|Canada|Montreal|GloboTech Communications|
+|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|72.10.160.170|18549|Canada|Montreal|GloboTech Communications|
 
 
 
