@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|75.112.64.27|8080|United States|Orlando|Spectrum|
-|10|193.105.123.194|8123|Azerbaijan|Baku|Bulud Telecom LLC|
-|11|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|12|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
-|13|205.164.84.250|8591|Brazil|Buritis|AGIS|
-|14|67.43.236.20|8121|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|26991|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|29287|Canada|Montreal|GloboTech Communications|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|103.148.39.26|82|India|Bengaluru|Broadway Communication Pvt Ltd|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
+|10|67.43.227.227|9023|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|1291|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|23257|Canada|Montreal|GloboTech Communications|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|103.26.177.66|8080|Indonesia|Kediri|PT Lintas Jaringan Nusantara|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|38.156.233.75|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|19|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
 |20|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
 
 
