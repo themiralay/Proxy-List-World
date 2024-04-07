@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|2|49.247.40.126|4000|South Korea|Gwangmyeong|SMILESERV|
+|3|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.151.117.130|999|Mexico|Nogales|UNINET|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
-|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|10|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|11|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|8|203.190.44.225|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|11|177.93.59.54|999|Colombia|Supía|TV AZTECA SUCURSAL COLOMBIA|
 |12|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
-|13|103.179.182.159|8888|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|14|177.200.91.109|12312|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|15|187.85.82.222|55676|Brazil|Prados|Vero S.A|
-|16|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|18|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|77.119.250.129|8080|Austria|Vienna|Network of Hutchison Drei Austria GmbH|
+|15|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|18|45.87.154.214|8118|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
