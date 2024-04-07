@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|200.117.13.75|999|Argentina|Córdoba|Telecom Argentina S.A|
-|8|222.70.81.82|9000|China|Shanghai|China Telecom (Group)|
-|9|103.152.232.61|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|10|67.43.227.227|12443|Canada|Montreal|GloboTech Communications|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|103.173.138.171|8080|Indonesia|Tanggamus|PT Serayu Multi Connection|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|190.61.61.210|999|Colombia|Neiva|Ufinet Panama S.A.|
-|18|67.43.236.18|33159|Canada|Montreal|GloboTech Communications|
-|19|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|12|72.10.164.178|17743|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|17743|Canada|Montreal|GloboTech Communications|
+|14|103.115.20.26|8090|Indonesia|Subang|PMYNET|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
+|17|185.204.0.94|8080|Russia|Moscow|First Server Limited|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|67.43.236.20|23325|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|1299|Canada|Montreal|GloboTech Communications|
 
 
 
