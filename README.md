@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|110.78.186.81|8080|Thailand|Rayong|CAT-BB|
+|1|110.78.186.81|8080|Thailand|Rayong|CAT-BB|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|115.42.44.2|80|India|Jhānsi|Webline Broadband Pvt Ltd|
-|10|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
-|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|67.43.236.20|5135|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|72.10.164.178|1425|Canada|Montreal|GloboTech Communications|
-|15|94.102.228.101|32650|Montenegro|Podgorica|One Crna Gora DOO|
-|16|72.10.164.178|1425|Canada|Montreal|GloboTech Communications|
-|17|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|18|67.43.227.227|4261|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|4261|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|4261|Canada|Montreal|GloboTech Communications|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|7|72.10.164.178|32473|Canada|Montreal|GloboTech Communications|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
+|12|209.14.115.33|999|Colombia|Bogotá|AGIS|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|67.43.227.227|4507|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.94|20497|Canada|Montreal|GloboTech Communications|
+|19|200.101.150.202|8080|Brazil|Curitiba|V tal|
+|20|72.10.164.178|32473|Canada|Montreal|GloboTech Communications|
 
 
 
