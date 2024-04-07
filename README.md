@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|6|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|13|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|14|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
-|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|19|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|20|67.43.227.228|7039|Canada|Montreal|GloboTech Communications|
+|10|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|103.169.131.58|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|45.174.79.8|999|Mexico|Ciudad Delicias|Raul Duarte Urita|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|18|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|19|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 
 
 
