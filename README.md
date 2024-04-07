@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |10|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
-|19|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
+|15|202.148.16.150|8080|Indonesia|Bekasi|PT. Core Mediatech|
+|16|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|17|103.153.247.70|8080|Indonesia|Jakarta|PRIMAHOME|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
