@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|2|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 |6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|7|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|13|103.186.8.162|8080|Indonesia|Lumajang|PRISMA|
-|14|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|18|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|15|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|83.167.24.13|8080|Russia|Yekaterinburg|Insys LLC|
+|19|180.191.22.197|8082|Philippines|Cabanatuan City|Globe Telecom|
+|20|34.154.161.152|80|Italy|Milan|Google LLC|
 
 
 
