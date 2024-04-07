@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|158.180.68.39|3128|South Korea|Chuncheon|Oracle Corporation|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|1|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|103.162.141.146|8085|Indonesia|Tanjung Pinang|PT Filltech Antar Nusa|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|139.226.163.48|3128|China|Shanghai|China Unicom Shanghai network|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|111.225.153.106|8089|China|Zhoutou|China Telecom|
-|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|72.10.164.178|6587|Canada|Montreal|GloboTech Communications|
-|16|36.88.148.138|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|18|101.255.158.42|8080|Indonesia|Bekasi|PT Remala Abadi|
-|19|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
-|20|41.86.252.91|443|Benin|Cotonou|ISOCEL SA|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|103.145.149.36|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|72.10.160.170|18697|Canada|Montreal|GloboTech Communications|
+|18|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|19|180.191.59.254|8081|Philippines|Cabanatuan City|Globe Telecom|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
