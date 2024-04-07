@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|183.80.23.179|4153|Vietnam|Hanoi|FPT Telecom Company|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|10|103.101.24.77|8080|India|Delhi|Vajra Telecom Pvt Ltd|
-|11|51.91.109.83|80|France|Strasbourg|OVH SAS|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|122.10.101.13|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|183.80.23.179|4153|Vietnam|Hanoi|FPT Telecom Company|
+|4|176.222.224.1|8118|Czechia|Kladno|Cable-NET s.r.o.|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|103.169.189.125|3125|Indonesia|Surabaya|Sarana Media Cemerlang|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|24.152.49.189|999|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|183.80.23.179|4153|Vietnam|Hanoi|FPT Telecom Company|
 |15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|17|183.80.23.179|4153|Vietnam|Hanoi|FPT Telecom Company|
-|18|103.156.75.41|8181|Indonesia|Singaraja|PT Trika Global Media|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|36.64.184.2|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|85.117.56.91|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|19|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
