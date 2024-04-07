@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|149.78.186.161|8888|Brazil|Barueri|Qnax Ltda|
-|11|72.10.164.178|10925|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|26349|Canada|Montreal|GloboTech Communications|
-|13|103.159.194.151|8082|Indonesia|Rembang|PT Giga Digital Nusantara|
-|14|67.43.236.20|2317|Canada|Montreal|GloboTech Communications|
-|15|111.225.152.197|8089|China|Zhoutou|China Telecom|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|12|103.130.82.46|8080|Indonesia|Bengkalis|PT Central Digital Network|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|167.172.238.6|10019|United States|Clifton|DigitalOcean, LLC|
-|18|72.10.164.178|10925|Canada|Montreal|GloboTech Communications|
-|19|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
-|20|72.10.160.91|32289|Canada|Montreal|GloboTech Communications|
+|17|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|18|137.184.216.108|4033|United States|North Bergen|DigitalOcean, LLC|
+|19|111.225.153.87|8089|China|Zhoutou|China Telecom|
+|20|72.10.164.178|24981|Canada|Montreal|GloboTech Communications|
 
 
 
