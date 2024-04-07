@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.33.77|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|206.189.33.77|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|9|134.35.0.53|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|12|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|15|186.125.218.185|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|72.10.160.170|1797|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|1797|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|1451|Canada|Montreal|GloboTech Communications|
-|20|36.91.68.147|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|134.35.0.53|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|14|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|103.111.207.138|80|Indonesia|South Tangerang|PT Cyberindo Aditama|
+|17|72.10.164.178|20093|Canada|Montreal|GloboTech Communications|
+|18|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
+|19|72.10.164.178|20093|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|20093|Canada|Montreal|GloboTech Communications|
 
 
 
