@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|24.183.146.246|8118|United States|Ludlow|Charter Communications|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
-|17|114.106.170.161|8089|China|Rongcheng|Chinanet|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|45.71.113.34|999|Ecuador|Samborondón|Ufinet Panama S.A.|
+|7|5.187.9.10|8080|Georgia|Tbilisi|LLC Skytel|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|11|114.106.170.161|8089|China|Rongcheng|Chinanet|
+|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|67.43.227.228|28757|Canada|Montreal|GloboTech Communications|
+|15|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|16|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|17|67.43.228.253|31517|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|12879|Canada|Montreal|GloboTech Communications|
+|19|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
