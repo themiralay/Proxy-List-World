@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7006** proxies at the latest update. Usable proxies are below.
+> Scraper found **7005** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -24,7 +24,7 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
-|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|1|✅|
+|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|101.109.176.203|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|191.96.100.33|3155|The Netherlands|Amsterdam|NovoServe B.V.|
-|7|200.110.171.197|999|Colombia|Pereira|Media Commerce Partners S.A|
-|8|114.129.2.82|8080|Japan|Chiyoda|NTT SmartConnect Corporation|
-|9|185.208.102.58|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|181.78.95.41|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|67.43.236.20|3209|Canada|Montreal|GloboTech Communications|
-|14|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
-|17|67.43.227.227|31425|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|3209|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|3209|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|31425|Canada|Montreal|GloboTech Communications|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|67.43.236.20|2559|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|10015|Canada|Montreal|GloboTech Communications|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|67.43.228.253|18065|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|14255|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|28459|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.226|4067|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|72.10.164.178|28459|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|2559|Canada|Montreal|GloboTech Communications|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|72.10.164.178|28459|Canada|Montreal|GloboTech Communications|
 
 
 
