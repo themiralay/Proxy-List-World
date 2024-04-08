@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|101.109.176.74|8080|Thailand|Bangkok|TOT Public Company Limited|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|67.43.227.228|2007|Canada|Montreal|GloboTech Communications|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |11|72.10.164.178|2975|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|11823|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|2975|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|72.10.164.178|2975|Canada|Montreal|GloboTech Communications|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|72.10.164.178|2975|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|2481|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|9693|Canada|Montreal|GloboTech Communications|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|14|72.10.164.178|2975|Canada|Montreal|GloboTech Communications|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|67.43.228.253|16231|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|8449|Canada|Montreal|GloboTech Communications|
 
 
 
