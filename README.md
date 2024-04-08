@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
-|9|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|67.43.228.254|12153|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|2193|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|14035|Canada|Montreal|GloboTech Communications|
+|2|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
+|8|67.43.236.19|26731|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.171|26129|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|2193|Canada|Montreal|GloboTech Communications|
+|11|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|12|67.43.228.253|26985|Canada|Montreal|GloboTech Communications|
+|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 |14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|146.56.154.83|21000|South Korea|Seoul|Oracle Corporation|
-|16|67.43.236.19|26731|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|25789|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|12777|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|24817|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|25789|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|20375|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.18|14035|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.254|12153|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|29237|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|2193|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|20375|Canada|Montreal|GloboTech Communications|
 
 
 
