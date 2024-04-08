@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|182.253.111.12|80|Indonesia|Batang|BIZNET|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|103.56.206.93|8181|Indonesia|Cianjur|Argon Data Communication|
-|10|72.10.160.90|1229|Canada|Montreal|GloboTech Communications|
-|11|36.67.208.62|80|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|72.10.160.90|1229|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|28211|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.94|27571|Canada|Montreal|GloboTech Communications|
-|18|103.229.188.37|8080|Philippines|Culasi|Culasi Catv Inc.|
-|19|72.10.164.178|28211|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|1229|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|103.6.223.2|3128|China|Baoshan|China Unicom|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|72.10.160.90|7363|Canada|Montreal|GloboTech Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|72.10.164.178|3175|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|19407|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|7363|Canada|Montreal|GloboTech Communications|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|72.10.160.94|27571|Canada|Montreal|GloboTech Communications|
+|17|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|18|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|19|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|20|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
 
 
 
