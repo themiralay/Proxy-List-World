@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|11|205.234.156.124|3128|United States|Los Angeles|Hosteons Pte. Ltd|
-|12|51.68.199.120|3128|United Kingdom|Purfleet-on-Thames|OVH SAS|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|72.10.160.174|5795|Canada|Montreal|GloboTech Communications|
-|15|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
-|16|67.43.236.20|7187|Canada|Montreal|GloboTech Communications|
-|17|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|103.247.21.225|2024|Indonesia|Bekasi|PT wifian Solution|
+|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|9|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|46.243.171.6|443|Russia|Podolsk|"IT Osoba" LLC|
+|14|67.43.236.20|21339|Canada|Montreal|GloboTech Communications|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
 |19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|103.179.246.30|8080|Pakistan|Bahawalpur|Orbit Networks Private Limited|
 
 
 
