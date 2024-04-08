@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|101.109.176.74|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|186.96.95.205|999|Costa Rica|San José|Telefonica de Costa Rica TC, SA|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|203.150.128.94|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|17|72.10.160.170|12793|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|32087|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|6355|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|14|165.22.36.164|10018|United States|Clifton|DigitalOcean, LLC|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|203.150.128.94|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|72.10.164.178|32325|Canada|Montreal|GloboTech Communications|
 
 
 
