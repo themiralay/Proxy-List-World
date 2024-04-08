@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|4|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|5|38.7.7.209|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|6|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
-|9|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|11|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
-|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|13|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
-|14|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
-|15|72.10.160.173|1981|Canada|Montreal|GloboTech Communications|
-|16|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|17|72.10.160.170|22255|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|25071|Canada|Montreal|GloboTech Communications|
-|19|183.165.249.120|8089|China|Shenzhen|Chinanet|
-|20|72.10.164.178|25071|Canada|Montreal|GloboTech Communications|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|125.26.239.152|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|5|134.35.40.158|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|10|72.10.160.173|1981|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|23817|Canada|Montreal|GloboTech Communications|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|72.10.164.178|23817|Canada|Montreal|GloboTech Communications|
+|14|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|15|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|72.10.164.178|23817|Canada|Montreal|GloboTech Communications|
+|18|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
+|19|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|20|72.10.160.93|10797|Canada|Montreal|GloboTech Communications|
 
 
 
