@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 |11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
 |13|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
 |14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|16|67.43.227.227|29447|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|29801|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|25409|Canada|Montreal|GloboTech Communications|
-|19|89.187.143.153|3128|Czechia|Prague|Network of Coolhousing|
-|20|103.171.240.138|8181|Indonesia|Depok|PT Abs Multimedia Indonesia|
+|15|67.43.228.253|29801|Canada|Montreal|GloboTech Communications|
+|16|36.92.48.103|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|103.145.14.56|8080|Indonesia|Cirebon|PT Pembangunan Sarana Telematika|
+|18|190.97.238.91|999|Venezuela|Maracaibo|Viginet C.A|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
 
 
 
