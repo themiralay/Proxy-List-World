@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|91.185.56.119|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|67.43.227.227|31351|Canada|Montreal|GloboTech Communications|
+|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 |13|187.134.199.229|80|Mexico|Ahome|Uninet S.A. de C.V.|
-|14|114.106.172.121|8089|China|Rongcheng|Chinanet|
-|15|67.43.227.227|31351|Canada|Montreal|GloboTech Communications|
+|14|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|15|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
 |16|67.43.227.227|31351|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|31351|Canada|Montreal|GloboTech Communications|
-|18|183.165.244.159|8089|China|Shenzhen|Chinanet|
-|19|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|20|111.225.152.156|8089|China|Zhoutou|China Telecom|
+|17|67.43.227.228|31581|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|14481|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|67.43.227.227|31351|Canada|Montreal|GloboTech Communications|
 
 
 
