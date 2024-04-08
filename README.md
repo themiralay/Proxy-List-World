@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|4|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|7|72.10.164.178|8001|Canada|Montreal|GloboTech Communications|
-|8|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|181.10.160.156|8080|Argentina|La Carlota|Telecom Argentina S.A|
+|7|121.200.48.58|8080|India|Coimbatore|WLSNET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|12|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|45.11.95.165|5011|Russia|Moscow|Delta Ltd|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |14|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|185.49.170.20|43626|Spain|Madrid|Olivenet Network S L|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|67.43.227.228|9131|Canada|Montreal|GloboTech Communications|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|38.156.72.166|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|103.16.118.78|8080|Indonesia|Madiun|CV Trustnet Media|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|45.70.236.150|999|Ecuador|Puebloviejo|Ufinet Panama S.A.|
 
 
 
