@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|67.43.236.20|1675|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.173|20619|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.94|8273|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|14851|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|2563|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|13139|Canada|Montreal|GloboTech Communications|
-|15|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|72.10.164.178|2563|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.94|8273|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|14851|Canada|Montreal|GloboTech Communications|
+|9|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|10|67.43.236.20|12861|Canada|Montreal|GloboTech Communications|
+|11|103.176.97.166|8080|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|67.43.236.18|14851|Canada|Montreal|GloboTech Communications|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|72.10.160.94|30665|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|16163|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|2563|Canada|Montreal|GloboTech Communications|
+|18|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
+|19|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|20|72.10.160.173|24451|Canada|Montreal|GloboTech Communications|
 
 
 
