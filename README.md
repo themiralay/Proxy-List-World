@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|4|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|7|67.43.236.18|9213|Canada|Montreal|GloboTech Communications|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|186.215.87.194|8895|Brazil|Campo Grande|TELEFÔNICA BRASIL S.A|
-|10|62.205.169.74|53281|Russia|Moscow|CORBINA|
-|11|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
-|12|67.43.227.227|26509|Canada|Montreal|GloboTech Communications|
-|13|109.74.32.12|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|103.162.63.162|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|15|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
-|16|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|19|124.167.20.48|7777|China|Shuozhou|CNC Group CHINA169 Shan1xi Province Network|
-|20|67.43.236.20|10181|Canada|Montreal|GloboTech Communications|
+|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|7|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
+|8|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|11|67.43.236.20|12777|Canada|Montreal|GloboTech Communications|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|17|72.10.160.171|26129|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|25005|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|29195|Canada|Montreal|GloboTech Communications|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
