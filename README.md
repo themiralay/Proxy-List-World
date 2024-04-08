@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|218.145.131.182|443|South Korea|Seongnam-si|Korea Telecom|
-|7|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
+|8|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
+|10|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
 |11|69.160.223.225|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|14|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|45.235.16.121|27234|Brazil|Itacorubi|Acessoline Telecom|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|20|201.77.108.196|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|12|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|13|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|14|103.170.115.213|2020|Indonesia|Bengkalis|PT Mega Data Akses|
+|15|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|16|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|204.199.194.181|999|Mexico|Izamal|CTL Mexico|
+|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
