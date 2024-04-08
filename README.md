@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|78.38.93.21|3128|Iran|Tehran|Iran Telecommunication Company PJS|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|152.32.187.164|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |12|116.254.117.234|3128|Indonesia|Yogyakarta|PT Media Sarana Data|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|67.43.227.227|8719|Canada|Montreal|GloboTech Communications|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|16|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
-|17|89.58.48.220|10013|Germany|Nuremberg|netcup GmbH|
-|18|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.227.227|8719|Canada|Montreal|GloboTech Communications|
-|20|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|177.8.226.222|9898|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|74.62.179.122|8080|United States|Hawthorne|Charter Communications Inc|
+|17|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
+|20|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
 
 
 
