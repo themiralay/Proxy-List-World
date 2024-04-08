@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|110.77.171.234|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|186.180.64.187|999|Colombia|Cúcuta|Colombia Móvil|
-|12|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
-|13|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|35.243.227.100|80|United States|North Charleston|Google LLC|
-|16|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|62.205.169.74|53281|Russia|Moscow|CORBINA|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
+|7|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|43.245.249.22|8989|Indonesia|Pekanbaru|PT Smart Media Pratama|
+|17|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|18|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|19|103.162.63.161|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
 
 
 
