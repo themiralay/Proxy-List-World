@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|109.74.38.29|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|188.132.222.165|8080|Turkey|Reyhanlı|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|13|72.10.164.178|2285|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|9307|Canada|Montreal|GloboTech Communications|
-|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|72.10.160.173|3141|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|209.45.40.34|999|Peru|Ica|Red Cientifica Peruana|
-|19|72.10.164.178|2285|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|9307|Canada|Montreal|GloboTech Communications|
+|11|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|12|72.10.164.178|9421|Canada|Montreal|GloboTech Communications|
+|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|72.10.164.178|9421|Canada|Montreal|GloboTech Communications|
+|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|67.43.227.227|13213|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|13213|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|13199|Canada|Montreal|GloboTech Communications|
 
 
 
