@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|45.236.104.25|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
-|11|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|103.247.21.225|2024|Indonesia|Bekasi|PT wifian Solution|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|45.229.10.98|8402|Brazil|Rondonópolis|Meganet Telecon Ltda|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|67.43.236.20|7187|Canada|Montreal|GloboTech Communications|
 |13|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|67.43.236.20|7187|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.160.170|21133|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|7187|Canada|Montreal|GloboTech Communications|
+|15|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
-|20|103.66.10.101|8080|India|Kharar|Nitya Internet Private Limited|
+|19|109.201.14.82|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
