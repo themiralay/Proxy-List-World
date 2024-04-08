@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|103.125.70.171|8080|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |7|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|11|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|12|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|9|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
 |15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|17|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |19|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|20|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
 
 
 
