@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
-|8|41.220.134.143|8080|Tanzania|Arusha|Habari Node Ltd|
-|9|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|103.130.4.96|8080|Indonesia|Sendawar|LINTASMAYA|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|41.220.134.11|8080|Tanzania|Arusha|Habari Node Ltd|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|16|67.43.227.227|31163|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|9907|Canada|Montreal|GloboTech Communications|
-|18|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|19|72.10.160.170|14931|Canada|Montreal|GloboTech Communications|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|181.192.27.23|8080|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
+|7|41.220.134.143|8080|Tanzania|Arusha|Habari Node Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|38.52.222.218|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|41.220.134.11|8080|Tanzania|Arusha|Habari Node Ltd|
+|12|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|103.130.4.96|8080|Indonesia|Sendawar|LINTASMAYA|
+|14|67.43.227.227|31163|Canada|Montreal|GloboTech Communications|
+|15|103.78.96.146|80|Indonesia|Jakarta|MORATELINDO|
+|16|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|17|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|18|67.43.227.227|31163|Canada|Montreal|GloboTech Communications|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 
 
 
