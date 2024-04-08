@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|13|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|14|72.10.164.178|15709|Canada|Montreal|GloboTech Communications|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|20|83.85.135.220|80|The Netherlands|Gorinchem|Vodafone Libertel B.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|17|72.10.164.178|2465|Canada|Montreal|GloboTech Communications|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|67.43.236.20|11543|Canada|Montreal|GloboTech Communications|
+|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
