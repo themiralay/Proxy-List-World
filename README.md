@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|36.94.37.39|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|17|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|197.211.45.4|10000|Nigeria|Ibadan|Globacom Limited|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|14|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|49.48.97.91|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|18|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
+|19|139.255.74.124|8080|Indonesia|Gelora|PT. LINKNET|
+|20|222.64.104.82|9000|China|Shanghai|CHINANET-SH|
 
 
 
