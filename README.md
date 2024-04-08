@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|207.181.190.226|9988|United States|York|Websecure, Inc.|
+|2|207.181.190.226|9988|United States|York|Websecure, Inc.|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|189.232.88.177|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|189.232.88.177|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|8|89.187.143.153|3128|Czechia|Prague|Network of Coolhousing|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
+|11|207.181.190.226|9988|United States|York|Websecure, Inc.|
 |12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|158.179.215.122|8080|Spain|Madrid|Oracle Corporation|
-|14|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|15|165.154.46.85|80|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|207.181.190.226|9988|United States|York|Websecure, Inc.|
-|17|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
-|20|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|13|36.90.62.250|8080|Indonesia|Blitar|PT. Telekomunikasi Indonesia|
+|14|89.187.143.153|3128|Czechia|Prague|Network of Coolhousing|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|180.191.16.254|8085|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
