@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|203.150.128.94|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|101.109.176.74|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|10|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|114.130.175.18|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|203.150.128.94|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|15|67.43.236.20|15889|Canada|Montreal|GloboTech Communications|
 |16|72.10.164.178|1353|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|5681|Canada|Montreal|GloboTech Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|103.189.116.18|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|101.109.176.74|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|189.195.139.178|999|Mexico|Churintzio|Mega Cable, S.A. de C.V.|
 
 
 
