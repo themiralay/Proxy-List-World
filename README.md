@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.243.227.100|80|United States|North Charleston|Google LLC|
-|6|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.243.227.100|80|United States|North Charleston|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|190.110.35.229|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|10|35.243.227.100|80|United States|North Charleston|Google LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
-|15|67.43.228.253|8883|Canada|Montreal|GloboTech Communications|
-|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|103.169.187.29|8081|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|10|103.133.27.42|8081|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|45.230.169.9|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
+|18|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
 |19|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
-|20|35.243.227.100|80|United States|North Charleston|Google LLC|
+|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
