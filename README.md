@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|14|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|103.154.230.109|5678|Indonesia|Lamongan|DIGITNET|
-|18|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
-|19|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
-|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|103.255.147.102|83|India|Hyderabad|Pioneer Elabs Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.105.76.49|8080|Indonesia|Malang|GARUDA|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|103.170.100.105|8085|Indonesia|Jakarta|Subnet Data Nusantara|
+|12|103.160.184.222|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|45.188.164.47|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
