@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|5|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
-|6|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|67.43.227.227|25193|Canada|Montreal|GloboTech Communications|
-|14|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|67.43.227.227|25193|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|15621|Canada|Montreal|GloboTech Communications|
-|17|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
-|18|67.43.228.253|1061|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|32007|Canada|Montreal|GloboTech Communications|
-|20|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|4|203.150.113.160|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|12|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|13|67.43.227.227|2125|Canada|Montreal|GloboTech Communications|
+|14|14.140.210.242|32650|India|Ghaziabad|Tata Communications Limited|
+|15|72.10.160.90|16927|Canada|Montreal|GloboTech Communications|
+|16|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|17|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|18|67.43.228.251|20973|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|8209|Canada|Montreal|GloboTech Communications|
+|20|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
 
 
 
