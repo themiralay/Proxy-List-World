@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|134.35.0.80|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|64.225.8.118|10009|United States|Clifton|DigitalOcean, LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|67.43.236.20|25489|Canada|Montreal|GloboTech Communications|
-|12|114.103.89.13|8089|China|Shenzhen|Chinanet|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|15|67.43.227.227|10155|Canada|Montreal|GloboTech Communications|
-|16|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|17|109.200.169.236|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|18|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|19|201.222.83.146|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|134.35.0.80|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|103.179.27.133|8080|Indonesia|Menggala|PT Primadona Media Digitalindo|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|8|109.200.169.236|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|67.43.227.227|12847|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|13521|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|25905|Canada|Montreal|GloboTech Communications|
+|14|64.225.8.118|10009|United States|Clifton|DigitalOcean, LLC|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|67.43.228.250|19903|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|25905|Canada|Montreal|GloboTech Communications|
+|18|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
