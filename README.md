@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|202.180.16.1|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|67.43.228.253|18145|Canada|Montreal|GloboTech Communications|
-|13|94.19.55.3|8080|Russia|St Petersburg|SkyNet LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|72.10.164.178|19067|Canada|Montreal|GloboTech Communications|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|14|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|15|67.43.227.227|19947|Canada|Montreal|GloboTech Communications|
 |16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|72.10.160.171|17093|Canada|Montreal|GloboTech Communications|
-|19|66.223.176.201|8080|United States|Fairbanks|General Communication|
-|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|67.43.228.253|18145|Canada|Montreal|GloboTech Communications|
+|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|72.10.160.171|17093|Canada|Montreal|GloboTech Communications|
+|20|187.49.84.151|8090|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
 
 
 
