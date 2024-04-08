@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|38.188.127.127|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|6|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|7|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|10|103.184.167.26|8080|Indonesia|Tana Toraja Regency|PT Pricom Media Solusi|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|89.58.48.220|10003|Germany|Nuremberg|netcup GmbH|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|128.92.239.190|8080|United States|Long Beach|Spectrum|
-|13|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|14|45.11.95.166|6004|Russia|Moscow|Delta Ltd|
-|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|16|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
-|19|41.209.10.148|8080|Kenya|Nairobi|MTN Business Kenya|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|13|103.90.156.220|8080|India|Nellore|Myguru Online India Pvt Ltd|
+|14|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
+|18|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|72.10.160.90|20675|Canada|Montreal|GloboTech Communications|
 
 
 
