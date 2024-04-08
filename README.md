@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|7|188.164.218.33|8080|Albania|Tirana|Vodafone Albania Sh.A.|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|180.191.16.254|8085|Philippines|Cabanatuan City|Globe Telecom|
-|11|103.131.232.16|80|Australia|Goulburn|RemoteISP Pty Ltd|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|38.252.208.115|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
-|14|67.43.236.20|1373|Canada|Montreal|GloboTech Communications|
-|15|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|16|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|17|72.10.160.90|12383|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|12383|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|28435|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|16269|Canada|Montreal|GloboTech Communications|
+|10|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|13|103.25.193.111|8080|Indonesia|Karawang|UNINA|
+|14|72.10.160.90|15763|Canada|Montreal|GloboTech Communications|
+|15|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|67.43.236.20|1373|Canada|Montreal|GloboTech Communications|
+|18|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|19|72.10.160.172|15919|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|15763|Canada|Montreal|GloboTech Communications|
 
 
 
