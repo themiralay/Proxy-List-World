@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|1|83.167.24.13|8080|Russia|Yekaterinburg|Insys LLC|
+|2|34.154.161.152|80|Italy|Milan|Google LLC|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|83.167.24.13|8080|Russia|Yekaterinburg|Insys LLC|
-|5|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|10|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|11|102.212.30.22|8080|Kenya|Nairobi|Hanif Telecom Limited|
-|12|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|190.217.69.203|999|Colombia|Tumaco|Level 3 Colombia S.A|
+|7|8.242.154.34|999|Colombia|Girardot City|Level 3 Communications, Inc.|
+|8|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|9|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|10|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|11|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|167.172.238.6|10017|United States|Clifton|DigitalOcean, LLC|
 |14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|15|167.172.238.6|10017|United States|Clifton|DigitalOcean, LLC|
-|16|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|183.182.103.2|8080|Laos|Vientiane|Star Telecom|
 
 
 
