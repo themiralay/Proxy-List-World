@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|45.11.95.165|5215|Russia|Moscow|Delta Ltd|
-|6|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|183.88.241.167|8080|Thailand|Rayong|Triple T Broadband Public Company Limited|
-|11|138.121.142.154|8080|Costa Rica|San José|Navegalo S.A.|
-|12|181.78.95.30|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.158.253.187|8027|Indonesia|Brebes|Rapid Network|
-|15|88.150.15.30|8080|Germany|Magdeburg|MDlink online service center GmbH|
-|16|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|103.186.90.41|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|19|186.30.118.116|999|Colombia|Bogotá|ETB - Colombia|
-|20|72.10.164.178|7653|Canada|Montreal|GloboTech Communications|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|159.203.48.63|9005|Canada|Toronto|DigitalOcean, LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.165.234.46|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|15|72.10.164.178|4749|Canada|Montreal|GloboTech Communications|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|72.10.160.92|25149|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
