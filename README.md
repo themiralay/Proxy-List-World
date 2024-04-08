@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|143.137.83.137|999|Dominican Republic|Espaillat Province|Teleoperadora Del Nordeste S.R.L|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|223.247.47.121|8089|China|Rongcheng|Chinanet|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|103.124.139.184|8080|Indonesia|Sukoharjo|Global Media Data Prima|
-|15|72.10.164.178|3201|Canada|Montreal|GloboTech Communications|
-|16|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
-|17|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.175.46.159|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|14|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |18|72.10.160.172|2963|Canada|Montreal|GloboTech Communications|
-|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|72.10.164.178|3201|Canada|Montreal|GloboTech Communications|
+|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
 
 
 
