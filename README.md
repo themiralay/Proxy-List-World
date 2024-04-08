@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|103.153.63.136|8090|Indonesia|Bekasi|IMEDIANET|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|14.143.145.38|80|India|Gurugram|Tata Communications Limited|
+|4|27.147.157.77|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
 |7|188.240.120.28|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|45.236.104.25|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|10|72.10.160.172|2827|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.173|11221|Canada|Montreal|GloboTech Communications|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|72.10.164.178|8185|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.92|25347|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|8185|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|27835|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|8185|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.22|6273|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|7307|Canada|Montreal|GloboTech Communications|
-|20|103.228.244.211|8080|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
+|8|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|103.167.68.51|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
+|11|103.154.92.74|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|12|190.61.44.234|999|Colombia|Aguachica|Ufinet Panama S.A.|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|46.243.171.6|443|Russia|Podolsk|"IT Osoba" LLC|
+|16|103.115.31.181|8090|Indonesia|Depok|HSPNET|
+|17|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|18|46.52.192.171|3128|Russia|Moscow|Krasnoyarsk|
+|19|14.143.145.38|80|India|Gurugram|Tata Communications Limited|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
