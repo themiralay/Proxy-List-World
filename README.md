@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.164.116.172|8080|Indonesia|Jakarta Pusat|SOLUSINET|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|110.77.171.234|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|110.77.171.234|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|15|36.95.213.27|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|165.22.36.164|10012|United States|Clifton|DigitalOcean, LLC|
-|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|18|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|19|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|11|35.243.227.100|80|United States|North Charleston|Google LLC|
+|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|72.10.160.90|4301|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|72.10.164.178|26687|Canada|Montreal|GloboTech Communications|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|67.43.227.227|15879|Canada|Montreal|GloboTech Communications|
 
 
 
