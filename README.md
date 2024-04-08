@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|2|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|11|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|12|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|13|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|11|65.1.244.232|80|India|Mumbai|Amazon.com|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|20|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|20|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
