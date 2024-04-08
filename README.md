@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|8|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|9|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|12|159.203.48.63|9005|Canada|Toronto|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|6|103.148.129.177|8080|Pakistan|Jaranwala|MAC WIFI NETWORKS (PRIVATE) LIMITED|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|103.6.223.2|3128|China|Baoshan|China Unicom|
+|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|12|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
 |16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|72.10.164.178|22113|Canada|Montreal|GloboTech Communications|
-|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|20|181.232.159.143|10101|Paraguay|Minga Guazú|TV 2 S.A.|
+|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 
 
 
