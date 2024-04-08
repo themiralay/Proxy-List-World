@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
-|10|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|11|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|16|82.194.45.218|3128|Bahrain|Hamad Town|Bahrain Telecommunication Company|
+|2|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|7|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|18|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|19|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
