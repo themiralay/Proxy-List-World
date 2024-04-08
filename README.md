@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|200.69.159.177|8080|Argentina|La Plata|Citarella S.A.|
 |7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|72.10.160.173|18473|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|11771|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|26395|Canada|Montreal|GloboTech Communications|
-|15|103.165.212.210|8080|Indonesia|Malang|PT iForte Global Internet|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|72.10.160.90|17827|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|11771|Canada|Montreal|GloboTech Communications|
-|19|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|20|72.10.160.170|10801|Canada|Montreal|GloboTech Communications|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|12|72.10.160.90|17827|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|20041|Canada|Montreal|GloboTech Communications|
+|14|185.132.36.110|3128|United Kingdom|Gloucester|IONOS SE|
+|15|72.10.160.173|18473|Canada|Montreal|GloboTech Communications|
+|16|213.221.46.10|3128|Russia|Moscow|EDN Sovintel|
+|17|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|18|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|19|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|20|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
 
 
 
