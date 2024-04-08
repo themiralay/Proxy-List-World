@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|58.84.20.18|8080|India|Mathura|Power Grid Corporation of India Limited|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|91.236.156.30|8282|Ukraine|Shyshaky|Limited Liability Company AVATOR ISP|
-|13|35.243.227.100|80|United States|North Charleston|Google LLC|
-|14|67.43.227.227|21271|Canada|Montreal|GloboTech Communications|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|16|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|17|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|18|72.10.164.178|9523|Canada|Montreal|GloboTech Communications|
-|19|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|8|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|67.43.227.227|10797|Canada|Montreal|GloboTech Communications|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|35.243.227.100|80|United States|North Charleston|Google LLC|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|67.43.227.226|6755|Canada|Montreal|GloboTech Communications|
+|15|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|16|72.10.164.178|9523|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|9921|Canada|Montreal|GloboTech Communications|
+|18|103.153.63.211|8085|Indonesia|Bekasi|IMEDIANET|
+|19|103.167.151.232|3128|Singapore|Singapore|HostHatch|
 |20|72.10.164.178|9523|Canada|Montreal|GloboTech Communications|
 
 
