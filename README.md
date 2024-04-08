@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|134.35.0.66|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|134.35.0.66|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|5|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|7|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
 |8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|43.153.101.66|16600|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|17|72.10.164.178|13369|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13369|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|20839|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|6219|Canada|Montreal|GloboTech Communications|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|45.224.23.251|999|Ecuador|Hacienda El Carmen|Ufinet Panama S.A.|
+|13|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|14|27.147.219.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|72.10.160.171|2323|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|72.10.164.178|16321|Canada|Montreal|GloboTech Communications|
+|18|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|19|72.10.160.174|6219|Canada|Montreal|GloboTech Communications|
+|20|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
