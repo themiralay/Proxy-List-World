@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|138.197.92.54|10013|United States|Clifton|DigitalOcean, LLC|
-|3|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.169.198.214|8080|Indonesia|Palembang|PT. GLOBAL INAYAH ELEKTRINDO|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|138.197.92.54|10013|United States|Clifton|DigitalOcean, LLC|
-|10|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|11|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|12|205.234.156.124|3128|United States|Los Angeles|Hosteons Pte. Ltd|
-|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|124.217.246.133|9989|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|201.246.118.47|999|Chile|Alto Hospicio|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|67.43.236.20|28795|Canada|Montreal|GloboTech Communications|
-|20|35.200.161.98|80|India|Mumbai|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|138.197.92.54|10013|United States|Clifton|DigitalOcean, LLC|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|138.197.92.54|10013|United States|Clifton|DigitalOcean, LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|67.43.236.20|7009|Canada|Montreal|GloboTech Communications|
+|12|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|15|112.78.131.6|8080|Indonesia|Jagakarsa|Biznet Networks|
+|16|46.250.248.92|3128|United Kingdom|London|Contabo Asia Private Limited|
+|17|187.245.214.7|999|Mexico|Joaquin Miguel Gutierrez|Mega Cable|
+|18|136.233.80.157|4480|India|Chennai|Reliance Jio Infocomm Limited|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 
 
 
