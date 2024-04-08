@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
-|12|72.10.164.178|2343|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|2343|Canada|Montreal|GloboTech Communications|
-|14|111.225.152.197|8089|China|Zhoutou|China Telecom|
-|15|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|16|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|17|72.10.160.171|4589|Canada|Montreal|GloboTech Communications|
-|18|64.225.8.118|10009|United States|Clifton|DigitalOcean, LLC|
-|19|114.106.136.175|8089|China|Rongcheng|Chinanet|
-|20|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|8|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|10|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|11|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|12|67.43.236.20|21509|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|21509|Canada|Montreal|GloboTech Communications|
+|14|64.225.8.118|10009|United States|Clifton|DigitalOcean, LLC|
+|15|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|16|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|17|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|18|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|67.43.228.251|31685|Canada|Montreal|GloboTech Communications|
 
 
 
