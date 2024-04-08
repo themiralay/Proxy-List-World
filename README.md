@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|5|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.156.74.154|8080|Indonesia|Gianyar|PT Trika Global Media|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|14|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|103.76.149.66|8080|Indonesia|Batu|PT. Java Digital Nusantara|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
