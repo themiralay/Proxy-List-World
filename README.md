@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|89.40.142.116|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
-|14|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|89.40.142.116|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|42.200.196.208|8080|Hong Kong|Kwu Tung|PCCW IMSBiz|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|67.43.227.228|19609|Canada|Montreal|GloboTech Communications|
+|13|181.209.82.197|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|67.43.227.227|10337|Canada|Montreal|GloboTech Communications|
-|17|38.50.165.130|999|Dominican Republic|Dajabón|NEXTELECOM, S.R.L.|
-|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|67.43.228.253|17883|Canada|Montreal|GloboTech Communications|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|204.199.120.61|999|Colombia|Pasto|Level 3 Communications, Inc.|
+|17|67.43.227.226|4227|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|17883|Canada|Montreal|GloboTech Communications|
+|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|72.10.164.178|10121|Canada|Montreal|GloboTech Communications|
 
 
 
