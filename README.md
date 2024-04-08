@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|3|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|150.109.68.158|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|192.46.230.135|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|10|72.10.164.178|7557|Canada|Montreal|GloboTech Communications|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
-|13|72.10.160.172|2195|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|17827|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|67.43.228.253|17361|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|25057|Canada|Montreal|GloboTech Communications|
-|18|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|19|205.233.79.202|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|12|14.103.26.198|8000|China|Beijing|BITNET|
+|13|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|14|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
+|15|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|16|72.10.160.90|17827|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.172|2195|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|17827|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|25057|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
