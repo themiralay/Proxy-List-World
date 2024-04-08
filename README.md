@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.155.198.105|8080|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
-|9|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|37.230.144.251|8118|Russia|St Petersburg|St. Petersburg State Unitary Enterprise "Information and Analytical Centre"|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|103.19.59.148|1982|Indonesia|Madiun|BITSNET|
+|12|103.115.242.192|8080|Bangladesh|Dohār|Md. Rashed Mollah|
+|13|134.35.147.50|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 |15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|103.19.59.148|1982|Indonesia|Madiun|BITSNET|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|82.65.249.238|8118|France|La Garenne-Colombes|Proxad / Free SAS|
-|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|17|154.83.29.70|3030|Venezuela|Barinas|internautas system|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|103.146.197.43|4995|Indonesia|Banyuwangi|RIYADNETWORK|
+|20|203.150.128.225|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 
 
 
