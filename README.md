@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|201.182.149.29|999|Ecuador|Zaruma|Esmonsa S.A.|
-|2|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|67.43.236.20|4481|Canada|Montreal|GloboTech Communications|
-|5|72.10.160.170|11221|Canada|Montreal|GloboTech Communications|
-|6|67.43.227.227|5757|Canada|Montreal|GloboTech Communications|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|182.253.177.122|8080|Indonesia|Jakarta Pusat|BIZNET|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |7|67.43.227.227|5757|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.18|24821|Canada|Montreal|GloboTech Communications|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|8|72.10.160.170|26425|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|5757|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|19567|Canada|Montreal|GloboTech Communications|
 |11|67.43.228.253|27125|Canada|Montreal|GloboTech Communications|
-|12|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|14|72.10.160.173|11221|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|19589|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|19589|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|11221|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|14289|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.18|24821|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|4481|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|19567|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|4481|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|72.10.164.178|19567|Canada|Montreal|GloboTech Communications|
 |19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|72.10.164.178|19589|Canada|Montreal|GloboTech Communications|
+|20|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
