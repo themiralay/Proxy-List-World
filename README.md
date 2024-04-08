@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|5|207.181.190.226|9988|United States|York|Websecure, Inc.|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|155.186.141.197|8080|United States|McDonough|Charter Communications|
 |6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.232.88.177|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|7|134.35.234.38|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|12|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|13|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|17|207.181.190.226|9988|United States|York|Websecure, Inc.|
-|18|115.132.165.97|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|19|216.39.249.210|3128|United States|New York|GTHost|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|13|207.181.190.226|9988|United States|York|Websecure, Inc.|
+|14|89.187.143.153|3128|Czechia|Prague|Network of Coolhousing|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|19|207.181.190.226|9988|United States|York|Websecure, Inc.|
+|20|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
 
 
 
