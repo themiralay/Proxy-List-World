@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|114.8.140.114|3128|Indonesia|Gambir|PT. INDOSAT Tbk|
-|6|92.249.113.194|55443|Ukraine|Kyiv|Private "Stock company "Sater"|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|83.167.24.13|8080|Russia|Yekaterinburg|Insys LLC|
-|10|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.159.92.34|3125|Indonesia|Depok|PT Chandela Lintas Media|
-|14|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|19|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|17|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|18|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|19|67.43.228.253|4917|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|14309|Canada|Montreal|GloboTech Communications|
 
 
 
