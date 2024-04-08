@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|9|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|10|200.76.42.203|999|Mexico|Ciudad de Villa de Alvarez|Alestra, S. de R.L. de C.V.|
-|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|103.84.235.162|8789|Indonesia|Karawang|PT Maxindo Mitra Solusi|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.170.115.213|2020|Indonesia|Bengkalis|PT Mega Data Akses|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|103.133.27.97|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|18|113.160.154.23|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
-|19|103.173.139.222|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|20|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|9|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|10|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|67.43.228.253|24323|Canada|Montreal|GloboTech Communications|
+|20|112.213.39.74|3128|Australia|Sydney|Mammoth Media Pty Ltd|
 
 
 
