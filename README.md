@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|38.156.233.77|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|9|191.102.254.53|8085|Argentina|Rosario|IP·RED|
 |10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |11|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |13|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|16|72.10.160.170|11779|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|111.225.153.93|8089|China|Zhoutou|China Telecom|
-|19|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
-|20|67.43.236.20|4625|Canada|Montreal|GloboTech Communications|
+|14|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|72.10.160.170|11565|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|20225|Canada|Montreal|GloboTech Communications|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
