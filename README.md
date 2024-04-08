@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|182.253.111.12|80|Indonesia|Batang|BIZNET|
-|5|188.240.100.213|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|6|103.133.25.245|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|182.253.111.12|80|Indonesia|Batang|BIZNET|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|115.127.65.67|8080|Bangladesh|Dhaka|BRACNet Limited|
 |9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|12|36.67.208.62|80|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|15|5.196.111.29|20233|France|Gravelines|OVH SAS|
-|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|72.10.164.178|14739|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|10531|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|18863|Canada|Montreal|GloboTech Communications|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|72.10.164.178|7627|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|5.196.111.29|20233|France|Gravelines|OVH SAS|
+|14|67.43.227.227|28083|Canada|Montreal|GloboTech Communications|
+|15|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
+|16|67.43.228.253|25015|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|1229|Canada|Montreal|GloboTech Communications|
+|18|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|27.147.131.122|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
