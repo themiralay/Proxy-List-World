@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|7|104.129.199.34|8800|United States|Los Angeles|ZSCALER, INC.|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|67.43.227.227|8027|Canada|Montreal|GloboTech Communications|
-|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|67.43.228.253|24641|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|13139|Canada|Montreal|GloboTech Communications|
+|6|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|104.129.199.34|8800|United States|Los Angeles|ZSCALER, INC.|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|45.84.1.20|10089|Russia|Moscow|Stark Industries Solutions LTD|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|67.43.228.253|24641|Canada|Montreal|GloboTech Communications|
 |15|67.43.228.253|24641|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|28127|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|12861|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.94|30665|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|15863|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28127|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|6359|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|6359|Canada|Montreal|GloboTech Communications|
+|18|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|19|72.10.160.174|7481|Canada|Montreal|GloboTech Communications|
+|20|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
 
 
 
