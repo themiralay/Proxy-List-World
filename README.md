@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|200.69.159.177|8080|Argentina|La Plata|Citarella S.A.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|213.221.46.10|3128|Russia|Moscow|EDN Sovintel|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|5|188.130.240.136|8080|Russia|Pskov|Pskovline Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.126.238.97|7777|Indonesia|Kuala Tungkal|PT Indo Tungkal Net|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |9|211.248.134.103|3128|South Korea|Incheon|Korea Telecom|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|13|172.233.255.11|3128|France|Paris|Akamai Technologies, Inc.|
-|14|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|11|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|134.35.233.215|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|103.193.144.111|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|17|121.236.236.50|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
-|18|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|19|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|20|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|16|111.225.152.89|8089|China|Zhoutou|China Telecom|
+|17|72.10.164.178|15863|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|15863|Canada|Montreal|GloboTech Communications|
+|19|111.225.152.168|8089|China|Zhoutou|China Telecom|
+|20|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
 
 
 
