@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|11|187.188.16.28|999|Mexico|Cancún|Total Play Telecomunicaciones SA De CV|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|67.43.236.22|1799|Canada|Montreal|GloboTech Communications|
-|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|72.10.160.91|19731|Canada|Montreal|GloboTech Communications|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|103.6.223.2|3128|China|Baoshan|China Unicom|
-|18|67.43.236.20|1151|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|9949|Canada|Montreal|GloboTech Communications|
-|20|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|103.165.155.229|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|12|65.1.244.232|80|India|Mumbai|Amazon.com|
+|13|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|72.10.160.90|3843|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.22|1799|Canada|Montreal|GloboTech Communications|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|68.183.48.146|10010|United States|Clifton|DigitalOcean, LLC|
 
 
 
