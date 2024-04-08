@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|91.185.56.119|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|10|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|11|72.10.164.178|12045|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|12045|Canada|Montreal|GloboTech Communications|
-|13|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
-|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|67.43.236.20|30379|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|19377|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|30379|Canada|Montreal|GloboTech Communications|
-|18|103.153.246.210|8080|Indonesia|Depok|PRIMAHOME|
-|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|67.43.227.227|19597|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|91.185.56.119|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|9|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
+|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|67.43.236.20|30379|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|15295|Canada|Montreal|GloboTech Communications|
+|13|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|14|72.10.160.93|11633|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|15295|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|15295|Canada|Montreal|GloboTech Communications|
+|17|95.165.129.55|8833|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|18|180.250.143.189|497|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|103.78.96.146|8181|Indonesia|Jakarta|MORATELINDO|
 
 
 
