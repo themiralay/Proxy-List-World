@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
-|16|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|20|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|16|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|17|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|19|34.154.161.152|80|Italy|Milan|Google LLC|
+|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 
 
 
