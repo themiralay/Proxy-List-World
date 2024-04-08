@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|5|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|103.76.150.32|8080|Indonesia|Citeureup|PT. Java Digital Nusantara|
-|8|72.10.160.92|32413|Canada|Montreal|GloboTech Communications|
-|9|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
-|10|72.10.164.178|21561|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|30943|Canada|Montreal|GloboTech Communications|
-|12|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|72.10.160.92|32413|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|3635|Canada|Montreal|GloboTech Communications|
-|17|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|18|67.43.236.19|17929|Canada|Montreal|GloboTech Communications|
-|19|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
-|20|67.43.228.253|3635|Canada|Montreal|GloboTech Communications|
+|4|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|7|72.10.160.92|32413|Canada|Montreal|GloboTech Communications|
+|8|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|9|67.43.228.253|3635|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.92|32413|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.171|8095|Canada|Montreal|GloboTech Communications|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|67.43.236.20|17211|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.19|17929|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|32769|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|17211|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|8989|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|17211|Canada|Montreal|GloboTech Communications|
+|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|20|103.76.150.32|8080|Indonesia|Citeureup|PT. Java Digital Nusantara|
 
 
 
