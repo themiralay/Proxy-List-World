@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|120.28.221.214|80|Philippines|Cagayan de Oro|Globe Telecom|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|183.165.227.61|8089|China|Shenzhen|Chinanet|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.164.178|3201|Canada|Montreal|GloboTech Communications|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|67.43.228.253|24823|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|29459|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|24823|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|29459|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
+|10|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
+|14|178.251.111.18|8080|Ukraine|Dubov”yazivka|Dataline LLC|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|183.165.227.61|8089|China|Shenzhen|Chinanet|
+|17|67.43.228.253|18867|Canada|Montreal|GloboTech Communications|
+|18|103.186.90.19|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|19|72.10.164.178|10113|Canada|Montreal|GloboTech Communications|
+|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 
 
 
