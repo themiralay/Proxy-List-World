@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|61.129.2.212|8080|China|Beijing|CHINANET|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|80.78.68.87|8080|Albania|Shkodër|ABCom Network|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
 |10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|13|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
+|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |15|67.43.228.252|3207|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|2827|Canada|Montreal|GloboTech Communications|
-|17|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|18|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|19|67.43.236.20|23471|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|28383|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.91|28383|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|29625|Canada|Montreal|GloboTech Communications|
+|18|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 
 
 
