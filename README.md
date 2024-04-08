@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
+|3|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
 |4|51.68.199.120|3128|United Kingdom|Purfleet-on-Thames|OVH SAS|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|114.141.51.160|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|12|178.130.83.100|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|67.43.236.18|21197|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|121.195.170.225|1024|China|Haidian|CERNET|
-|19|67.43.236.22|23501|Canada|Montreal|GloboTech Communications|
-|20|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|72.10.164.178|2789|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|2789|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|2789|Canada|Montreal|GloboTech Communications|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
