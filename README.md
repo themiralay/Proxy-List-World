@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|8|95.47.149.8|8080|Ukraine|Sumy|Sumski Telecom Systems Ltd|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|103.55.33.59|8080|Indonesia|Bandung|UIN Sunan Gunung Djati Bandung|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|13|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|15|67.43.228.253|2637|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|20225|Canada|Montreal|GloboTech Communications|
-|17|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|201.71.2.115|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|20|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|1|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|7|124.217.97.131|8080|Philippines|General Santos|Philippine Long Distance Telephone Co.|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|10|67.43.236.20|20225|Canada|Montreal|GloboTech Communications|
+|11|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
+|12|67.43.228.253|18017|Canada|Montreal|GloboTech Communications|
+|13|103.178.43.21|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
+|14|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|111.225.153.132|8089|China|Zhoutou|China Telecom|
+|19|72.10.164.178|15417|Canada|Montreal|GloboTech Communications|
+|20|223.215.177.122|8089|China|Rongcheng|Chinanet|
 
 
 
