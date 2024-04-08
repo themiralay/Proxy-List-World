@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|89.40.142.116|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
 |10|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|192.46.230.135|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|13|177.19.167.242|80|Brazil|Rio de Janeiro|Vivo|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|14|218.153.133.202|8080|South Korea|Anyang-si|Korea Telecom|
+|15|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
 |20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
