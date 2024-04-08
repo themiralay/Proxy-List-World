@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|134.35.0.66|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|134.35.0.80|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|192.214.193.136|8080|France|Paris|Adista SAS|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|134.35.0.80|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
 |11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|72.10.160.170|7311|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|22895|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|11429|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|22895|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|3797|Canada|Montreal|GloboTech Communications|
-|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|72.10.160.171|2231|Canada|Montreal|GloboTech Communications|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|67.43.228.253|15051|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.171|2323|Canada|Montreal|GloboTech Communications|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|67.43.228.251|4139|Canada|Montreal|GloboTech Communications|
+|18|103.25.210.102|33317|Indonesia|Purwokerto|TRANSDATA|
 |19|67.43.227.227|22895|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|11429|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|15051|Canada|Montreal|GloboTech Communications|
 
 
 
