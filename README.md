@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|203.150.128.94|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|101.109.176.74|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|58.136.236.90|8080|Thailand|Bangkok|AIS-Fibre|
-|15|67.43.228.253|6551|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|10353|Canada|Montreal|GloboTech Communications|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|67.43.236.20|9929|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|67.43.236.20|9929|Canada|Montreal|GloboTech Communications|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|114.9.24.46|3127|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|101.109.176.74|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|58.136.236.90|8080|Thailand|Bangkok|AIS-Fibre|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|203.150.128.94|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|12|202.142.158.114|8080|Pakistan|Karachi|Gerrys Information Technology (PVT) Ltd|
+|13|67.43.228.253|6551|Canada|Montreal|GloboTech Communications|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|17|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|67.43.236.20|26665|Canada|Montreal|GloboTech Communications|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
