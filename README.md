@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|134.35.0.80|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|103.168.169.245|80|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|8|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|9|134.35.0.80|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|10|103.135.7.110|63123|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|11|109.200.169.236|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|12|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|72.10.160.90|18035|Canada|Montreal|GloboTech Communications|
-|15|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|16|67.43.228.253|4627|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|25005|Canada|Montreal|GloboTech Communications|
-|18|8.243.169.14|8080|Colombia|Bogotá|Level 3 Communications, Inc.|
-|19|72.10.164.178|25005|Canada|Montreal|GloboTech Communications|
-|20|192.214.193.136|8080|France|Paris|Adista SAS|
+|5|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|6|109.200.169.236|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|192.214.193.136|8080|France|Paris|Adista SAS|
+|10|103.106.193.5|53281|India|Rewāri|Elyzium Consulting|
+|11|176.32.2.193|8080|Ukraine|Dovzhok|Lanet Network|
+|12|72.10.164.178|22751|Canada|Montreal|GloboTech Communications|
+|13|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|14|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
+|15|62.205.169.74|53281|Russia|Moscow|CORBINA|
+|16|67.43.236.20|6983|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|110.232.67.42|55443|Indonesia|Medan|PT. Media Antar Nusa|
+|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|20|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
 
 
 
