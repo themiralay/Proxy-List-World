@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|11|179.43.8.15|8084|Brazil|Jaicós|Voex Telecom Ltda|
-|12|139.255.36.82|8080|Indonesia|Tangerang|PT. LINKNET|
-|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|103.250.130.104|1111|Indonesia|Surabaya|PT Jawara Lintas Data Nusantara|
-|16|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
-|17|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|18|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|19|67.43.227.227|2935|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|16781|Canada|Montreal|GloboTech Communications|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|144.76.42.215|8118|Germany|Bad Bellingen|Hetzner Online GmbH|
+|17|38.7.109.253|8080|Mexico|Tuxtla Gutiérrez|Grupo Convergente Arzola|
+|18|72.10.160.92|31083|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|14383|Canada|Montreal|GloboTech Communications|
+|20|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
 
 
 
