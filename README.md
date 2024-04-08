@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|207.181.190.226|9988|United States|York|Websecure, Inc.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|206.42.28.150|8800|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
-|14|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|15|157.20.218.31|8080|Indonesia|Wonosobo|SINSUNETWORK|
-|16|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|19|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|20|119.39.68.36|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|13|222.119.186.81|3128|South Korea|Busan|Korea Telecom|
+|14|134.35.234.38|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|221.223.27.59|9000|China|Beijing|China Unicom Beijing Province Network|
+|16|157.20.218.31|8080|Indonesia|Wonosobo|SINSUNETWORK|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|72.10.160.170|11801|Canada|Montreal|GloboTech Communications|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
