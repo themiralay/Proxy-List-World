@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|11|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|12|152.67.0.109|80|India|Mumbai|Oracle Corporation|
-|13|67.43.228.253|3137|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|33085|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|17335|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|3319|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|3319|Canada|Montreal|GloboTech Communications|
-|18|191.102.254.28|8085|Argentina|Rosario|IP·RED|
-|19|67.43.228.251|31967|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|10899|Canada|Montreal|GloboTech Communications|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|218.153.133.202|8080|South Korea|Anyang-si|Korea Telecom|
+|10|191.102.254.28|8085|Argentina|Rosario|IP·RED|
+|11|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|14|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|67.43.236.20|6309|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|6309|Canada|Montreal|GloboTech Communications|
+|18|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|19|205.234.156.124|3128|United States|Los Angeles|Hosteons Pte. Ltd|
+|20|67.43.228.253|12861|Canada|Montreal|GloboTech Communications|
 
 
 
