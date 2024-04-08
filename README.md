@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|6|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|10|185.65.205.174|8080|United Kingdom|London|Binary Racks UK|
+|5|200.39.139.65|999|Chile|Valparaíso|Iconex SPA|
+|6|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|8|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
 |11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
-|13|67.43.236.20|25271|Canada|Montreal|GloboTech Communications|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|101.255.151.69|3125|Indonesia|Bekasi|PT Remala Abadi|
-|16|179.43.8.15|8084|Brazil|Jaicós|Voex Telecom Ltda|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|72.10.164.178|11511|Canada|Montreal|GloboTech Communications|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|67.43.236.20|21163|Canada|Montreal|GloboTech Communications|
+|13|5.161.62.237|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|72.10.164.178|14207|Canada|Montreal|GloboTech Communications|
+|19|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
+|20|103.141.109.237|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
 
 
 
