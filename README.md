@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
-|5|211.175.134.238|80|South Korea|Gwangmyeong|Korea Telecom|
+|3|182.253.177.122|8080|Indonesia|Jakarta Pusat|BIZNET|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|116.50.174.219|8080|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|115.236.55.186|10100|China|Hangzhou|Chinanet|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|129.222.176.138|999|Peru|Lima|SpaceX Starlink|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|45.201.134.38|8080|Cambodia|Phnom Penh|EZECOM Co., Ltd.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|182.253.177.122|8080|Indonesia|Jakarta Pusat|BIZNET|
-|14|72.10.164.178|19567|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|5039|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|5039|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|67.43.236.20|30757|Canada|Montreal|GloboTech Communications|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|67.43.236.18|24821|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|5345|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|5039|Canada|Montreal|GloboTech Communications|
+|14|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|201.91.248.67|20183|Brazil|São Paulo|Vivo|
 |18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|72.10.160.170|13033|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|23735|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|5039|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.172|3763|Canada|Montreal|GloboTech Communications|
 
 
 
