@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
-|6|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|103.95.0.15|8080|Australia|Gold Coast|Channel Wireless Pty Ltd|
-|12|124.6.155.170|3130|Philippines|Taguig|Globe Telecom|
-|13|103.6.223.2|3128|China|Baoshan|China Unicom|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|45.174.46.5|999|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
-|16|67.43.236.20|16277|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|3893|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|13987|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|13987|Canada|Montreal|GloboTech Communications|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|67.43.236.20|7839|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|28427|Canada|Montreal|GloboTech Communications|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|67.43.236.21|13965|Canada|Montreal|GloboTech Communications|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|103.6.223.2|3128|China|Baoshan|China Unicom|
+|17|67.43.228.253|25239|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|20|217.88.66.153|8080|Germany|Traunstein|Deutsche Telekom AG|
 
 
 
