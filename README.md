@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|65.1.244.232|80|India|Mumbai|Amazon.com|
-|5|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |7|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|8|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|72.10.160.90|21041|Canada|Montreal|GloboTech Communications|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|72.10.160.90|21041|Canada|Montreal|GloboTech Communications|
-|14|95.216.67.36|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|67.43.228.253|3007|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|11393|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|24603|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|24603|Canada|Montreal|GloboTech Communications|
-|19|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|20|119.39.68.36|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|14|65.1.244.232|80|India|Mumbai|Amazon.com|
+|15|67.43.227.227|5009|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|5283|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|21657|Canada|Montreal|GloboTech Communications|
+|18|95.216.67.36|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|72.10.160.172|18743|Canada|Montreal|GloboTech Communications|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
