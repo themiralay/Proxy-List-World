@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
 |8|91.185.56.119|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|9|95.165.129.55|8833|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|11|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|12|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
-|16|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.236.20|28369|Canada|Montreal|GloboTech Communications|
-|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|67.43.228.253|15701|Canada|Montreal|GloboTech Communications|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|117.57.92.44|8089|China|Shenzhen|Chinanet|
+|20|67.43.236.20|9683|Canada|Montreal|GloboTech Communications|
 
 
 
