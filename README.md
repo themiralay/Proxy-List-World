@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|203.190.44.200|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|15|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|19|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|11|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|201.71.2.127|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|17|67.43.228.250|16437|Canada|Montreal|GloboTech Communications|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
