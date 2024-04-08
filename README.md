@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
-|2|152.32.67.107|65535|Philippines|Marikina City|Converge ICT Solution Inc|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|10|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|67.43.227.228|31493|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|14635|Canada|Montreal|GloboTech Communications|
-|15|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|17|67.43.236.20|29677|Canada|Montreal|GloboTech Communications|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|8|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|10|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|13|38.156.72.166|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|101.255.208.169|8080|Indonesia|Bekasi|PT Remala Abadi|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|67.43.227.227|25803|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|2603|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
