@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|3|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|7|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|8|188.240.100.213|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|183.165.227.223|8089|China|Shenzhen|Chinanet|
-|12|111.225.153.130|8089|China|Zhoutou|China Telecom|
-|13|103.179.84.203|8080|Indonesia|Dukuh|PT CYB Media Group|
-|14|67.43.236.20|19407|Canada|Montreal|GloboTech Communications|
-|15|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|16|123.182.58.203|8089|China|Zhangjiakou|China Telecom|
-|17|72.10.160.170|12051|Canada|Montreal|GloboTech Communications|
-|18|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|19|182.253.111.12|80|Indonesia|Batang|BIZNET|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|102.164.252.145|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
+|17|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|20|123.182.58.203|8089|China|Zhangjiakou|China Telecom|
 
 
 
