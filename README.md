@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|110.77.171.234|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|128.140.51.69|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|12|72.10.160.90|27637|Canada|Montreal|GloboTech Communications|
-|13|103.124.198.118|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|110.77.171.234|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|144.76.42.215|8118|Germany|Bad Bellingen|Hetzner Online GmbH|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|13|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
-|17|41.111.243.134|80|Algeria|Tizi Ouzou|Algerie Telecom|
-|18|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|19|45.82.15.11|8888|Poland|Warsaw|TimeWeb Ltd.|
-|20|67.43.227.228|11859|Canada|Montreal|GloboTech Communications|
+|15|12.248.41.130|8080|United States|New Orleans|AT&T Services, Inc.|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|67.43.227.227|23987|Canada|Montreal|GloboTech Communications|
+|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|112.198.150.11|8082|Philippines|Carmona|Globe Telecom|
+|20|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
 
 
 
