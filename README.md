@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|6|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|103.59.44.28|8181|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|11|67.43.236.20|4081|Canada|Montreal|GloboTech Communications|
-|12|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|15|67.43.227.227|7433|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|3|183.178.50.58|8080|Hong Kong|Ngau Wu Tok|Hong Kong Broadband Network Ltd|
+|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|5|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|188.164.218.33|8080|Albania|Tirana|Vodafone Albania Sh.A.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|13|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|190.103.61.254|8080|Venezuela|Caracas|Supercable|
+|16|67.43.236.20|2293|Canada|Montreal|GloboTech Communications|
 |17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|18|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|19|72.10.160.92|10557|Canada|Montreal|GloboTech Communications|
-|20|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|18|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
 
 
 
