@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|12|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|101.109.88.217|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
-|14|67.43.227.228|17265|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|67.43.236.20|18739|Canada|Montreal|GloboTech Communications|
-|20|91.211.6.99|8123|Russia|Moscow|Indikom LLC|
+|3|101.33.77.131|8081|South Korea|Seoul|Aceville Pte.ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|202.47.189.106|8080|Indonesia|Jombang|PT.CITRA BERDIKARI NUSANTARA|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|67.43.227.228|16495|Canada|Montreal|GloboTech Communications|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|91.211.6.99|8123|Russia|Moscow|Indikom LLC|
+|19|101.255.116.161|33333|Indonesia|Bekasi|PT Remala Abadi|
+|20|67.43.236.20|8641|Canada|Montreal|GloboTech Communications|
 
 
 
