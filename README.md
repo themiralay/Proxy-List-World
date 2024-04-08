@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
-|8|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
-|9|103.164.117.186|3128|Indonesia|Jakarta Pusat|SOLUSINET|
-|10|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
-|14|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
-|15|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
-|17|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
-|18|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|6|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|67.43.227.228|17265|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|8641|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|17003|Canada|Montreal|GloboTech Communications|
+|15|58.84.20.18|8080|India|Mathura|Power Grid Corporation of India Limited|
+|16|168.228.36.22|27234|Brazil|Rondonópolis|Avato Tecnologia S.A|
+|17|103.16.118.78|8080|Indonesia|Madiun|CV Trustnet Media|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|20|163.47.210.74|8080|India|Pune|Microsense Pvt. Limited|
 
 
 
