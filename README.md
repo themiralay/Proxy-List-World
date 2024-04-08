@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|43.252.236.157|8080|Indonesia|Bogor|NET|
-|16|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|17|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|8|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|9|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|112.213.39.74|3128|Australia|Sydney|Mammoth Media Pty Ltd|
+|15|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|67.43.228.253|25987|Canada|Montreal|GloboTech Communications|
 
 
 
