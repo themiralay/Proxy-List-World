@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|101.109.88.217|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|83.85.135.220|80|The Netherlands|Gorinchem|Vodafone Libertel B.V.|
-|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|68.183.48.146|10012|United States|Clifton|DigitalOcean, LLC|
-|15|72.10.160.172|29953|Canada|Montreal|GloboTech Communications|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|67.43.236.20|17481|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.252|30679|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|24885|Canada|Montreal|GloboTech Communications|
+|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|119.110.68.18|57413|Indonesia|Ciputat|Maxindo|
+|15|68.183.48.146|10012|United States|Clifton|DigitalOcean, LLC|
+|16|72.10.164.178|11681|Canada|Montreal|GloboTech Communications|
+|17|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
+|18|92.255.7.162|8080|Russia|St Petersburg|JSC "Severen-Telecom"|
+|19|72.10.160.172|29953|Canada|Montreal|GloboTech Communications|
+|20|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
 
 
 
