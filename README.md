@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|131.72.137.238|999|Colombia|Bogota D.c.|Osnet SAS|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|13|123.182.59.238|8089|China|Zhangjiakou|China Telecom|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|183.165.226.176|8089|China|Shenzhen|Chinanet|
-|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|17|67.43.228.253|1383|Canada|Montreal|GloboTech Communications|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|103.6.223.2|3128|China|Baoshan|China Unicom|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|67.43.228.253|28893|Canada|Montreal|GloboTech Communications|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|72.10.164.178|22683|Canada|Montreal|GloboTech Communications|
+|15|201.89.89.34|8080|Brazil|Curitiba|V tal|
+|16|123.182.59.238|8089|China|Zhangjiakou|China Telecom|
+|17|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|18|67.43.236.20|31437|Canada|Montreal|GloboTech Communications|
+|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
 
 
 
