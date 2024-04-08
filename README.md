@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|8|41.220.134.143|8080|Tanzania|Arusha|Habari Node Ltd|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|41.220.134.11|8080|Tanzania|Arusha|Habari Node Ltd|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|14|181.192.27.23|8080|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|72.10.160.170|16829|Canada|Montreal|GloboTech Communications|
-|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|67.43.228.250|31721|Canada|Montreal|GloboTech Communications|
-|19|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
-|20|72.10.164.178|21573|Canada|Montreal|GloboTech Communications|
+|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|8|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|103.170.115.180|8080|Indonesia|Bengkalis|PT Mega Data Akses|
+|14|103.130.4.96|8080|Indonesia|Sendawar|LINTASMAYA|
+|15|202.65.158.237|83|India|Hyderabad|Pioneer Elabs Ltd.|
+|16|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|213.221.46.10|3128|Russia|Moscow|EDN Sovintel|
+|19|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|68.183.48.146|10011|United States|Clifton|DigitalOcean, LLC|
 
 
 
