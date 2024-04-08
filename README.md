@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|72.10.164.178|33191|Canada|Montreal|GloboTech Communications|
-|9|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|72.10.164.178|19581|Canada|Montreal|GloboTech Communications|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|67.43.227.229|13633|Canada|Montreal|GloboTech Communications|
+|15|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
+|16|67.43.236.20|10899|Canada|Montreal|GloboTech Communications|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |18|72.10.160.170|10169|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|4637|Canada|Montreal|GloboTech Communications|
-|20|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|19|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|20|67.43.228.251|5247|Canada|Montreal|GloboTech Communications|
 
 
 
