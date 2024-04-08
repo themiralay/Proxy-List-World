@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|1|177.19.167.242|80|Brazil|Rio de Janeiro|Vivo|
+|2|182.253.177.122|8080|Indonesia|Jakarta Pusat|BIZNET|
 |3|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|4|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|5|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|67.43.227.228|18567|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.250|12197|Canada|Montreal|GloboTech Communications|
-|10|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|11|47.51.51.190|8080|United States|Los Angeles|Charter Communications|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|103.189.116.180|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|142.190.149.206|8080|United States|St. Petersburg|Uniti Fiber Holdings Inc.|
-|16|72.10.164.178|6127|Canada|Montreal|GloboTech Communications|
-|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|67.43.227.227|5757|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|28599|Canada|Montreal|GloboTech Communications|
+|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|5|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|6|36.94.37.39|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|7|146.56.154.83|21000|South Korea|Seoul|Oracle Corporation|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|121.195.170.225|1024|China|Haidian|CERNET|
+|10|101.109.88.217|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
+|11|201.182.149.29|999|Ecuador|Zaruma|Esmonsa S.A.|
+|12|103.189.116.180|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|181.129.196.26|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|16|93.159.247.109|3128|Russia|Krasnoyarsk|Axioma, LLC|
+|17|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|103.131.18.194|8080|Indonesia|Semarang|PT Global Media Data Prima|
 
 
 
