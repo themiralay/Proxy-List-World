@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|5|118.117.189.159|8089|China|Muping|Chinanet|
-|6|72.10.160.90|13139|Canada|Montreal|GloboTech Communications|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|72.10.164.178|10273|Canada|Montreal|GloboTech Communications|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|67.43.228.253|24641|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|1449|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|72.10.160.90|13139|Canada|Montreal|GloboTech Communications|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
-|18|72.10.164.178|10273|Canada|Montreal|GloboTech Communications|
-|19|68.183.48.146|10011|United States|Clifton|DigitalOcean, LLC|
-|20|67.43.236.18|14851|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|4|72.10.160.90|13139|Canada|Montreal|GloboTech Communications|
+|5|67.43.236.20|6359|Canada|Montreal|GloboTech Communications|
+|6|36.93.130.219|66|Indonesia|Tomang|Telekomunikasi Indonesia|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|10|72.10.164.178|26313|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|26313|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|26313|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|6359|Canada|Montreal|GloboTech Communications|
+|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|17|72.10.164.178|26313|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.254|1141|Canada|Montreal|GloboTech Communications|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
 
 
 
