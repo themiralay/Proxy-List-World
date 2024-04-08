@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|1|207.181.190.226|9988|United States|York|Websecure, Inc.|
+|2|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|67.43.236.20|4311|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|14|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|4311|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
-|17|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
-|18|72.10.164.178|12515|Canada|Montreal|GloboTech Communications|
-|19|89.58.48.220|10013|Germany|Nuremberg|netcup GmbH|
-|20|114.232.109.158|8089|China|Nanjing|Chinanet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|207.181.190.226|9988|United States|York|Websecure, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|103.25.193.111|8080|Indonesia|Karawang|UNINA|
+|15|115.132.165.97|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|18|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
+|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|20|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
 
 
 
