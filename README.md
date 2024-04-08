@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|190.14.215.130|8080|Panama|Panama City|Galaxy Communications|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|67.43.227.227|1469|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|67.43.227.228|31865|Canada|Montreal|GloboTech Communications|
-|15|119.110.68.18|57413|Indonesia|Ciputat|Maxindo|
-|16|72.10.164.178|31799|Canada|Montreal|GloboTech Communications|
-|17|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|72.10.160.172|21421|Canada|Montreal|GloboTech Communications|
+|11|200.116.198.222|9812|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
+|12|67.43.227.228|31865|Canada|Montreal|GloboTech Communications|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|67.43.227.227|5677|Canada|Montreal|GloboTech Communications|
+|16|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|17|168.119.117.125|80|Germany|Nuremberg|Hetzner Online GmbH|
+|18|72.10.164.178|31799|Canada|Montreal|GloboTech Communications|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|103.234.159.5|8080|India|Bengaluru|MWPL|
 
 
 
