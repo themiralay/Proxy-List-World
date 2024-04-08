@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|7|94.19.55.3|8080|Russia|St Petersburg|SkyNet LLC|
-|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|11|67.43.227.227|10969|Canada|Montreal|GloboTech Communications|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|67.43.227.227|10969|Canada|Montreal|GloboTech Communications|
-|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|15|67.43.227.228|15991|Canada|Montreal|GloboTech Communications|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|18|67.43.227.227|10969|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.164.178|27543|Canada|Montreal|GloboTech Communications|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|8|103.87.169.201|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|9|177.241.233.3|999|Mexico|Zacatecas City|Mega Cable, S.A. de C.V.|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|12|67.43.227.227|10969|Canada|Montreal|GloboTech Communications|
+|13|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|16|72.10.160.173|3329|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|15991|Canada|Montreal|GloboTech Communications|
+|18|185.67.95.91|80|Russia|St Petersburg|ru.elitel|
+|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|20|45.133.107.10|81|Russia|Mezmay|Art-net LLC|
 
 
 
