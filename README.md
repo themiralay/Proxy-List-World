@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|103.178.42.225|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|7|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|8|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
-|10|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|11|103.172.196.139|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|200.10.150.115|80|Ecuador|Guayaquil|Escuela Superior Politecnica del Litoral|
-|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|17|116.254.117.234|3128|Indonesia|Yogyakarta|PT Media Sarana Data|
-|18|49.247.40.126|4000|South Korea|Gwangmyeong|SMILESERV|
-|19|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|1|103.186.90.19|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|2|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|6|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|116.254.117.234|3128|Indonesia|Yogyakarta|PT Media Sarana Data|
+|12|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|13|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
+|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|17|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|18|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|19|113.160.235.248|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|190.61.101.39|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
 
 
 
