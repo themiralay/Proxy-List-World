@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|101.109.176.74|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|101.109.176.74|8080|Thailand|Bangkok|TOT Public Company Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|72.10.164.178|11597|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|11597|Canada|Montreal|GloboTech Communications|
-|16|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
-|17|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|72.10.164.178|11597|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|2339|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|9|203.150.128.94|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|178.130.115.174|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|14|72.10.164.178|23397|Canada|Montreal|GloboTech Communications|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|67.43.228.253|26833|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|26833|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|26159|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|23397|Canada|Montreal|GloboTech Communications|
 
 
 
