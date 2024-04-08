@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
 |5|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|72.10.164.178|8951|Canada|Montreal|GloboTech Communications|
 |9|72.10.164.178|8951|Canada|Montreal|GloboTech Communications|
 |10|72.10.164.178|8951|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|8951|Canada|Montreal|GloboTech Communications|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |12|67.43.227.226|10977|Canada|Montreal|GloboTech Communications|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|67.43.227.228|4017|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|8951|Canada|Montreal|GloboTech Communications|
-|16|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|17|67.43.227.228|4017|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|21917|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|8951|Canada|Montreal|GloboTech Communications|
-|20|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|13|72.10.164.178|8951|Canada|Montreal|GloboTech Communications|
+|14|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|15|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|16|67.43.227.228|10903|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.174|33221|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|20317|Canada|Montreal|GloboTech Communications|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|72.10.160.174|33221|Canada|Montreal|GloboTech Communications|
 
 
 
