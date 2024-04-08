@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|103.155.198.53|8181|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
-|9|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|11|41.57.138.196|6060|South Africa|Delmas|FTH Scr P10|
-|12|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
-|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|177.11.190.84|8080|Brazil|Nuporanga|Multpontos Telecomunicações Ltda - ME|
-|15|103.130.175.169|8080|Bangladesh|Dhaka|Cyber Net Communications|
-|16|68.183.48.146|10010|United States|Clifton|DigitalOcean, LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|72.10.164.178|31895|Canada|Montreal|GloboTech Communications|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|51.68.199.120|3128|United Kingdom|Purfleet-on-Thames|OVH SAS|
+|3|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|4|46.35.84.53|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|68.183.48.146|10010|United States|Clifton|DigitalOcean, LLC|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|17|72.10.164.178|31895|Canada|Montreal|GloboTech Communications|
+|18|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|19|67.43.227.228|2239|Canada|Montreal|GloboTech Communications|
+|20|101.109.88.217|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
 
 
 
