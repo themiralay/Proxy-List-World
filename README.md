@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|8|185.200.37.11|8080|Turkey|Reyhanlı|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|9|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
+|10|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|15|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
-|16|67.43.228.253|11747|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|28501|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|17455|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|21529|Canada|Montreal|GloboTech Communications|
-|20|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|13|67.43.228.253|3067|Canada|Montreal|GloboTech Communications|
+|14|183.178.50.58|8080|Hong Kong|Ngau Wu Tok|Hong Kong Broadband Network Ltd|
+|15|67.43.228.253|3067|Canada|Montreal|GloboTech Communications|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|18|89.187.143.153|3128|Czechia|Prague|Network of Coolhousing|
+|19|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
+|20|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
 
 
 
