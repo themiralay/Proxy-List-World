@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|103.88.90.53|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|9|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
 |11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|13|67.43.236.20|26855|Canada|Montreal|GloboTech Communications|
-|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|67.43.228.253|7371|Canada|Montreal|GloboTech Communications|
-|16|223.215.176.178|8089|China|Rongcheng|Chinanet|
-|17|183.164.242.64|8089|China|Rongcheng|Chinanet|
-|18|72.10.160.90|2639|Canada|Montreal|GloboTech Communications|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|72.10.164.178|31993|Canada|Montreal|GloboTech Communications|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|67.43.228.253|7371|Canada|Montreal|GloboTech Communications|
+|15|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
+|16|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|17|223.215.176.178|8089|China|Rongcheng|Chinanet|
+|18|114.231.41.60|8089|China|Nanjing|Chinanet|
+|19|67.43.227.227|29905|Canada|Montreal|GloboTech Communications|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
