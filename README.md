@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.85.113|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|68.183.48.146|10012|United States|Clifton|DigitalOcean, LLC|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|9|103.125.70.171|8080|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
-|10|201.77.96.145|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|11|201.77.111.231|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
-|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|17|67.43.236.20|9139|Canada|Montreal|GloboTech Communications|
-|18|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
-|19|72.10.160.171|30407|Canada|Montreal|GloboTech Communications|
-|20|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|9|68.183.48.146|10012|United States|Clifton|DigitalOcean, LLC|
+|10|116.254.117.234|3128|Indonesia|Yogyakarta|PT Media Sarana Data|
+|11|103.125.70.171|8080|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|121.101.133.81|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|67.43.227.227|3887|Canada|Montreal|GloboTech Communications|
+|18|68.183.48.146|10012|United States|Clifton|DigitalOcean, LLC|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|67.43.236.20|11191|Canada|Montreal|GloboTech Communications|
 
 
 
