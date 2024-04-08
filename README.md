@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|180.191.254.130|8080|Philippines|General Trias|Globe Telecom|
-|3|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|10|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|11|103.173.230.108|8080|Indonesia|Serang|PT Jaringan Internet Banten|
-|12|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|13|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
-|14|95.165.163.187|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|15|103.102.85.1|8080|India|Dharapuram|Amigos Broadband Pvt Ltd|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|185.19.4.22|3128|Ukraine|Kyiv|Triolan|
+|5|134.35.0.66|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|134.35.0.80|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|10|103.179.27.133|8080|Indonesia|Menggala|PT Primadona Media Digitalindo|
+|11|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |16|67.43.236.21|29573|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|32857|Canada|Montreal|GloboTech Communications|
-|18|103.217.224.27|8085|Indonesia|Semarang|PT Nesta Indo Media|
-|19|67.43.236.20|13521|Canada|Montreal|GloboTech Communications|
-|20|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|17|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|19|177.240.20.117|999|Mexico|Maravatío|Mega Cable, S.A. de C.V.|
+|20|72.10.160.171|2323|Canada|Montreal|GloboTech Communications|
 
 
 
