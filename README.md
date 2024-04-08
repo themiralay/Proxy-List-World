@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|34.82.217.181|5555|United States|The Dalles|Google LLC|
-|9|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|7|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|8|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
-|12|216.39.249.210|3128|United States|New York|GTHost|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|64.225.8.118|10010|United States|Clifton|DigitalOcean, LLC|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|101.109.57.243|8080|Thailand|Phetchaburi|TOT Public Company Limited|
-|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|67.43.227.227|29095|Canada|Montreal|GloboTech Communications|
-|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|45.232.79.0|9292|Brazil|Buritama|D. A. F. BANSI & CIA LTDA|
+|11|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|12|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
+|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|216.39.249.210|3128|United States|New York|GTHost|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|20|72.10.160.90|18657|Canada|Montreal|GloboTech Communications|
 
 
 
