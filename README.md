@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
-|8|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
-|9|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|10|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|13|101.255.117.241|3125|Indonesia|Bekasi|PT Remala Abadi|
-|14|35.243.227.100|80|United States|North Charleston|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|72.10.164.178|5005|Canada|Montreal|GloboTech Communications|
 |15|64.225.8.118|10014|United States|Clifton|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.236.20|30913|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|21141|Canada|Montreal|GloboTech Communications|
-|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|72.10.164.178|21141|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|5005|Canada|Montreal|GloboTech Communications|
+|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|19|72.10.164.178|5005|Canada|Montreal|GloboTech Communications|
+|20|177.19.167.242|80|Brazil|Rio de Janeiro|Vivo|
 
 
 
