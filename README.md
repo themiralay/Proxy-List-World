@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |8|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|15|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|16|72.10.164.178|27945|Canada|Montreal|GloboTech Communications|
-|17|119.39.68.36|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|72.10.160.171|5029|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|5001|Canada|Montreal|GloboTech Communications|
+|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|10|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|13|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|14|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|45.190.76.110|999|Mexico|Zapopan|Meta Networks SA De CV|
+|17|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
 |20|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
 
 
