@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|10|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
-|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|12|202.180.20.66|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|13|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |15|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
-|20|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
+|16|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|20|192.203.0.190|999|Puerto Rico|Fajardo|Boom NET|
 
 
 
