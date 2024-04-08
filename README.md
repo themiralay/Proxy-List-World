@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|72.10.160.90|28693|Canada|Montreal|GloboTech Communications|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|131.100.48.73|999|Colombia|Neiva|Fibernet TV SAS|
-|14|202.180.20.11|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|15|182.253.177.122|8080|Indonesia|Jakarta Pusat|BIZNET|
-|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|17|103.178.194.131|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|18|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
-|19|67.43.227.226|3483|Canada|Montreal|GloboTech Communications|
-|20|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|72.10.160.90|28693|Canada|Montreal|GloboTech Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|103.186.212.59|8080|Indonesia|Banyuwangi|LAROS|
+|14|72.10.160.90|28693|Canada|Montreal|GloboTech Communications|
+|15|187.188.16.28|999|Mexico|Cancún|Total Play Telecomunicaciones SA De CV|
+|16|114.130.175.18|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|186.125.235.213|999|Argentina|Simoca|Telecom Argentina S.A.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
