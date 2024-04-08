@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|7|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|8|67.43.236.18|17153|Canada|Montreal|GloboTech Communications|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|200.108.190.9|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|67.43.227.227|29281|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|17153|Canada|Montreal|GloboTech Communications|
-|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|72.10.164.178|12901|Canada|Montreal|GloboTech Communications|
-|20|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|67.43.236.18|30333|Canada|Montreal|GloboTech Communications|
+|14|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|15|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
