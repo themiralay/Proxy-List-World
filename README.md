@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7063** proxies at the latest update. Usable proxies are below.
+> Scraper found **7048** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|35|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|806|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|791|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|340|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4924|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|8|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|1|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
-|10|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|67.43.228.253|3067|Canada|Montreal|GloboTech Communications|
-|14|183.178.50.58|8080|Hong Kong|Ngau Wu Tok|Hong Kong Broadband Network Ltd|
-|15|67.43.228.253|3067|Canada|Montreal|GloboTech Communications|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|18|89.187.143.153|3128|Czechia|Prague|Network of Coolhousing|
-|19|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
-|20|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|10|115.127.65.67|8080|Bangladesh|Dhaka|BRACNet Limited|
+|11|181.212.41.172|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|17|67.43.236.20|4083|Canada|Montreal|GloboTech Communications|
+|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|20|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
 
 
 
