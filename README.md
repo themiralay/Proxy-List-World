@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |2|125.26.239.152|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|7|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|20.204.175.243|3128|India|Pune|Microsoft Corporation|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|67.43.236.20|3569|Canada|Montreal|GloboTech Communications|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|95.111.239.49|3128|Germany|Nuremberg|Contabo GmbH|
-|19|67.43.236.20|3569|Canada|Montreal|GloboTech Communications|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|7|124.217.246.133|9989|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|8|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|9|103.159.194.97|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|167.172.238.6|10018|United States|Clifton|DigitalOcean, LLC|
+|14|38.7.7.209|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|15|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|83.229.73.113|13554|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
+|18|72.10.164.178|6453|Canada|Montreal|GloboTech Communications|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|72.10.160.170|9105|Canada|Montreal|GloboTech Communications|
 
 
 
