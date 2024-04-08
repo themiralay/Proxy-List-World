@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|211.248.134.103|3128|South Korea|Incheon|Korea Telecom|
-|3|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|211.248.134.103|3128|South Korea|Incheon|Korea Telecom|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|188.27.245.209|8181|Romania|Brasov|RCS & RDS|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
 |7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|11|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|12|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
-|13|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|14|183.178.50.58|8080|Hong Kong|Ngau Wu Tok|Hong Kong Broadband Network Ltd|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|67.43.228.253|25239|Canada|Montreal|GloboTech Communications|
-|17|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
-|18|72.10.160.90|15763|Canada|Montreal|GloboTech Communications|
-|19|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|20|72.10.160.171|7749|Canada|Montreal|GloboTech Communications|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|12|67.43.228.253|28559|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.171|7749|Canada|Montreal|GloboTech Communications|
+|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|15|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
+|16|72.10.160.90|12383|Canada|Montreal|GloboTech Communications|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
+|19|89.187.143.153|3128|Czechia|Prague|Network of Coolhousing|
+|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
