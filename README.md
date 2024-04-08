@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|45.125.193.36|8080|Singapore|Singapore|READYSERVER|
+|6|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|10|35.243.227.100|80|United States|North Charleston|Google LLC|
-|11|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
-|12|35.243.227.100|80|United States|North Charleston|Google LLC|
-|13|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|10|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
+|11|35.243.227.100|80|United States|North Charleston|Google LLC|
+|12|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|13|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
+|14|185.208.101.217|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|15|103.173.230.108|8080|Indonesia|Serang|PT Jaringan Internet Banten|
 |16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|19|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|72.10.164.178|28929|Canada|Montreal|GloboTech Communications|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|67.43.228.253|31441|Canada|Montreal|GloboTech Communications|
 
 
 
