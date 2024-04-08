@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
-|11|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|72.10.164.178|9397|Canada|Montreal|GloboTech Communications|
+|12|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
 |13|72.10.164.178|9397|Canada|Montreal|GloboTech Communications|
-|14|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |15|58.20.21.254|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|67.43.228.252|7551|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.164.178|9397|Canada|Montreal|GloboTech Communications|
+|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 |18|72.10.160.90|16205|Canada|Montreal|GloboTech Communications|
-|19|114.232.109.158|8089|China|Nanjing|Chinanet|
-|20|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|19|72.10.160.92|15449|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.252|1423|Canada|Montreal|GloboTech Communications|
 
 
 
