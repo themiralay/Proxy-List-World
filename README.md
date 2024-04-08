@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|207.181.190.226|9988|United States|York|Websecure, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|207.181.190.226|9988|United States|York|Websecure, Inc.|
-|13|221.154.247.197|3129|South Korea|Yeonsu-gu|Korea Telecom|
-|14|72.10.164.178|12515|Canada|Montreal|GloboTech Communications|
-|15|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
-|16|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|15763|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|12383|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|16269|Canada|Montreal|GloboTech Communications|
-|20|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|11|103.25.193.111|8080|Indonesia|Karawang|UNINA|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|205.233.79.202|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
+|14|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|15|207.181.190.226|9988|United States|York|Websecure, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|180.191.16.254|8085|Philippines|Cabanatuan City|Globe Telecom|
+|18|183.178.50.58|8080|Hong Kong|Ngau Wu Tok|Hong Kong Broadband Network Ltd|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
 
 
 
