@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7090** proxies at the latest update. Usable proxies are below.
+> Scraper found **7071** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|35|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|833|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|814|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|340|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4924|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|3|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|6|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|9|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
-|10|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|11|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|72.10.164.178|30041|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|11763|Canada|Montreal|GloboTech Communications|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|72.10.160.171|5113|Canada|Montreal|GloboTech Communications|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|103.59.44.28|8181|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|11|67.43.236.20|4081|Canada|Montreal|GloboTech Communications|
+|12|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|15|67.43.227.227|7433|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|19|72.10.160.92|10557|Canada|Montreal|GloboTech Communications|
+|20|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
 
 
 
