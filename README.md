@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|4|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|103.217.213.125|32650|India|Guntur|E Net Entertainment Pvt Ltd|
-|12|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|16|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|17|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|5.196.111.29|20109|France|Gravelines|OVH SAS|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|12|72.10.164.178|16189|Canada|Montreal|GloboTech Communications|
+|13|114.103.80.210|8089|China|Shenzhen|Chinanet|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|18|67.43.228.253|13049|Canada|Montreal|GloboTech Communications|
+|19|111.225.152.4|8089|China|Zhoutou|China Telecom|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
