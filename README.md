@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|222.120.150.196|80|South Korea|Paju|Korea Telecom|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|189.232.88.177|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|7|187.134.199.229|80|Mexico|Ahome|Uninet S.A. de C.V.|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|169.0.115.184|8080|South Africa|Cape Town|Afrihost SP|
-|13|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
-|14|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.133.25.185|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|18|72.10.160.90|5553|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|17893|Canada|Montreal|GloboTech Communications|
-|20|103.109.125.155|5555|Indonesia|Medan|PT. PANCA DUTA UTAMA|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|189.232.88.177|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
+|8|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|95.164.4.233|3128|Brazil|São Paulo|Stark Industries Solutions LTD|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|36.90.62.250|8080|Indonesia|Blitar|PT. Telekomunikasi Indonesia|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|103.109.125.155|5555|Indonesia|Medan|PT. PANCA DUTA UTAMA|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
