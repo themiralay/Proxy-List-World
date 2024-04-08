@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|91.185.56.119|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|116.12.44.25|9898|Indonesia|Jakarta|ADSNET|
-|10|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|67.43.236.21|5091|Canada|Montreal|GloboTech Communications|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|15|38.156.233.77|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|16|67.43.227.227|19917|Canada|Montreal|GloboTech Communications|
-|17|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|18|72.10.160.173|16245|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|18983|Canada|Montreal|GloboTech Communications|
-|20|117.57.92.214|8089|China|Shenzhen|Chinanet|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|103.123.235.42|8080|India|Hingoli|Esto Broadband|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|91.185.56.119|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|111.225.153.127|8089|China|Zhoutou|China Telecom|
+|19|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|20|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
 
 
 
