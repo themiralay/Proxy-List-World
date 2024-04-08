@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|3|103.81.254.249|8080|Indonesia|Karawang|PT. Nusa Jaya Prasetyo|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|92.247.12.136|9510|Bulgaria|Teteven|A1 Bulgaria EAD|
-|8|114.106.136.224|8089|China|Rongcheng|Chinanet|
-|9|72.10.160.90|1985|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|7557|Canada|Montreal|GloboTech Communications|
+|2|185.132.36.110|3128|United Kingdom|Gloucester|IONOS SE|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.233.255.11|3128|France|Paris|Akamai Technologies, Inc.|
+|5|203.128.75.195|8080|Indonesia|Jakarta|Neuviz|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|13|205.233.79.202|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|14|67.43.228.253|17361|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.160.170|10801|Canada|Montreal|GloboTech Communications|
-|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|114.106.136.224|8089|China|Rongcheng|Chinanet|
+|13|72.10.164.178|15417|Canada|Montreal|GloboTech Communications|
+|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|15|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
+|16|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|17|72.10.160.90|17827|Canada|Montreal|GloboTech Communications|
 |18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|72.10.160.90|1985|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7557|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|10801|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
