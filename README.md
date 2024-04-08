@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|72.10.164.178|28129|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|28129|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.93|21585|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.92|5737|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|7783|Canada|Montreal|GloboTech Communications|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|67.43.236.20|7763|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|30859|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|28129|Canada|Montreal|GloboTech Communications|
-|16|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|17|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc.|
-|18|67.43.227.227|7783|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|3013|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|29123|Canada|Montreal|GloboTech Communications|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|72.10.160.93|8585|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.92|5737|Canada|Montreal|GloboTech Communications|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|72.10.160.91|3013|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|28129|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|8585|Canada|Montreal|GloboTech Communications|
+|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|20|67.43.228.253|12689|Canada|Montreal|GloboTech Communications|
 
 
 
