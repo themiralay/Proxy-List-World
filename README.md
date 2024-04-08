@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|35.243.227.100|80|United States|North Charleston|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|103.155.198.53|8181|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
-|12|67.43.227.228|25775|Canada|Montreal|GloboTech Communications|
-|13|138.197.92.54|10019|United States|Clifton|DigitalOcean, LLC|
-|14|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|45.11.95.165|5028|Russia|Moscow|Delta Ltd|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|67.43.227.230|9551|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|26365|Canada|Montreal|GloboTech Communications|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|138.197.92.54|10019|United States|Clifton|DigitalOcean, LLC|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.228.250|1845|Canada|Montreal|GloboTech Communications|
+|13|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
+|14|2.179.193.146|80|Iran|Tehran|Iran Telecommunication Company PJS|
+|15|157.254.28.10|999|Dominican Republic|Santo Domingo Este|Jarm Telecomunicaciones SRL|
+|16|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|17|181.74.83.25|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
+|18|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|19|67.43.227.227|25503|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|8095|Canada|Montreal|GloboTech Communications|
 
 
 
