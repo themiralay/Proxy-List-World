@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|5|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
-|10|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
-|11|200.10.150.115|80|Ecuador|Guayaquil|Escuela Superior Politecnica del Litoral|
-|12|36.94.37.39|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|15|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
-|18|65.1.244.232|80|India|Mumbai|Amazon.com|
-|19|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
-|20|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|5|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
+|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|19|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
