@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
+|6|222.120.150.216|80|South Korea|Paju|Korea Telecom|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
-|10|115.127.65.67|8080|Bangladesh|Dhaka|BRACNet Limited|
-|11|181.212.41.172|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|11|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|14|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
 |15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|67.43.236.20|4083|Canada|Montreal|GloboTech Communications|
-|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|20|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|17|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|18|103.171.240.138|8181|Indonesia|Depok|PT Abs Multimedia Indonesia|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
