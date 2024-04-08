@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|4|222.120.150.196|80|South Korea|Paju|Korea Telecom|
-|5|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
 |7|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|16|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.227.227|29645|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|11747|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|29231|Canada|Montreal|GloboTech Communications|
+|8|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|9|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
+|10|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|11|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|72.10.164.178|30041|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.254|11763|Canada|Montreal|GloboTech Communications|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|72.10.160.171|5113|Canada|Montreal|GloboTech Communications|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
