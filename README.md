@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|37.230.144.251|8118|Russia|St Petersburg|St. Petersburg State Unitary Enterprise "Information and Analytical Centre"|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|202.180.20.66|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.236.20|7643|Canada|Montreal|GloboTech Communications|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|134.35.150.136|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|14|67.43.236.20|7643|Canada|Montreal|GloboTech Communications|
+|15|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
-|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
