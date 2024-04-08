@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|8|67.43.236.20|20041|Canada|Montreal|GloboTech Communications|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|67.43.236.19|20101|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.173|18473|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|1073|Canada|Montreal|GloboTech Communications|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|67.43.227.228|8561|Canada|Montreal|GloboTech Communications|
-|17|114.232.110.39|8089|China|Nanjing|Chinanet|
-|18|72.10.160.90|17827|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|3015|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|24731|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|2.179.193.146|80|Iran|Tehran|Iran Telecommunication Company PJS|
+|5|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|185.255.112.171|3128|France|Paris|REDHEBERG Association declaree|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|67.43.236.19|20101|Canada|Montreal|GloboTech Communications|
+|18|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|19|103.189.250.69|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|20|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
 
 
 
