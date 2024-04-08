@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|3|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|72.10.164.178|2193|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|23039|Canada|Montreal|GloboTech Communications|
-|12|103.115.44.109|80|Hong Kong|Hong Kong|rainbow network limited|
-|13|67.43.236.21|18131|Canada|Montreal|GloboTech Communications|
-|14|188.132.222.70|8080|Turkey|Reyhanlı|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|67.43.236.22|12287|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.164.178|2193|Canada|Montreal|GloboTech Communications|
-|18|197.98.201.97|10663|South Africa|Johannesburg|Dimension Data|
-|19|67.43.236.18|3715|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|11821|Canada|Montreal|GloboTech Communications|
+|9|101.109.55.251|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|11|72.10.164.178|2193|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.21|18131|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|72.10.164.178|2193|Canada|Montreal|GloboTech Communications|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|18|67.43.236.18|3715|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|2193|Canada|Montreal|GloboTech Communications|
+|20|66.70.238.78|7777|United Kingdom|London|OVH SAS|
 
 
 
