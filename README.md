@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|110.77.171.234|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|110.77.171.234|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.107.84.177|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|67.43.228.253|11357|Canada|Montreal|GloboTech Communications|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|67.43.228.253|29051|Canada|Montreal|GloboTech Communications|
 |15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.236.20|4017|Canada|Montreal|GloboTech Communications|
-|20|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
 
 
 
