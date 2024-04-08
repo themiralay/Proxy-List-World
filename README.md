@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|165.22.36.164|10009|United States|Clifton|DigitalOcean, LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|103.167.68.51|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
-|15|67.43.236.20|4481|Canada|Montreal|GloboTech Communications|
-|16|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|72.10.164.178|8185|Canada|Montreal|GloboTech Communications|
-|18|41.65.162.75|1974|Egypt|Al Mahallah al Kubra|Etisalat Misr Mobile BB|
-|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|20|72.10.164.178|8185|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|103.153.63.136|8090|Indonesia|Bekasi|IMEDIANET|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|188.240.120.28|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|121.195.170.225|1024|China|Haidian|CERNET|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|27.147.157.77|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
