@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|89.208.103.139|3128|Germany|Frankfurt am Main|Aeza International LTD|
-|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|20|190.94.213.1|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|103.159.92.34|3125|Indonesia|Depok|PT Chandela Lintas Media|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|9|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|122.10.101.14|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
+|15|45.174.46.5|999|Mexico|San Luis Potosí City|INTERPHONET TELECOM, SA DE CV|
+|16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|17|187.190.113.101|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
+|18|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
