@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|5|146.56.154.83|21000|South Korea|Seoul|Oracle Corporation|
-|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|159.65.184.81|80|United States|Clifton|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|67.43.236.20|3649|Canada|Montreal|GloboTech Communications|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|67.43.227.227|15819|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|12651|Canada|Montreal|GloboTech Communications|
-|13|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|14|72.10.160.93|19891|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|3649|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|24817|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|22859|Canada|Montreal|GloboTech Communications|
-|18|146.56.154.83|21000|South Korea|Seoul|Oracle Corporation|
-|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|89.58.48.220|10013|Germany|Nuremberg|netcup GmbH|
+|4|146.56.154.83|21000|South Korea|Seoul|Oracle Corporation|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|7|67.43.236.20|3649|Canada|Montreal|GloboTech Communications|
+|8|45.11.95.165|5013|Russia|Moscow|Delta Ltd|
+|9|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|10|62.205.169.74|53281|Russia|Moscow|CORBINA|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|89.58.48.220|10013|Germany|Nuremberg|netcup GmbH|
+|13|67.43.228.253|1287|Canada|Montreal|GloboTech Communications|
+|14|124.121.87.138|8080|Thailand|Mueang Samut Prakan|TRUEBB|
+|15|8.243.169.14|8080|Colombia|Bogotá|Level 3 Communications, Inc.|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|72.10.160.90|24817|Canada|Montreal|GloboTech Communications|
+|18|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|19|109.74.32.12|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|20|72.10.160.172|31345|Canada|Montreal|GloboTech Communications|
 
 
 
