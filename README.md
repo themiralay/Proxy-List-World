@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|113.160.235.248|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|7|138.0.228.121|8080|Honduras|San Pedro Sula|Multicable De Honduras|
-|8|103.186.90.19|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|14.162.146.186|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|11|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|12|185.165.169.7|8118|Romania|Bucharest|FlokiNET ehf|
-|13|72.10.164.178|6383|Canada|Montreal|GloboTech Communications|
-|14|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|123.182.59.214|8089|China|Zhangjiakou|China Telecom|
-|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|2|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
+|6|113.160.247.27|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
+|9|14.241.46.131|8080|Vietnam|Bac Ninh|VNPT|
+|10|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|11|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|101.255.208.169|8080|Indonesia|Bekasi|PT Remala Abadi|
+|14|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|15|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|137.184.216.108|4033|United States|North Bergen|DigitalOcean, LLC|
 
 
 
