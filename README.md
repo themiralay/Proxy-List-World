@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 |2|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
 |10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
-|16|142.4.123.41|80|China|Chengdu|PEG TECH INC|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 
 
 
