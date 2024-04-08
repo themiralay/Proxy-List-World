@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
-|12|72.10.164.178|25409|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|67.43.236.20|16277|Canada|Montreal|GloboTech Communications|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|67.43.228.253|16737|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|16277|Canada|Montreal|GloboTech Communications|
-|18|68.183.48.146|10010|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.227.227|5429|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|25409|Canada|Montreal|GloboTech Communications|
+|7|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|203.142.74.115|8080|Indonesia|Semarang|BIZNET|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|176.105.220.74|3129|Ukraine|Semenivka|NPK Home-Net Ltd.|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|103.74.144.3|83|India|New Delhi|Anjani Broadband Solutions Pvt.ltd.|
+|15|68.183.48.146|10010|United States|Clifton|DigitalOcean, LLC|
+|16|72.10.160.90|1815|Canada|Montreal|GloboTech Communications|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|67.43.228.253|16737|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|13047|Canada|Montreal|GloboTech Communications|
+|20|58.20.20.93|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
