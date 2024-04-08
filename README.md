@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.243.227.100|80|United States|North Charleston|Google LLC|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|200.125.170.106|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|9|177.43.72.250|3128|Brazil|Brasília|Vivo|
-|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|11|35.243.227.100|80|United States|North Charleston|Google LLC|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|72.10.160.174|21821|Canada|Montreal|GloboTech Communications|
-|16|165.22.36.164|10014|United States|Clifton|DigitalOcean, LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
-|19|72.10.160.90|6107|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|17659|Canada|Montreal|GloboTech Communications|
+|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|35.243.227.100|80|United States|North Charleston|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|103.114.52.130|8080|Indonesia|Surakarta|Proxy-registered|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|165.22.36.164|10016|United States|Clifton|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.10.160.90|1767|Canada|Montreal|GloboTech Communications|
+|17|131.100.51.212|999|Colombia|Neiva|Fibernet TV SAS|
+|18|72.10.160.174|21821|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|18935|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
