@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6963** proxies at the latest update. Usable proxies are below.
+> Scraper found **6867** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|35|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|624|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|422|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|290|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4924|✅|
 
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
-|10|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
-|14|178.251.111.18|8080|Ukraine|Dubov”yazivka|Dataline LLC|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|183.165.227.61|8089|China|Shenzhen|Chinanet|
-|17|67.43.228.253|18867|Canada|Montreal|GloboTech Communications|
-|18|103.186.90.19|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|19|72.10.164.178|10113|Canada|Montreal|GloboTech Communications|
-|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|72.10.164.178|10441|Canada|Montreal|GloboTech Communications|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|67.43.236.20|20757|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|9831|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|20757|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|31473|Canada|Montreal|GloboTech Communications|
+|19|111.225.153.93|8089|China|Zhoutou|China Telecom|
+|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
