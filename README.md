@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|103.95.0.15|8080|Australia|Gold Coast|Channel Wireless Pty Ltd|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|43.245.249.22|8989|Indonesia|Pekanbaru|PT Smart Media Pratama|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|103.159.92.34|3125|Indonesia|Depok|PT Chandela Lintas Media|
-|12|103.4.94.2|8080|Pakistan|Islamabad|HEC|
-|13|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
+|8|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
+|9|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|10|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|11|116.212.151.250|8080|Cambodia|Phnom Penh|MekongNet|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
-|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|17|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|67.43.228.253|18917|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|2043|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|9391|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|2757|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|13687|Canada|Montreal|GloboTech Communications|
+|19|123.182.58.113|8089|China|Zhangjiakou|China Telecom|
+|20|72.10.164.178|2757|Canada|Montreal|GloboTech Communications|
 
 
 
