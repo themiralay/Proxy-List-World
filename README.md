@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|16|67.43.228.253|30209|Canada|Montreal|GloboTech Communications|
-|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|102.68.129.54|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|18|103.172.196.139|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|19|150.109.68.158|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|20|181.198.218.132|3128|Ecuador|Guayaquil|Telconet S.A|
 
 
 
