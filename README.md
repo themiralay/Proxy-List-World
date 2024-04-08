@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.248.134.103|3128|South Korea|Incheon|Korea Telecom|
-|2|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|3|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|4|207.181.190.226|9988|United States|York|Websecure, Inc.|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|8|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.25.193.111|8080|Indonesia|Karawang|UNINA|
-|12|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|207.181.190.226|9988|United States|York|Websecure, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|180.191.16.254|8085|Philippines|Cabanatuan City|Globe Telecom|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|134.35.234.38|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |18|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|19|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|20|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|19|72.10.164.178|12515|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|15577|Canada|Montreal|GloboTech Communications|
 
 
 
