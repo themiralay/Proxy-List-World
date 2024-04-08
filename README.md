@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.113.79.123|80|Indonesia|Guntur|Indonesia Network Information Center|
+|2|207.181.190.226|9988|United States|York|Websecure, Inc.|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|207.181.190.226|9988|United States|York|Websecure, Inc.|
-|5|205.233.79.202|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|6|103.133.25.185|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|123.200.18.155|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|4|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.232.88.177|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|165.154.46.85|80|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |11|207.181.190.226|9988|United States|York|Websecure, Inc.|
-|12|189.232.88.177|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|165.154.46.85|80|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|34.82.217.181|5555|United States|The Dalles|Google LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|20|67.43.228.253|10703|Canada|Montreal|GloboTech Communications|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|159.223.54.96|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|72.10.164.178|17079|Canada|Montreal|GloboTech Communications|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|103.179.27.133|8080|Indonesia|Menggala|PT Primadona Media Digitalindo|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
