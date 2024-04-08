@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|4|125.26.239.152|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|10|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|11|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
-|14|103.231.248.98|3128|Vietnam|Tây Hồ|MTD|
-|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
-|18|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|19|167.172.238.6|10017|United States|Clifton|DigitalOcean, LLC|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|103.48.69.105|83|India|Hyderabad|Country Online Services PVT LTD|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|167.172.238.6|10017|United States|Clifton|DigitalOcean, LLC|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|159.203.48.63|9005|Canada|Toronto|DigitalOcean, LLC|
+|17|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|18|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|20|81.16.1.188|32650|Armenia|Yerevan|Ucom CJSC|
 
 
 
