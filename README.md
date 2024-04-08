@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|110.77.171.234|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|181.119.67.134|999|Colombia|Florida|IFX Networks Argentina S.R.L|
-|8|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
-|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|110.77.171.234|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|103.112.163.92|8080|Indonesia|Jakarta|24AS|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|200.41.170.211|11201|Argentina|Rincon de Los Sauces|Telefonica de Argentina|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|101.109.88.217|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
-|13|186.125.218.124|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|5.196.111.29|20233|France|Gravelines|OVH SAS|
-|17|72.10.164.178|31333|Canada|Montreal|GloboTech Communications|
-|18|35.243.227.100|80|United States|North Charleston|Google LLC|
-|19|72.10.160.90|21447|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|31333|Canada|Montreal|GloboTech Communications|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|5.196.111.29|20233|France|Gravelines|OVH SAS|
+|15|72.10.164.178|32919|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|32919|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|19|67.43.228.251|28285|Canada|Montreal|GloboTech Communications|
+|20|80.66.81.37|4000|Russia|Moscow|BUQU.SU Solutions|
 
 
 
