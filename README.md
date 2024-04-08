@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|189.232.88.177|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|14|207.181.190.226|9988|United States|York|Websecure, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
-|17|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|1|222.120.150.196|80|South Korea|Paju|Korea Telecom|
+|2|222.120.150.216|80|South Korea|Paju|Korea Telecom|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|189.232.88.177|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|171.244.48.246|80|Vietnam|Hanoi|VIETEL|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|206.42.56.195|8080|Brazil|Fortaleza|Brisanet Prestacao De Servicos De Internet Ltda|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|169.0.115.184|8080|South Africa|Cape Town|Afrihost SP|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|95.164.4.233|3128|Brazil|São Paulo|Stark Industries Solutions LTD|
+|15|95.247.209.42|80|Italy|Rome|Telecom Italia S.p.A.|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|207.181.190.226|9988|United States|York|Websecure, Inc.|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
