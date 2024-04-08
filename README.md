@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|51.68.199.120|3128|United Kingdom|Purfleet-on-Thames|OVH SAS|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|1|180.190.200.210|8085|Philippines|Lahug|Globe Telecom|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|51.68.199.120|3128|United Kingdom|Purfleet-on-Thames|OVH SAS|
+|4|109.201.14.82|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|59.124.9.67|3128|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
-|16|72.10.160.174|20571|Canada|Montreal|GloboTech Communications|
-|17|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
-|18|67.43.227.228|11833|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|67.43.227.228|11833|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.66.10.101|8080|India|Kharar|Nitya Internet Private Limited|
+|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|115.147.23.249|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|17|72.10.160.174|20571|Canada|Montreal|GloboTech Communications|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
