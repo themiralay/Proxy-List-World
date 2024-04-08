@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
+|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|8|121.195.170.225|1024|China|Haidian|CERNET|
-|9|45.188.164.47|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|10|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|11|72.10.164.178|22113|Canada|Montreal|GloboTech Communications|
-|12|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|13|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|14|183.165.250.213|8089|China|Shenzhen|Chinanet|
-|15|122.228.210.117|59394|China|Lipu|China Telecom|
-|16|103.101.216.2|8080|Indonesia|Pekan Bahapal|PT Duta Trans Nusantara Network|
-|17|67.43.236.20|11417|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|11417|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|22113|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|14171|Canada|Montreal|GloboTech Communications|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|43.243.140.58|10001|Indonesia|Bogor|CEPATNET|
+|13|68.183.48.146|10011|United States|Clifton|DigitalOcean, LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|118.117.189.141|8089|China|Muping|Chinanet|
+|16|36.91.188.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|20|38.156.75.11|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
