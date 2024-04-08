@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|121.240.127.86|8081|India|Mumbai|Tata Communications Limited|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|94.23.19.184|2912|France|Roubaix|OVH ISP|
+|5|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |9|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|190.94.212.245|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|11|67.43.236.20|31437|Canada|Montreal|GloboTech Communications|
-|12|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|13|72.10.160.90|3299|Canada|Montreal|GloboTech Communications|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
+|12|67.43.236.20|20225|Canada|Montreal|GloboTech Communications|
+|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 |14|72.10.160.90|3299|Canada|Montreal|GloboTech Communications|
-|15|5.45.64.207|4006|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|72.10.160.90|3299|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|7555|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|16427|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|3299|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|3299|Canada|Montreal|GloboTech Communications|
+|16|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|18|72.10.160.90|3299|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|20225|Canada|Montreal|GloboTech Communications|
+|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 
 
 
