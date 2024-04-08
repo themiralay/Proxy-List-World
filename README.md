@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|7|103.125.70.171|8080|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|11|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|190.2.211.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|72.10.164.178|24823|Canada|Montreal|GloboTech Communications|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|67.43.236.18|27299|Canada|Montreal|GloboTech Communications|
+|3|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|12|201.77.96.145|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|64.225.8.118|10008|United States|Clifton|DigitalOcean, LLC|
+|17|64.225.8.118|10008|United States|Clifton|DigitalOcean, LLC|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|67.43.227.227|3887|Canada|Montreal|GloboTech Communications|
 
 
 
