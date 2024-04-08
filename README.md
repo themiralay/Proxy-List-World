@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|2|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|14.162.146.186|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|7|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
-|11|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
-|12|190.220.228.147|8080|Argentina|San Telmo|AMX Argentina S.A.|
-|13|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|120.28.150.68|8082|Philippines|San Juan|Globe Telecom|
-|16|103.186.90.19|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|202.179.188.178|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|20|183.182.103.2|8080|Laos|Vientiane|Star Telecom|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
+|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|9|177.38.83.242|3177|Brazil|Boa Esperanca|ZAP BL TELECOMUNICACOES LTDA|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|64.64.225.119|3128|United States|Los Angeles|IT7 Networks Inc|
+|13|67.43.228.253|1669|Canada|Montreal|GloboTech Communications|
+|14|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|15|67.43.236.20|14459|Canada|Montreal|GloboTech Communications|
+|16|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|67.43.228.253|1669|Canada|Montreal|GloboTech Communications|
+|19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|20|72.10.164.178|19207|Canada|Montreal|GloboTech Communications|
 
 
 
