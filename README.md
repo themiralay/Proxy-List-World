@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |2|125.26.239.152|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|5|128.92.239.190|8080|United States|Long Beach|Spectrum|
-|6|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
-|9|94.154.152.103|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
-|12|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.236.20|28795|Canada|Montreal|GloboTech Communications|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|67.43.228.253|16053|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|28795|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|5751|Canada|Montreal|GloboTech Communications|
-|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|20|185.237.99.218|14611|United Kingdom|London|Kamatera Inc|
+|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|7|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
+|10|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|187.188.169.169|8080|Mexico|Tepeaca|Total Play Telecomunicaciones SA De CV|
+|13|134.35.40.158|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|128.92.239.190|8080|United States|Long Beach|Spectrum|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|18|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
+|19|49.48.90.219|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|20|67.43.236.20|3569|Canada|Montreal|GloboTech Communications|
 
 
 
