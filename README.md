@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|5|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
+|4|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 |9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|103.115.31.181|8090|Indonesia|Depok|HSPNET|
-|11|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|12|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|12|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|15|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|19|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|20|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
