@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|37.230.144.251|8118|Russia|St Petersburg|St. Petersburg State Unitary Enterprise "Information and Analytical Centre"|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|16|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
-|17|72.10.160.90|2391|Canada|Montreal|GloboTech Communications|
-|18|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|72.10.160.172|16423|Canada|Montreal|GloboTech Communications|
-|20|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|43.153.69.242|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|37.230.144.251|8118|Russia|St Petersburg|St. Petersburg State Unitary Enterprise "Information and Analytical Centre"|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|134.35.150.136|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|17|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|18|146.190.53.175|32785|United States|Santa Clara|DigitalOcean, LLC|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
 
 
 
