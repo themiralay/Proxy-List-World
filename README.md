@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|5|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|4|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |7|72.10.160.174|33221|Canada|Montreal|GloboTech Communications|
 |8|72.10.164.178|8951|Canada|Montreal|GloboTech Communications|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|11|67.43.228.253|7893|Canada|Montreal|GloboTech Communications|
-|12|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
-|13|216.176.187.99|39865|United States|Los Angeles|Wowrack.com|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|177.184.199.36|80|Brazil|Poá|Wireless Comm Services LTDA|
+|10|67.43.228.253|7893|Canada|Montreal|GloboTech Communications|
+|11|27.147.217.102|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|178.158.166.161|3128|Ukraine|Donetsk|EAST-NET Ltd|
 |15|72.10.164.178|8951|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.228.253|7893|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|17599|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|8951|Canada|Montreal|GloboTech Communications|
-|20|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|17|103.72.89.133|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
+|18|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
 
 
 
