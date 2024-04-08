@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|134.35.55.4|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|72.10.160.170|29327|Canada|Montreal|GloboTech Communications|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|11|67.43.227.227|16875|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|8205|Canada|Montreal|GloboTech Communications|
-|13|123.182.58.154|8089|China|Zhangjiakou|China Telecom|
-|14|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|15|103.41.250.111|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|16|67.43.236.20|31347|Canada|Montreal|GloboTech Communications|
-|17|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|19|111.225.153.232|8089|China|Zhoutou|China Telecom|
-|20|124.6.155.170|3130|Philippines|Taguig|Globe Telecom|
+|1|222.119.186.81|3128|South Korea|Busan|Korea Telecom|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|134.35.55.4|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|10|189.173.63.151|999|Mexico|Hermosillo|UNINET|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|72.10.160.170|11165|Canada|Montreal|GloboTech Communications|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|103.41.250.111|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|18|67.43.227.227|29483|Canada|Montreal|GloboTech Communications|
+|19|103.247.216.70|8080|Indonesia|Kramatjati|PT. Parsaoran Global Datatrans|
+|20|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
 
 
 
