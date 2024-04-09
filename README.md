@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|136.243.125.1|1369|Germany|Cologne|Hetzner Online GmbH|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|103.154.113.90|8080|Indonesia|Jakarta|MORATELINDONAP|
+|5|134.35.12.91|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|121.195.170.225|1024|China|Haidian|CERNET|
-|10|5.196.111.29|20233|France|Gravelines|OVH SAS|
-|11|119.39.68.36|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|9|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
+|10|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|11|121.195.170.225|1024|China|Haidian|CERNET|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|67.43.227.228|27195|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|26279|Canada|Montreal|GloboTech Communications|
-|15|134.35.12.91|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|18|67.43.236.20|29739|Canada|Montreal|GloboTech Communications|
+|13|119.39.68.36|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|134.35.112.183|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|67.43.227.228|3495|Canada|Montreal|GloboTech Communications|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |19|72.10.160.94|20181|Canada|Montreal|GloboTech Communications|
-|20|203.150.128.32|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|20|72.10.164.178|14773|Canada|Montreal|GloboTech Communications|
 
 
 
