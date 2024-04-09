@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.189.116.107|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|118.96.216.78|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc.|
-|13|158.69.28.66|80|Canada|Montreal|OVH Hosting|
-|14|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|15|165.22.36.164|10014|United States|Clifton|DigitalOcean, LLC|
+|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|14|165.22.36.164|10014|United States|Clifton|DigitalOcean, LLC|
+|15|158.69.28.66|80|Canada|Montreal|OVH Hosting|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|17|36.6.144.105|8089|China|Guangzhou|Chinanet|
+|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
 |20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
