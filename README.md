@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|121.195.170.225|1024|China|Haidian|CERNET|
-|11|194.124.37.13|8080|Türkiye|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|15|91.233.111.49|1080|Ukraine|Kyiv|Helpteh L-side|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|121.195.170.225|1024|China|Haidian|CERNET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc.|
+|12|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|13|186.180.79.19|999|Colombia|Cúcuta|Colombia Móvil|
+|14|103.166.161.34|8080|Indonesia|Dumai|PT Link Kita Teknologi|
+|15|117.69.190.218|41122|China|Guangzhou|Chinanet|
+|16|113.23.183.154|8989|Malaysia|Subang Jaya|Extreme Broadband|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|19|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
