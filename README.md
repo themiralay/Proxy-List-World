@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|125.26.194.120|8080|Thailand|Pattaya|TOT Public Company Limited|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |9|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|134.35.221.165|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|177.234.192.223|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|46.242.10.164|9002|Russia|Moscow|NCNET|
-|18|72.10.160.94|1877|Canada|Montreal|GloboTech Communications|
-|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|13|134.35.221.165|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|46.242.10.164|9002|Russia|Moscow|NCNET|
+|17|72.10.164.178|1943|Canada|Montreal|GloboTech Communications|
+|18|5.83.248.1|8080|Ireland|Roscommon|EURONA-BRISKNET|
+|19|72.10.160.172|23283|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|14301|Canada|Montreal|GloboTech Communications|
 
 
 
