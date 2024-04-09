@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|211.227.94.112|3128|South Korea|Gangbuk-gu|Korea Telecom|
-|3|128.199.20.185|3128|India|Bengaluru|DigitalOcean, LLC|
-|4|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|1|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|128.199.20.185|3128|India|Bengaluru|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|211.227.94.112|3128|South Korea|Gangbuk-gu|Korea Telecom|
+|5|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
+|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|187.49.84.151|8090|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
-|10|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|134.35.44.41|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|190.94.212.254|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|134.35.44.41|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
 |18|72.10.164.178|14811|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
