@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|12|109.200.173.151|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|45.189.252.245|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|15|103.26.110.41|84|India|Tirunelveli|Niss Networks|
-|16|221.223.27.59|9000|China|Beijing|China Unicom Beijing Province Network|
-|17|72.10.164.178|1887|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
-|20|190.144.80.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|11|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|12|38.50.165.130|999|Dominican Republic|Dajabón|NEXTELECOM, S.R.L.|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|109.200.173.151|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 
 
 
