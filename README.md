@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|67.43.228.253|21219|Canada|Montreal|GloboTech Communications|
-|14|202.154.19.218|8081|Indonesia|Jombang|DIGITNET|
-|15|111.225.153.57|8089|China|Zhoutou|China Telecom|
-|16|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|72.10.164.178|32073|Canada|Montreal|GloboTech Communications|
-|19|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
-|20|223.215.176.24|8089|China|Rongcheng|Chinanet|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|15|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|67.43.228.253|21219|Canada|Montreal|GloboTech Communications|
+|18|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
+|19|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|20|190.94.212.254|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
