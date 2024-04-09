@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|158.69.28.66|80|Canada|Montreal|OVH Hosting|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|8|134.35.0.165|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|6|134.35.0.165|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|36.90.23.199|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
-|15|36.90.23.199|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
-|16|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|19|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|124.83.74.218|8082|Philippines|Manaoag|Philippine Long Distance Telephone Co.|
+|13|70.90.138.109|8080|United States|Birmingham|Comcast Cable Communications, LLC|
+|14|181.39.35.99|999|Ecuador|Guayaquil|Telconet S.A|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|20|103.76.151.52|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
 
 
 
