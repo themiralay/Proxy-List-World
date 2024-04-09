@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|10|52.70.162.199|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|67.43.236.20|31947|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|124.217.246.133|9989|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|72.10.160.172|16269|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|21739|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|21739|Canada|Montreal|GloboTech Communications|
-|19|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|20|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|27.147.219.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|19|72.10.160.172|16269|Canada|Montreal|GloboTech Communications|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
