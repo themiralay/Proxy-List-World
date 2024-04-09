@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|19|186.125.235.101|999|Argentina|Simoca|Telecom Argentina S.A.|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|15|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
 
 
 
