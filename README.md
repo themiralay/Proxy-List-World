@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|4|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|3|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|103.156.15.35|1080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
-|12|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|15|78.137.87.59|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
+|9|201.20.118.146|27234|Brazil|Lavras da Mangabeira|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|94.198.221.4|3128|Kazakhstan|Almaty|TimeWeb Ltd.|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|180.178.95.142|8080|Indonesia|Surakarta|PT Widya Intersat Nusantara|
+|20|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
 
 
 
