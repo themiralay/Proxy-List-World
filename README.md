@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|170.238.14.163|8080|Brazil|São Luís|WIPY COMERCIO E SERVIÇOS DE TELEINFORMATICA LTDA|
-|7|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|170.238.14.163|8080|Brazil|São Luís|WIPY COMERCIO E SERVIÇOS DE TELEINFORMATICA LTDA|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|167.172.238.6|10008|United States|Clifton|DigitalOcean, LLC|
-|15|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|43.243.140.27|8181|Indonesia|Bogor|CEPATNET|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|167.172.238.6|10008|United States|Clifton|DigitalOcean, LLC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|20|114.231.45.12|8089|China|Nanjing|Chinanet|
 
 
 
