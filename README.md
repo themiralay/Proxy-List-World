@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7305** proxies at the latest update. Usable proxies are below.
+> Scraper found **7263** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|39|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|843|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|437|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|395|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5028|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|186.215.196.50|3128|Brazil|Recife|Vivo|
-|9|94.154.152.94|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|14.143.145.35|80|India|Gurugram|Tata Communications Limited|
+|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|16|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|17|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|124.217.97.131|8080|Philippines|General Santos|Philippine Long Distance Telephone Co.|
 
 
 
