@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|109.200.173.151|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|67.43.236.20|31993|Canada|Montreal|GloboTech Communications|
-|18|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|67.43.227.227|8715|Canada|Montreal|GloboTech Communications|
+|7|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.189.116.180|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|14|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|15|72.10.160.90|11953|Canada|Montreal|GloboTech Communications|
+|16|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|17|67.43.228.250|31199|Canada|Montreal|GloboTech Communications|
+|18|146.120.73.210|8080|Russia|St Petersburg|Unet Communication LLC|
+|19|110.164.132.234|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|20|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
 
 
 
