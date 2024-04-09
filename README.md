@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|206.42.27.113|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|16|67.43.227.227|28331|Canada|Montreal|GloboTech Communications|
-|17|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|18|124.105.183.81|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|189.195.139.178|999|Mexico|Churintzio|Mega Cable, S.A. de C.V.|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|12|36.93.130.218|66|Indonesia|Tomang|Telekomunikasi Indonesia|
+|13|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|72.10.160.171|8335|Canada|Montreal|GloboTech Communications|
+|16|101.255.148.210|8080|Indonesia|Bekasi|PT Remala Abadi|
+|17|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|19|45.188.164.47|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|20|103.88.90.70|8080|Indonesia|Malang|PT Paket Switch Bersama|
 
 
 
