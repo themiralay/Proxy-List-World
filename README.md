@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|1|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|13|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|203.111.253.10|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|15|129.213.47.58|80|United States|Ashburn|Oracle Corporation|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|67.43.227.227|9857|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
