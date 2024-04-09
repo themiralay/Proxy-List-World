@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|128.199.20.185|3128|India|Bengaluru|DigitalOcean, LLC|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.164.178|8713|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|25867|Canada|Montreal|GloboTech Communications|
-|16|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|103.25.210.102|3382|Indonesia|Purwokerto|TRANSDATA|
-|19|1.10.141.45|8080|Thailand|Bang Phli|TOT Public Company Limited|
-|20|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
+|2|128.199.20.185|3128|India|Bengaluru|DigitalOcean, LLC|
+|3|211.227.94.112|3128|South Korea|Gangbuk-gu|Korea Telecom|
+|4|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.236.20|3135|Canada|Montreal|GloboTech Communications|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
