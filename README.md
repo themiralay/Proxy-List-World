@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|1|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|193.164.133.46|3128|Germany|Munich|Contabo GmbH|
-|7|78.158.171.97|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|8|37.53.103.4|3128|Ukraine|Ternivka|UKRTELECOM|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|134.35.14.61|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|78.158.171.97|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|9|193.164.133.46|3128|Germany|Munich|Contabo GmbH|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|134.35.14.61|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|103.107.84.124|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|155.186.141.197|8080|United States|McDonough|Charter Communications|
 
 
 
