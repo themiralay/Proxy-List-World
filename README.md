@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|134.35.14.61|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|193.164.133.46|3128|Germany|Munich|Contabo GmbH|
-|7|78.158.171.97|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|45.11.95.165|6002|Russia|Moscow|Delta Ltd|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|72.10.164.178|2371|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|134.35.14.61|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|5|193.164.133.46|3128|Germany|Munich|Contabo GmbH|
+|6|78.158.171.97|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|12|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|18|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|19|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
