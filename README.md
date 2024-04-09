@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|11|188.130.240.136|8080|Russia|Pskov|Pskovline Ltd.|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|45.11.95.165|5011|Russia|Moscow|Delta Ltd|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
-|17|72.10.160.173|27129|Canada|Montreal|GloboTech Communications|
-|18|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|103.180.123.141|1080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|72.10.160.173|27129|Canada|Montreal|GloboTech Communications|
+|15|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|16|72.10.164.178|32559|Canada|Montreal|GloboTech Communications|
+|17|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|18|203.190.53.197|8080|Indonesia|Bogor|PT POWER TELECOM|
+|19|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
