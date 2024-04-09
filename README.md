@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|38.183.152.34|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
 |6|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|45.4.201.94|8080|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|16|72.10.160.174|4067|Canada|Montreal|GloboTech Communications|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|190.144.48.50|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|19|72.10.160.170|29531|Canada|Montreal|GloboTech Communications|
-|20|176.211.113.246|80|Russia|Novosibirsk|PJSC Rostelecom|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|11|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|12|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|190.144.48.50|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|72.10.160.170|2989|Canada|Montreal|GloboTech Communications|
+|17|190.61.61.210|999|Colombia|Neiva|Ufinet Panama S.A.|
+|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|67.43.236.20|3135|Canada|Montreal|GloboTech Communications|
+|20|103.179.27.133|8080|Indonesia|Menggala|PT Primadona Media Digitalindo|
 
 
 
