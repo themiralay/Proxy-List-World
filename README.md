@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|203.150.128.175|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|13|103.154.113.90|8080|Indonesia|Jakarta|MORATELINDONAP|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
 |17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|20|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
+|18|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|19|5.2.228.168|8888|Romania|Constanța|RCS & RDS|
+|20|103.114.52.130|8080|Indonesia|Surakarta|Proxy-registered|
 
 
 
