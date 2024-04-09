@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|109.200.184.228|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|10|200.94.102.10|999|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|11|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|15|188.209.247.167|8080|Yemen|Ḩurayḑah|AS30873 annoucement YemenNet|
-|16|109.195.23.223|34031|Russia|Saratov|JSC "ER-Telecom Holding"|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|12|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|5.196.111.29|20233|France|Gravelines|OVH SAS|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|72.10.164.178|8099|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|5.196.111.29|20233|France|Gravelines|OVH SAS|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|67.43.236.20|29999|Canada|Montreal|GloboTech Communications|
+|20|118.71.66.50|32650|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
