@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|66.54.106.56|8080|United States|Itta Bena|Mobile Communications, LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|72.10.160.93|31627|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|16231|Canada|Montreal|GloboTech Communications|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|67.43.236.20|15017|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|20147|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13595|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|2675|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|16231|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|12|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|13|71.14.23.121|8080|United States|Birmingham|Spectrum|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|67.43.236.20|15017|Canada|Montreal|GloboTech Communications|
+|16|103.224.124.75|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|186.148.182.82|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|181.60.225.210|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
