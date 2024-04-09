@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|38.188.249.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|221.152.19.121|3129|South Korea|Nam-gu|Korea Telecom|
-|17|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|18|175.111.129.154|8080|India|Jaipur|Spiderlink Networks Pvt Ltd|
-|19|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|14|221.152.19.121|3129|South Korea|Nam-gu|Korea Telecom|
+|15|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|85.117.60.131|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|18|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
