@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|16|72.10.164.178|18745|Canada|Montreal|GloboTech Communications|
-|17|50.212.190.241|3128|United States|Burnsville|Comcast Cable Communications, LLC|
-|18|45.83.96.129|3128|United Arab Emirates|Dubai|Business Integrated Operating Systems M.E. LLC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|46.29.237.247|8080|The Netherlands|Amsterdam|Stark Industries Solutions LTD|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|72.10.164.178|18745|Canada|Montreal|GloboTech Communications|
+|20|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
 
 
 
