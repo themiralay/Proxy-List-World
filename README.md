@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
-|11|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
-|19|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|20|94.154.152.45|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|5|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|11|124.6.155.170|3130|Philippines|Taguig|Globe Telecom|
+|12|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|14|167.172.238.6|10003|United States|Clifton|DigitalOcean, LLC|
+|15|103.114.52.130|8080|Indonesia|Surakarta|Proxy-registered|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|45.125.193.36|8080|Singapore|Singapore|READYSERVER|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
