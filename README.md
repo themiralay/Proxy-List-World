@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|2|158.69.28.66|80|Canada|Montreal|OVH Hosting|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.196.28.6|8080|India|Coimbatore|WLSNET|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|16|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.114.52.130|8080|Indonesia|Surakarta|Proxy-registered|
+|13|137.184.216.108|4033|United States|North Bergen|DigitalOcean, LLC|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|103.68.214.19|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|16|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 
 
 
