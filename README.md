@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|109.233.209.166|8080|Russia|Chelyabinsk|OOO BENET|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.189.250.69|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
 |15|72.10.164.178|26155|Canada|Montreal|GloboTech Communications|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |17|67.43.236.20|2859|Canada|Montreal|GloboTech Communications|
-|18|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
-|19|190.242.157.226|999|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|67.43.228.250|22743|Canada|Montreal|GloboTech Communications|
+|20|103.80.230.21|8080|Indonesia|Medan|DNSOLUSINDO|
 
 
 
