@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|8|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
-|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|157.100.57.180|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|103.184.54.3|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|179.43.93.198|8080|Peru|Horacio Zeballos Gamez|MEDIA COMMERCE PERÚ S.A.C|
+|17|72.10.160.90|23237|Canada|Montreal|GloboTech Communications|
+|18|201.20.118.146|27234|Brazil|Lavras da Mangabeira|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|72.10.164.178|3569|Canada|Montreal|GloboTech Communications|
 
 
 
