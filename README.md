@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|103.179.253.202|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|5|180.190.188.236|8085|Philippines|Lahug|Globe Telecom|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|10|200.45.73.115|3577|Argentina|Villa Chicligasta|Telecom Argentina S.A.|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|177.93.59.54|999|Colombia|Supía|TV AZTECA SUCURSAL COLOMBIA|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|67.43.227.228|2863|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|21709|Canada|Montreal|GloboTech Communications|
-|17|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|18|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|7|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|186.190.225.152|999|Colombia|Villanueva|TV AZTECA SUCURSAL COLOMBIA|
+|11|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|119.92.75.48|8082|Philippines|Tacloban City|Philippine Long Distance Telephone Co.|
+|15|65.20.147.153|8080|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|20|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
 
 
 
