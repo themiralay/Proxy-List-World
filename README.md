@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|15|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|16|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|103.105.76.214|9090|Indonesia|Malang|GARUDA|
 |19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|20|103.114.52.130|8080|Indonesia|Surakarta|Proxy-registered|
 
 
 
