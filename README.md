@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|10|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|71.14.23.121|8080|United States|Birmingham|Spectrum|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |13|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |14|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
-|19|118.117.189.9|8089|China|Muping|Chinanet|
-|20|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|67.43.228.253|30671|Canada|Montreal|GloboTech Communications|
+|19|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|20|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
 
 
 
