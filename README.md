@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|9|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|10|14.140.210.242|32650|India|Ghaziabad|Tata Communications Limited|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|222.124.202.144|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|13|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|8|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|12|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|13|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|14|14.226.7.37|8080|Vietnam|Ha Long|VNPT|
 |15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|17|88.250.60.33|8080|Turkey|Erzurum|TurkTelecom|
-|18|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|18|177.200.91.109|12312|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|19|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|20|138.197.92.54|10009|United States|Clifton|DigitalOcean, LLC|
 
 
 
