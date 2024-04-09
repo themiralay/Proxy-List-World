@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|134.35.0.173|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|67.43.236.20|6119|Canada|Montreal|GloboTech Communications|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|14|45.11.95.165|5029|Russia|Moscow|Delta Ltd|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|114.231.42.126|8089|China|Nanjing|Chinanet|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|67.43.228.253|3661|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|9|45.230.49.2|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|181.209.82.154|23500|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|14|67.43.236.20|26261|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|26261|Canada|Montreal|GloboTech Communications|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|67.43.227.227|22749|Canada|Montreal|GloboTech Communications|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
