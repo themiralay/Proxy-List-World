@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|9|44.225.65.25|80|United States|Portland|Amazon.com, Inc.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|67.43.228.253|8131|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|2913|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|3891|Canada|Montreal|GloboTech Communications|
-|18|223.247.47.238|8089|China|Rongcheng|Chinanet|
-|19|72.10.160.174|3417|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2913|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|175.196.125.203|80|South Korea|Gangdong-gu|Korea Telecom|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|67.79.51.210|16099|United States|Beaumont|Spectrum|
+|11|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|12|44.225.65.25|80|United States|Portland|Amazon.com, Inc.|
+|13|67.43.228.253|1605|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|67.43.228.253|1605|Canada|Montreal|GloboTech Communications|
+|16|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|17|205.234.156.124|3128|United States|Los Angeles|Hosteons Pte. Ltd|
+|18|72.10.160.174|3417|Canada|Montreal|GloboTech Communications|
+|19|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
