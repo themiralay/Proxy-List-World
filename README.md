@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6434** proxies at the latest update. Usable proxies are below.
+> Scraper found **6634** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,16 +13,16 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
 |Source|Found Proxies|Succeed|
 |------|-------------|-------|
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
-|[us-proxy.org](https://www.us-proxy.org)|0|🚫|
+|[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|45.190.187.122|999|Honduras|Comayagüela|Ufinet Panama S.A.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|181.204.81.181|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
-|12|201.168.199.7|999|Mexico|Zapopan|Marcatel Com, S.A. de C.V.|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|61.129.2.212|8080|China|Beijing|CHINANET|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|38.253.88.242|999|Dominican Republic|Jarabacoa|Cogent Communications|
+|4|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
+|11|8.242.184.52|8080|Colombia|Ipiales|Level 3 Communications, Inc.|
+|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
 
 
 
