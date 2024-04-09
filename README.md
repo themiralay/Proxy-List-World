@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|205.234.156.124|3128|United States|Los Angeles|Hosteons Pte. Ltd|
+|8|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|190.242.181.82|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|67.43.228.253|26751|Canada|Montreal|GloboTech Communications|
-|14|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|17|67.43.227.227|12783|Canada|Montreal|GloboTech Communications|
-|18|2.189.148.1|8080|Iran|Tehran|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|19|72.10.164.178|6467|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|22059|Canada|Montreal|GloboTech Communications|
+|10|92.255.202.78|8080|Russia|Kazan'|CJSC "ER-Telecom Holding" Kazan' branch|
+|11|205.234.156.124|3128|United States|Los Angeles|Hosteons Pte. Ltd|
+|12|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|15|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|16|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
+|17|190.61.61.210|999|Colombia|Neiva|Ufinet Panama S.A.|
+|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|19|186.125.235.213|999|Argentina|Simoca|Telecom Argentina S.A.|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
