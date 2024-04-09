@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.162.63.162|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|222.120.150.196|80|South Korea|Paju|Korea Telecom|
-|11|201.77.96.153|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|12|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|18|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
-|19|103.177.9.104|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|109.111.134.157|8080|Russia|Kaliningrad|TIS Dialog LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|201.77.108.72|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|9|134.35.241.73|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|10|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|179.60.129.195|8080|Brazil|Goiânia|MP INFORMATICA LTDA|
+|15|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
