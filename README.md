@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7235** proxies at the latest update. Usable proxies are below.
+> Scraper found **7410** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|969|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|416|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4853|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5028|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|3|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 |6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|7|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|66.70.238.78|7777|United Kingdom|London|OVH SAS|
 |14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|103.229.188.37|8080|Philippines|Culasi|Culasi Catv Inc.|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|118.99.68.36|8080|Indonesia|Surabaya|Biznet Metronet|
-|18|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|19|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|17|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
+|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|72.10.160.90|29201|Canada|Montreal|GloboTech Communications|
 
 
 
