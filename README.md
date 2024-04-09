@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
-|12|36.64.184.2|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|9|103.166.161.34|8080|Indonesia|Dumai|PT Link Kita Teknologi|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 |13|72.10.160.91|3039|Canada|Montreal|GloboTech Communications|
-|14|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|78.101.27.7|8080|Qatar|Doha|Qtel-ADSL|
-|16|45.4.201.94|8080|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|19|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|17|72.10.164.178|21811|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|72.10.164.178|21811|Canada|Montreal|GloboTech Communications|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
