@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.180.247.6|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
-|15|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|16|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|17|89.187.143.153|3128|Czechia|Prague|Network of Coolhousing|
-|18|158.69.7.48|8050|Canada|Montreal|OVH SAS|
-|19|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|20|67.43.236.20|3319|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|27.72.63.61|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 
 
 
