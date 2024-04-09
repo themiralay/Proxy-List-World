@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.234.31.66|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|103.76.150.32|8080|Indonesia|Citeureup|PT. Java Digital Nusantara|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|8|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|103.228.119.78|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
+|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 |12|212.46.210.251|8080|Russia|Moscow|VympelKom broadband internet|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|16|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|19|14.226.7.37|8080|Vietnam|Ha Long|VNPT|
-|20|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
+|13|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|16|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|17|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|18|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|19|141.145.210.110|3128|France|Paris|Oracle Corporation|
+|20|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 
 
 
