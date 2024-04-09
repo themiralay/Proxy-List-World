@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|200.106.124.63|999|Peru|Tacna|Telefonica del Peru|
-|11|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|43.243.140.27|8181|Indonesia|Bogor|CEPATNET|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.164.178|3211|Canada|Montreal|GloboTech Communications|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|72.10.164.178|3211|Canada|Montreal|GloboTech Communications|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|4|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.106.124.63|999|Peru|Tacna|Telefonica del Peru|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|103.152.232.61|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
+|18|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
+|19|212.132.68.226|3128|Germany|Karlsruhe|IONOS SE fra.de|
+|20|103.25.210.102|3319|Indonesia|Purwokerto|TRANSDATA|
 
 
 
