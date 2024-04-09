@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|1|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|5.9.112.247|3128|Germany|Giessen|Hetzner Online GmbH|
 |5|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|6|134.35.0.165|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|8|36.90.23.199|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|103.106.195.41|32650|India|Delhi|Elyzium Consulting|
-|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|14|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
-|15|221.154.247.197|3129|South Korea|Yeonsu-gu|Korea Telecom|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|20|43.252.236.157|8080|Indonesia|Bogor|NET|
+|8|134.35.0.165|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|9|213.221.46.10|3128|Russia|Moscow|EDN Sovintel|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|88.80.103.9|6888|Bulgaria|Dupnitsa|UltraNET Ltd. C08|
+|18|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|221.154.247.197|3129|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
