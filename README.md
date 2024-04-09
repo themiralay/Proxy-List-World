@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|103.76.150.32|8080|Indonesia|Citeureup|PT. Java Digital Nusantara|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|60.174.0.116|8089|China|Guangzhou|Chinanet|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|4|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|5|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|103.180.247.6|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
+|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|60.174.0.116|8089|China|Guangzhou|Chinanet|
 |13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|72.10.160.92|21637|Canada|Montreal|GloboTech Communications|
-|15|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|16|67.43.227.227|9693|Canada|Montreal|GloboTech Communications|
-|17|190.242.181.82|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|19|201.157.61.166|999|Mexico|Puebla City|Transtelco Inc|
-|20|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|143.44.187.75|8080|Philippines|Davao City|ComClark Network & Technology Corp|
+|17|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
+|18|67.43.236.20|8191|Canada|Montreal|GloboTech Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|72.10.160.170|2135|Canada|Montreal|GloboTech Communications|
 
 
 
