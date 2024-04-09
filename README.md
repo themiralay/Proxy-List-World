@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|134.35.121.6|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|18|165.16.31.19|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.173.138.196|8080|Indonesia|Tanggamus|PT Serayu Multi Connection|
+|14|134.35.121.6|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|67.43.236.20|30405|Canada|Montreal|GloboTech Communications|
 
 
 
