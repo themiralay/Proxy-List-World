@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|17|181.118.143.1|999|Argentina|Tandil|Siternet SRL|
-|18|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|20|101.255.118.10|3127|Indonesia|Bekasi|PT Remala Abadi|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|19|186.125.235.101|999|Argentina|Simoca|Telecom Argentina S.A.|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
