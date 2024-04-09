@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|103.139.126.235|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|197.254.84.86|32650|Kenya|Nairobi|ACCESSKENYA|
-|15|61.129.2.212|8080|China|Beijing|CHINANET|
-|16|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|17|103.78.96.146|80|Indonesia|Jakarta|MORATELINDO|
-|18|72.10.164.178|33147|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|1069|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|3763|Canada|Montreal|GloboTech Communications|
+|9|103.139.126.235|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|72.10.164.178|6855|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|29467|Canada|Montreal|GloboTech Communications|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|17|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|18|103.196.28.6|8080|India|Coimbatore|WLSNET|
+|19|67.43.236.20|4709|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|5809|Canada|Montreal|GloboTech Communications|
 
 
 
