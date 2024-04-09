@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|2|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|191.5.0.69|3128|Brazil|Passo Fundo|RazaoInfo Internet Ltda|
-|7|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|11|72.10.160.170|21929|Canada|Montreal|GloboTech Communications|
-|12|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
-|13|67.43.227.227|26481|Canada|Montreal|GloboTech Communications|
-|14|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|15|119.39.68.36|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|72.10.160.90|7023|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|24249|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|24249|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|7247|Canada|Montreal|GloboTech Communications|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|9|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
+|12|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|13|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|19|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
+|20|155.186.141.197|8080|United States|McDonough|Charter Communications|
 
 
 
