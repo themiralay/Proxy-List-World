@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|11|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|67.43.236.20|27753|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|5209|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|2323|Canada|Montreal|GloboTech Communications|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|67.43.236.20|21781|Canada|Montreal|GloboTech Communications|
+|12|79.174.188.153|8080|Russia|Moscow|Unitel, LLC|
+|13|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|14|36.6.144.135|8089|China|Guangzhou|Chinanet|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|72.10.160.170|5209|Canada|Montreal|GloboTech Communications|
+|17|186.125.235.101|999|Argentina|Simoca|Telecom Argentina S.A.|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|72.10.164.178|17579|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
