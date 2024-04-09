@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 |12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|67.43.227.229|9743|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|5619|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|5619|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|16547|Canada|Montreal|GloboTech Communications|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|13|67.43.236.20|23461|Canada|Montreal|GloboTech Communications|
+|14|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|15|103.172.70.28|9191|Indonesia|Gemolong|AZNET|
+|16|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.164.178|8545|Canada|Montreal|GloboTech Communications|
+|19|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
