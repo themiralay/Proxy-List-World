@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |7|3.111.60.175|3128|India|Mumbai|Amazon Technologies Inc.|
-|8|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|12|38.159.232.6|8080|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
 |13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|122.10.101.15|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|179.49.160.32|999|Colombia|Neiva|Integra Multisolutions|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|20|186.148.182.55|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
