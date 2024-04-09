@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|103.131.232.16|80|Australia|Goulburn|RemoteISP Pty Ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|222.124.202.144|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|103.167.171.43|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|13|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|12|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|13|181.198.1.82|999|Ecuador|Guayaquil|Telconet S.A|
+|14|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
 |15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
-|17|103.93.216.58|8080|Pakistan|Karachi|Rising Cable Net (Pvt) Ltd|
-|18|177.73.68.150|8080|Brazil|Brasília|Level 3 Communications, Inc.|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|16|138.0.141.46|8080|Brazil|São Paulo|F.B. BABETO ME|
+|17|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|44.225.65.25|80|United States|Portland|Amazon.com, Inc.|
+|20|185.208.101.89|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 
 
 
