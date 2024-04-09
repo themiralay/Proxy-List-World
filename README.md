@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|223.247.47.121|8089|China|Rongcheng|Chinanet|
-|14|67.43.236.20|24597|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|3729|Canada|Montreal|GloboTech Communications|
-|16|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|17|67.43.227.227|27175|Canada|Montreal|GloboTech Communications|
-|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|20|95.216.67.36|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|72.10.160.90|18413|Canada|Montreal|GloboTech Communications|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|15|223.247.47.121|8089|China|Rongcheng|Chinanet|
+|16|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|67.43.227.228|27195|Canada|Montreal|GloboTech Communications|
+|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
 
 
 
