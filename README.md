@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|6|103.133.25.241|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|45.190.187.122|999|Honduras|Comayagüela|Ufinet Panama S.A.|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|18|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.87.169.187|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|5|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.163.244.52|83|India|Panipat|Infolink System|
+|13|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|17|103.165.58.107|64999|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|18|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
