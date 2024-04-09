@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|3|203.150.113.190|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|77.119.237.96|55654|Austria|Vienna|Network of Hutchison Drei Austria GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.117.194.69|8080|Bangladesh|Rājāfair|DigiCon Telecommunication Ltd|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|2|203.150.113.190|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|103.117.194.69|8080|Bangladesh|Rājāfair|DigiCon Telecommunication Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|14|66.70.238.78|7777|United Kingdom|London|OVH SAS|
 |15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|16|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|17|67.43.236.21|16831|Canada|Montreal|GloboTech Communications|
-|18|177.93.60.70|999|Colombia|Riosucio|TV AZTECA SUCURSAL COLOMBIA|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|67.43.228.253|20149|Canada|Montreal|GloboTech Communications|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|77.119.237.96|55654|Austria|Vienna|Network of Hutchison Drei Austria GmbH|
+|18|72.10.164.178|22295|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|20149|Canada|Montreal|GloboTech Communications|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
