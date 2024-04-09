@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|101.109.107.215|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|2|101.109.107.215|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|190.128.225.114|999|Paraguay|Asunción|Telecel S.A.|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|114.106.171.80|8089|China|Rongcheng|Chinanet|
-|16|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|17|172.203.113.16|80|United States|Boydton|Microsoft|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|72.10.164.178|8763|Canada|Montreal|GloboTech Communications|
-|20|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|67.43.227.227|3849|Canada|Montreal|GloboTech Communications|
+|17|138.197.92.54|10007|United States|Clifton|DigitalOcean, LLC|
+|18|103.4.117.153|5020|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|19|170.81.210.254|8080|Brazil|Carapicuíba|Connectvy Telecomunicacoes Ltda|
+|20|12.248.41.130|8080|United States|New Orleans|AT&T Services, Inc.|
 
 
 
