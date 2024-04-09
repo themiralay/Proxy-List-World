@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|67.43.228.253|24563|Canada|Montreal|GloboTech Communications|
-|14|209.14.113.2|999|Colombia|Cértegui|AGIS|
-|15|38.158.202.82|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|119.39.68.36|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|222.120.150.216|80|South Korea|Paju|Korea Telecom|
-|20|67.43.236.18|31869|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|11|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|12|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|119.39.68.36|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|67.43.228.253|24563|Canada|Montreal|GloboTech Communications|
+|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|19|186.190.225.152|999|Colombia|Villanueva|TV AZTECA SUCURSAL COLOMBIA|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
