@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|7|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|13|200.94.102.10|999|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|14|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|15|109.200.184.228|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|5|103.133.27.86|8085|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|6|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|7|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
