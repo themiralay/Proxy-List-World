@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|66.70.238.78|7777|United Kingdom|London|OVH SAS|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|44.225.65.25|80|United States|Portland|Amazon.com, Inc.|
-|8|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|9|159.65.176.77|10011|United States|Clifton|DigitalOcean, LLC|
-|10|72.10.160.173|25361|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|21463|Canada|Montreal|GloboTech Communications|
-|12|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|13|72.10.164.178|6467|Canada|Montreal|GloboTech Communications|
-|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|72.10.164.178|6467|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|21463|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|19|72.10.164.178|6467|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|6467|Canada|Montreal|GloboTech Communications|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|44.225.65.25|80|United States|Portland|Amazon.com, Inc.|
+|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
+|15|72.10.164.178|2913|Canada|Montreal|GloboTech Communications|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|114.106.134.238|8089|China|Guangzhou|Chinanet|
+|18|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|19|183.165.244.93|8089|China|Shenzhen|Chinanet|
+|20|72.10.160.172|21665|Canada|Montreal|GloboTech Communications|
 
 
 
