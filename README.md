@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|10|103.193.144.76|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|155.186.141.197|8080|United States|McDonough|Charter Communications|
 |11|129.154.224.75|80|India|Mumbai|Oracle Corporation|
-|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|72.10.160.170|26991|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|8273|Canada|Montreal|GloboTech Communications|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|72.10.164.178|8273|Canada|Montreal|GloboTech Communications|
-|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|67.43.227.227|3113|Canada|Montreal|GloboTech Communications|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|16|179.60.53.16|999|Ecuador|Los Lojas|Stealth Telecom del Ecuador|
+|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.160.170|23861|Canada|Montreal|GloboTech Communications|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|72.10.164.178|14745|Canada|Montreal|GloboTech Communications|
 
 
 
