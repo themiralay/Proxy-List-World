@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
-|9|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|11|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|12|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|2|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|103.131.232.16|80|Australia|Goulburn|RemoteISP Pty Ltd|
+|6|68.183.48.146|10014|United States|Clifton|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|10|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|11|212.46.210.251|8080|Russia|Moscow|VympelKom broadband internet|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |13|68.183.48.146|10014|United States|Clifton|DigitalOcean, LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|68.183.48.146|10014|United States|Clifton|DigitalOcean, LLC|
-|16|67.43.227.227|19635|Canada|Montreal|GloboTech Communications|
-|17|44.225.65.25|80|United States|Portland|Amazon.com, Inc.|
-|18|67.79.51.210|16099|United States|Beaumont|Spectrum|
-|19|67.43.227.230|11201|Canada|Montreal|GloboTech Communications|
-|20|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|16|103.135.14.176|8181|Indonesia|Malang|Dinas Komunikasi dan Informatika Kota Malang|
+|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|19|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|20|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
 
 
 
