@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|8|134.35.44.41|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|14|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|15|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|15|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|67.43.228.254|30645|Canada|Montreal|GloboTech Communications|
+|18|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|19|67.43.236.20|32897|Canada|Montreal|GloboTech Communications|
 |20|72.10.164.178|30417|Canada|Montreal|GloboTech Communications|
 
 
