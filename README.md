@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|222.127.67.204|8085|Philippines|Lahug|INNOVE|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|190.102.139.148|999|Peru|Lima|Optical Technologies S.A.C.|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|129.154.224.75|80|India|Mumbai|Oracle Corporation|
-|16|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|16|123.182.59.191|8089|China|Zhangjiakou|China Telecom|
 |17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
