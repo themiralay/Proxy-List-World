@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|103.228.119.85|5656|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
+|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|183.96.12.234|3128|South Korea|Jungnang-gu|Korea Telecom|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|221.152.19.121|3129|South Korea|Nam-gu|Korea Telecom|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
+|8|221.152.19.121|3129|South Korea|Nam-gu|Korea Telecom|
+|9|45.11.95.166|6015|Russia|Moscow|Delta Ltd|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|64.225.8.118|10005|United States|Clifton|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|18|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|19|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
+|20|103.196.28.6|8080|India|Coimbatore|WLSNET|
 
 
 
