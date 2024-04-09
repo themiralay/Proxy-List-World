@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|471|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|471|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|471|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|68.183.48.146|10013|United States|Clifton|DigitalOcean, LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|8|68.183.48.146|10013|United States|Clifton|DigitalOcean, LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|167.249.29.220|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|158.181.204.159|8080|Kyrgyzstan|Bishkek|MEGALINE|
-|16|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|10|103.27.22.65|32650|Pakistan|Lahore|Supernet|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
 |17|88.250.60.33|8080|Turkey|Erzurum|TurkTelecom|
-|18|68.183.48.146|10013|United States|Clifton|DigitalOcean, LLC|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
