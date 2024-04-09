@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|202.137.8.151|8080|Indonesia|Depok|LINKNET|
-|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|8|103.207.1.82|8080|India|Chennai|Sri Vari Network Private Limited|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|112.201.185.96|9000|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|103.133.238.87|81|Australia|Cordalba|IP Telco|
-|16|66.223.176.201|8080|United States|Fairbanks|General Communication|
-|17|103.189.231.217|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
-|20|114.231.8.52|8089|China|Nanjing|Chinanet|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|112.201.185.96|9000|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|72.10.160.173|19203|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|10879|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|72.10.160.91|7895|Canada|Montreal|GloboTech Communications|
 
 
 
