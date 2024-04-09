@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|213.207.43.183|443|Albania|Tirana|Tibo Communications|
-|10|104.129.199.34|8800|United States|Los Angeles|ZSCALER, INC.|
-|11|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|12|167.172.238.6|10005|United States|Clifton|DigitalOcean, LLC|
-|13|121.195.170.225|1024|China|Haidian|CERNET|
-|14|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.227.227|18297|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|13077|Canada|Montreal|GloboTech Communications|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|104.129.199.34|8800|United States|Los Angeles|ZSCALER, INC.|
+|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|72.10.160.174|31561|Canada|Montreal|GloboTech Communications|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
