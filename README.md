@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|194.54.56.58|3128|Turkey|Hacılar|Uydunet|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|52.70.162.199|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|194.54.56.58|3128|Turkey|Hacılar|Uydunet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.234.31.59|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|46.245.77.52|3128|Iran|Tehran|Asiatech Data Transmission company|
+|14|203.160.186.246|8080|Philippines|Pasay|Philippine Telelgraph & Telephone|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |16|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|102.214.167.129|1981|Libya|Darnah|Taqnyat Aljeel Company Communication and Information|
-|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|67.43.227.227|20147|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|20147|Canada|Montreal|GloboTech Communications|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|52.70.162.199|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|207.230.8.97|999|Colombia|Popayán|Cogent Communications|
 
 
 
