@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|109.111.134.157|8080|Russia|Kaliningrad|TIS Dialog LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|154.73.28.89|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|5|222.120.150.196|80|South Korea|Paju|Korea Telecom|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|134.35.241.73|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|190.61.80.93|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|11|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|14|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
-|15|201.77.108.72|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|16|45.76.110.62|12009|Japan|Shinagawa|The Constant Company|
-|17|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|36.94.185.122|60080|Indonesia|Ciracas|PT. Telekomunikasi Indonesia|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|121.195.170.225|1024|China|Haidian|CERNET|
+|16|58.84.20.18|8080|India|Mathura|Power Grid Corporation of India Limited|
+|17|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.164.178|5599|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|5599|Canada|Montreal|GloboTech Communications|
 
 
 
