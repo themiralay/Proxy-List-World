@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|4|116.58.239.63|80|Thailand|Chachoengsao|CAT Telecom Public Company Limited|
-|5|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|3.111.60.175|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|16|72.10.160.173|27063|Canada|Montreal|GloboTech Communications|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|67.43.236.18|20989|Canada|Montreal|GloboTech Communications|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|72.10.160.90|21307|Canada|Montreal|GloboTech Communications|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|3.111.60.175|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|11|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|16|67.43.236.18|30133|Canada|Montreal|GloboTech Communications|
+|17|103.179.253.202|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
