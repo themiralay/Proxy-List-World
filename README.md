@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|206.42.27.113|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|12|36.93.130.218|66|Indonesia|Tomang|Telekomunikasi Indonesia|
-|13|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|72.10.160.171|8335|Canada|Montreal|GloboTech Communications|
-|16|101.255.148.210|8080|Indonesia|Bekasi|PT Remala Abadi|
-|17|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|19|45.188.164.47|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|20|103.88.90.70|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|14|45.224.22.63|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|15|36.93.130.218|66|Indonesia|Tomang|Telekomunikasi Indonesia|
+|16|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|45.4.148.72|8080|Brazil|Surubim|Fausto Silva de Almeida Serviços - ME|
+|19|77.247.95.69|8989|Albania|Fier|Teleco Eighth|
+|20|103.148.112.117|8080|Indonesia|Cimahi|PT. FORIT ASTA SOLUSINDO|
 
 
 
