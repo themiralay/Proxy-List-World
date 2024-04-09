@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|72.10.164.178|15863|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|11|120.28.220.100|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|67.43.228.254|24199|Canada|Montreal|GloboTech Communications|
+|18|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
