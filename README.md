@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|221.152.19.121|3129|South Korea|Nam-gu|Korea Telecom|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|5|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|14|221.152.19.121|3129|South Korea|Nam-gu|Korea Telecom|
-|15|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|85.117.60.131|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|18|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|183.96.12.234|3128|South Korea|Jungnang-gu|Korea Telecom|
+|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|93.206.220.102|8118|Germany|Mannheim|Deutsche Telekom AG|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|67.43.236.20|15493|Canada|Montreal|GloboTech Communications|
 
 
 
