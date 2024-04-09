@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|16|37.228.65.107|32052|Kazakhstan|Aktau|Jusan Mobile JSC|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|77.247.95.69|8989|Albania|Fier|Teleco Eighth|
-|19|124.83.35.42|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|103.180.247.6|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
+|10|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|15|64.225.8.118|10001|United States|Clifton|DigitalOcean, LLC|
+|16|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|36.95.142.35|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|19|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|111.225.152.223|8089|China|Zhoutou|China Telecom|
 
 
 
