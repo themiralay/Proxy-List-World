@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|6|181.39.24.147|999|Ecuador|Quito|Telconet S.A|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|67.43.227.227|28557|Canada|Montreal|GloboTech Communications|
+|4|158.51.121.31|8118|Canada|Montreal|GLOBALTELEHOST Corp.|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
 |9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|222.120.150.196|80|South Korea|Paju|Korea Telecom|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|18|67.43.227.227|28557|Canada|Montreal|GloboTech Communications|
-|19|89.187.143.153|3128|Czechia|Prague|Network of Coolhousing|
-|20|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|11|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|67.43.236.20|30913|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|67.43.227.227|12813|Canada|Montreal|GloboTech Communications|
+|19|103.178.43.21|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
+|20|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
