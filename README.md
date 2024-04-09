@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|3.111.60.175|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
-|11|112.201.185.96|9000|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|13|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|14|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|15|67.206.206.74|8888|Puerto Rico|Humacao|OSNET Wireless|
-|16|222.127.135.164|8082|Philippines|Cebu City|Globe Telecom|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|146.190.35.63|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|3.111.60.175|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |18|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|19|103.189.250.67|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|20|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
