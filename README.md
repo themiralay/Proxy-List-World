@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|10|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|20|103.234.31.66|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
 
 
 
