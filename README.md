@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|134.35.0.165|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|9|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|38.51.234.110|1986|Colombia|Neiva|SP SISTEMAS PALACIOS LTDA|
-|13|36.90.23.199|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
-|14|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|15|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|185.208.102.58|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|18|143.110.145.44|7700|United States|Santa Clara|DigitalOcean, LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|23.94.214.8|9054|United States|Santa Clara|HostPapa|
+|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|213.221.46.10|3128|Russia|Moscow|EDN Sovintel|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|118.71.66.50|32650|Vietnam|Hanoi|FPT Telecom Company|
+|17|134.35.0.165|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|93.177.126.101|8088|Russia|Balashikha|G COM Ltd.|
+|20|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
