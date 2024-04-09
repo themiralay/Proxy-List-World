@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.69.28.66|80|Canada|Montreal|OVH Hosting|
-|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|186.156.161.235|3128|Chile|Macul|VTR BANDA ANCHA S.A.|
-|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|103.144.102.125|8080|Indonesia|Indramayu|PANDAWANET|
-|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|19|103.89.233.226|83|India|Mangalore|Deenet Services Pvt. Ltd|
-|20|181.204.81.181|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
+|11|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
+|19|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|20|94.154.152.45|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
 
 
 
