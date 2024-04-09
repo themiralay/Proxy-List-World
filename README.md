@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|14|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|15|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|72.10.160.90|10161|Canada|Montreal|GloboTech Communications|
-|18|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|19|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|103.176.96.140|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
 
 
 
