@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|6|134.35.12.91|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|9|67.43.227.227|3275|Canada|Montreal|GloboTech Communications|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|13|72.10.160.90|24241|Canada|Montreal|GloboTech Communications|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|67.43.227.227|3275|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.227.227|3275|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|67.43.227.227|3275|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|3275|Canada|Montreal|GloboTech Communications|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|15|67.43.228.251|9219|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|3275|Canada|Montreal|GloboTech Communications|
+|17|144.137.217.187|80|Australia|Sydney|Telstra Internet|
 |18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|134.35.112.183|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|20|67.43.227.227|3275|Canada|Montreal|GloboTech Communications|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
