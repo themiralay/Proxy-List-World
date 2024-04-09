@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|203.150.128.32|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|185.255.112.171|3128|France|Paris|REDHEBERG Association declaree|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|114.232.109.141|8089|China|Nanjing|Chinanet|
-|18|72.10.160.90|29257|Canada|Montreal|GloboTech Communications|
-|19|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
-|20|67.43.227.228|17413|Canada|Montreal|GloboTech Communications|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|67.43.236.20|12571|Canada|Montreal|GloboTech Communications|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
+|18|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|67.43.227.226|4555|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.19|13239|Canada|Montreal|GloboTech Communications|
 
 
 
