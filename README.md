@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|134.35.0.165|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|118.71.66.50|32650|Vietnam|Hanoi|FPT Telecom Company|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|36.90.23.199|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
-|16|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|17|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|23.94.214.8|9054|United States|Santa Clara|HostPapa|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|134.35.0.165|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|20|222.120.150.196|80|South Korea|Paju|Korea Telecom|
 
 
 
