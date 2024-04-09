@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|134.35.12.91|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|136.243.125.1|1369|Germany|Cologne|Hetzner Online GmbH|
-|9|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|63.250.52.82|8118|Japan|Tokyo|HIVELOCITY, Inc.|
-|13|121.195.170.225|1024|China|Haidian|CERNET|
-|14|114.231.82.168|8089|China|Nanjing|Chinanet|
-|15|64.225.8.118|10001|United States|Clifton|DigitalOcean, LLC|
-|16|114.106.171.80|8089|China|Rongcheng|Chinanet|
-|17|64.225.8.118|10001|United States|Clifton|DigitalOcean, LLC|
-|18|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
-|19|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
-|20|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|5|134.35.112.183|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|80.66.81.46|4006|Russia|Moscow|BUQU.SU Solutions|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|203.150.128.32|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|13|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|72.10.164.178|1601|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|10055|Canada|Montreal|GloboTech Communications|
+|18|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
 
 
 
