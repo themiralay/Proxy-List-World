@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|157.245.196.217|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|138.97.119.10|8080|Brazil|Nova Iguaçu|NC BRASIL TELECOM E SERVICOS LTDA- ME|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|15|114.231.46.251|8089|China|Nanjing|Chinanet|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|67.43.227.227|16299|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|3485|Canada|Montreal|GloboTech Communications|
-|19|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|4|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|180.211.186.158|8080|Bangladesh|Nawābganj|Bangladesh Telecommunications Company Ltd.|
+|15|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|18|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
