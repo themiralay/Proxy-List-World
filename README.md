@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|165.22.36.164|10013|United States|Clifton|DigitalOcean, LLC|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.156.17.153|8080|Indonesia|Indramayu|RSTNET|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|78.101.27.7|8080|Qatar|Doha|Qtel-ADSL|
 |15|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|193.30.13.21|999|Ecuador|Nobol|Eliana Vanessa Morocho Oña|
-|19|45.4.201.94|8080|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|16|165.22.36.164|10013|United States|Clifton|DigitalOcean, LLC|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|72.10.160.90|13221|Canada|Montreal|GloboTech Communications|
 
 
 
