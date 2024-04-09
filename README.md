@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|14|222.127.135.164|8082|Philippines|Cebu City|Globe Telecom|
-|15|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|17|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|101.255.148.210|8080|Indonesia|Bekasi|PT Remala Abadi|
+|20|45.125.193.36|8080|Singapore|Singapore|READYSERVER|
 
 
 
