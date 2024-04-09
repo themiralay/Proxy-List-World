@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |4|158.69.28.66|80|Canada|Montreal|OVH Hosting|
 |5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|8|134.35.0.165|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|103.106.195.41|32650|India|Delhi|Elyzium Consulting|
+|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|14|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|16|90.84.17.133|3128|France|Saint-Denis|FR OCB HONEY AS2280|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|19|110.78.186.121|8080|Thailand|Rayong|CAT-BB|
-|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|134.35.0.165|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|12|36.90.23.199|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|94.198.221.4|3128|Kazakhstan|Almaty|TimeWeb Ltd.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|20|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
