@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|158.69.28.66|80|Canada|Montreal|OVH Hosting|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|10|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|11|36.93.130.218|66|Indonesia|Tomang|Telekomunikasi Indonesia|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|14|103.89.233.226|83|India|Mangalore|Deenet Services Pvt. Ltd|
+|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|203.150.166.170|8080|Thailand|Trang|Internet Thailand Company Ltd.|
+|9|111.225.153.247|8089|China|Zhoutou|China Telecom|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|46.29.237.247|8080|The Netherlands|Amsterdam|Stark Industries Solutions LTD|
+|13|183.131.93.118|8888|China|Hangzhou|Chinanet|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |15|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
-|16|103.115.31.181|8090|Indonesia|Depok|HSPNET|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|19|111.225.153.247|8089|China|Zhoutou|China Telecom|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.217.224.139|8040|Indonesia|Semarang|PT Nesta Indo Media|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|101.255.118.10|3127|Indonesia|Bekasi|PT Remala Abadi|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|103.125.138.206|8080|Bangladesh|Dhaka|Rupali Bank Limited|
 
 
 
