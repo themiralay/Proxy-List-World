@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|134.35.12.91|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.76.114.38|12009|Australia|Sydney|The Constant Company|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|13|103.147.73.133|8080|Indonesia|Kediri|ALFATINDO|
-|14|67.43.236.20|5283|Canada|Montreal|GloboTech Communications|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|67.43.236.20|5283|Canada|Montreal|GloboTech Communications|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.159.195.233|9091|Indonesia|Demak|PT Giga Digital Nusantara|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|15|67.43.236.20|21887|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|12361|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|85.234.126.107|55555|Russia|Irkutsk|LLC "Regional company Svyaztranzit"|
+|20|181.78.21.150|999|Colombia|Barrio San Luis|IFX Networks Argentina S.R.L|
 
 
 
