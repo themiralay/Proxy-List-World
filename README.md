@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|11|172.203.113.16|80|United States|Boydton|Microsoft|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |16|172.203.113.16|80|United States|Boydton|Microsoft|
-|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|18|138.122.99.249|999|Mexico|San Jose Iturbide|Ientc S De RL De CV|
-|19|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|20|101.255.148.210|8080|Indonesia|Bekasi|PT Remala Abadi|
+|17|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|20|172.203.113.16|80|United States|Boydton|Microsoft|
 
 
 
