@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|200.106.124.63|999|Peru|Tacna|Telefonica del Peru|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|13|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|72.10.164.178|7963|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|11|155.186.141.197|8080|United States|McDonough|Charter Communications|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|14|202.12.80.8|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|15|72.10.164.178|2327|Canada|Montreal|GloboTech Communications|
 |16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|17|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|72.10.164.178|2327|Canada|Montreal|GloboTech Communications|
 |18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|67.43.236.20|2489|Canada|Montreal|GloboTech Communications|
 
 
 
