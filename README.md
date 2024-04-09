@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|4|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|109.200.184.228|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|103.247.216.70|8080|Indonesia|Kramatjati|PT. Parsaoran Global Datatrans|
-|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|103.5.232.148|8080|Bangladesh|Chittagong|Chittagong Online Limited|
-|17|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|18|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|19|112.78.155.214|8080|Indonesia|Jakarta|BIZNET|
-|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|190.13.85.82|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|19|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|20|178.65.171.6|8080|Russia|Monchegorsk|PJSC "Rostelecom" North-West region|
 
 
 
