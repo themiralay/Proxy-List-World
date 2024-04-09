@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|36.93.130.219|66|Indonesia|Tomang|Telekomunikasi Indonesia|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|9|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|186.190.225.152|999|Colombia|Villanueva|TV AZTECA SUCURSAL COLOMBIA|
-|15|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|16|67.43.236.20|1613|Canada|Montreal|GloboTech Communications|
-|17|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|18|72.10.160.170|5039|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|2029|Canada|Montreal|GloboTech Communications|
-|20|103.154.77.75|8080|Indonesia|Magelang|T2NET|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
+|17|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|18|67.43.227.227|31629|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|5567|Canada|Montreal|GloboTech Communications|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
