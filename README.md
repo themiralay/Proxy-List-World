@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|41.57.139.185|6060|South Africa|Delmas|FTH Scr P10|
-|11|72.10.164.178|28727|Canada|Montreal|GloboTech Communications|
-|12|180.250.143.189|497|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|67.43.236.20|31751|Canada|Montreal|GloboTech Communications|
-|14|180.250.143.189|497|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|15|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|16|67.43.227.228|4017|Canada|Montreal|GloboTech Communications|
-|17|183.165.227.61|8089|China|Shenzhen|Chinanet|
-|18|67.43.236.20|31751|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|10811|Canada|Montreal|GloboTech Communications|
-|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|67.43.227.228|10055|Canada|Montreal|GloboTech Communications|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|67.43.236.20|9127|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|14761|Canada|Montreal|GloboTech Communications|
+|16|119.39.68.36|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|18|182.93.82.191|8080|Nepal|Kathmandu|Subisu Cablenet|
+|19|72.10.160.170|14761|Canada|Montreal|GloboTech Communications|
+|20|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
 
 
 
