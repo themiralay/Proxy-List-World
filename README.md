@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|8|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|9|204.11.158.50|59886|U.S. Virgin Islands|Charlotte Amalie|Broadband VI, LLC|
 |10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|103.177.176.62|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |15|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|19|155.186.141.197|8080|United States|McDonough|Charter Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|72.10.164.178|15827|Canada|Montreal|GloboTech Communications|
 
 
 
