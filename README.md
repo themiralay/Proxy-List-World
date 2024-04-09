@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|148.251.76.237|18080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|67.43.236.20|31425|Canada|Montreal|GloboTech Communications|
-|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|72.10.164.178|21951|Canada|Montreal|GloboTech Communications|
-|19|202.29.215.78|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
-|20|52.70.162.199|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|198.20.116.86|9000|The Netherlands|Amsterdam|SingleHop LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.6.223.2|3128|China|Baoshan|China Unicom|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|19|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
