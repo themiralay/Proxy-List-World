@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|5|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
-|10|221.152.19.121|3129|South Korea|Nam-gu|Korea Telecom|
-|11|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|65.1.244.232|1080|India|Mumbai|Amazon.com|
-|14|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|222.127.50.56|8082|Philippines|Lahug|INNOVE|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|20|183.165.226.116|8089|China|Shenzhen|Chinanet|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|7|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|8|221.152.19.121|3129|South Korea|Nam-gu|Korea Telecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|45.11.95.165|6003|Russia|Moscow|Delta Ltd|
+|18|202.136.89.227|8080|Bangladesh|Dhaka|Circle Network|
+|19|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
