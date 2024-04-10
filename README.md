@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|1|221.152.19.121|3129|South Korea|Nam-gu|Korea Telecom|
 |2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|3|112.78.40.210|8080|Indonesia|Yogyakarta|PT DES Teknologi Informasi|
-|4|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
-|11|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|221.152.19.121|3129|South Korea|Nam-gu|Korea Telecom|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|103.159.196.81|8080|Indonesia|Serang|PT Andalan Dinamika Informatika|
-|17|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|45.76.114.38|12009|Australia|Sydney|The Constant Company|
+|15|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
