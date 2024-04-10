@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|190.232.82.77|999|Peru|Cutervo|Telefónica del Perú|
-|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|8|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|9|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|186.148.195.168|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|190.232.82.77|999|Peru|Cutervo|Telefónica del Perú|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|17|190.94.212.254|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|20|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|16|222.64.104.82|9000|China|Shanghai|CHINANET-SH|
+|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|18|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
 
 
 
