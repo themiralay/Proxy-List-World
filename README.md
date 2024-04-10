@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|72.10.160.170|20289|Canada|Montreal|GloboTech Communications|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
