@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|4|190.232.82.77|999|Peru|Cutervo|Telefónica del Perú|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|5|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
+|6|190.232.82.77|999|Peru|Cutervo|Telefónica del Perú|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|8|137.184.216.108|4033|United States|North Bergen|DigitalOcean, LLC|
+|9|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|14|156.232.11.193|3128|United States|Los Angeles|Guangzhou Yisu Cloud Limited|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
-|19|206.42.56.195|8080|Brazil|Fortaleza|Brisanet Prestacao De Servicos De Internet Ltda|
-|20|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|89.187.143.153|3128|Czechia|Prague|Network of Coolhousing|
+|18|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|19|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
