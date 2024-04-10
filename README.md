@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|210.156.35.196|80|Japan|Tamukai|Research Organization of Information and Systems, National Institute of Informa|
-|11|164.52.204.156|80|India|Noida|E2E Networks Limited|
-|12|114.232.110.181|8089|China|Nanjing|Chinanet|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|15|103.68.214.19|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|12|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
 |16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|20|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|17|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|20|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
 
 
 
