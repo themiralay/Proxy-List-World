@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|5|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
-|6|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|69.75.140.157|8080|United States|Whittier|Spectrum|
-|10|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|16|94.130.181.59|32770|Germany|Tübingen|Hetzner Online GmbH|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|20|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|4|36.93.68.47|41890|Indonesia|Bali Mester|Telekomunikasi Indonesia|
+|5|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|6|200.32.51.179|8080|Argentina|Adrogue|Telefonica de Argentina|
+|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|41.254.53.70|1976|Libya|Waddān|LTT Network Backbone and POPs|
+|9|103.242.107.146|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|94.130.181.59|32770|Germany|Tübingen|Hetzner Online GmbH|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 
 
 
