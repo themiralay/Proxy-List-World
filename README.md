@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
-|18|34.154.161.152|80|Italy|Milan|Google LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|185.191.236.162|8080|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|11|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|103.177.10.139|8080|Indonesia|Kediri|PT Nalendra Gigantara Media|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|129.154.224.75|80|India|Mumbai|Oracle Corporation|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
