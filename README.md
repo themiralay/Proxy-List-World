@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|158.178.243.45|3128|Singapore|Singapore|Oracle Corporation|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|7|101.255.149.250|1234|Indonesia|Bekasi|PT Remala Abadi|
+|6|211.227.94.112|3128|South Korea|Gangbuk-gu|Korea Telecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|183.88.241.167|8080|Thailand|Rayong|Triple T Broadband Public Company Limited|
-|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|14|38.41.29.86|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|18|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|72.10.160.174|24855|Canada|Montreal|GloboTech Communications|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|85.26.218.112|3128|Russia|St Petersburg|North-West Branch of OJSC MegaFon Network|
+|13|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|14|103.178.43.21|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
+|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|72.10.164.178|32323|Canada|Montreal|GloboTech Communications|
+|19|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|20|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
