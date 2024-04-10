@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|7|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|87.250.5.188|8181|Russia|Izhevsk|MARK-ITT|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
-|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|85.26.218.112|3128|Russia|St Petersburg|North-West Branch of OJSC MegaFon Network|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|158.178.243.45|3128|Singapore|Singapore|Oracle Corporation|
-|20|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
+|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|17|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
+|18|103.115.20.26|8090|Indonesia|Subang|PMYNET|
+|19|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
