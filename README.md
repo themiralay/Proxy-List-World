@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|5.158.124.152|5555|Russia|Nizhnevartovsk|Pride Limited company|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|11|134.35.216.205|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|186.101.91.141|999|Ecuador|Guayaquil|Telconet S.A|
+|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|20|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
