@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|1|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
 |10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
-|17|89.58.48.220|10012|Germany|Nuremberg|netcup GmbH|
-|18|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|13|58.147.186.31|3125|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
 
 
 
