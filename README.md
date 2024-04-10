@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|149.102.134.2|3128|United Kingdom|Portsmouth|Cogent Communications|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|201.77.108.25|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|95.111.238.142|3128|Germany|Nuremberg|Contabo GmbH|
-|19|119.39.69.167|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
+|18|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
+|19|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
