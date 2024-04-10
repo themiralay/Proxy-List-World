@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|77.247.95.69|8989|Albania|Fier|Teleco Eighth|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|17|38.41.4.86|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|20|34.154.161.152|80|Italy|Milan|Google LLC|
+|20|136.226.118.199|9480|United States|San Jose|ZSCALER, INC.|
 
 
 
