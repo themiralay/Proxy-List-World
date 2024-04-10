@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|190.232.82.77|999|Peru|Cutervo|Telefónica del Perú|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |8|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|64.225.4.81|10013|United States|Clifton|DigitalOcean, LLC|
-|12|222.120.150.196|80|South Korea|Paju|Korea Telecom|
-|13|72.10.160.90|5881|Canada|Montreal|GloboTech Communications|
-|14|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|67.43.228.253|1551|Canada|Montreal|GloboTech Communications|
-|18|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|19|203.150.166.170|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|20|67.43.227.227|16591|Canada|Montreal|GloboTech Communications|
+|11|222.120.150.196|80|South Korea|Paju|Korea Telecom|
+|12|222.64.104.82|9000|China|Shanghai|CHINANET-SH|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|5.83.248.1|8080|Ireland|Roscommon|EURONA-BRISKNET|
+|20|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 
 
 
