@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|5|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
-|7|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|14|170.64.175.174|8089|Australia|Sydney|DigitalOcean, LLC|
-|15|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|2|34.154.161.152|80|Italy|Milan|Google LLC|
+|3|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|4|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|170.64.175.174|8089|Australia|Sydney|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
+|17|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|34.154.161.152|80|Italy|Milan|Google LLC|
+|20|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
 
 
 
