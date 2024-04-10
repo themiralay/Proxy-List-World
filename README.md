@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6743** proxies at the latest update. Usable proxies are below.
+> Scraper found **6774** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|90|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|594|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|625|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|352|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4749|✅|
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|118.99.127.179|8080|Indonesia|Malang|Biznet Metronet|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|8|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|183.96.12.234|3128|South Korea|Jungnang-gu|Korea Telecom|
-|18|139.255.33.242|8080|Indonesia|Tangerang|PT. LINKNET|
-|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|36.91.45.12|51672|Indonesia|Karawang|PT. Telekomunikasi Indonesia|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|17|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |20|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
 
 
