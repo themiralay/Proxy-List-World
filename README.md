@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|3|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|117.102.76.254|8080|Indonesia|Jakarta|Biznet Networks|
-|11|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
-|12|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
+|5|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|6|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|202.191.123.195|8090|Bangladesh|Dhaka|Bijoy Online Limited|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|138.197.92.54|10012|United States|Clifton|DigitalOcean, LLC|
+|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|18|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
