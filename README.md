@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|179.189.48.255|8080|Brazil|Sinop|EVO Networks|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|20|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 
 
 
