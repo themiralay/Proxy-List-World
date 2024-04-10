@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|9|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|67.43.228.253|29615|Canada|Montreal|GloboTech Communications|
-|17|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
-|20|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|17|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|18|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
