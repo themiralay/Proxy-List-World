@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|118.99.102.83|8080|Indonesia|Jakarta|Biznet Metronet|
 |11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|118.99.102.83|8080|Indonesia|Jakarta|Biznet Metronet|
-|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|58.20.20.78|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|17|67.43.236.20|17939|Canada|Montreal|GloboTech Communications|
-|18|45.122.228.10|8899|Australia|Sydney|NETPTYLTD|
-|19|103.16.118.165|8080|Indonesia|Madiun|CV Trustnet Media|
-|20|67.43.228.253|19113|Canada|Montreal|GloboTech Communications|
+|12|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|15|103.16.118.165|8080|Indonesia|Madiun|CV Trustnet Media|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
