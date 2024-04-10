@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|14.103.24.148|8000|China|Beijing|BITNET|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|19|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
-|20|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
