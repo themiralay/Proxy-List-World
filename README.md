@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|206.189.86.44|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|72.10.164.178|18285|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
-|20|1.10.141.45|8080|Thailand|Bang Phli|TOT Public Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|101.108.96.156|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|206.189.86.44|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|103.131.232.16|80|Australia|Goulburn|RemoteISP Pty Ltd|
+|20|190.94.212.254|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
