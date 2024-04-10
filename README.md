@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|103.184.19.73|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|186.101.91.141|999|Ecuador|Guayaquil|Telconet S.A|
-|14|103.215.148.202|1080|India|Pune|Cloudnet Communications Pvt Ltd|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|7|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|11|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|137.184.216.108|4033|United States|North Bergen|DigitalOcean, LLC|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|72.10.164.178|1595|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
