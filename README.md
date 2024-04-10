@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|3|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.35.19.118|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|134.35.19.118|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|176.32.2.193|8080|Ukraine|Dovzhok|Lanet Network|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|11|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|15|181.115.69.118|999|Honduras|Tegucigalpa|Telgua|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|19|89.187.143.153|3128|Czechia|Prague|Network of Coolhousing|
-|20|121.195.170.225|1024|China|Haidian|CERNET|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|12|181.115.69.118|999|Honduras|Tegucigalpa|Telgua|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
