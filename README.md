@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|68.183.48.146|10014|United States|Clifton|DigitalOcean, LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.164.178|12977|Canada|Montreal|GloboTech Communications|
-|14|167.172.238.6|10005|United States|Clifton|DigitalOcean, LLC|
-|15|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 
 
 
