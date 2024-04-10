@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|5|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|5|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
+|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
-|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|203.210.86.45|8080|Indonesia|Bandung|Infrastruktur STARNET|
+|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|192.203.0.190|999|Puerto Rico|Fajardo|Boom NET|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|87.250.5.188|8181|Russia|Izhevsk|MARK-ITT|
 
 
 
