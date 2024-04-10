@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|72.10.164.178|5969|Canada|Montreal|GloboTech Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|18|101.255.148.210|8080|Indonesia|Bekasi|PT Remala Abadi|
-|19|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|16|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|17|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|67.43.236.22|22853|Canada|Montreal|GloboTech Communications|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
