@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|2|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|181.115.69.118|999|Honduras|Tegucigalpa|Telgua|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|121.195.170.225|1024|China|Haidian|CERNET|
 |13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|20|103.139.144.128|8080|Bangladesh|Sayani|Rakib Hasan|
+|14|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
 
 
 
