@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|77.41.146.55|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|12|139.180.168.182|80|Australia|Sydney|Choopa|
-|13|89.58.48.220|10006|Germany|Nuremberg|netcup GmbH|
-|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|185.255.112.171|3128|France|Paris|REDHEBERG Association declaree|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|8|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|9|77.41.146.55|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|10|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|186.156.161.235|3128|Chile|Macul|VTR BANDA ANCHA S.A.|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|178.212.53.26|41258|Poland|Międzyrzecz|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|15|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|20|101.128.93.144|8090|Indonesia|Jakarta|CBN|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
 
 
 
