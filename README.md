@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|4|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
+|7|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|10|222.127.220.86|8082|Philippines|Quezon City|GLBB|
-|11|137.184.216.108|4033|United States|North Bergen|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
+|10|137.184.216.108|4033|United States|North Bergen|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|13|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|103.196.28.6|8080|India|Coimbatore|WLSNET|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
