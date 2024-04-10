@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|14|183.96.12.234|3128|South Korea|Jungnang-gu|Korea Telecom|
-|15|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
-|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|17|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
-|18|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
-|19|167.172.238.6|10005|United States|Clifton|DigitalOcean, LLC|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|118.99.127.179|8080|Indonesia|Malang|Biznet Metronet|
+|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
+|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|183.96.12.234|3128|South Korea|Jungnang-gu|Korea Telecom|
+|18|139.255.33.242|8080|Indonesia|Tangerang|PT. LINKNET|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
 
 
 
