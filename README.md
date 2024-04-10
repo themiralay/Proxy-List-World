@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|10|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|1|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|7|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|121.195.170.225|1024|China|Haidian|CERNET|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|68.183.48.146|10014|United States|Clifton|DigitalOcean, LLC|
-|16|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|68.183.48.146|10014|United States|Clifton|DigitalOcean, LLC|
-|19|119.39.68.64|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|181.119.67.130|999|Colombia|Florida|IFX Networks Argentina S.R.L|
+|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|71.42.125.218|4444|United States|Corpus Christi|Spectrum|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|17|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
