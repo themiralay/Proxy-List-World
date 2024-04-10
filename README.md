@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|186.159.6.165|1994|Colombia|Medellín|Edatel S.a. E.S.P|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|12|45.224.23.251|999|Ecuador|Hacienda El Carmen|Ufinet Panama S.A.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|180.183.59.87|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|17|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|14|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|216.176.187.99|8889|United States|Los Angeles|Wowrack.com|
+|20|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
 
 
 
