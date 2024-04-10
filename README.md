@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.154.139.130|8080|Indonesia|Jakarta|MORATELINDONAP|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|103.15.223.251|3131|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
-|11|138.197.92.54|10012|United States|Clifton|DigitalOcean, LLC|
-|12|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
-|13|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|138.197.92.54|10012|United States|Clifton|DigitalOcean, LLC|
-|18|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|19|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
-|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|103.136.82.252|83|India|Ranchi|Protoact Digital Network Pvt. Ltd|
+|11|213.226.11.149|41878|Bulgaria|Plovdiv|Mobiltel EAD|
+|12|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
+|13|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|14|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
+|15|178.34.190.6|8080|Russia|Moscow|Miranda-Media Ltd|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|138.197.92.54|10012|United States|Clifton|DigitalOcean, LLC|
+|20|118.99.127.179|8080|Indonesia|Malang|Biznet Metronet|
 
 
 
