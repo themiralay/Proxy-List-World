@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|38.9.141.28|80|Indonesia|Medan|Cogent Communications|
-|10|202.12.80.7|82|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|11|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|110.78.143.74|80|Thailand|Bangkok|CAT-BB|
-|13|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|14|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|15|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|18|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|110.78.143.74|80|Thailand|Bangkok|CAT-BB|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|14|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
+|17|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|18|45.175.252.18|999|Mexico|Chihuahua City|Alma Jessica Gallegos Gutierrez|
+|19|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|20|77.41.146.55|8080|Russia|Moscow|OJSC Vimpelcom HQ|
 
 
 
