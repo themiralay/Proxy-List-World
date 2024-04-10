@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|1|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|4|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |5|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|41.209.10.148|8080|Kenya|Nairobi|MTN Business Kenya|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 |11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|102.39.156.37|8080|South Africa|Cape Town|Vox Telecom|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|154.66.159.34|800|South Africa|Johannesburg|Wirulink Pty Ltd|
+|16|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|17|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
