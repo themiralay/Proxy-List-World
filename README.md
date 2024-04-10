@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.227.94.112|3128|South Korea|Gangbuk-gu|Korea Telecom|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|158.178.243.45|3128|Singapore|Singapore|Oracle Corporation|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|14|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|158.178.243.45|3128|Singapore|Singapore|Oracle Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|14|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|20|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
 
 
 
