@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|66.70.238.78|7777|United Kingdom|London|OVH SAS|
-|6|113.23.183.154|8989|Malaysia|Subang Jaya|Extreme Broadband|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|202.154.18.133|8080|Indonesia|Bojonegoro|DIGITNET|
-|14|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|24.192.227.234|8080|United States|Albion|WideOpenWest Finance LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|119.39.68.64|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|72.10.164.178|4135|Canada|Montreal|GloboTech Communications|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|13|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
