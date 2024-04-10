@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|119.76.142.166|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|7|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|11|103.234.159.5|8080|India|Bengaluru|MWPL|
+|2|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|94.19.55.3|8080|Russia|St Petersburg|SkyNet LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|34.154.161.152|80|Italy|Milan|Google LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|34.154.161.152|80|Italy|Milan|Google LLC|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
