@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|14|103.234.159.5|8080|India|Bengaluru|MWPL|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|67.43.228.251|24719|Canada|Montreal|GloboTech Communications|
-|19|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|20|5.83.248.1|8080|Ireland|Roscommon|EURONA-BRISKNET|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|20|119.76.142.166|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
 
 
 
