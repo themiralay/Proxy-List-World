@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
-|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|14|67.43.236.20|31961|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|72.10.164.178|3015|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|3103|Canada|Montreal|GloboTech Communications|
+|9|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|68.183.48.146|10009|United States|Clifton|DigitalOcean, LLC|
+|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|17|67.43.236.20|11799|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
