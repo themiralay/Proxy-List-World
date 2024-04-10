@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|134.35.19.118|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.35.19.118|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|7|177.221.140.99|8080|Chile|Santiago|Grupo CG Limitada|
+|8|103.97.203.104|8443|India|Mumbai|BrainStorm Network, Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
-|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|178.212.49.30|41258|Poland|Międzyrzecz|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|20|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
 
 
 
