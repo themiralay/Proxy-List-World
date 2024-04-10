@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|3|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|167.172.238.6|10016|United States|Clifton|DigitalOcean, LLC|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|138.197.92.54|10007|United States|Clifton|DigitalOcean, LLC|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|17|64.225.8.118|10005|United States|Clifton|DigitalOcean, LLC|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|138.197.92.54|10007|United States|Clifton|DigitalOcean, LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
+|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|16|64.225.8.118|10005|United States|Clifton|DigitalOcean, LLC|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
+|19|68.183.48.146|10003|United States|Clifton|DigitalOcean, LLC|
+|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
