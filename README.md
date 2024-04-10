@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|103.184.19.73|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|8|103.173.138.171|8080|Indonesia|Tanggamus|PT Serayu Multi Connection|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|103.233.103.238|5656|Indonesia|Cikarang|PT. Tujuh Ion Indonesia|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|137.184.216.108|4033|United States|North Bergen|DigitalOcean, LLC|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|43.153.14.165|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
+|18|122.176.48.148|80|India|Gurugram|Bharti Airtel|
+|19|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
