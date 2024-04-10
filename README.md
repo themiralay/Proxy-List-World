@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|124.121.87.138|8080|Thailand|Mueang Samut Prakan|TRUEBB|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|15|103.250.130.110|8080|Indonesia|Surabaya|PT Jawara Lintas Data Nusantara|
-|16|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|19|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|17|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|18|191.243.46.166|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
