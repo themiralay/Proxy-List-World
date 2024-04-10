@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|47.90.126.78|8118|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|4|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|5|89.187.143.153|3128|Czechia|Prague|Network of Coolhousing|
-|6|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|7|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
-|8|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|11|191.102.254.9|8081|Argentina|Rosario|IP·RED|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|17|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|67.43.227.226|6339|Canada|Montreal|GloboTech Communications|
+|1|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
+|2|65.1.40.47|1080|India|Mumbai|Amazon.com|
+|3|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|4|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|8|45.58.52.5|80|United States|Dallas|HostUS|
+|9|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|10|167.172.238.6|10014|United States|Clifton|DigitalOcean, LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
 
 
 
