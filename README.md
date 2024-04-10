@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|77.41.146.55|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|9|37.44.247.217|3128|United States|Asheville|Hostinger International Limited|
+|1|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|138.197.92.54|10012|United States|Clifton|DigitalOcean, LLC|
+|7|77.41.146.55|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|36.66.242.117|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|11|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|12|138.197.92.54|10012|United States|Clifton|DigitalOcean, LLC|
 |13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|19|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
