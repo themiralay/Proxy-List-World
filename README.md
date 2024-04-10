@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|8|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|109.164.38.201|2306|Czechia|Prague|STARNET, s.r.o.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|13|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
 |14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|122.228.210.117|59394|China|Lipu|China Telecom|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|121.195.170.225|1024|China|Haidian|CERNET|
-|20|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|125.212.209.176|9999|Vietnam|Hanoi|Viettel Corporation|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|121.195.170.225|1024|China|Haidian|CERNET|
+|18|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|19|103.189.116.180|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
