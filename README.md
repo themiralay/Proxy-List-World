@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|180.191.254.130|8080|Philippines|General Trias|Globe Telecom|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|16|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
-|19|45.224.23.251|999|Ecuador|Hacienda El Carmen|Ufinet Panama S.A.|
-|20|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|119.18.146.114|5020|Bangladesh|Chittagong|BBTS Network|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|212.154.82.52|9090|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri|
+|13|200.32.51.179|8080|Argentina|Adrogue|Telefonica de Argentina|
+|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|18.142.70.164|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
 
 
 
