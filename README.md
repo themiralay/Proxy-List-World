@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|103.115.242.192|8080|Bangladesh|Dohār|Md. Rashed Mollah|
-|15|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|18|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|19|184.82.130.44|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
