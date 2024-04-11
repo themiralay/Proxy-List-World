@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|101.109.48.136|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|10|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|12|103.50.76.98|443|India|Mumbai|Jetway Broadband|
-|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|18|38.188.249.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|19|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
