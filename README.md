@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|27.72.238.95|10012|Vietnam|Hanoi|Newass2011xDSLHN|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|9|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|13|103.115.242.192|8080|Bangladesh|Dohār|Md. Rashed Mollah|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|79.121.102.227|8080|Hungary|Budapest|Magyar Telekom plc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|167.172.238.6|10002|United States|Clifton|DigitalOcean, LLC|
+|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|103.105.76.214|9090|Indonesia|Malang|GARUDA|
 
 
 
