@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.102.12.153|8404|Indonesia|Jepara|FISNET|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|67.43.227.227|23557|Canada|Montreal|GloboTech Communications|
-|12|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
-|13|67.43.227.229|16237|Canada|Montreal|GloboTech Communications|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|115.178.49.161|80|Indonesia|Bandung|NOC SIMAYA|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|15|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|16|119.39.69.167|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|20|103.231.177.120|5020|Bangladesh|Nārāyanganj|Sayed Farhad Ahmed|
 
 
 
