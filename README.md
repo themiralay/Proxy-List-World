@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|103.13.204.143|8090|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|1|110.78.149.64|8080|Thailand|Bangkok|CAT-BB|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|72.10.160.90|30049|Canada|Montreal|GloboTech Communications|
-|9|154.73.28.193|8080|Libya|Tripoli|Rawafed|
-|10|159.65.176.77|10014|United States|Clifton|DigitalOcean, LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|190.210.131.48|8080|Argentina|Buenos Aires|NSS S.A.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|121.195.170.225|1024|China|Haidian|CERNET|
+|6|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|15|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
+|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|198.244.149.182|37615|United Kingdom|London|OVH SAS|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
