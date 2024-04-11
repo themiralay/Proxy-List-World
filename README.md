@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|6|103.25.210.102|33240|Indonesia|Purwokerto|TRANSDATA|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|11|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|18|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|19|181.115.93.74|999|Honduras|Tegucigalpa|Telgua|
-|20|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|1|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|5|45.250.215.8|8080|India|Delhi|Geocity Network Solutions PVT LTD|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|45.11.95.166|6002|Russia|Moscow|Delta Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|11|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|45.235.16.121|27234|Brazil|Itacorubi|Acessoline Telecom|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
