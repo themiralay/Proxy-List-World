@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|129.154.217.183|8080|South Korea|Seoul|Oracle Corporation|
-|4|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
-|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|5|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|6|103.175.202.86|8080|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|81.23.153.93|8080|Russia|Kazan'|PJSC Rostelecom|
 |9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|72.10.160.91|6961|Canada|Montreal|GloboTech Communications|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
-|17|138.197.16.249|10003|United States|Clifton|DigitalOcean, LLC|
-|18|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
-|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|72.10.160.91|6961|Canada|Montreal|GloboTech Communications|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|89.187.143.153|3128|Czechia|Prague|Network of Coolhousing|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
