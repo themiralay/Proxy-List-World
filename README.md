@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|18|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|7|103.154.230.72|5678|Indonesia|Lamongan|DIGITNET|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|12.55.68.54|8081|United States|Powhatan|AT&T Services, Inc.|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|14|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|15|103.133.222.220|103|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|16|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|18|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
