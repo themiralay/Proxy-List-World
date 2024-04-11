@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|13|77.242.22.225|8080|Albania|Tirana|Abissnet ISP|
-|14|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|9|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|200.32.64.126|999|Venezuela|Caracas|Level 3 Venezuela S.A|
 |17|129.154.217.183|8080|South Korea|Seoul|Oracle Corporation|
-|18|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
-|19|103.154.230.72|5678|Indonesia|Lamongan|DIGITNET|
-|20|138.197.16.249|10003|United States|Clifton|DigitalOcean, LLC|
+|18|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
