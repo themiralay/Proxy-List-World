@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|188.126.90.11|3128|Sweden|Stockholm|GleSYS AB|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|66.70.238.78|7777|United Kingdom|London|OVH SAS|
+|9|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|78.137.68.218|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|103.156.17.153|8080|Indonesia|Indramayu|RSTNET|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|19|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|20|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|190.94.212.36|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|19|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
