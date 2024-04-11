@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|16|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|17|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|203.150.128.102|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|12|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|13|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|24.199.86.181|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|177.93.40.54|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
