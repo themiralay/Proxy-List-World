@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|7|188.126.90.11|3128|Sweden|Stockholm|GleSYS AB|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
 |11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|15|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|72.10.164.178|8099|Canada|Montreal|GloboTech Communications|
-|18|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
-|19|190.94.212.254|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|67.43.228.251|5893|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|5485|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.251|5893|Canada|Montreal|GloboTech Communications|
+|14|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|15|168.194.169.108|999|Peru|Lima|FASTNET|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|19|103.56.206.94|8181|Indonesia|Cianjur|Argon Data Communication|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
