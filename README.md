@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.133.24.89|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|12|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|13|68.183.48.146|10003|United States|Clifton|DigitalOcean, LLC|
-|14|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|72.10.160.90|19399|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|103.174.105.211|32650|India|Gopiganj|Elxire Data Services Pvt. Ltd.|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
+|16|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
