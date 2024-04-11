@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|11|202.191.123.195|8090|Bangladesh|Dhaka|Bijoy Online Limited|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
+|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|12|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|38.7.7.209|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|20|72.10.164.178|14633|Canada|Montreal|GloboTech Communications|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|212.22.64.14|8080|Russia|Moscow|Dmitrii Vladimirovich Malkov|
+|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|17|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
+|18|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|19|14.103.24.20|8000|China|Beijing|BITNET|
+|20|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
 
 
 
