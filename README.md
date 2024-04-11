@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|129.154.217.183|8080|South Korea|Seoul|Oracle Corporation|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|4|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|167.172.238.6|10011|United States|Clifton|DigitalOcean, LLC|
+|5|72.10.160.91|13403|Canada|Montreal|GloboTech Communications|
+|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|16|62.72.58.61|3128|India|Mumbai|HOSTINGER IN|
-|17|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
