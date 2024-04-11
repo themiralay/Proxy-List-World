@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|69.160.223.65|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|14|72.10.164.178|7361|Canada|Montreal|GloboTech Communications|
-|15|103.247.21.234|8080|Indonesia|Bekasi|PT wifian Solution|
-|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|17|103.14.251.58|8080|Cambodia|Phnom Penh|SIGROUPS|
-|18|103.14.251.58|8080|Cambodia|Phnom Penh|SIGROUPS|
-|19|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
+|16|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
+|17|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
 
 
 
