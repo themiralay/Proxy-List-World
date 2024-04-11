@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|46.52.192.171|3128|Russia|Moscow|Krasnoyarsk|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
-|13|186.148.195.168|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|72.10.164.178|3221|Canada|Montreal|GloboTech Communications|
-|16|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
-|17|167.99.55.197|3128|United States|Clifton|DigitalOcean, LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|165.22.36.164|10003|United States|Clifton|DigitalOcean, LLC|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|101.255.17.6|8033|Indonesia|Sunter Jaya|PT Remala Abadi|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
