@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|43.252.236.94|8080|Indonesia|Bogor|NET|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|7|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|16|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
-|17|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
-|18|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|2|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|3|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
+|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|43.252.236.94|8080|Indonesia|Bogor|NET|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|11|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|217.199.151.94|83|Kenya|Nairobi|MTN Business Kenya|
+|15|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|16|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|18|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
 |19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
