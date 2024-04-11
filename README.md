@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|78.137.68.218|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|36.91.15.241|8080|Indonesia|Kartini|PT Telekomunikasi Indonesia|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|138.197.16.249|10008|United States|Clifton|DigitalOcean, LLC|
-|18|67.43.236.20|11947|Canada|Montreal|GloboTech Communications|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|12|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.165.211.174|3128|Indonesia|Malang|PT iForte Global Internet|
+|15|103.184.19.73|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|18|78.137.68.218|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
 
 
 
