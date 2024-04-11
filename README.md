@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|11|177.200.91.109|12312|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|80.66.81.47|4006|Russia|Moscow|BUQU.SU Solutions|
-|16|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|17|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.217.224.201|8080|Indonesia|Semarang|PT Nesta Indo Media|
+|15|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|19|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|20|155.138.204.3|9999|United States|Atlanta|The Constant Company|
 
 
 
