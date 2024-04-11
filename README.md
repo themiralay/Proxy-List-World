@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|157.100.56.19|80|Ecuador|Loja|Ufinet Panama S.A.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.160.90|28645|Canada|Montreal|GloboTech Communications|
-|14|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|119.39.69.167|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|167.172.238.6|10005|United States|Clifton|DigitalOcean, LLC|
-|18|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|19|72.10.164.178|23387|Canada|Montreal|GloboTech Communications|
-|20|27.54.71.234|8080|Australia|Pakenham|CNTC|
+|4|157.100.56.19|80|Ecuador|Loja|Ufinet Panama S.A.|
+|5|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|12|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|222.120.150.216|80|South Korea|Paju|Korea Telecom|
+|15|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|16|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
