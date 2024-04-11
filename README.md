@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|10|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.160.170|23531|Canada|Montreal|GloboTech Communications|
-|17|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|181.78.17.141|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|20|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|5|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.160.170|23531|Canada|Montreal|GloboTech Communications|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|14|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|15|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|16|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|112.78.150.133|8080|Indonesia|Jakarta|Biznet Networks|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
