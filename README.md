@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|5|116.58.224.165|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
-|6|49.48.143.242|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|46.35.86.249|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|134.35.244.146|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|116.58.224.165|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
+|5|49.48.143.242|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|12|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |17|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
 
 
 
