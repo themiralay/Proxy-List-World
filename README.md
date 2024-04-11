@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|5|165.22.59.84|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|16|67.43.227.227|9919|Canada|Montreal|GloboTech Communications|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
-|20|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|49.48.143.242|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
 
 
 
