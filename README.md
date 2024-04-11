@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|14.170.154.193|19132|Vietnam|Thai Nguyen|VNPT-VNNIC|
-|8|45.225.207.185|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|11|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|138.197.92.54|10008|United States|Clifton|DigitalOcean, LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|89.58.48.220|10001|Germany|Nuremberg|netcup GmbH|
-|20|72.10.164.178|7661|Canada|Montreal|GloboTech Communications|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|17|36.91.98.115|8181|Indonesia|Bekasi|PT Telekomunikasi Indonesia|
+|18|111.68.117.200|4995|Indonesia|Jakarta|Varnion Technology Semesta, PT|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
