@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|14|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|17|89.58.48.220|10010|Germany|Nuremberg|netcup GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|185.86.82.194|8080|Türkiye|Bursa|Veganet Teknolojileri ve Hizmetleri LTD STI|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|14|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|17|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
 |18|72.10.164.178|19825|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
 
 
 
