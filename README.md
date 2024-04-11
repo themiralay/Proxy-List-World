@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|101.109.50.198|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|8|202.5.36.152|5020|Bangladesh|Khulna|BBTS-NEW|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
-|12|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|13|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|14|103.118.46.77|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|15|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|45.230.48.131|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|9|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|13|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|181.192.2.23|8080|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
 |16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|20|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
