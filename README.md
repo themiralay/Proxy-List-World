@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|5|217.175.35.72|3128|Russia|Ivanovo|KOMTEL|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|217.175.35.72|3128|Russia|Ivanovo|KOMTEL|
-|9|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|138.197.16.249|10012|United States|Clifton|DigitalOcean, LLC|
-|17|68.183.48.146|10003|United States|Clifton|DigitalOcean, LLC|
-|18|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|20|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|68.183.48.146|10005|United States|Clifton|DigitalOcean, LLC|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|155.138.204.3|9999|United States|Atlanta|The Constant Company|
+|18|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|19|72.10.160.173|3107|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
