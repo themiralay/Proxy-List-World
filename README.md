@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.180.222|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|68.183.180.222|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|10|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|11|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc.|
-|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|13|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|103.228.246.130|6060|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|16|103.191.115.114|84|India|Bānka|Xpress Fiber Private Limited|
-|17|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
-|18|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.191.115.114|84|India|Bānka|Xpress Fiber Private Limited|
+|6|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|11|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|191.37.4.218|8085|Brazil|Buriti|Fonte Informatica ltda|
+|14|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
+|17|1.1.189.58|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|19|161.132.125.244|8080|Peru|Lima|Optical Technologies S.A.C.|
+|20|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
 
 
 
