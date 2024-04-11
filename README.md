@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|110.78.149.64|8080|Thailand|Bangkok|CAT-BB|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|110.78.149.64|8080|Thailand|Bangkok|CAT-BB|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|72.10.164.178|2023|Canada|Montreal|GloboTech Communications|
-|18|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|19|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|18|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
