@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|124.120.142.108|8080|Thailand|Bangkok|TRUEBB|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|9|113.53.60.115|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|181.204.0.36|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|181.204.0.36|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |13|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|158.140.181.148|8080|Indonesia|South Tangerang|MYREPUBLIC|
-|15|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|103.153.63.211|8085|Indonesia|Bekasi|IMEDIANET|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|14|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
