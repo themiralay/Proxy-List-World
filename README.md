@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
-|8|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|178.124.81.210|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
+|7|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|10|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|15|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|20|178.124.81.210|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
 
 
 
