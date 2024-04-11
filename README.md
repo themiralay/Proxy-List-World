@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|221.152.19.121|3129|South Korea|Nam-gu|Korea Telecom|
-|3|103.148.44.101|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
-|10|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.106.193.5|53281|India|Rewāri|Elyzium Consulting|
-|17|41.57.182.12|6060|South Africa|Centurion|FTH SCR P20|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|6|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|45.225.207.185|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|138.197.92.54|10017|United States|Clifton|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|221.152.19.121|3129|South Korea|Nam-gu|Korea Telecom|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|94.198.221.4|3128|Kazakhstan|Almaty|TimeWeb Ltd.|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|19|141.94.78.141|80|France|Gravelines|OVH SAS|
+|20|45.224.22.63|999|Ecuador|Riobamba|Ufinet Panama S.A.|
 
 
 
