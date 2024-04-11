@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|95.158.179.216|32799|Bulgaria|Debelets|Videosat 21 Vek OOD|
-|6|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|188.240.121.91|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|5|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|6|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|188.240.121.91|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|16|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
-|19|103.169.135.80|8080|Indonesia|Tulungagung|PT Neo Santara Solusi|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|67.43.227.227|11159|Canada|Montreal|GloboTech Communications|
+|18|103.196.28.6|8080|India|Coimbatore|WLSNET|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|186.101.91.141|999|Ecuador|Guayaquil|Telconet S.A|
 
 
 
