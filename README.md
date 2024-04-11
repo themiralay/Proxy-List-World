@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|5|103.174.105.211|32650|India|Gopiganj|Elxire Data Services Pvt. Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|52.69.134.124|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|12|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|15|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|16|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|114.106.171.80|8089|China|Rongcheng|Chinanet|
-|20|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|52.69.134.124|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|16|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|186.208.248.46|8080|Brazil|Nova Floresta|Pbnet Telecom|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
