@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.174.105.211|32650|India|Gopiganj|Elxire Data Services Pvt. Ltd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|17|201.77.111.231|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
-|18|60.174.0.111|8089|China|Guangzhou|Chinanet|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|190.94.212.254|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
+|20|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 
 
 
