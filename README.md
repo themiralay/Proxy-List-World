@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|38.183.152.34|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
-|15|68.183.48.146|10005|United States|Clifton|DigitalOcean, LLC|
-|16|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|64.225.4.81|10002|United States|Clifton|DigitalOcean, LLC|
-|19|103.113.79.123|80|Indonesia|Guntur|Indonesia Network Information Center|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|10|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|11|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|14|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|15|134.35.8.44|8080|Yemen|Aden|Public Telecommunication Corporation|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|80.66.81.47|4000|Russia|Moscow|BUQU.SU Solutions|
+|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
 
 
 
