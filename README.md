@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.35.13.191|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|112.198.150.11|8082|Philippines|Carmona|Globe Telecom|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|177.43.72.250|3128|Brazil|Brasília|Vivo|
+|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|68.183.48.146|10003|United States|Clifton|DigitalOcean, LLC|
+|11|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|45.6.224.254|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|64.225.4.81|10002|United States|Clifton|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
+|17|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|18|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|19|91.231.186.133|443|United Kingdom|London|Clouvider Limited|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
