@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|9|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|13|101.231.64.89|8443|China|Shanghai|China Telecom (Group)|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|19|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|20|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|19|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
+|20|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
 
 
 
