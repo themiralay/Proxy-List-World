@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.11.95.166|6016|Russia|Moscow|Delta Ltd|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|14|72.10.164.178|17139|Canada|Montreal|GloboTech Communications|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|17|159.65.186.46|10001|United States|Clifton|DigitalOcean, LLC|
-|18|155.138.204.3|9999|United States|Atlanta|The Constant Company|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|6|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|7|66.54.106.56|8080|United States|Itta Bena|Mobile Communications, LLC|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|190.242.181.82|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|27.121.87.187|8080|Indonesia|Pekanbaru|dashnet|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 
 
 
