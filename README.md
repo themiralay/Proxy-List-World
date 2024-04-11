@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|178.128.84.59|5566|Singapore|Singapore|DigitalOcean, LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|101.109.48.136|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|91.236.156.30|8282|Ukraine|Shyshaky|Limited Liability Company AVATOR ISP|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
+|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 
 
 
