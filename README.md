@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|5|27.72.238.95|10012|Vietnam|Hanoi|Newass2011xDSLHN|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|134.35.203.212|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|12|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
-|13|175.110.5.165|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
-|15|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|17|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
-|18|103.102.12.153|8404|Indonesia|Jepara|FISNET|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|200.108.190.38|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|14|103.102.12.153|8404|Indonesia|Jepara|FISNET|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|19|72.10.164.178|24873|Canada|Montreal|GloboTech Communications|
+|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
