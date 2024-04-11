@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|14|80.66.81.47|4006|Russia|Moscow|BUQU.SU Solutions|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|6|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|103.180.123.143|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|13|178.236.246.53|3128|Poland|Warsaw|Aeza International LTD|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|102.68.128.218|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|159.65.176.77|10011|United States|Clifton|DigitalOcean, LLC|
+|20|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
