@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|72.10.160.170|10049|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|45.232.79.0|9292|Brazil|Buritama|D. A. F. BANSI & CIA LTDA|
-|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|41.86.150.98|8080|Nigeria|Lagos|Cobranet Limited|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|103.169.133.34|8080|Indonesia|Karawang|PT Alfa Omega Interkoneksi|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|103.165.138.236|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
 
 
 
