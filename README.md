@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.53.60.115|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|103.193.144.90|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|7|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|95.158.179.216|32799|Bulgaria|Debelets|Videosat 21 Vek OOD|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|88.150.15.30|80|Germany|Magdeburg|MDlink online service center GmbH|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|13|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|12|95.158.179.216|32799|Bulgaria|Debelets|Videosat 21 Vek OOD|
+|13|186.201.63.83|3128|Brazil|São Paulo|Vivo|
 |14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|186.101.91.141|999|Ecuador|Guayaquil|Telconet S.A|
+|15|158.140.181.148|8080|Indonesia|South Tangerang|MYREPUBLIC|
+|16|37.204.157.91|41890|Russia|Moscow|NCNET|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 
 
 
