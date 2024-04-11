@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|124.120.142.108|8080|Thailand|Bangkok|TRUEBB|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|10|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|124.120.142.108|8080|Thailand|Bangkok|TRUEBB|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|11|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|16|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
 |18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|20|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
