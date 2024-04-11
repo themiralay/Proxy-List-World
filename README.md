@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|9|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|14|38.156.235.36|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
