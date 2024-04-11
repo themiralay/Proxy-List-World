@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|5|80.66.81.47|4000|Russia|Moscow|BUQU.SU Solutions|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 |14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|14.143.145.36|80|India|Gurugram|Tata Communications Limited|
-|17|138.2.141.190|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|18|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|19|67.43.227.227|2011|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|66.54.106.56|8080|United States|Itta Bena|Mobile Communications, LLC|
+|18|67.43.227.227|2011|Canada|Montreal|GloboTech Communications|
+|19|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
+|20|67.79.51.210|16099|United States|Beaumont|Spectrum|
 
 
 
