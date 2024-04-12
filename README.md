@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|16|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|16|103.46.4.7|3030|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
+|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
