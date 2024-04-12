@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|46.99.188.32|8080|Albania|Tirana|IPKO Telecommunications LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
+|7|103.167.171.235|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|16|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|17|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
-|20|190.242.181.82|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|16|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|20|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
 
 
 
