@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|101.109.63.144|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|101.109.63.144|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|5.42.81.185|3328|Sweden|Stockholm|Aeza International LTD|
+|11|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|200.116.198.222|9812|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
