@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|18|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
+|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
