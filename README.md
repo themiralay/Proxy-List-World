@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|11|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|12|203.150.166.170|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|13|72.10.160.171|21333|Canada|Montreal|GloboTech Communications|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|103.140.34.59|8080|Indonesia|Tangerang|PT.Simprug Mahkota Indah|
-|16|123.182.58.171|8089|China|Zhangjiakou|China Telecom|
-|17|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|18|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|19|103.180.122.201|1080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
-|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|9|190.90.7.195|8080|Colombia|Medellín|Internexa S.a. E.S.P|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|123.182.58.171|8089|China|Zhangjiakou|China Telecom|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|18|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|19|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|20|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
