@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.242.104.101|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|7|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|185.19.4.22|3128|Ukraine|Kyiv|Triolan|
-|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|11|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|12|103.178.194.122|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|139.99.238.83|8080|Australia|Sydney|OVH SAS|
+|8|36.95.142.35|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|9|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
+|10|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|103.148.39.26|82|India|Bengaluru|Broadway Communication Pvt Ltd|
-|16|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|194.163.45.239|3128|United States|Phoenix|Hostinger International Limited|
-|19|116.254.117.234|3128|Indonesia|Yogyakarta|PT Media Sarana Data|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|95.111.238.142|3128|Germany|Nuremberg|Contabo GmbH|
+|16|91.233.111.49|1080|Ukraine|Kyiv|Helpteh L-side|
+|17|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
