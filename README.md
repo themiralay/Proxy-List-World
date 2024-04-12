@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|9|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|10|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
-|11|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|15|103.42.57.13|3128|Vietnam|Phường Bảy|THEGIOISO|
-|16|190.232.82.77|999|Peru|Cutervo|Telefónica del Perú|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.42.57.13|3128|Vietnam|Phường Bảy|THEGIOISO|
+|14|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
+|15|103.159.96.26|8080|Indonesia|Malang|MYRISE|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|19|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
