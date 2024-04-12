@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|7|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|8|38.123.220.83|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|9|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|14|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|15|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|16|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|18|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|8|170.83.76.22|999|Venezuela|Caracas|Galanet Solution C.A.|
+|9|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|12|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|186.215.196.50|3128|Brazil|Recife|Vivo|
+|15|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|16|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
+|19|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|20|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
 
 
 
