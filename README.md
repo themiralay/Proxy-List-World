@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|177.93.50.163|999|Colombia|El Castillo|TV AZTECA SUCURSAL COLOMBIA|
+|6|45.186.106.159|999|Guatemala|Guatemala City|Infinitum S.A.|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
-|16|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
-|17|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|18|64.225.8.118|10009|United States|Clifton|DigitalOcean, LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|67.43.228.253|8027|Canada|Montreal|GloboTech Communications|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
+|12|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
+|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|19|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
+|20|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
 
 
 
