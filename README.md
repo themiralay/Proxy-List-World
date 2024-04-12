@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|12|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|38.156.191.232|999|Mexico|Aguascalientes|Digy Networks S.A De C.V.|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
-|20|67.43.227.228|5443|Canada|Montreal|GloboTech Communications|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|9|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|103.156.96.12|1080|Indonesia|Wonorejo|PT Karya Panca Telekomunikasi|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|103.166.194.114|8080|Indonesia|Jakarta|Hipernet Indodata|
+|19|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|20|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
 
 
 
