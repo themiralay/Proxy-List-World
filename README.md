@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|202.12.80.7|82|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.42.120.43|8080|Indonesia|Jakarta|PT Transhybrid Communication|
+|6|154.64.211.145|999|Puerto Rico|San Juan|OSNET Wireless|
 |7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.227.227|16531|Canada|Montreal|GloboTech Communications|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|72.10.164.178|11803|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|14513|Canada|Montreal|GloboTech Communications|
-|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|20|103.93.216.58|8080|Pakistan|Karachi|Rising Cable Net (Pvt) Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|17|103.159.194.151|8082|Indonesia|Rembang|PT Giga Digital Nusantara|
+|18|134.35.14.197|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
