@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
-|9|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|11|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|13|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|8|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|9|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|88.255.217.57|8080|Turkey|Istanbul|TurkTelekom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |17|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 
 
