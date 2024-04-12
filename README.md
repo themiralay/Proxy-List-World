@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
 |3|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|186.215.196.50|3128|Brazil|Recife|Vivo|
 |8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|9|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|9|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|15|38.183.144.117|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|16|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|11|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|12|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|14|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|19|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
