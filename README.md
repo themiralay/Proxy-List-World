@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6594** proxies at the latest update. Usable proxies are below.
+> Scraper found **6591** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|98|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|462|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|99|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|458|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|227|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4846|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|5|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
-|6|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.55.255.251|8083|Ecuador|Machala|Comm & Net S.A.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.158.253.187|8027|Indonesia|Brebes|Rapid Network|
-|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
 |13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|14|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|17|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|18|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|45.190.76.109|999|Mexico|Zapopan|Meta Networks SA De CV|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|17|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|18|89.58.48.220|10012|Germany|Nuremberg|netcup GmbH|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
