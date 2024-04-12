@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|103.67.90.25|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|72.10.160.90|4107|Canada|Montreal|GloboTech Communications|
-|13|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|124.105.183.81|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.80.237.211|3888|Indonesia|Jakarta|PT MITRA VISIONER PRATAMA|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|20|131.100.48.233|999|Colombia|Neiva|Fibernet TV SAS|
 
 
 
