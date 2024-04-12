@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|89.58.48.220|10012|Germany|Nuremberg|netcup GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|10|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
 |11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|15|170.238.239.72|8080|Colombia|Buenaventura|InterNexa Global Network|
-|16|223.27.144.51|80|Indonesia|Jakarta|PT Cyber Network Indonesia|
-|17|72.10.164.178|7985|Canada|Montreal|GloboTech Communications|
-|18|167.172.238.6|10003|United States|Clifton|DigitalOcean, LLC|
-|19|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|20|181.78.11.218|999|Colombia|San Diego|IFX Networks Argentina S.R.L|
+|12|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|13|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|14|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|15|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|16|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|17|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|101.255.148.210|8080|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
