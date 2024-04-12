@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|9|134.35.155.131|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|17|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|67.43.236.20|1373|Canada|Montreal|GloboTech Communications|
-|20|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|103.167.151.232|3128|Singapore|Singapore|HostHatch|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|72.10.160.173|10941|Canada|Montreal|GloboTech Communications|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|12.163.92.26|8080|United States|Alex|AT&T Services, Inc.|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|103.153.246.14|8080|Indonesia|Depok|PRIMAHOME|
+|20|38.156.235.35|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
 
 
 
