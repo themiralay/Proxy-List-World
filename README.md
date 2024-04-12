@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|67.43.228.254|8107|Canada|Montreal|GloboTech Communications|
-|19|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|20|179.184.224.91|3129|Brazil|São Paulo|TELEFÔNICA BRASIL S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|13|67.43.228.254|8107|Canada|Montreal|GloboTech Communications|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|103.124.137.150|20|Indonesia|Jakarta|Global Media Data Prima|
+|19|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
