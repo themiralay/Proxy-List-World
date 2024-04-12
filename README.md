@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|111.95.41.44|8080|Indonesia|Cideng|Linknet-Fastnet ASN|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|11|186.96.15.70|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|67.43.227.227|20687|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.227.227|20687|Canada|Montreal|GloboTech Communications|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|20|67.43.236.18|29529|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
+|8|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|118.99.84.245|8080|Indonesia|Surabaya|BIZNET|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|16|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
