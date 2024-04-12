@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|178.124.81.210|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|2|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|67.43.227.227|20687|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|11549|Canada|Montreal|GloboTech Communications|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|19|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
-|20|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
+|8|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|103.137.111.231|8086|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|67.43.227.227|20687|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|15517|Canada|Montreal|GloboTech Communications|
 
 
 
