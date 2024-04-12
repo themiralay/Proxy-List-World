@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|9|64.225.8.118|10009|United States|Clifton|DigitalOcean, LLC|
 |10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|12|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|13|182.253.162.160|8080|Indonesia|Kebomas|BIZNET|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|20|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|200.69.159.177|8080|Argentina|La Plata|Citarella S.A.|
 
 
 
