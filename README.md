@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|101.109.63.144|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|7|101.109.63.144|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|13|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|14|103.174.108.42|3128|India|Akbarpur|Entire Cable And Broadband Opc Private Limited|
-|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|67.43.236.20|7489|Canada|Montreal|GloboTech Communications|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.189.231.217|8080|Indonesia|Ciamis|PT Media Access Telematika|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|20|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
