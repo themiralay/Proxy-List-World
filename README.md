@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|7|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|14|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|67.43.227.230|1479|Canada|Montreal|GloboTech Communications|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|20|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|6|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|7|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|8|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|103.255.145.62|84|India|Hyderabad|Pioneer Elabs Ltd|
+|12|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|13|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|14|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|43.153.14.165|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
 
 
 
