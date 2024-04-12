@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|192.203.0.190|999|Puerto Rico|Fajardo|Boom NET|
-|4|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|146.255.188.156|8118|The Netherlands|Meppel|MIRholding B.V.|
-|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|6|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.227.228|11899|Canada|Montreal|GloboTech Communications|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|67.43.227.228|11899|Canada|Montreal|GloboTech Communications|
-|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|19|138.197.92.54|10008|United States|Clifton|DigitalOcean, LLC|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|14|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|17|192.203.0.190|999|Puerto Rico|Fajardo|Boom NET|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
 
 
 
