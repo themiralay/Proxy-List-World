@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|4|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |5|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|6|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|7|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|10|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|11|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|12|103.68.207.34|82|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|186.180.79.19|999|Colombia|Cúcuta|Colombia Móvil|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
+|9|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|10|91.185.84.228|3128|Russia|Moscow|CloudMTS|
+|11|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|12|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|13|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|64.225.8.118|10004|United States|Clifton|DigitalOcean, LLC|
+|19|113.160.247.27|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
+|20|43.153.14.165|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
