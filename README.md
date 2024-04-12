@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|43.252.236.94|8080|Indonesia|Bogor|NET|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.217.224.139|8040|Indonesia|Semarang|PT Nesta Indo Media|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
-|16|134.35.44.162|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|67.43.227.227|12685|Canada|Montreal|GloboTech Communications|
-|20|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|118.99.103.16|8080|Indonesia|Jakarta|Biznet Metronet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.217.224.139|8040|Indonesia|Semarang|PT Nesta Indo Media|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|167.172.238.6|10002|United States|Clifton|DigitalOcean, LLC|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|18|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|67.43.227.228|30583|Canada|Montreal|GloboTech Communications|
 
 
 
