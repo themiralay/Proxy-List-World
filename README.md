@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|11|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|138.197.16.249|10008|United States|Clifton|DigitalOcean, LLC|
-|15|103.170.100.105|8085|Indonesia|Jakarta|Subnet Data Nusantara|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|103.189.249.163|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
 |19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
