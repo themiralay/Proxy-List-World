@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|159.65.184.81|80|United States|Clifton|DigitalOcean, LLC|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|17|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|89.40.143.64|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
 
 
 
