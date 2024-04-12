@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
-|8|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|12|67.43.227.227|4537|Canada|Montreal|GloboTech Communications|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|67.43.227.227|4537|Canada|Montreal|GloboTech Communications|
-|16|103.163.244.4|83|India|Panipat|Infolink System|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|72.10.164.178|12823|Canada|Montreal|GloboTech Communications|
-|19|103.1.93.55|32650|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|20|36.95.84.151|41890|Indonesia|Bambu Apus|PT. Telekomunikasi Indonesia|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|12|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
