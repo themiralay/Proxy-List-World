@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|142.93.2.226|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
-|14|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|67.43.227.227|12701|Canada|Montreal|GloboTech Communications|
-|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|20|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
+|17|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
