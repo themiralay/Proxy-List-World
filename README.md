@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|103.178.194.122|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|7|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|103.178.2.72|8080|Indonesia|Bandung|RSTNET|
+|10|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
 |13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|15|119.47.90.69|3128|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|16|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
 |17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|67.43.236.20|18999|Canada|Montreal|GloboTech Communications|
-|20|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|18|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
