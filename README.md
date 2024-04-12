@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6692** proxies at the latest update. Usable proxies are below.
+> Scraper found **6719** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|100|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|526|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|553|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|259|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4846|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|68.183.48.146|10009|United States|Clifton|DigitalOcean, LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|222.127.220.86|8082|Philippines|Quezon City|GLBB|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|13|103.196.28.6|8080|India|Coimbatore|WLSNET|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|101.255.148.210|8080|Indonesia|Bekasi|PT Remala Abadi|
 |16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|178.124.81.210|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|18|185.105.185.185|3128|Iran|Ferdows|Afagh Andish Dadeh Pardis Co. Ltd|
-|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|20|185.255.112.171|3128|France|Paris|REDHEBERG Association declaree|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
+|19|67.43.227.227|10863|Canada|Montreal|GloboTech Communications|
+|20|119.92.188.29|8080|Philippines|Calaocan District|Philippine Long Distance Telephone Co.|
 
 
 
