@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|176.58.112.185|8080|United Kingdom|London|Akamai Technologies, Inc.|
+|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |10|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|11|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|12|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|13|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|124.83.74.218|8082|Philippines|Manaoag|Philippine Long Distance Telephone Co.|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|19|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|103.181.25.158|8080|Bangladesh|Chittagong|Right Net|
+|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
+|16|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
+|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|18|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
 
 
 
