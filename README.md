@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|178.124.81.210|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|111.95.41.44|8080|Indonesia|Cideng|Linknet-Fastnet ASN|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|103.171.245.14|8080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|12|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|165.22.36.164|10009|United States|Clifton|DigitalOcean, LLC|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|18|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|19|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|11|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|45.184.124.33|1985|Mexico|Campo Sesenta y Cuatro B|Servicios y Asesoria Tecnobba S.A.S. de C.V.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
