@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|203.150.113.114|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|203.150.113.114|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|12|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
 |13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|72.10.164.178|3211|Canada|Montreal|GloboTech Communications|
-|19|97.64.69.57|16099|United States|College Station|PRONSS|
-|20|103.154.77.75|8080|Indonesia|Magelang|T2NET|
+|15|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|177.174.126.203|8080|Brazil|São Paulo|Vivo|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
