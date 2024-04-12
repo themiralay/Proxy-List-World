@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|103.176.116.171|32650|India|Murshidābād|Gbpl Global Broadband Private Limited|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.167.151.232|3128|Singapore|Singapore|HostHatch|
-|15|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|103.156.15.35|1080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.165.234.46|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|11|103.87.169.198|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|12|103.173.138.196|8080|Indonesia|Tanggamus|PT Serayu Multi Connection|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|103.169.130.20|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|18|178.213.24.233|8080|Russia|Khasavyurt|DAGNET|
+|19|45.58.52.5|80|United States|Dallas|HostUS|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
