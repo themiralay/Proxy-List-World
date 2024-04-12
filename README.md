@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|37.152.178.0|3128|Iran|Nā’īn|AbrArvan|
+|9|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|13|103.178.2.72|8080|Indonesia|Bandung|RSTNET|
-|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|91.233.111.49|1080|Ukraine|Kyiv|Helpteh L-side|
-|16|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|17|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|103.139.144.128|8080|Bangladesh|Sayani|Rakib Hasan|
 
 
 
