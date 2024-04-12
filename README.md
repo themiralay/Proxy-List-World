@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6766** proxies at the latest update. Usable proxies are below.
+> Scraper found **6768** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|101|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|583|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|277|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4846|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|9|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|5|191.97.96.86|8080|Argentina|General Roca|Vision NET|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
 |10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|171.5.4.30|34599|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|14|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|72.10.164.178|19195|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|19195|Canada|Montreal|GloboTech Communications|
+|18|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
+|19|72.10.164.178|19195|Canada|Montreal|GloboTech Communications|
+|20|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
