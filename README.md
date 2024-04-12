@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|201.220.112.98|999|Chile|Temuco|Telefonica del Sur S.A.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
-|14|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|19|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|167.172.238.6|10003|United States|Clifton|DigitalOcean, LLC|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|17|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|18|201.220.112.98|999|Chile|Temuco|Telefonica del Sur S.A.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
