@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|15|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|186.125.235.101|999|Argentina|Simoca|Telecom Argentina S.A.|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
