@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.84.177.246|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|14|5.187.9.10|8080|Georgia|Tbilisi|LLC Skytel|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|49.84.216.40|888|China|Nanjing|China Telecom|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|72.10.164.178|1077|Canada|Montreal|GloboTech Communications|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|18|67.43.228.253|26417|Canada|Montreal|GloboTech Communications|
+|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 |20|72.10.164.178|1077|Canada|Montreal|GloboTech Communications|
 
 
