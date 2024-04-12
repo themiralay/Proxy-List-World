@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6803** proxies at the latest update. Usable proxies are below.
+> Scraper found **6813** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|101|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|543|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|553|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|330|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4868|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|7|101.109.63.144|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.189.231.217|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|20|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|152.32.68.171|65535|Philippines|Taguig|Converge ICT Solution Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|14|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|15|101.109.63.144|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|18|110.78.81.107|8080|Thailand|Si Maha Phot|CAT Telecom Public Company Limited|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|67.43.228.250|3755|Canada|Montreal|GloboTech Communications|
 
 
 
