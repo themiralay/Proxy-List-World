@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|9|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|10|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|11|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|12|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|64.159.159.123|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
+|3|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|211.222.177.244|3128|South Korea|Goyang-si|Korea Telecom|
+|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|13|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|14|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|17|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|18|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|19|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|20|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
 
 
 
