@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|14|103.247.23.65|2022|Indonesia|Bekasi|PT wifian Solution|
-|15|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
-|16|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
-|17|167.172.238.6|10011|United States|Clifton|DigitalOcean, LLC|
-|18|138.197.16.249|10008|United States|Clifton|DigitalOcean, LLC|
-|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|20|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|11|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|12|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
+|13|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|14|167.172.238.6|10003|United States|Clifton|DigitalOcean, LLC|
+|15|167.172.238.6|10003|United States|Clifton|DigitalOcean, LLC|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|18|200.41.170.211|11201|Argentina|Rincon de Los Sauces|Telefonica de Argentina|
+|19|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|20|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
 
 
 
