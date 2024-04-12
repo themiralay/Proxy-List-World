@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|159.65.186.46|10013|United States|Clifton|DigitalOcean, LLC|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|8|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|67.43.227.228|28069|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|12407|Canada|Montreal|GloboTech Communications|
-|20|123.182.58.174|8089|China|Zhangjiakou|China Telecom|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
+|15|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|16|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|17|114.232.109.168|8089|China|Nanjing|Chinanet|
+|18|72.10.164.178|11781|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
 
 
 
