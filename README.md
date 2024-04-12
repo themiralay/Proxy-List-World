@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|67.43.236.20|30709|Canada|Montreal|GloboTech Communications|
-|17|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|20|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|182.160.100.156|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|181.119.67.130|999|Colombia|Florida|IFX Networks Argentina S.R.L|
 
 
 
