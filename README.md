@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|5|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.159.92.34|3125|Indonesia|Depok|PT Chandela Lintas Media|
+|9|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|67.43.227.227|19509|Canada|Montreal|GloboTech Communications|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|27.64.123.82|8080|Vietnam|Tan An|Viettel Group|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|18|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|11|206.42.56.195|8080|Brazil|Fortaleza|Brisanet Prestacao De Servicos De Internet Ltda|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|16|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 
 
 
