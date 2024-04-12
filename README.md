@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|203.150.113.114|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|80.66.89.199|4000|Russia|Moscow|BUQU.SU Solutions|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|8|45.11.95.166|6002|Russia|Moscow|Delta Ltd|
-|9|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
-|10|97.64.69.57|16099|United States|College Station|PRONSS|
-|11|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|16|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|17|101.255.166.242|8080|Indonesia|Bekasi|PT Remala Abadi|
-|18|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|19|182.253.162.160|8080|Indonesia|Kebomas|BIZNET|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|190.120.255.205|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|17|103.169.254.37|8080|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|18|72.10.164.178|20425|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
