@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.56.101.199|21000|South Korea|Chuncheon|Oracle Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.123.235.42|8080|India|Hingoli|Esto Broadband|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.123.235.42|8080|India|Hingoli|Esto Broadband|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 |11|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
-|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|167.172.238.6|10000|United States|Clifton|DigitalOcean, LLC|
-|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|13|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|14|67.43.227.228|11899|Canada|Montreal|GloboTech Communications|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|115.124.75.58|8080|Indonesia|Jakarta|PT Remala Abadi|
 
 
 
