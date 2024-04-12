@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|4|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|46.99.188.32|8080|Albania|Tirana|IPKO Telecommunications LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|10|117.1.252.210|10017|Vietnam|Hanoi|Viettel Corporation|
-|11|72.10.164.178|28769|Canada|Montreal|GloboTech Communications|
-|12|103.169.135.80|8080|Indonesia|Tulungagung|PT Neo Santara Solusi|
-|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|14|88.255.217.57|8080|Turkey|Istanbul|TurkTelekom|
-|15|67.43.227.227|32059|Canada|Montreal|GloboTech Communications|
-|16|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
-|17|113.78.190.20|1111|China|Dongguan|Chinanet|
-|18|72.10.164.178|28769|Canada|Montreal|GloboTech Communications|
-|19|223.215.177.188|8089|China|Rongcheng|Chinanet|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|64.159.159.122|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|13|67.43.227.227|25265|Canada|Montreal|GloboTech Communications|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
