@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|3|120.29.124.131|8080|Philippines|San Fernando City|ComClark Network & Technology Corp|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|203.150.113.252|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|8|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|43.204.227.118|3128|India|Mumbai|Amazon.com, Inc.|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
-|20|72.10.164.178|20469|Canada|Montreal|GloboTech Communications|
+|1|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|4.153.144.25|3128|United States|Boydton|Microsoft Corporation|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|10|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|203.150.113.252|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|13|43.204.227.118|3128|India|Mumbai|Amazon.com, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|103.42.57.13|3128|Vietnam|Phường Bảy|THEGIOISO|
+|20|45.114.144.237|32650|India|Jaipur|Tejays Dynamic Limited|
 
 
 
