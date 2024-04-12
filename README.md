@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|18|72.10.164.178|18935|Canada|Montreal|GloboTech Communications|
-|19|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|72.10.164.178|18935|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|64.159.159.124|3129|United States|Broomfield|Level 3 Communications, Inc.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
