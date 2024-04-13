@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|134.35.174.191|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|6|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|72.10.160.170|3395|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.170|11751|Canada|Montreal|GloboTech Communications|
+|9|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|113.78.190.20|1111|China|Dongguan|Chinanet|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |13|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|18|72.10.160.171|31107|Canada|Montreal|GloboTech Communications|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|41.111.243.134|80|Algeria|Tizi Ouzou|Algerie Telecom|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|72.10.164.178|20385|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|67.43.228.253|6717|Canada|Montreal|GloboTech Communications|
+|20|45.230.48.131|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
 
 
 
