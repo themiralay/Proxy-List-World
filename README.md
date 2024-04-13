@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|3|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|98.6.197.202|16099|United States|Mission|Spectrum|
-|6|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|124.106.116.34|1337|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|119.93.73.228|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|11|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|64.76.211.62|999|Colombia|Medellín|Level 3|
-|14|190.247.114.38|3128|Argentina|Saenz Pena|Telecom Argentina S.A|
-|15|167.172.238.6|10000|United States|Clifton|DigitalOcean, LLC|
-|16|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|12|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|77.247.95.69|8989|Albania|Fier|Teleco Eighth|
+|15|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|16|120.29.124.131|8080|Philippines|San Fernando City|ComClark Network & Technology Corp|
 |17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|124.106.12.138|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
