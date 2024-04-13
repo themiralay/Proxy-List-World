@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|65.1.244.232|1080|India|Mumbai|Amazon.com|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|14|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|15|177.200.91.109|12312|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|18.133.187.121|58648|United Kingdom|London|Amazon Technologies Inc.|
-|19|67.43.227.228|25853|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|1945|Canada|Montreal|GloboTech Communications|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|46.246.12.8|3128|Sweden|Stockholm|Portlane Network|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|11|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|72.10.160.173|1945|Canada|Montreal|GloboTech Communications|
+|17|47.236.165.246|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
