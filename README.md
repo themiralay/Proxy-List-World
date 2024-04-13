@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|114.231.41.33|8089|China|Nanjing|Chinanet|
-|17|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|58.65.197.91|8080|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
+|14|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|15|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|16|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
+|17|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
 |18|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|19|67.43.227.227|19509|Canada|Montreal|GloboTech Communications|
-|20|128.92.239.190|8080|United States|Long Beach|Spectrum|
+|19|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
