@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|7|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|9|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|10|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|13|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|14|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|58.84.20.18|8080|India|Mathura|Power Grid Corporation of India Limited|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|5|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|6|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|8|65.1.244.232|1080|India|Mumbai|Amazon.com|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|18|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|19|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
