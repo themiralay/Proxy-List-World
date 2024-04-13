@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.180.123.143|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|9|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|24.112.3.220|8080|United States|Durant|Vyve Broadband|
+|6|181.224.205.42|999|Dominican Republic|Puerto Plata|BW TELECOM|
+|7|196.251.221.2|8104|South Africa|Johannesburg|Info-Gro (PTY) Ltd|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|18|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
+|14|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
+|15|46.29.237.247|8080|The Netherlands|Amsterdam|Stark Industries Solutions LTD|
+|16|59.7.73.213|80|South Korea|Goyang-si|Korea Telecom|
+|17|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
+|18|167.172.238.6|10005|United States|Clifton|DigitalOcean, LLC|
 |19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|146.120.73.210|8080|Russia|St Petersburg|Unet Communication LLC|
 
 
 
