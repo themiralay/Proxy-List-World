@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|134.35.8.194|8080|Yemen|Aden|Public Telecommunication Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|1.10.141.45|8080|Thailand|Bang Phli|TOT Public Company Limited|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|64.225.8.118|10016|United States|Clifton|DigitalOcean, LLC|
-|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|11|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|182.160.100.156|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|103.154.77.79|8080|Indonesia|Magelang|T2NET|
-|18|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|19|45.143.108.118|8080|Georgia|Tbilisi|Airmax LLC|
-|20|42.200.196.208|8080|Hong Kong|Kwu Tung|PCCW IMSBiz|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|10|64.225.8.118|10004|United States|Clifton|DigitalOcean, LLC|
+|11|37.204.209.198|8080|Russia|Moscow|NCNET|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|81.23.153.93|8080|Russia|Kazan'|PJSC Rostelecom|
+|14|118.179.121.114|5020|Bangladesh|Khanbaniara|Dhakacom Limited|
+|15|103.162.141.146|8085|Indonesia|Tanjung Pinang|PT Filltech Antar Nusa|
+|16|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|20|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
 
 
 
