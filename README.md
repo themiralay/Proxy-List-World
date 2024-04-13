@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|2|117.54.106.242|8080|Indonesia|Jakarta|PT IndoInternet|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|10|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|67.43.227.227|28417|Canada|Montreal|GloboTech Communications|
-|15|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
-|18|186.125.235.101|999|Argentina|Simoca|Telecom Argentina S.A.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
+|13|103.158.253.187|8027|Indonesia|Brebes|Rapid Network|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|89.58.48.220|10001|Germany|Nuremberg|netcup GmbH|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 |20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
