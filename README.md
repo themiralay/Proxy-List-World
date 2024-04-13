@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|14|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|134.209.144.177|80|India|Bengaluru|DigitalOcean, LLC|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|121.52.156.146|8080|Pakistan|Islamabad|HEC|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|103.154.230.112|5678|Indonesia|Lamongan|DIGITNET|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
+|18|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
+|19|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
