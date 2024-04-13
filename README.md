@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
-|9|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
-|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|11|152.32.67.107|65535|Philippines|Marikina City|Converge ICT Solution Inc|
 |12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
-|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|17|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|18|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|19|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|15|118.179.121.114|5020|Bangladesh|Khanbaniara|Dhakacom Limited|
+|16|121.227.178.90|8089|China|Nanjing|China Telecom|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
