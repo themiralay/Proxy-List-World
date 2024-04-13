@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|4|134.35.8.194|8080|Yemen|Aden|Public Telecommunication Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|186.125.218.146|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
-|15|34.154.161.152|80|Italy|Milan|Google LLC|
-|16|72.10.164.178|8913|Canada|Montreal|GloboTech Communications|
-|17|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|178.124.81.210|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|2|92.255.7.162|8080|Russia|St Petersburg|JSC "Severen-Telecom"|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
+|5|134.35.8.194|8080|Yemen|Aden|Public Telecommunication Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|103.195.65.209|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|185.86.82.194|8080|Türkiye|Bursa|Veganet Teknolojileri ve Hizmetleri LTD STI|
+|11|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|12|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|13|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|16|103.105.125.94|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
+|17|85.192.63.132|9988|Germany|Frankfurt am Main|Aeza International LTD|
+|18|34.154.161.152|80|Italy|Milan|Google LLC|
+|19|72.10.164.178|9205|Canada|Montreal|GloboTech Communications|
+|20|186.148.181.70|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
