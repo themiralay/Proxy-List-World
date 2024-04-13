@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc.|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|5|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.228.254|8107|Canada|Montreal|GloboTech Communications|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|72.10.160.92|2189|Canada|Montreal|GloboTech Communications|
-|17|12.163.92.26|8080|United States|Alex|AT&T Services, Inc.|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
+|18|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
