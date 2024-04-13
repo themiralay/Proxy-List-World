@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
-|11|146.190.35.141|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|78.158.171.5|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|78.158.171.5|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|9|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|12|103.124.139.137|8080|Indonesia|Sukoharjo|Global Media Data Prima|
+|13|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|103.80.237.211|3888|Indonesia|Jakarta|PT MITRA VISIONER PRATAMA|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
