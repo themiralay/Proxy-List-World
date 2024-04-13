@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.152.232.84|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
-|17|67.43.236.20|29787|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|5177|Canada|Montreal|GloboTech Communications|
-|19|38.253.88.242|999|Dominican Republic|Jarabacoa|Cogent Communications|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|67.43.236.20|17129|Canada|Montreal|GloboTech Communications|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|72.10.160.91|5177|Canada|Montreal|GloboTech Communications|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|72.10.160.170|30355|Canada|Montreal|GloboTech Communications|
+|20|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 
 
 
