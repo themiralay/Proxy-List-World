@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
 |6|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
-|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|121.100.19.82|7088|Indonesia|Bekasi|NAP.Net.id - Network Access Point|
-|16|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|187.79.146.98|8080|Brazil|São Luís|V tal|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|16|152.231.62.1|999|Argentina|Villa General Belgrano|Intercom SRL|
+|17|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|18|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
 
 
 
