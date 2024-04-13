@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|116.105.18.159|4006|Vietnam|Da Nang|Viettel Corporation|
-|6|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|1|116.105.18.159|4006|Vietnam|Da Nang|Viettel Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|45.189.252.245|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|15|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|72.10.164.178|24647|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|103.81.254.249|8080|Indonesia|Karawang|PT. Nusa Jaya Prasetyo|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|12|36.94.37.39|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|72.10.164.178|8649|Canada|Montreal|GloboTech Communications|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.10.160.91|13403|Canada|Montreal|GloboTech Communications|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|103.182.213.13|8080|Bangladesh|Tongi|Rapid Network|
+|19|203.202.252.149|1200|Bangladesh|Dhaka|Aamra Networks Limited|
 |20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 
 
