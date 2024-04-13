@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|67.43.228.252|11189|Canada|Montreal|GloboTech Communications|
-|12|190.94.212.36|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|13|113.78.190.20|1111|China|Dongguan|Chinanet|
-|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|149.28.164.3|12009|Australia|Sydney|The Constant Company|
-|16|67.43.227.228|10005|Canada|Montreal|GloboTech Communications|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.236.20|1129|Canada|Montreal|GloboTech Communications|
-|20|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
+|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|20|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
 
 
 
