@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.87.169.192|56642|India|Jaipur|Tejays Industries Pvt Ltd|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
-|18|113.78.190.20|1111|China|Dongguan|Chinanet|
-|19|103.59.44.28|8181|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|103.87.169.192|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|16|67.43.228.251|23613|Canada|Montreal|GloboTech Communications|
+|17|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|18|45.225.207.185|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
