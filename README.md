@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|9|177.93.50.164|999|Colombia|El Castillo|TV AZTECA SUCURSAL COLOMBIA|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|15|103.10.61.186|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|72.10.164.178|24639|Canada|Montreal|GloboTech Communications|
-|19|103.179.27.133|8080|Indonesia|Menggala|PT Primadona Media Digitalindo|
-|20|72.10.164.178|24639|Canada|Montreal|GloboTech Communications|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|5.2.228.168|8888|Romania|Constanța|RCS & RDS|
+|11|72.10.164.178|24639|Canada|Montreal|GloboTech Communications|
+|12|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|13|67.43.228.253|19473|Canada|Montreal|GloboTech Communications|
+|14|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|167.172.238.6|10006|United States|Clifton|DigitalOcean, LLC|
+|17|77.91.74.136|8080|Israel|Petah Tikva|Stark Industries Solutions LTD|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|203.150.166.170|8080|Thailand|Trang|Internet Thailand Company Ltd.|
+|20|159.89.238.24|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
