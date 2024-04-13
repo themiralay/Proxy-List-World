@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
+|4|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|5|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|72.10.160.174|10107|Canada|Montreal|GloboTech Communications|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|190.61.47.78|9992|Colombia|Medellín|Ufinet Panama S.A.|
-|10|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|11|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|79.106.170.34|8989|Albania|Lushnjë|ONE ALBANIA SH.A.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|17|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|18|14.163.45.72|443|Vietnam|Hanoi|VNPT-VNNIC|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|11|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|12|72.10.160.174|10107|Canada|Montreal|GloboTech Communications|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|15|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
