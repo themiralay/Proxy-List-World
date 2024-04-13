@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|3|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|4|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|5|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
-|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|7|118.99.127.114|8080|Indonesia|Malang|Biznet Metronet|
-|8|89.58.48.220|10004|Germany|Nuremberg|netcup GmbH|
-|9|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|5|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|6|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|118.99.127.114|8080|Indonesia|Malang|Biznet Metronet|
 |10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|13|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|15|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|17|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|18|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|19|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|20|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
+|11|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|12|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|13|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|14|157.100.56.19|80|Ecuador|Loja|Ufinet Panama S.A.|
+|15|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
+|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|17|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|18|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|19|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
