@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|8|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|14|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
-|18|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|201.71.2.185|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|9|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
+|10|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|200.94.102.10|999|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
+|19|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
 
 
 
