@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|124.6.155.170|3130|Philippines|Taguig|Globe Telecom|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|103.154.230.123|5678|Indonesia|Lamongan|DIGITNET|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|183.164.243.59|8089|China|Rongcheng|Chinanet|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|124.6.155.170|3130|Philippines|Taguig|Globe Telecom|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 |17|72.10.164.178|14773|Canada|Montreal|GloboTech Communications|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|20|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|72.10.164.178|14773|Canada|Montreal|GloboTech Communications|
+|20|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
 
 
 
