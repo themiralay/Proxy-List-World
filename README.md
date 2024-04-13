@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|46.246.12.8|3128|Sweden|Stockholm|Portlane Network|
-|6|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|65.1.244.232|1080|India|Mumbai|Amazon.com|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|11|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|18|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
-|19|69.160.223.225|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
-|20|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|5|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|6|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|7|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|11|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|12|103.118.175.189|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|13|47.236.165.246|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|20|190.94.212.254|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
