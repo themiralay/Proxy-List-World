@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
 |4|103.87.169.192|56642|India|Jaipur|Tejays Industries Pvt Ltd|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|8|104.129.202.89|8800|United States|San Jose|ZSCALER, INC.|
-|9|104.129.199.37|8800|United States|Los Angeles|ZSCALER, INC.|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|104.129.206.67|8800|United States|Atlanta|ZSCALER, INC.|
-|12|104.129.202.91|8800|United States|San Jose|ZSCALER, INC.|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|104.129.206.120|8800|United States|Atlanta|ZSCALER, INC.|
-|15|67.43.236.20|2439|Canada|Montreal|GloboTech Communications|
-|16|104.129.202.81|8800|United States|San Jose|ZSCALER, INC.|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|104.129.198.129|8800|United States|Los Angeles|ZSCALER, INC.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|104.129.202.89|8800|United States|San Jose|ZSCALER, INC.|
+|11|104.129.199.37|8800|United States|Los Angeles|ZSCALER, INC.|
+|12|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|104.129.202.91|8800|United States|San Jose|ZSCALER, INC.|
+|15|104.129.202.81|8800|United States|San Jose|ZSCALER, INC.|
+|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
+|20|104.129.192.176|8800|United States|Santa Clara|ZSCALER, INC.|
 
 
 
