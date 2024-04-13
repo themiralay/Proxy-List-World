@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|116.105.18.159|4006|Vietnam|Da Nang|Viettel Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|2|116.105.18.159|4006|Vietnam|Da Nang|Viettel Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|161.49.215.28|10101|Philippines|Bolacan|Converge Information and Communications Technology Solutions|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|72.10.164.178|2469|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|7437|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|67.43.227.227|3479|Canada|Montreal|GloboTech Communications|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|18|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
 |19|152.101.73.161|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|20|72.10.160.173|7413|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
