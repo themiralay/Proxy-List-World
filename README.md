@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|6|103.68.3.195|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.1.93.55|32650|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|12|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|181.29.205.47|8085|Argentina|Buenos Aires|Telecom Argentina S.A|
-|17|103.68.3.195|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|20|5.34.46.94|8080|Kazakhstan|Almaty|2Day Telecom LLP|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|16|202.12.80.6|84|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|121.195.170.225|1024|China|Haidian|CERNET|
+|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 
 
 
