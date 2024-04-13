@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|1|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|8|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|14|82.200.204.254|8081|Kazakhstan|Shymkent|Kazakhtelecom Data Network Administration|
-|15|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|17|201.174.224.174|999|Mexico|Mexicali|Transtelco Inc|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
+|7|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|10|113.78.190.20|1111|China|Dongguan|Chinanet|
+|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
+|14|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|72.10.164.178|25721|Canada|Montreal|GloboTech Communications|
+|18|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|19|72.10.164.178|25721|Canada|Montreal|GloboTech Communications|
+|20|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
 
 
 
