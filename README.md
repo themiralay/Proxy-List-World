@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|114.9.25.74|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|45.236.170.178|999|Ecuador|Naranjito|Codgrec S.A.|
 |8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|113.78.190.20|1111|China|Dongguan|Chinanet|
-|12|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|67.43.228.253|29287|Canada|Montreal|GloboTech Communications|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
+|12|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|16|190.247.114.38|3128|Argentina|Saenz Pena|Telecom Argentina S.A|
+|17|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|18|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
