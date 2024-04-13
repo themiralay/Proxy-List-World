@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|206.189.92.210|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|206.189.92.210|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|190.114.245.122|999|Venezuela|Caracas|Gold Data USA Inc|
-|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|14|103.228.244.211|8080|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
-|15|45.175.252.18|999|Mexico|Chihuahua City|Alma Jessica Gallegos Gutierrez|
-|16|118.179.121.114|5020|Bangladesh|Khanbaniara|Dhakacom Limited|
-|17|103.174.238.53|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
-|20|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|181.204.81.181|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
+|8|190.69.157.213|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|103.153.135.100|8083|Indonesia|Tangerang|WMINET|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|16|190.6.56.133|8080|Venezuela|Caracas|Net Uno, C.A.|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|19|190.247.114.38|3128|Argentina|Saenz Pena|Telecom Argentina S.A|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
