@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|177.53.154.5|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
-|8|182.16.171.65|43188|Indonesia|Menteng|PT iForte Global Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
-|14|67.43.227.227|3595|Canada|Montreal|GloboTech Communications|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|17|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.145.149.36|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|1.10.141.45|8080|Thailand|Bang Phli|TOT Public Company Limited|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|46.52.192.171|3128|Russia|Moscow|Krasnoyarsk|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|190.90.39.76|999|Colombia|Arauca|InterNexa Global Network|
+|9|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
+|12|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
+|13|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
+|14|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|15|103.137.45.74|21758|India|Pūrna|Wsnl Broadband Private Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|67.43.236.20|15751|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|25803|Canada|Montreal|GloboTech Communications|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
