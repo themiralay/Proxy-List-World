@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|206.189.92.210|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|41.205.24.85|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|206.189.92.210|8888|Singapore|Singapore|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|142.93.2.222|8000|United States|North Bergen|DigitalOcean, LLC|
 |9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|68.183.48.146|10009|United States|Clifton|DigitalOcean, LLC|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
-|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
-|19|92.242.212.50|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|185.132.179.72|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|190.114.245.122|999|Venezuela|Caracas|Gold Data USA Inc|
+|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|103.228.244.211|8080|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
+|15|45.175.252.18|999|Mexico|Chihuahua City|Alma Jessica Gallegos Gutierrez|
+|16|118.179.121.114|5020|Bangladesh|Khanbaniara|Dhakacom Limited|
+|17|103.174.238.53|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|20|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
 
 
 
