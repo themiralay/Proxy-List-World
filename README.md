@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|185.228.137.178|3128|Germany|Nuremberg|netcup GmbH|
-|12|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|13|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
-|14|24.144.95.168|8000|United States|Santa Clara|DigitalOcean, LLC|
-|15|123.25.15.209|9812|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|19|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom LLC|
-|20|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
+|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|5|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|149.202.168.208|80|France|Gravelines|OVH SAS|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|85.31.234.252|80|United States|Phoenix|HOSTINGER US|
+|13|38.156.75.11|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|15|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|16|68.183.134.152|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
+|18|125.167.33.208|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
