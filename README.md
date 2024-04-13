@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|4|65.1.244.232|1080|India|Mumbai|Amazon.com|
-|5|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
-|9|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|10|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|195.35.29.39|80|France|Paris|HOSTINGER FR|
-|19|113.78.190.20|1111|China|Dongguan|Chinanet|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
+|6|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|7|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|13|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|16|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|17|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
+|18|170.246.85.109|50991|Ecuador|Cuenca|Servicable Cia. Ltda.|
+|19|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
+|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 
 
 
