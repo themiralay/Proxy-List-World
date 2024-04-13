@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|6|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|134.35.1.158|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|10|161.49.89.219|8082|Philippines|Las Pinas|Converge ICT Solution Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|118.179.121.114|5020|Bangladesh|Khanbaniara|Dhakacom Limited|
-|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|134.35.1.158|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|103.56.206.94|8181|Indonesia|Cianjur|Argon Data Communication|
+|19|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
+|20|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
 
 
 
