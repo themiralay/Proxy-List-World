@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|165.22.36.164|10012|United States|Clifton|DigitalOcean, LLC|
-|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|10|45.11.95.165|6044|Russia|Moscow|Delta Ltd|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.160.172|17933|Canada|Montreal|GloboTech Communications|
-|15|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|16|165.16.6.153|1981|Libya|Benghazi|Aljeel Aljadeed Technology|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|20|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|9|113.160.182.236|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|72.10.160.172|6529|Canada|Montreal|GloboTech Communications|
+|11|165.22.36.164|10003|United States|Clifton|DigitalOcean, LLC|
+|12|113.78.190.20|1111|China|Dongguan|Chinanet|
+|13|192.99.169.19|8453|Canada|Beauharnois|OVH SAS|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|64.76.211.62|999|Colombia|Medellín|Level 3|
 
 
 
