@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|180.178.95.142|8080|Indonesia|Surakarta|PT Widya Intersat Nusantara|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|142.190.149.206|8080|United States|St. Petersburg|Uniti Fiber Holdings Inc.|
-|7|121.100.19.82|7088|Indonesia|Bekasi|NAP.Net.id - Network Access Point|
-|8|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|187.79.146.98|8080|Brazil|São Luís|V tal|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|85.117.60.131|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|203.150.166.170|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|17|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|46.29.237.247|8080|The Netherlands|Amsterdam|Stark Industries Solutions LTD|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|213.244.91.179|8080|Palestinian Territory|Gaza|PALTEL (Palestine Telecommunications Co.)|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|165.16.67.238|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|185.200.38.199|8080|Turkey|Adana|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|45.11.95.166|6013|Russia|Moscow|Delta Ltd|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 
 
 
