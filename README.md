@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|24.144.87.187|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|78.158.171.5|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
-|10|43.153.52.223|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.124.139.137|8080|Indonesia|Sukoharjo|Global Media Data Prima|
-|13|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
-|14|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|19|113.78.190.20|1111|China|Dongguan|Chinanet|
-|20|67.43.227.227|28483|Canada|Montreal|GloboTech Communications|
+|7|78.158.171.5|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|67.43.227.227|28483|Canada|Montreal|GloboTech Communications|
+|15|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 
 
 
