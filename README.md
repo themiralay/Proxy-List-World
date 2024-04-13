@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|175.196.125.203|80|South Korea|Gangdong-gu|Korea Telecom|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|103.78.96.146|8181|Indonesia|Jakarta|MORATELINDO|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.236.20|1035|Canada|Montreal|GloboTech Communications|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
+|17|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|18|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
+|19|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
