@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|1|116.105.18.159|4006|Vietnam|Da Nang|Viettel Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|116.105.18.159|4006|Vietnam|Da Nang|Viettel Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
 |10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
-|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.160.91|13403|Canada|Montreal|GloboTech Communications|
-|18|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
+|16|116.105.18.159|4006|Vietnam|Da Nang|Viettel Corporation|
+|17|45.189.252.245|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|18|121.195.170.225|1024|China|Haidian|CERNET|
 |19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|104.129.194.38|8800|United States|Reston|ZSCALER, INC.|
+|20|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 
 
 
