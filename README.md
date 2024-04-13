@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
 |9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
-|17|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
-|18|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|134.35.4.90|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|19|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
