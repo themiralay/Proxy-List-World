@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.236.201.210|3128|Sweden|Stockholm|M247 Europe SRL|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|4|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|72.10.160.90|2645|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|14797|Canada|Montreal|GloboTech Communications|
+|10|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
+|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|16|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
+|17|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|181.78.19.242|999|Colombia|Fonseca|IFX Networks Argentina S.R.L|
+|19|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|20|138.197.92.54|10014|United States|Clifton|DigitalOcean, LLC|
 
 
 
