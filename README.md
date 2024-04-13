@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|72.10.160.170|19201|Canada|Montreal|GloboTech Communications|
-|15|183.165.248.117|8089|China|Shenzhen|Chinanet|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.227.228|30407|Canada|Montreal|GloboTech Communications|
-|18|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|183.165.248.117|8089|China|Shenzhen|Chinanet|
+|12|46.4.23.245|20025|Germany|Falkenstein|Hetzner Online GmbH|
+|13|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|72.10.164.178|12273|Canada|Montreal|GloboTech Communications|
+|16|122.3.45.189|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|20|72.10.160.170|19201|Canada|Montreal|GloboTech Communications|
 
 
 
