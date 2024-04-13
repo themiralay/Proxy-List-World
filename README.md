@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|142.11.195.185|80|United States|Seattle|Hostwinds LLC.|
-|13|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|14|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|45.235.16.121|27234|Brazil|Itacorubi|Acessoline Telecom|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
