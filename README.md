@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|9|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|45.70.236.150|999|Ecuador|Puebloviejo|Ufinet Panama S.A.|
-|13|180.211.161.110|8080|Bangladesh|Tāngāil|Bangladesh Telegraph & Telephone Board|
-|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|15|24.144.95.218|8000|United States|Santa Clara|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|18|67.43.227.227|25119|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|7|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|13|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|101.255.148.210|8080|Indonesia|Bekasi|PT Remala Abadi|
+|19|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
+|20|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
 
 
 
