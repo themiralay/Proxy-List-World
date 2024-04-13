@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
-|4|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|5|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|6|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|14|47.236.165.246|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|18|177.234.199.11|8080|Ecuador|Puyo|Ufinet Panama S.A.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|4|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|118.99.127.114|8080|Indonesia|Malang|Biznet Metronet|
+|6|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|7|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
+|13|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|110.77.241.238|8080|Thailand|Pak Chong|CAT Telecom Public Company Limited|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
+|19|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|20|103.169.254.39|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
 
 
 
