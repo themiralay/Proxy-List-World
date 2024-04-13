@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|4|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|7|8.242.176.37|999|Colombia|Santiago de Cali|CTL Colombia|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|7|116.212.151.250|8080|Cambodia|Phnom Penh|MekongNet|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |10|72.10.164.178|23409|Canada|Montreal|GloboTech Communications|
-|11|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|167.172.238.6|10006|United States|Clifton|DigitalOcean, LLC|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|72.10.164.178|23409|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|64.225.8.118|10004|United States|Clifton|DigitalOcean, LLC|
-|18|67.43.228.254|24805|Canada|Montreal|GloboTech Communications|
-|19|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|159.65.186.46|10011|United States|Clifton|DigitalOcean, LLC|
+|15|101.255.116.125|8080|Indonesia|Bekasi|PT Remala Abadi|
+|16|68.183.48.146|10002|United States|Clifton|DigitalOcean, LLC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 
 
 
