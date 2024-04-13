@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|103.234.31.66|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|14.163.45.72|443|Vietnam|Hanoi|VNPT-VNNIC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|190.72.102.42|999|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
-|10|149.202.168.208|80|France|Gravelines|OVH SAS|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|182.79.60.210|3129|India|Mumbai|Bharti Airtel|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|17|209.97.173.78|4444|Singapore|Singapore|DigitalOcean, LLC|
-|18|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|6|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
+|7|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|182.79.60.210|3129|India|Mumbai|Bharti Airtel|
+|11|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|12|38.156.75.11|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|124.105.21.141|8181|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|67.43.227.227|20923|Canada|Montreal|GloboTech Communications|
+|17|89.58.48.220|10009|Germany|Nuremberg|netcup GmbH|
+|18|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|19|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
+|20|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
 
 
 
