@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
-|16|118.179.121.114|5020|Bangladesh|Khanbaniara|Dhakacom Limited|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|19|121.195.170.225|1024|China|Haidian|CERNET|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|98.6.197.202|16099|United States|Mission|Spectrum|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|36.6.144.188|8089|China|Guangzhou|Chinanet|
+|17|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|113.23.183.154|8989|Malaysia|Subang Jaya|Extreme Broadband|
+|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
