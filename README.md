@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|6|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|8|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|9|18.133.187.121|58648|United Kingdom|London|Amazon Technologies Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|45.191.75.186|999|Colombia|Guachené|Global Raices|
-|13|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
-|14|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|17|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
+|3|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|14|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|20|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
 
 
 
