@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|116.203.112.97|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|5|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.118.175.189|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|10|209.14.119.198|999|Colombia|Neiva|AGIS|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|14|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|5|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|6|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|116.203.112.97|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|8|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|9|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|12|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|13|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|110.77.241.238|8080|Thailand|Pak Chong|CAT Telecom Public Company Limited|
+|16|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
