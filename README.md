@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|103.87.169.192|56642|India|Jaipur|Tejays Industries Pvt Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|104.129.202.74|8800|United States|San Jose|ZSCALER, INC.|
-|6|104.129.202.96|8800|United States|San Jose|ZSCALER, INC.|
-|7|104.129.202.173|8800|United States|San Jose|ZSCALER, INC.|
-|8|104.129.199.35|8800|United States|Los Angeles|ZSCALER, INC.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|104.129.202.79|8800|United States|San Jose|ZSCALER, INC.|
-|10|104.129.195.22|8800|United States|Reston|ZSCALER, INC.|
-|11|104.129.202.88|8800|United States|San Jose|ZSCALER, INC.|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|104.129.202.77|8800|United States|San Jose|ZSCALER, INC.|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|104.129.206.121|8800|United States|Atlanta|ZSCALER, INC.|
-|16|104.129.198.129|8800|United States|Los Angeles|ZSCALER, INC.|
-|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|104.129.202.77|8800|United States|San Jose|ZSCALER, INC.|
+|11|104.129.199.35|8800|United States|Los Angeles|ZSCALER, INC.|
+|12|104.129.202.88|8800|United States|San Jose|ZSCALER, INC.|
+|13|104.129.202.173|8800|United States|San Jose|ZSCALER, INC.|
+|14|104.129.195.22|8800|United States|Reston|ZSCALER, INC.|
+|15|104.129.202.74|8800|United States|San Jose|ZSCALER, INC.|
+|16|104.129.202.96|8800|United States|San Jose|ZSCALER, INC.|
+|17|104.129.206.121|8800|United States|Atlanta|ZSCALER, INC.|
 |18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|104.129.198.129|8800|United States|Los Angeles|ZSCALER, INC.|
 
 
 
