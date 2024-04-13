@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|121.227.178.64|8089|China|Nanjing|China Telecom|
-|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|201.91.248.67|20183|Brazil|São Paulo|Vivo|
-|14|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
-|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|72.10.160.90|28115|Canada|Montreal|GloboTech Communications|
-|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
+|9|103.26.110.41|84|India|Tirunelveli|Niss Networks|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|14|179.49.113.230|999|Honduras|Rio Comayagua|Asociacion De Servicio De Internet S. De RL|
+|15|72.10.164.178|18059|Canada|Montreal|GloboTech Communications|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|181.119.67.130|999|Colombia|Florida|IFX Networks Argentina S.R.L|
+|18|138.197.92.54|10004|United States|Clifton|DigitalOcean, LLC|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|143.208.57.59|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
 
 
 
