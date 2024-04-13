@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|103.173.139.222|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|103.156.14.18|8080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
-|10|114.5.199.222|80|Indonesia|Padang|PT. INDOSAT Tbk|
-|11|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|12|45.230.50.3|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
-|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|14|201.89.89.34|8080|Brazil|Curitiba|V tal|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|103.26.110.41|84|India|Tirunelveli|Niss Networks|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|157.100.60.246|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|103.173.139.222|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|16|72.10.164.178|13861|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|20603|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|13861|Canada|Montreal|GloboTech Communications|
+|19|177.93.50.164|999|Colombia|El Castillo|TV AZTECA SUCURSAL COLOMBIA|
+|20|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
 
 
 
