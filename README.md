@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|7|157.20.218.31|8080|Indonesia|Wonosobo|SINSUNETWORK|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|203.150.113.70|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|5|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
-|11|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|72.128.133.154|16099|United States|Pflugerville|Charter Communications|
+|14|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|103.143.196.66|8080|Indonesia|Klaten|JERNIHNETWORK|
+|17|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |18|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|67.43.236.20|16477|Canada|Montreal|GloboTech Communications|
-|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|20|72.10.164.178|18807|Canada|Montreal|GloboTech Communications|
 
 
 
