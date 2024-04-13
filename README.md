@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|9|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|12|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
-|13|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|14|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
-|15|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|103.169.254.39|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|19|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|54.213.136.83|10827|United States|Portland|Amazon.com, Inc.|
+|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|12|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|201.71.3.52|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|19|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
