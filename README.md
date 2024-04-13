@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.5.199.222|80|Indonesia|Padang|PT. INDOSAT Tbk|
-|9|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
-|10|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|192.141.196.129|8080|Brazil|Jandira|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|67.43.236.20|1027|Canada|Montreal|GloboTech Communications|
-|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|89.58.48.220|10004|Germany|Nuremberg|netcup GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|67.43.236.20|1027|Canada|Montreal|GloboTech Communications|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
 |19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
 
 
 
