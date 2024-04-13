@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|103.234.31.66|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|8|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
-|9|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
-|13|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
-|14|94.228.194.18|41890|Russia|Moscow|Uniontel ZAO network|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|4|103.168.164.94|83|India|Pune|Ssicon Systems Private Limited|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|14.163.45.72|443|Vietnam|Hanoi|VNPT-VNNIC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
+|10|103.93.216.58|8080|Pakistan|Karachi|Rising Cable Net (Pvt) Ltd|
+|11|103.154.230.97|5678|Indonesia|Lamongan|DIGITNET|
+|12|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|113.78.190.20|1111|China|Dongguan|Chinanet|
-|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|20|180.250.173.67|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|16|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
+|17|103.131.232.9|80|Australia|Goulburn|RemoteISP Pty Ltd|
+|18|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 
 
 
