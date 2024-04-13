@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|23.95.187.215|80|United States|Buffalo|HostPapa|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|23.95.187.215|80|United States|Buffalo|HostPapa|
-|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|89.58.48.220|10004|Germany|Nuremberg|netcup GmbH|
+|17|183.165.248.83|8089|China|Shenzhen|Chinanet|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
