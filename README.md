@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|6|72.10.160.90|17413|Canada|Montreal|GloboTech Communications|
+|7|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
 |8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 |9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|72.10.160.90|17413|Canada|Montreal|GloboTech Communications|
-|11|131.196.14.122|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|10|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|14|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|17|34.154.161.152|80|Italy|Milan|Google LLC|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|89.58.48.220|10014|Germany|Nuremberg|netcup GmbH|
+|15|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
