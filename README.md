@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|200.108.190.38|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|103.180.122.201|1080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
-|19|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|20|72.10.164.178|18751|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|187.249.20.153|8081|Mexico|Ciudad Acuña|Transtelco Inc|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|72.10.164.178|8141|Canada|Montreal|GloboTech Communications|
+|17|119.39.68.42|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
+|19|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
