@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|4|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|9|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|11|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|12|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|13|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|19|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|137.184.15.145|8000|United States|Santa Clara|DigitalOcean, LLC|
+|11|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|12|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
+|16|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
