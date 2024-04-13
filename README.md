@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.105.18.159|4006|Vietnam|Da Nang|Viettel Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|116.105.18.159|4006|Vietnam|Da Nang|Viettel Corporation|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|72.10.164.178|8649|Canada|Montreal|GloboTech Communications|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|15|190.144.238.66|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|72.10.164.178|8649|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|8649|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|8649|Canada|Montreal|GloboTech Communications|
-|19|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|20|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|72.10.160.91|13403|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.164.178|1025|Canada|Montreal|GloboTech Communications|
+|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|18|72.10.164.178|1025|Canada|Montreal|GloboTech Communications|
+|19|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|20|89.58.48.220|10014|Germany|Nuremberg|netcup GmbH|
 
 
 
