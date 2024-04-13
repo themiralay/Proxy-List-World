@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|165.22.36.164|10008|United States|Clifton|DigitalOcean, LLC|
-|8|67.43.227.227|3301|Canada|Montreal|GloboTech Communications|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|103.51.205.98|8080|Indonesia|Karanganyar|Lintas Data Prima, PT|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|17|72.10.164.178|11395|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|16157|Canada|Montreal|GloboTech Communications|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|7|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|191.179.216.84|8080|Brazil|Caruaru|Claro NXT Telecomunicacoes Ltda|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|72.10.160.90|16157|Canada|Montreal|GloboTech Communications|
 
 
 
