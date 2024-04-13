@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|18|190.6.56.133|8080|Venezuela|Caracas|Net Uno, C.A.|
-|19|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|18.133.187.121|58648|United Kingdom|London|Amazon Technologies Inc.|
+|13|37.220.83.139|3128|Poland|Warsaw|TimeWeb Ltd.|
+|14|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|15|54.191.109.158|3128|United States|Portland|Amazon.com, Inc.|
+|16|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 
 
 
