@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|82.62.241.62|3128|Italy|Campegine|Telecom Italia S.p.A|
-|6|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
+|6|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
 |9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 |12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
-|16|103.154.230.97|5678|Indonesia|Lamongan|DIGITNET|
-|17|185.228.137.178|3128|Germany|Nuremberg|netcup GmbH|
-|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|19|182.79.60.210|3129|India|Mumbai|Bharti Airtel|
-|20|89.58.48.220|10004|Germany|Nuremberg|netcup GmbH|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|5.2.228.168|8888|Romania|Constanța|RCS & RDS|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|202.165.39.102|8080|Indonesia|Jakarta|Circlecom|
+|17|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
 
 
 
