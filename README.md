@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
 |5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|6|118.99.127.114|8080|Indonesia|Malang|Biznet Metronet|
-|7|101.255.118.86|8080|Indonesia|Bekasi|PT Remala Abadi|
-|8|102.68.128.217|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|9|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|16|102.16.24.30|8080|Madagascar|Antananarivo|Telecom Malagasy|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|18.133.187.121|58648|United Kingdom|London|Amazon Technologies Inc.|
-|19|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|20|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|6|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|7|118.99.127.114|8080|Indonesia|Malang|Biznet Metronet|
+|8|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
+|9|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|10|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|11|18.133.187.121|58648|United Kingdom|London|Amazon Technologies Inc.|
+|12|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|13|102.16.24.30|8080|Madagascar|Antananarivo|Telecom Malagasy|
+|14|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|15|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|18|175.196.125.203|80|South Korea|Gangdong-gu|Korea Telecom|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|110.93.227.28|3128|Pakistan|Karachi|TW RO|
 
 
 
