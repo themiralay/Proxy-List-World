@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|11|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.191.58.60|8080|Indonesia|Kediri|Panjalu Sarana Data Indonesia|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|45.188.164.47|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|9|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.28.112.126|8080|Indonesia|Ketanggi|PT Lintas Data Prima|
+|16|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|17|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|189.3.69.230|8080|Brazil|Porto Alegre|Claro S.A.|
+|20|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
