@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|134.35.59.228|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|134.35.1.158|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|2|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.35.1.158|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|182.253.109.28|8080|Indonesia|Semarang|Biznet Metronet|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
 |19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
