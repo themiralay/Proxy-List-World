@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|1.10.141.45|8080|Thailand|Bang Phli|TOT Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|67.43.236.20|30497|Canada|Montreal|GloboTech Communications|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|103.78.96.146|80|Indonesia|Jakarta|MORATELINDO|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.227.227|8019|Canada|Montreal|GloboTech Communications|
-|20|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|46.52.192.171|3128|Russia|Moscow|Krasnoyarsk|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.122.66.240|1080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
 
 
 
