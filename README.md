@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|4|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
+|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|17|103.162.141.146|8085|Indonesia|Tanjung Pinang|PT Filltech Antar Nusa|
-|18|89.58.48.220|10009|Germany|Nuremberg|netcup GmbH|
-|19|78.108.109.0|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|18|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
