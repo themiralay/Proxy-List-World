@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.68.207.34|83|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|10|64.225.8.118|10009|United States|Clifton|DigitalOcean, LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|67.43.236.20|3295|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|3767|Canada|Montreal|GloboTech Communications|
-|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
+|13|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|14|72.10.160.171|19383|Canada|Montreal|GloboTech Communications|
+|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|67.43.227.227|3081|Canada|Montreal|GloboTech Communications|
+|19|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.164.178|12773|Canada|Montreal|GloboTech Communications|
 
 
 
