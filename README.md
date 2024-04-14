@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|203.150.128.226|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|203.150.128.226|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|181.78.19.242|999|Colombia|Fonseca|IFX Networks Argentina S.R.L|
-|17|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
-|18|123.200.18.155|80|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|104.234.157.169|21278|India|Jaipur|Ipxo LLC|
+|9|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|67.43.227.228|24735|Canada|Montreal|GloboTech Communications|
+|18|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|19|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
