@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
-|6|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|7|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
+|8|72.10.160.92|13073|Canada|Montreal|GloboTech Communications|
 |9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|13|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|47.236.52.48|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.130.5.34|8080|Indonesia|Samarinda|LINTASMAYA|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|20|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
+|10|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|11|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
+|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
