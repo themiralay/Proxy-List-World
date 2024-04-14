@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|78.158.171.83|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|5|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|8|175.215.73.227|3129|South Korea|Jinju|Korea Telecom|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|222.119.186.81|3128|South Korea|Busan|Korea Telecom|
-|11|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
-|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|12.163.92.26|8080|United States|Alex|AT&T Services, Inc.|
-|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|16|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|20|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
+|18|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
+|19|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
+|20|201.91.248.67|20183|Brazil|São Paulo|Vivo|
 
 
 
