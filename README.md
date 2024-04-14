@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|134.35.21.107|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|8|62.3.30.70|8080|Georgia|Tbilisi|Enbinet Ltd.|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
-|18|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|103.155.198.105|8080|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
-|20|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
+|4|47.236.52.48|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|62.3.30.70|8080|Georgia|Tbilisi|Enbinet Ltd.|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|114.231.41.244|8089|China|Nanjing|Chinanet|
+|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|14|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
+|15|67.43.228.253|30681|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|18|47.236.52.48|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|222.174.178.122|4999|China|Xintai|Chinanet|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
