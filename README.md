@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|5|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|7|72.10.160.171|19383|Canada|Montreal|GloboTech Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|10|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|3|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|9|72.10.160.171|19383|Canada|Montreal|GloboTech Communications|
+|10|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|209.14.113.2|999|Colombia|Cértegui|AGIS|
-|13|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|14|72.10.160.92|16981|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|134.35.41.209|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|19|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|72.10.160.92|16981|Canada|Montreal|GloboTech Communications|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|19|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
