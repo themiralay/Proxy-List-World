@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
-|5|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
+|2|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|103.186.90.19|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
-|10|177.69.118.177|8080|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
-|11|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
-|12|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
-|13|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
-|14|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|35.185.217.164|3128|United States|The Dalles|Google LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|10|103.178.194.52|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|11|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
+|12|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|13|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
+|18|128.92.239.190|8080|United States|Long Beach|Spectrum|
+|19|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|20|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
 
 
 
