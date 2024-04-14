@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |10|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|72.10.164.178|25763|Canada|Montreal|GloboTech Communications|
+|16|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 |17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
 
 
 
