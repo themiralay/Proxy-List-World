@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|67.43.228.251|8837|Canada|Montreal|GloboTech Communications|
-|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 |8|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|9|67.43.227.227|12861|Canada|Montreal|GloboTech Communications|
-|10|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
-|17|72.10.160.90|27917|Canada|Montreal|GloboTech Communications|
-|18|134.35.41.209|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|19|58.20.77.186|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|217.197.237.74|8080|Russia|St Petersburg|SEVEREN|
+|9|201.71.3.62|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|179.1.192.47|999|Colombia|Tello|InterNexa Global Network|
+|12|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|13|72.10.160.90|27917|Canada|Montreal|GloboTech Communications|
+|14|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
+|18|103.156.248.130|8080|Indonesia|Percut|Trans Media Telekomunikasi|
+|19|103.48.69.121|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
