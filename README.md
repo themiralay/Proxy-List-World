@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|2|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|3|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
-|4|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|77.119.250.129|8080|Austria|Vienna|Network of Hutchison Drei Austria GmbH|
-|7|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|67.43.228.250|23677|Canada|Montreal|GloboTech Communications|
-|10|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|121.195.170.225|1024|China|Haidian|CERNET|
-|15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|4|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|5|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|11|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|15|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
+|17|159.65.176.77|10014|United States|Clifton|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
