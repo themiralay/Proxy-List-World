@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.154.161.152|80|Italy|Milan|Google LLC|
-|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|222.120.150.196|80|South Korea|Paju|Korea Telecom|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|12|188.240.106.160|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|67.43.227.227|18633|Canada|Montreal|GloboTech Communications|
-|15|103.16.118.165|8080|Indonesia|Madiun|CV Trustnet Media|
-|16|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|17|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|18|72.10.160.172|2963|Canada|Montreal|GloboTech Communications|
+|4|68.183.48.146|10011|United States|Clifton|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|10|68.183.48.146|10011|United States|Clifton|DigitalOcean, LLC|
+|11|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|13|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |19|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|123.127.94.83|8800|China|Chaowai|China Unicom Beijing Province Network|
 
 
 
