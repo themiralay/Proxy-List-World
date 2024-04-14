@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|3|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|6|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|124.16.103.0|4780|China|Haidian|CNIC-CAS|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|20|72.10.164.178|17119|Canada|Montreal|GloboTech Communications|
+|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|115.74.246.138|8080|Vietnam|Quan Muoi Mot|VIETELxdsl|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|103.180.122.201|1080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
 
 
 
