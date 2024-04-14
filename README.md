@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.197.92.54|10008|United States|Clifton|DigitalOcean, LLC|
+|1|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|6|138.197.92.54|10008|United States|Clifton|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|188.240.106.160|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|159.65.186.46|10007|United States|Clifton|DigitalOcean, LLC|
-|12|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|14|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|198.244.149.182|37615|United Kingdom|London|OVH SAS|
+|9|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|10|203.112.79.90|8080|Bangladesh|Paltan|OptiMax Communication Ltd|
+|11|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
+|12|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|15|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
 |16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|198.244.149.182|37615|United Kingdom|London|OVH SAS|
-|20|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|17|103.171.245.14|8080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|18|103.167.171.235|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
