@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.198.129.34|8082|Philippines|Nasugbu|Globe Telecom|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|67.43.227.227|30295|Canada|Montreal|GloboTech Communications|
-|10|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|11|72.10.164.178|25893|Canada|Montreal|GloboTech Communications|
-|12|93.176.165.93|8080|Spain|Barcelona|Xtra Telecom S.A|
-|13|72.10.164.178|25893|Canada|Montreal|GloboTech Communications|
-|14|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|9|51.195.51.101|3129|Germany|Limburg an der Lahn|OVH SAS|
+|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|11|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|12|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
 |15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|17|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|18|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
-|19|103.180.247.6|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|20|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|16|72.10.164.178|16197|Canada|Montreal|GloboTech Communications|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
