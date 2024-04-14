@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|104.234.157.169|21278|India|Jaipur|Ipxo LLC|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|14.243.165.138|4001|Vietnam|Da Nang|VNPT|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|67.43.227.229|21289|Canada|Montreal|GloboTech Communications|
-|11|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|45.11.95.165|5215|Russia|Moscow|Delta Ltd|
-|14|104.234.157.169|21278|India|Jaipur|Ipxo LLC|
-|15|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
-|17|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|18|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|20|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|15|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|20|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 
 
 
