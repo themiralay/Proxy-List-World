@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|134.122.66.16|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|11|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|49.0.32.48|8000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|15|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|45.159.189.244|3128|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|1|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
