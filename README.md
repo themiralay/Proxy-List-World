@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|187.188.169.169|8080|Mexico|Tepeaca|Total Play Telecomunicaciones SA De CV|
-|9|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|10|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
-|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|72.10.164.178|32431|Canada|Montreal|GloboTech Communications|
-|14|111.225.153.173|8089|China|Zhoutou|China Telecom|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|36.91.20.5|8080|Indonesia|Kartini|PT. Telekomunikasi Indonesia|
-|18|67.79.51.210|16099|United States|Beaumont|Spectrum|
-|19|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
-|20|212.115.232.79|31280|Ukraine|Dnipro|ISP "Fregat"|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
+|12|72.10.164.178|32431|Canada|Montreal|GloboTech Communications|
+|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
+|16|154.73.28.157|8080|Libya|Tripoli|Rawafed|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|67.43.228.253|27961|Canada|Montreal|GloboTech Communications|
+|19|123.25.15.209|9812|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|72.10.164.178|32431|Canada|Montreal|GloboTech Communications|
 
 
 
