@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|223.205.75.241|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.56.206.94|8181|Indonesia|Cianjur|Argon Data Communication|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|138.97.37.115|8189|Brazil|Birigui|Fast Telecomunicacoes Birigui Ltda - ME|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|190.94.212.254|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.26.108.118|84|India|Sivakasi|Niss Networks|
-|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|200.60.4.238|999|Peru|Lima|Telefonica del Peru S.A.A.|
-|17|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|18|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|20|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|103.56.206.94|8181|Indonesia|Cianjur|Argon Data Communication|
+|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
