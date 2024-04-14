@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|14|67.43.236.20|11269|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|18|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|170.245.132.129|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|9|67.43.236.20|11269|Canada|Montreal|GloboTech Communications|
+|10|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|13|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|67.43.228.253|3033|Canada|Montreal|GloboTech Communications|
+|19|103.165.155.238|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|20|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
 
 
 
