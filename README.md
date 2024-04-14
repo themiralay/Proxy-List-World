@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
 |10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
-|14|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|186.180.75.236|999|Colombia|Cúcuta|Colombia Móvil|
-|20|45.174.79.8|999|Mexico|Ciudad Delicias|Raul Duarte Urita|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|89.58.48.220|10004|Germany|Nuremberg|netcup GmbH|
+|16|186.180.75.236|999|Colombia|Cúcuta|Colombia Móvil|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|50.205.202.249|3128|United States|Philadelphia|Comcast Cable Communications, LLC|
 
 
 
