@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|72.10.164.178|23213|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|19|72.10.164.178|23213|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|18983|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|72.10.164.178|32789|Canada|Montreal|GloboTech Communications|
+|15|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|16|72.10.160.90|22709|Canada|Montreal|GloboTech Communications|
+|17|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
