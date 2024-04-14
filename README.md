@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |2|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|72.10.160.173|22007|Canada|Montreal|GloboTech Communications|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|7|222.120.150.216|80|South Korea|Paju|Korea Telecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.172.70.27|81|Indonesia|Gemolong|AZNET|
-|10|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|103.149.194.11|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|16|67.43.228.253|24397|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|32789|Canada|Montreal|GloboTech Communications|
-|18|38.54.29.161|3128|Greece|Athens|Kaopu Cloud HK Limited|
-|19|107.148.103.219|58394|Japan|Koto-ku|PEG TECH INC|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|13|67.43.228.253|24397|Canada|Montreal|GloboTech Communications|
+|14|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
+|15|38.54.29.161|3128|Greece|Athens|Kaopu Cloud HK Limited|
+|16|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|17|72.10.164.178|9331|Canada|Montreal|GloboTech Communications|
+|18|89.58.48.220|10005|Germany|Nuremberg|netcup GmbH|
+|19|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
