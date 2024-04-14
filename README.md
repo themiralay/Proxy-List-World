@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|182.53.143.200|8180|Thailand|Bangkok|TOT Public Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|1|222.120.150.216|80|South Korea|Paju|Korea Telecom|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|103.178.2.72|8080|Indonesia|Bandung|RSTNET|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|67.43.227.227|9727|Canada|Montreal|GloboTech Communications|
-|12|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|13|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|72.10.164.178|5835|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|3201|Canada|Montreal|GloboTech Communications|
-|17|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|20|67.43.227.227|9727|Canada|Montreal|GloboTech Communications|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|203.210.86.45|8080|Indonesia|Bandung|Infrastruktur STARNET|
+|16|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|17|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|103.172.70.237|8080|Indonesia|Karawang|AZNET|
 
 
 
