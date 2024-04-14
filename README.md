@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|118.99.127.113|8080|Indonesia|Malang|Biznet Metronet|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|202.131.159.222|80|India|Bengaluru|Karuturi Telecom Pvt Ltd|
+|2|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|131.100.48.73|999|Colombia|Neiva|Fibernet TV SAS|
+|9|183.81.156.98|8080|Indonesia|Manggadua Selatan|Internet Service Provider|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|11|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
 |18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|222.120.150.216|80|South Korea|Paju|Korea Telecom|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
 
 
 
