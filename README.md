@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|103.186.90.19|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|10|103.178.194.52|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|11|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
-|12|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|13|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
-|18|128.92.239.190|8080|United States|Long Beach|Spectrum|
-|19|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|20|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
+|8|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
+|9|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
+|10|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
+|11|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
+|12|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
+|13|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
+|17|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|18|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|19|45.122.228.10|8899|Australia|Sydney|NETPTYLTD|
+|20|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
 
 
 
