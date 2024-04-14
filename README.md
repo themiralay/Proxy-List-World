@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|3|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|14|89.58.48.220|10006|Germany|Nuremberg|netcup GmbH|
-|15|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|17|104.234.157.169|21278|India|Jaipur|Ipxo LLC|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|12|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|46.4.23.245|20025|Germany|Falkenstein|Hetzner Online GmbH|
+|16|89.58.48.220|10006|Germany|Nuremberg|netcup GmbH|
+|17|89.58.48.220|10006|Germany|Nuremberg|netcup GmbH|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
