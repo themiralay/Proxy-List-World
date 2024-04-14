@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
-|10|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
-|13|167.172.238.6|10005|United States|Clifton|DigitalOcean, LLC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|67.43.227.226|6035|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|19539|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|103.180.123.143|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|20|124.16.103.0|4780|China|Haidian|CNIC-CAS|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|11|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|17|124.16.103.0|4780|China|Haidian|CNIC-CAS|
+|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|19|67.43.227.226|6035|Canada|Montreal|GloboTech Communications|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
