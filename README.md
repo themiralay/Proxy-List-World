@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|222.120.150.196|80|South Korea|Paju|Korea Telecom|
-|6|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
-|11|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|12|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
-|13|134.35.21.107|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|134.35.21.107|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|11|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|12|103.159.92.34|3125|Indonesia|Depok|PT Chandela Lintas Media|
+|13|45.188.164.3|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|64.225.8.118|10007|United States|Clifton|DigitalOcean, LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|118.172.239.231|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|62.3.30.70|8080|Georgia|Tbilisi|Enbinet Ltd.|
 
 
 
