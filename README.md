@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|36.88.22.211|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|170.245.132.82|9000|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|103.45.247.128|8119|Netherlands|Amsterdam|Kamatera Inc|
+|10|206.42.28.150|8800|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.174.108.42|3128|India|Akbarpur|Entire Cable And Broadband Opc Private Limited|
+|13|178.65.171.6|8080|Russia|Monchegorsk|PJSC "Rostelecom" North-West region|
+|14|5.17.6.83|8080|Russia|St Petersburg|Z-Telecom|
+|15|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|16|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
 
 
 
