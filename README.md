@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|19|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|188.168.24.222|81|Russia|Irkutsk|TTK-Retail|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
 
 
 
