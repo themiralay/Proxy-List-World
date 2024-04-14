@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|183.89.247.182|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|9|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |14|67.43.227.229|25401|Canada|Montreal|GloboTech Communications|
-|15|186.201.63.83|3128|Brazil|São Paulo|Vivo|
-|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|67.43.228.253|3015|Canada|Montreal|GloboTech Communications|
-|18|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
-|19|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|36.74.72.40|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
