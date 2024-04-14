@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.137.85.29|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
-|7|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|8|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
-|12|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|8|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
+|9|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
-|18|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
-|19|170.245.132.82|9000|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|72.10.164.178|13069|Canada|Montreal|GloboTech Communications|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
