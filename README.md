@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.73.28.157|8080|Libya|Tripoli|Rawafed|
-|6|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|9|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|10|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|123.25.15.209|9812|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|64.225.8.118|10005|United States|Clifton|DigitalOcean, LLC|
-|15|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|16|168.227.11.135|9999|Brazil|Itabira|Companhia Itabirana Telecomunicações Ltda|
-|17|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|20|38.183.144.117|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|36.95.84.151|41890|Indonesia|Bambu Apus|PT. Telekomunikasi Indonesia|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|10|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
+|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|103.111.99.253|3125|Indonesia|Pangkalpinang|PT Mitra Lintas Multimedia|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.164.178|24897|Canada|Montreal|GloboTech Communications|
 
 
 
