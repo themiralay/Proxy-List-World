@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|14.178.77.27|45412|Vietnam|Ha Long|VNPT|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|67.43.227.227|13213|Canada|Montreal|GloboTech Communications|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|15|103.244.107.65|8080|Indonesia|Karawang|PT Sahabat Fiber Indonesia|
-|16|107.178.9.186|8080|United States|Weatherford|Nextlink Broadband|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
-|19|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|20|103.28.112.126|8080|Indonesia|Ketanggi|PT Lintas Data Prima|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|14.178.77.27|45412|Vietnam|Ha Long|VNPT|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|175.158.58.140|8081|Indonesia|Jakarta|CBNNAP|
+|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|15|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|16|103.105.125.94|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|121.227.178.108|8089|China|Nanjing|China Telecom|
+|19|36.6.144.150|8089|China|Guangzhou|Chinanet|
+|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 
 
 
