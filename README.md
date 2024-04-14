@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|10|104.234.157.169|21278|India|Jaipur|Ipxo LLC|
-|11|72.10.164.178|23389|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|15|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|16|72.10.164.178|23389|Canada|Montreal|GloboTech Communications|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.236.52.48|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|11|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|72.10.164.178|18297|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|18297|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|18297|Canada|Montreal|GloboTech Communications|
 |18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
