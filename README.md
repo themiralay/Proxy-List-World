@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6190** proxies at the latest update. Usable proxies are below.
+> Scraper found **6161** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|11|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|430|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|399|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|212|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|214|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4577|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|60.174.1.193|8089|China|Guangzhou|Chinanet|
+|7|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|8|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
 |9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|14|67.43.227.227|14325|Canada|Montreal|GloboTech Communications|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|24.172.34.114|49920|United States|West Columbia|Charter Communications Inc|
-|17|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|10|72.10.160.92|17817|Canada|Montreal|GloboTech Communications|
+|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|64.225.8.118|10008|United States|Clifton|DigitalOcean, LLC|
+|14|67.43.236.20|10017|Canada|Montreal|GloboTech Communications|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 |18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.236.20|10017|Canada|Montreal|GloboTech Communications|
+|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
