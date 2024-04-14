@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|51.195.51.101|3129|Germany|Limburg an der Lahn|OVH SAS|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|191.36.212.250|9010|Brazil|Sorocaba|BRC TELECOMUNICACOES EIRELI|
-|5|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|41.254.53.70|1976|Libya|Waddān|LTT Network Backbone and POPs|
-|10|67.43.228.253|11077|Canada|Montreal|GloboTech Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|14|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|51.195.51.101|3129|Germany|Limburg an der Lahn|OVH SAS|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.164.178|10813|Canada|Montreal|GloboTech Communications|
+|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|6|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|10|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|51.195.51.101|3129|Germany|Limburg an der Lahn|OVH SAS|
+|15|72.10.164.178|10813|Canada|Montreal|GloboTech Communications|
+|16|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|17|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
+|18|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
 |19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
