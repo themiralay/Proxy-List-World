@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7063** proxies at the latest update. Usable proxies are below.
+> Scraper found **7041** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|165|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|540|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|518|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|290|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5108|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|1|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|67.43.236.20|12273|Canada|Montreal|GloboTech Communications|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|15|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|18|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|58.20.77.186|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|9|190.211.172.178|999|Chile|Santiago|InterNexa Global Network|
+|10|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|72.10.160.90|10463|Canada|Montreal|GloboTech Communications|
+|17|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
+|18|68.183.48.146|10013|United States|Clifton|DigitalOcean, LLC|
+|19|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|20|200.32.64.126|999|Venezuela|Caracas|Level 3 Venezuela S.A|
 
 
 
