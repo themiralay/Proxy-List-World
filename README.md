@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.172.70.27|81|Indonesia|Gemolong|AZNET|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.94.167.98|8080|Finland|Helsinki|I-servers LTD|
-|4|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|201.54.176.128|8080|Brazil|Icó|Lucas De Souza Silva|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|10|201.54.176.128|8080|Brazil|Icó|Lucas De Souza Silva|
+|11|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|103.186.90.41|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |15|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|19|89.58.48.220|10010|Germany|Nuremberg|netcup GmbH|
+|20|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
 
 
 
