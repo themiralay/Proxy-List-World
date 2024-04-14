@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|5|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|11|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|12|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|13|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|8|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|20|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
 
 
 
