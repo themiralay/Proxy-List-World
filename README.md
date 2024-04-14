@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|146.190.35.152|8000|United States|Santa Clara|DigitalOcean, LLC|
 |13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
-|17|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|14|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|15|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|67.79.51.210|16099|United States|Beaumont|Spectrum|
 |18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|64.225.8.118|10005|United States|Clifton|DigitalOcean, LLC|
 
 
 
