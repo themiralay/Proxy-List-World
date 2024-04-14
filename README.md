@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|181.48.107.26|999|Colombia|Barranquilla|Telmex Colombia S.A.|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|181.48.107.26|999|Colombia|Barranquilla|Telmex Colombia S.A.|
 |5|77.41.146.59|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|6|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|118.179.121.114|5020|Bangladesh|Khanbaniara|Dhakacom Limited|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|16|67.43.228.253|30865|Canada|Montreal|GloboTech Communications|
-|17|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|18|72.10.160.93|3445|Canada|Montreal|GloboTech Communications|
-|19|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
+|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|16|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|17|72.10.160.90|8689|Canada|Montreal|GloboTech Communications|
+|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
 
 
 
