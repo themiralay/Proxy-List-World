@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|4|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|94.75.76.3|8080|Poland|Warsaw|ASTER Sp. z o.o|
+|11|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 |12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|14|223.247.47.45|8089|China|Rongcheng|Chinanet|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|179.1.68.197|999|Colombia|Saravena|InterNexa Global Network|
-|19|45.174.79.8|999|Mexico|Ciudad Delicias|Raul Duarte Urita|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|17|45.11.95.165|5018|Russia|Moscow|Delta Ltd|
+|18|115.132.165.97|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|19|103.152.232.61|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
