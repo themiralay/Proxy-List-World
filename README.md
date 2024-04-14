@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|170.245.132.129|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|8|103.165.155.238|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|159.65.176.77|10016|United States|Clifton|DigitalOcean, LLC|
-|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|10|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
+|14|205.196.184.69|50704|United States|Houston|Phonoscope|
 |15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|200.111.249.195|999|Chile|Santiago|Entel Chile S.A.|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
+|16|93.125.3.22|8080|Belarus|Minsk|TELECOMAT|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|20|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
 
 
 
