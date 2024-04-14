@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|5|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|12|72.10.164.178|16855|Canada|Montreal|GloboTech Communications|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|103.69.151.189|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|14|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
