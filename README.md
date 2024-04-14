@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|14.243.165.138|4001|Vietnam|Da Nang|VNPT|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |10|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
 |11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
-|14|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|14|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|64.225.8.118|10010|United States|Clifton|DigitalOcean, LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
 
 
 
