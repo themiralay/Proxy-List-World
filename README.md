@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|181.232.190.251|999|Dominican Republic|Santo Domingo Este|Jarm Telecomunicaciones SRL|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|12|45.5.2.246|8084|Argentina|Bariloche|Altec S.e. Alta Tecnologia Sociedad Del Estado|
-|13|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|17|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|18|67.43.227.227|8669|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|180.191.59.254|8081|Philippines|Cabanatuan City|Globe Telecom|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|13|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|14|170.245.132.129|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|15|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|16|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|138.197.92.54|10013|United States|Clifton|DigitalOcean, LLC|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
