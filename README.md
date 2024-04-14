@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|181.48.107.26|999|Colombia|Barranquilla|Telmex Colombia S.A.|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
 |5|77.41.146.59|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|13|103.247.21.225|2024|Indonesia|Bekasi|PT wifian Solution|
-|14|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|15|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|190.247.114.38|3128|Argentina|Saenz Pena|Telecom Argentina S.A|
-|18|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|19|118.117.189.200|8089|China|Muping|Chinanet|
-|20|103.196.28.6|8080|India|Coimbatore|WLSNET|
+|6|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|101.128.107.36|1111|Indonesia|Jakarta|CBN|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
+|15|181.48.107.26|999|Colombia|Barranquilla|Telmex Colombia S.A.|
+|16|180.178.98.91|2526|Indonesia|Pisangan|PT Hipernet Indodata|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|72.10.164.178|14713|Canada|Montreal|GloboTech Communications|
+|19|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 
 
 
