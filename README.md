@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|4|46.243.171.6|443|Russia|Podolsk|"IT Osoba" LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|3|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.160.171|2113|Canada|Montreal|GloboTech Communications|
-|14|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|124.16.103.0|4780|China|Haidian|CNIC-CAS|
-|18|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|19|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|72.10.164.178|25799|Canada|Montreal|GloboTech Communications|
+|8|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|124.16.103.0|4780|China|Haidian|CNIC-CAS|
+|16|67.43.228.253|24107|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|19837|Canada|Montreal|GloboTech Communications|
+|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|19|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|20|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
