@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.236.52.48|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|7|124.83.74.218|8082|Philippines|Manaoag|Philippine Long Distance Telephone Co.|
+|8|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |12|47.236.52.48|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|72.10.164.178|8223|Canada|Montreal|GloboTech Communications|
-|18|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|19|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
-|20|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|13|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|19|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
