@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|103.41.88.33|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.169.255.135|8080|Indonesia|Banyuwangi|PT Master Star Network|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|67.43.227.227|10283|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|22731|Canada|Montreal|GloboTech Communications|
-|17|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|18|200.32.64.126|999|Venezuela|Caracas|Level 3 Venezuela S.A|
-|19|67.43.236.20|1695|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|2059|Canada|Montreal|GloboTech Communications|
+|6|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|54.94.144.106|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|9|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|10|103.169.255.135|8080|Indonesia|Banyuwangi|PT Master Star Network|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
