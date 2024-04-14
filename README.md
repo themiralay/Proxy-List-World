@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|181.48.107.26|999|Colombia|Barranquilla|Telmex Colombia S.A.|
-|5|77.41.146.59|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|103.139.188.41|7077|Indonesia|Blitar|Pemerintah Kabupaten Blitar|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|77.41.146.59|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|12|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
-|15|72.10.164.178|27541|Canada|Montreal|GloboTech Communications|
-|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|72.10.164.178|27541|Canada|Montreal|GloboTech Communications|
-|19|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|16|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
+|17|72.10.164.178|14713|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|192.99.169.19|8452|Canada|Beauharnois|OVH SAS|
 
 
 
