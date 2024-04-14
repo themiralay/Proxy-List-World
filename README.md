@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|223.205.75.241|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
+|1|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.108.88.41|8080|Bangladesh|Nārāyanganj|BKB Network|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|11|72.10.164.178|18039|Canada|Montreal|GloboTech Communications|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|187.73.225.96|777|Brazil|Serra|Intervip Networks Ltda.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|14|223.205.75.241|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
+|15|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|72.10.164.178|18039|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
