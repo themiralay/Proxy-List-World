@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|116.68.170.115|8019|Indonesia|Jakarta||
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|7|114.5.199.222|80|Indonesia|Padang|PT. INDOSAT Tbk|
-|8|103.131.18.183|8080|Indonesia|Semarang|PT Global Media Data Prima|
-|9|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|10|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
-|11|113.160.241.196|19132|Vietnam|Ninh Binh|VietNam Post and Telecom Corporation|
-|12|190.216.234.186|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|13|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|45.11.95.165|5033|Russia|Moscow|Delta Ltd|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|9|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|10|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|223.247.46.239|8089|China|Rongcheng|Chinanet|
+|17|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
+|18|67.43.236.18|6471|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.164.178|19597|Canada|Montreal|GloboTech Communications|
 
 
 
