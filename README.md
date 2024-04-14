@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|103.156.75.40|8080|Indonesia|Singaraja|PT Trika Global Media|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
 |7|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
 |8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|18|72.10.164.178|1317|Canada|Montreal|GloboTech Communications|
-|19|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|20|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|9|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|10|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
+|14|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|15|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|16|91.214.31.234|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|17|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
+|18|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|103.217.224.69|8989|Indonesia|Semarang|PT Nesta Indo Media|
 
 
 
