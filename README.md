@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|5|47.236.52.48|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.236.52.48|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|109.200.181.42|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|156.255.1.175|8080|The Netherlands|Amsterdam|BitCommand LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|103.177.9.49|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|11|198.244.149.182|37615|United Kingdom|London|OVH SAS|
+|12|109.200.181.42|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.242.104.101|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|15|47.236.52.48|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|17|14.243.165.138|4001|Vietnam|Da Nang|VNPT|
-|18|124.16.103.0|4780|China|Haidian|CNIC-CAS|
-|19|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|103.191.196.108|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|17|101.255.116.125|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|14.243.165.138|4001|Vietnam|Da Nang|VNPT|
+|20|124.16.103.0|4780|China|Haidian|CNIC-CAS|
 
 
 
