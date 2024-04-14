@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|6|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.111.207.138|80|Indonesia|South Tangerang|PT Cyberindo Aditama|
-|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|77.41.146.59|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
-|15|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|19|14.162.146.186|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|20|114.5.199.222|80|Indonesia|Padang|PT. INDOSAT Tbk|
+|8|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|9|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|15|109.70.189.30|38880|Russia|Novyy Khushet|JSC Elektrosvyaz|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|194.124.37.13|8080|Türkiye|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
