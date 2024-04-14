@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|112.198.129.34|8082|Philippines|Nasugbu|Globe Telecom|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|222.129.143.176|9000|China|Beijing|China Unicom Beijing Province Network|
-|6|103.159.47.34|83|India|Ahmedabad|King Netsol Private Limited|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|78.158.171.27|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|8|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
 |9|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|10|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|11|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.153.246.210|8080|Indonesia|Depok|PRIMAHOME|
-|13|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|14|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|94.154.152.9|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|15|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
 |16|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|18|67.43.227.227|3201|Canada|Montreal|GloboTech Communications|
-|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|17|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|67.43.227.227|22893|Canada|Montreal|GloboTech Communications|
 |20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 
 
