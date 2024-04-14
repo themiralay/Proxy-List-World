@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.121.204.9|9797|Indonesia|Purwokerto|PT Sekawan Global Komunika|
+|3|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|9|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|72.10.164.178|4019|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|60.174.1.193|8089|China|Guangzhou|Chinanet|
-|17|103.133.25.185|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|58.20.77.186|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|117.121.204.9|9797|Indonesia|Purwokerto|PT Sekawan Global Komunika|
+|12|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
