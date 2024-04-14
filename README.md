@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|203.150.128.226|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
-|16|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
-|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
+|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
