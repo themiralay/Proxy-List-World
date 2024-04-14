@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|6|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|8.211.196.230|80|United Kingdom|London|Alibaba (US) Technology Co., Ltd.|
+|11|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|41.57.21.119|6060|South Africa|Vanderbijlpark|Open SCR|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|58.136.236.90|8080|Thailand|Bangkok|AIS-Fibre|
+|18|185.94.167.98|8080|Finland|Helsinki|I-servers LTD|
+|19|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|20|124.83.35.42|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 
 
 
