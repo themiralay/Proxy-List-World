@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|5|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|65.1.244.232|1080|India|Mumbai|Amazon.com|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|13|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|14|67.43.227.228|21167|Canada|Montreal|GloboTech Communications|
-|15|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|19|129.222.176.138|999|Peru|Lima|SpaceX Starlink|
-|20|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|17|114.106.134.43|8089|China|Guangzhou|Chinanet|
+|18|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|19|107.148.103.211|58394|Japan|Koto-ku|PEG TECH INC|
+|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 
 
 
