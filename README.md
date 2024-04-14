@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|3|190.94.212.247|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|8|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|61.129.2.212|8080|China|Beijing|CHINANET|
-|14|67.43.236.20|15083|Canada|Montreal|GloboTech Communications|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|13|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|89.58.48.220|10006|Germany|Nuremberg|netcup GmbH|
-|18|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|19|178.94.231.93|3128|Ukraine|Odesa|UKRTELECOM|
-|20|202.74.244.139|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|67.43.236.20|5135|Canada|Montreal|GloboTech Communications|
+|20|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
 
 
 
