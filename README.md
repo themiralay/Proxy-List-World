@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|124.16.103.0|4780|China|Haidian|CNIC-CAS|
-|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|17|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|7|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|124.16.103.0|4780|China|Haidian|CNIC-CAS|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
