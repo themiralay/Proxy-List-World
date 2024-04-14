@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|4|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|118.99.127.113|8080|Indonesia|Malang|Biznet Metronet|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|118.99.127.113|8080|Indonesia|Malang|Biznet Metronet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|16|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
+|12|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|13|89.58.48.220|10005|Germany|Nuremberg|netcup GmbH|
+|14|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
