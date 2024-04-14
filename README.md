@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|114.103.80.72|8089|China|Shenzhen|Chinanet|
-|6|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|103.162.154.3|8888|Australia|Nikenbah|Serenitas Communities Holdings Pty Ltd|
-|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|10|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|14|102.16.24.30|8080|Madagascar|Antananarivo|Telecom Malagasy|
-|15|182.160.100.156|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|17|67.43.227.227|6003|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|7129|Canada|Montreal|GloboTech Communications|
-|19|103.51.206.82|8080|Indonesia|Arjawinangun|PT Milenial Inti Telekomunikasi|
-|20|104.234.157.169|21278|India|Jaipur|Ipxo LLC|
+|3|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.236.52.48|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|103.59.44.75|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|14|72.10.164.178|7129|Canada|Montreal|GloboTech Communications|
+|15|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|103.1.51.23|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|17|185.128.240.77|8080|Romania|Cerneți|Data ZYX SRL|
+|18|205.164.84.250|8591|Brazil|Buritis|AGIS|
+|19|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|20|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
 
 
 
