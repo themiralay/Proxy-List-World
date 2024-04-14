@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|72.10.164.178|2003|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|30181|Canada|Montreal|GloboTech Communications|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|61.129.2.212|8080|China|Beijing|CHINANET|
+|10|72.10.164.178|31267|Canada|Montreal|GloboTech Communications|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|114.231.8.13|8089|China|Nanjing|Chinanet|
+|20|113.64.23.221|32650|China|Puning|Chinanet|
 
 
 
