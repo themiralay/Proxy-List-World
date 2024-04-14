@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|67.43.236.20|7877|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|5113|Canada|Montreal|GloboTech Communications|
-|9|64.225.4.81|10014|United States|Clifton|DigitalOcean, LLC|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|67.43.236.20|7877|Canada|Montreal|GloboTech Communications|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|194.67.204.100|3128|Russia|Moscow|I-servers LTD|
+|8|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|9|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|10|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|11|58.20.77.186|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|189.232.88.177|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|17|47.236.52.48|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|19|44.225.65.25|80|United States|Portland|Amazon.com, Inc.|
+|20|114.132.202.246|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 
 
 
