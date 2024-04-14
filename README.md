@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|14.178.77.27|45412|Vietnam|Ha Long|VNPT|
+|3|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|181.119.67.130|999|Colombia|Florida|IFX Networks Argentina S.R.L|
-|12|72.10.164.178|1943|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|1943|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|21205|Canada|Montreal|GloboTech Communications|
-|15|204.199.81.46|999|Colombia|Santiago de Cali|CTL Colombia|
-|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|17|38.10.180.18|999|Colombia|Huila Department|INTEGRADOS S&S.NET SAS|
-|18|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|19|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
-|20|80.66.112.2|31280|Spain|La Zenia|Servicios Digitales Codinet S.L.|
+|6|14.178.77.27|45412|Vietnam|Ha Long|VNPT|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|61.129.2.212|8080|China|Beijing|CHINANET|
+|12|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
+|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|202.154.19.218|8081|Indonesia|Jombang|DIGITNET|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|14.178.77.27|45412|Vietnam|Ha Long|VNPT|
+|19|189.232.88.177|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
