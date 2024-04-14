@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|72.10.164.178|26059|Canada|Montreal|GloboTech Communications|
-|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|10|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
-|11|72.10.164.178|26059|Canada|Montreal|GloboTech Communications|
-|12|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|72.10.164.178|26059|Canada|Montreal|GloboTech Communications|
-|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|67.43.227.227|18725|Canada|Montreal|GloboTech Communications|
-|19|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|20|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|11|72.10.164.178|25463|Canada|Montreal|GloboTech Communications|
+|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|13|67.43.227.227|30387|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|72.10.164.178|25463|Canada|Montreal|GloboTech Communications|
+|16|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|17|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|18|179.42.72.186|85|Brazil|São Paulo|Giga Sul Telecom|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
