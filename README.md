@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|7|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|72.10.164.178|1383|Canada|Montreal|GloboTech Communications|
+|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|67.43.228.254|27835|Canada|Montreal|GloboTech Communications|
+|7|216.39.249.210|3128|United States|New York|GTHost|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |10|72.10.160.90|3163|Canada|Montreal|GloboTech Communications|
-|11|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
-|12|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|45.11.95.166|6009|Russia|Moscow|Delta Ltd|
-|15|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|18|67.43.228.253|25663|Canada|Montreal|GloboTech Communications|
-|19|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
-|20|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|11|45.11.95.165|5047|Russia|Moscow|Delta Ltd|
+|12|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|15|67.43.228.253|25663|Canada|Montreal|GloboTech Communications|
+|16|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|18|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
+|19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|20|152.54.5.26|8080|United States|Chapel Hill|MCNC|
 
 
 
