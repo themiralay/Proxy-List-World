@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|68.183.48.146|10012|United States|Clifton|DigitalOcean, LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
-|15|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
-|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|19|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|68.183.48.146|10012|United States|Clifton|DigitalOcean, LLC|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|41.254.53.70|1976|Libya|Waddān|LTT Network Backbone and POPs|
+|15|103.150.69.8|8080|Bangladesh|Rangamati|Md Johirul Islam|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
