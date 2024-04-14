@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|72.10.164.178|12659|Canada|Montreal|GloboTech Communications|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.10.164.178|12659|Canada|Montreal|GloboTech Communications|
-|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|110.34.13.4|8080|Nepal|Kathmandu|Subisu Cablenet|
-|18|103.189.116.107|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|19|61.129.2.212|8080|China|Beijing|CHINANET|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|72.10.164.178|12659|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|9|72.10.164.178|12659|Canada|Montreal|GloboTech Communications|
+|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|11|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|138.197.16.249|10013|United States|Clifton|DigitalOcean, LLC|
+|17|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|47.90.82.199|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
