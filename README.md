@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|8|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|72.10.160.92|17817|Canada|Montreal|GloboTech Communications|
-|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|64.225.8.118|10008|United States|Clifton|DigitalOcean, LLC|
-|14|67.43.236.20|10017|Canada|Montreal|GloboTech Communications|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|67.43.236.20|10017|Canada|Montreal|GloboTech Communications|
-|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|10|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.181.25.158|8080|Bangladesh|Chittagong|Right Net|
+|13|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|113.64.23.221|32650|China|Puning|Chinanet|
+|15|14.143.130.210|1111|India|Mumbai|Tata Communications Limited|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|189.232.88.177|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|18|138.43.98.203|82|United States|Allen|iboss, inc|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|172.174.143.211|3128|United States|Boydton|Microsoft|
 
 
 
