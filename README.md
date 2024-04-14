@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|65.1.244.232|1080|India|Mumbai|Amazon.com|
+|9|65.1.244.232|1080|India|Mumbai|Amazon.com|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|181.209.111.82|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
-|18|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|19|67.43.228.253|3081|Canada|Montreal|GloboTech Communications|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|14.103.26.198|8000|China|Beijing|BITNET|
+|16|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|222.120.150.216|80|South Korea|Paju|Korea Telecom|
 
 
 
