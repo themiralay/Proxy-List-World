@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
-|7|54.94.144.106|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|8|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
+|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|8|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|9|185.67.95.91|8080|Russia|St Petersburg|ru.elitel|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|67.43.228.253|8499|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|16575|Canada|Montreal|GloboTech Communications|
-|17|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|19|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|203.150.128.190|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|13|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|14|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|15|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|20|58.20.77.186|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
