@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6470** proxies at the latest update. Usable proxies are below.
+> Scraper found **6491** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|38|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|505|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|526|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|283|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4683|✅|
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|203.150.128.244|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|103.68.214.90|1234|Indonesia|Tangerang|PT Media Grasi Internet|
-|19|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|177.136.86.5|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|12|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|13|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|14|72.10.164.178|14325|Canada|Montreal|GloboTech Communications|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
+|19|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|20|72.10.164.178|14325|Canada|Montreal|GloboTech Communications|
 
 
 
