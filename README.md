@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
+|7|137.184.200.42|8000|United States|North Bergen|DigitalOcean, LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|186.215.68.51|3127|Brazil|Brasília|Vivo|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
+|10|186.215.68.51|3127|Brazil|Brasília|Vivo|
 |11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|14|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|13|103.131.232.126|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|16|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
 |17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
-|20|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
