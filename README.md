@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|6|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|10|72.10.164.178|32431|Canada|Montreal|GloboTech Communications|
-|11|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|12|67.43.236.20|2505|Canada|Montreal|GloboTech Communications|
-|13|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|14|67.43.236.19|3871|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.164.178|32431|Canada|Montreal|GloboTech Communications|
-|18|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|19|64.225.4.81|10016|United States|Clifton|DigitalOcean, LLC|
-|20|64.225.8.118|10014|United States|Clifton|DigitalOcean, LLC|
+|4|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|72.10.164.178|24035|Canada|Montreal|GloboTech Communications|
+|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|170.245.132.82|9000|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|12|67.43.236.20|2109|Canada|Montreal|GloboTech Communications|
+|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|72.10.164.178|24035|Canada|Montreal|GloboTech Communications|
+|15|64.225.4.81|10016|United States|Clifton|DigitalOcean, LLC|
+|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
 
 
 
