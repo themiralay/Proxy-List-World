@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|202.131.159.222|80|India|Bengaluru|Karuturi Telecom Pvt Ltd|
+|3|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|8|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|11|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
-|12|72.10.160.93|23357|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.22|15991|Canada|Montreal|GloboTech Communications|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.164.178|12793|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|67.43.228.253|26607|Canada|Montreal|GloboTech Communications|
+|6|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|202.131.159.222|80|India|Bengaluru|Karuturi Telecom Pvt Ltd|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.186.90.41|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|14|67.43.236.22|15991|Canada|Montreal|GloboTech Communications|
+|15|103.176.116.171|32650|India|Murshidābād|Gbpl Global Broadband Private Limited|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
+|18|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|72.10.164.178|24007|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|24007|Canada|Montreal|GloboTech Communications|
 
 
 
