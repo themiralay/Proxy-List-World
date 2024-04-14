@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|5|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|34.154.161.152|80|Italy|Milan|Google LLC|
+|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.53.78.26|8080|Indonesia|Surabaya|INTI|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.178.194.52|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|156.255.1.175|8080|The Netherlands|Amsterdam|BitCommand LLC|
-|15|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|94.206.19.246|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|72.10.164.178|12847|Canada|Montreal|GloboTech Communications|
+|15|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
