@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|222.120.150.216|80|South Korea|Paju|Korea Telecom|
+|2|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|72.10.164.178|31215|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|5671|Canada|Montreal|GloboTech Communications|
-|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|18|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|72.10.160.93|18501|Canada|Montreal|GloboTech Communications|
-|20|66.54.106.56|8080|United States|Itta Bena|Mobile Communications, LLC|
+|8|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|45.58.52.5|80|United States|Dallas|HostUS|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|117.102.76.254|8080|Indonesia|Jakarta|Biznet Networks|
+|19|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|20|103.179.139.81|1111|Indonesia|Bekasi|PT. Fiber Networks Indonesia|
 
 
 
