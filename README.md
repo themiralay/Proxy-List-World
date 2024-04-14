@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|5|222.124.202.144|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
 |7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|10|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
-|11|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|12|38.158.81.226|999|Dominican Republic|Nacional|Visnetwork SRL|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|15|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|20|64.225.4.81|10002|United States|Clifton|DigitalOcean, LLC|
+|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|9|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|58.20.77.186|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|15|103.108.89.164|8082|Bangladesh|Nārāyanganj|BKB Network|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
