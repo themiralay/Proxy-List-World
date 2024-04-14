@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|123.200.18.155|80|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|103.126.238.97|7777|Indonesia|Kuala Tungkal|PT Indo Tungkal Net|
-|7|103.99.22.27|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
-|8|123.25.15.209|9812|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|138.197.92.54|10013|United States|Clifton|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.165.253.137|7777|Indonesia|Kabupaten Subang|PT Pelangi Communication Network|
-|14|170.245.132.82|9000|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|15|67.43.228.250|23677|Canada|Montreal|GloboTech Communications|
-|16|186.201.63.83|3128|Brazil|São Paulo|Vivo|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|122.154.118.66|8083|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|131.100.48.233|999|Colombia|Neiva|Fibernet TV SAS|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|1|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|2|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|3|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|4|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|77.119.250.129|8080|Austria|Vienna|Network of Hutchison Drei Austria GmbH|
+|7|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|67.43.228.250|23677|Canada|Montreal|GloboTech Communications|
+|10|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|121.195.170.225|1024|China|Haidian|CERNET|
+|15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|18|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
