@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|45.58.52.5|80|United States|Dallas|HostUS|
-|9|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|13|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|11|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|12|200.7.8.110|8080|Brazil|Itumbiara|Conexao Telematica XcelLink|
+|13|45.58.52.5|80|United States|Dallas|HostUS|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|46.175.1.65|8080|Slovakia|Michalovce|Andrex s.r.o.|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|45.58.52.5|80|United States|Dallas|HostUS|
 
 
 
