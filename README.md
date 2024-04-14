@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|167.250.222.233|999|Mexico|Tapachula|Ufinet Panama S.A.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|181.78.8.215|999|Colombia|Fonseca|IFX Networks Argentina S.R.L|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.148.25.247|8080|Indonesia|Trenggalek|Menaksopal Link Nusantara|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|103.1.51.23|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
 |8|223.205.75.241|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
-|9|204.157.247.146|999|Dominican Republic|Guerra|AGIS|
-|10|103.1.51.23|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 |14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
+|15|67.43.236.20|4883|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|184.185.105.105|4481|United States|East Providence|Cox Communications Inc.|
 
 
 
