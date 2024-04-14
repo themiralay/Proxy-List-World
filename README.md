@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|152.54.5.26|8080|United States|Chapel Hill|MCNC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|134.35.21.107|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|7|103.177.9.49|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|6|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|222.120.150.196|80|South Korea|Paju|Korea Telecom|
+|9|152.54.5.26|8080|United States|Chapel Hill|MCNC|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|12|103.159.92.34|3125|Indonesia|Depok|PT Chandela Lintas Media|
+|11|134.35.21.107|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|12|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|47.236.52.48|443|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|18|67.43.236.19|21123|Canada|Montreal|GloboTech Communications|
-|19|45.188.164.3|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|20|14.103.26.198|8000|China|Beijing|BITNET|
+|14|67.43.236.19|21123|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.92|27727|Canada|Montreal|GloboTech Communications|
+|16|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|20|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 
 
 
