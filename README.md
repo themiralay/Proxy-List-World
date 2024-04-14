@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|16|200.174.198.95|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|19|72.10.164.178|28129|Canada|Montreal|GloboTech Communications|
-|20|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|103.167.171.43|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|17|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
