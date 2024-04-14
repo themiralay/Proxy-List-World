@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -48,17 +48,17 @@ Click the file format that you want and copy the URL.
 |7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |11|72.10.164.178|28807|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|13|67.43.227.228|25367|Canada|Montreal|GloboTech Communications|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.159.195.233|9091|Indonesia|Demak|PT Giga Digital Nusantara|
-|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|19|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
 
 
 
