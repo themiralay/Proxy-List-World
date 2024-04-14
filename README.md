@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|154.19.185.2|8090|United States|Los Angeles|SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED|
-|11|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
-|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|13|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|114.232.109.131|8089|China|Nanjing|Chinanet|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.228.251|31547|Canada|Montreal|GloboTech Communications|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|103.6.223.2|3128|China|Baoshan|China Unicom|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|181.48.107.26|999|Colombia|Barranquilla|Telmex Colombia S.A.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|13|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|15|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|17|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
