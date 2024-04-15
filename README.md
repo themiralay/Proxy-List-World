@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|119.92.75.48|8181|Philippines|Tacloban City|Philippine Long Distance Telephone Co.|
-|11|72.10.164.178|26459|Canada|Montreal|GloboTech Communications|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|72.10.164.178|26459|Canada|Montreal|GloboTech Communications|
-|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|15|180.123.111.202|8089|China|Xuzhou|Chinanet|
-|16|72.10.160.90|27797|Canada|Montreal|GloboTech Communications|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|72.10.164.178|26459|Canada|Montreal|GloboTech Communications|
-|19|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|129.154.217.183|8080|South Korea|Seoul|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|10|121.195.170.225|1024|China|Haidian|CERNET|
+|11|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|12|72.10.164.178|10675|Canada|Montreal|GloboTech Communications|
+|13|129.154.217.183|8080|South Korea|Seoul|Oracle Corporation|
+|14|72.10.160.90|27797|Canada|Montreal|GloboTech Communications|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
+|18|67.43.236.20|23085|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
