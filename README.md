@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|8|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|111.225.152.103|8089|China|Zhoutou|China Telecom|
+|3|157.20.218.31|8080|Indonesia|Wonosobo|SINSUNETWORK|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|6|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|7|159.65.186.46|10007|United States|Clifton|DigitalOcean, LLC|
+|8|38.54.29.161|3128|Greece|Athens|Kaopu Cloud HK Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
 |11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|111.225.152.78|8089|China|Zhoutou|China Telecom|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|114.67.96.47|45212|China|Chaowai|China Unicom|
-|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|165.16.30.225|1981|Libya|Umm Sā'ad|Aljeel Aljadeed For Technology|
+|12|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|13|111.225.152.78|8089|China|Zhoutou|China Telecom|
+|14|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|18|190.80.188.91|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
 
 
 
