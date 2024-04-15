@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |6|190.43.92.100|999|Peru|Tacna|Telefonica Del Peru|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|213.244.91.179|8080|Palestinian Territory|Gaza|PALTEL (Palestine Telecommunications Co.)|
 |11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|113.160.235.248|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|16|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|159.65.186.46|10013|United States|Clifton|DigitalOcean, LLC|
-|19|45.238.58.1|999|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
+|15|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|18|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|222.109.151.80|1080|South Korea|Seoul|Korea Telecom|
 
 
 
