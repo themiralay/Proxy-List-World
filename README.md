@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|2|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|5|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|201.184.176.106|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|13|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|14|71.14.23.121|8080|United States|Birmingham|Spectrum|
-|15|177.222.25.9|8080|Brazil|Duque de Caxias|Wireless Comm Services LTDA|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|67.43.228.253|17361|Canada|Montreal|GloboTech Communications|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|190.94.212.240|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|17|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
