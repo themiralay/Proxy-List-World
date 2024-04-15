@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6754** proxies at the latest update. Usable proxies are below.
+> Scraper found **6774** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|65|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|627|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|644|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|341|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|344|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4760|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
-|10|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|103.113.79.123|80|Indonesia|Guntur|Indonesia Network Information Center|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|64.225.4.81|10002|United States|Clifton|DigitalOcean, LLC|
-|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|1|110.78.186.18|8080|Thailand|Rayong|CAT-BB|
+|2|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|179.1.192.26|999|Colombia|Tello|InterNexa Global Network|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|20.244.106.115|3128|India|Pune|Microsoft Corporation|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.236.20|29783|Canada|Montreal|GloboTech Communications|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|138.197.92.54|10002|United States|Clifton|DigitalOcean, LLC|
 
 
 
