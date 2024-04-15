@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.35.22.37|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|10|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|11|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|130.162.243.68|3128|Germany|Frankfurt am Main|Oracle Corporation|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|67.43.236.20|2443|Canada|Montreal|GloboTech Communications|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|159.65.186.46|10015|United States|Clifton|DigitalOcean, LLC|
-|16|67.43.227.228|15451|Canada|Montreal|GloboTech Communications|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|103.8.68.46|3128|China|Shiyan|China Telecom|
-|19|72.10.164.178|28929|Canada|Montreal|GloboTech Communications|
-|20|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|13|159.65.186.46|10015|United States|Clifton|DigitalOcean, LLC|
+|14|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|15|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|67.43.227.228|15451|Canada|Montreal|GloboTech Communications|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
