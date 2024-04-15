@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|2|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|6|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|152.32.67.243|10101|Philippines|Marikina City|Converge ICT Solution Inc|
-|10|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
-|11|72.10.164.178|10813|Canada|Montreal|GloboTech Communications|
-|12|202.6.234.52|51234|Indonesia|Surabaya|PADINET - Padi Internet|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
-|16|103.169.187.29|8081|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|17|103.154.113.90|8080|Indonesia|Jakarta|MORATELINDONAP|
-|18|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|19|207.138.39.145|999|United States|Santa Barbara|Galanet Solution C.A.|
-|20|203.215.166.122|3128|Pakistan|Islamabad|Pakistan Software Export Board|
+|1|109.108.107.122|8080|Czechia|Lanškroun|OMEGA tech s.r.o|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|7|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|72.10.164.178|19523|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|19523|Canada|Montreal|GloboTech Communications|
+|13|165.16.31.18|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|14|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|15|67.43.228.250|26909|Canada|Montreal|GloboTech Communications|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.99.27.3|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
+|19|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
