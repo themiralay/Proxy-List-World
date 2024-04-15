@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|129.154.217.183|8080|South Korea|Seoul|Oracle Corporation|
+|2|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|129.154.217.183|8080|South Korea|Seoul|Oracle Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|72.10.164.178|5891|Canada|Montreal|GloboTech Communications|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|111.225.152.72|8089|China|Zhoutou|China Telecom|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|7|186.250.29.225|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|72.10.164.178|5891|Canada|Montreal|GloboTech Communications|
+|12|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|67.43.228.253|10145|Canada|Montreal|GloboTech Communications|
+|17|111.225.152.72|8089|China|Zhoutou|China Telecom|
+|18|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 |20|72.10.164.178|5891|Canada|Montreal|GloboTech Communications|
 
 
