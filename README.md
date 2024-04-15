@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|103.84.177.26|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|8|103.180.122.201|1080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
-|9|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|15|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|186.148.47.252|999|Chile|Rancagua|CTC Transmisiones Regionales S.A.|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|9|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|11|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|14|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
