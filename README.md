@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|72.10.164.178|31097|Canada|Montreal|GloboTech Communications|
-|13|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|14|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
-|15|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|67.43.227.227|32689|Canada|Montreal|GloboTech Communications|
-|18|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|6|103.137.160.186|8090|Bangladesh|Noākhāli|Top Network|
+|7|46.253.143.144|3128|Russia|Moscow|ZTV CORP LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|72.10.164.178|30721|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|32689|Canada|Montreal|GloboTech Communications|
 
 
 
