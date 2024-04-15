@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|129.154.217.183|8080|South Korea|Seoul|Oracle Corporation|
-|5|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|6|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|129.154.217.183|8080|South Korea|Seoul|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|78.158.171.38|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|7|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|8|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|190.14.225.15|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.164.178|15841|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|24881|Canada|Montreal|GloboTech Communications|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|72.10.160.174|2121|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|15841|Canada|Montreal|GloboTech Communications|
-|20|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.164.178|23567|Canada|Montreal|GloboTech Communications|
+|20|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
 
 
 
