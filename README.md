@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|6|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|7|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|12|62.176.12.111|8080|Russia|Serpukhov|Rial Com JSC|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|18|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
-|19|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|67.43.227.227|8171|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|18|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|19|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
