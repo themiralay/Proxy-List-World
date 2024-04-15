@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|72.10.160.93|29855|Canada|Montreal|GloboTech Communications|
+|1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|2|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
 |14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
+|16|222.70.81.82|9000|China|Shanghai|China Telecom (Group)|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
