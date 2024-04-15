@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|9|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|223.215.176.19|8089|China|Rongcheng|Chinanet|
-|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|19|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
-|20|67.43.227.228|28807|Canada|Montreal|GloboTech Communications|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|67.43.227.227|7433|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|223.215.176.19|8089|China|Rongcheng|Chinanet|
+|16|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|20|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
 
 
 
