@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|5|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|12|103.246.247.146|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
-|15|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|134.35.204.142|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|17|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |18|67.43.227.227|32751|Canada|Montreal|GloboTech Communications|
-|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|20|72.10.160.92|13073|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.93|25225|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|32751|Canada|Montreal|GloboTech Communications|
 
 
 
