@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.113.138|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|124.6.155.170|3130|Philippines|Taguig|Globe Telecom|
+|8|222.120.150.196|80|South Korea|Paju|Korea Telecom|
+|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|10|203.150.113.138|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|11|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|20|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|103.8.68.46|3128|China|Shiyan|China Telecom|
+|16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|18|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
