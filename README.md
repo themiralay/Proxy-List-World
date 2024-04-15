@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|134.35.8.241|8080|Yemen|Aden|Public Telecommunication Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|8|134.35.8.241|8080|Yemen|Aden|Public Telecommunication Corporation|
-|9|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|10|72.10.160.91|13403|Canada|Montreal|GloboTech Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|18|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|19|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|20|45.11.95.166|6015|Russia|Moscow|Delta Ltd|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|38.7.109.253|8080|Mexico|Tuxtla Gutiérrez|Grupo Convergente Arzola|
+|9|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|15|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|201.71.3.59|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|20|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
 
 
 
