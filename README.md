@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|5|89.58.48.220|10009|Germany|Nuremberg|netcup GmbH|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|111.225.152.159|8089|China|Zhoutou|China Telecom|
-|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|19|103.105.126.18|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
-|20|72.10.160.90|15221|Canada|Montreal|GloboTech Communications|
+|12|47.51.51.190|8080|United States|Los Angeles|Charter Communications|
+|13|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|16|146.196.40.146|8888|Indonesia|Sembang Ilon|UNINA|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|103.8.68.46|3128|China|Shiyan|China Telecom|
+|19|103.152.232.46|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|20|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
 
 
 
