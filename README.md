@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|5|203.150.113.138|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|9|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
-|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|1|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|8|193.111.124.101|7777|Indonesia|Jakarta|CV Atha Media Prima|
+|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|114.231.45.165|8089|China|Nanjing|Chinanet|
 |14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|18|67.43.236.20|24451|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|1093|Canada|Montreal|GloboTech Communications|
-|20|103.40.11.141|3128|Singapore|Singapore|HONG KONG Megalayer Technology Co., Limited|
+|15|72.10.164.178|14879|Canada|Montreal|GloboTech Communications|
+|16|121.236.236.248|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|19|67.43.227.227|14085|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|14879|Canada|Montreal|GloboTech Communications|
 
 
 
