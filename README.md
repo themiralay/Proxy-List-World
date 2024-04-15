@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|4|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|6|183.88.241.167|8080|Thailand|Rayong|Triple T Broadband Public Company Limited|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|188.209.228.36|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|15|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|111.225.152.237|8089|China|Zhoutou|China Telecom|
-|20|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|103.160.207.53|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|67.43.228.251|1065|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
