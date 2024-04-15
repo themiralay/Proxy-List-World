@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|2|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|3|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|13|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|67.43.236.20|15101|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|15051|Canada|Montreal|GloboTech Communications|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|5|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|103.141.109.157|8080|Indonesia|Setro|Data Buana Nusantara|
+|9|222.120.150.196|80|South Korea|Paju|Korea Telecom|
+|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|16|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
+|17|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|20|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
 
 
 
