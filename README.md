@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|4|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|5|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|103.156.15.35|1080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
-|9|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|180.191.16.254|8085|Philippines|Cabanatuan City|Globe Telecom|
+|5|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 |12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |13|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|165.22.36.164|10012|United States|Clifton|DigitalOcean, LLC|
-|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|45.233.67.210|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|20|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|15|165.22.36.164|10014|United States|Clifton|DigitalOcean, LLC|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|72.10.164.178|1083|Canada|Montreal|GloboTech Communications|
+|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
 
 
 
