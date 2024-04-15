@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|203.150.128.138|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
-|10|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|13|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
-|14|170.246.85.109|50991|Ecuador|Cuenca|Servicable Cia. Ltda.|
-|15|222.99.192.29|8080|South Korea|Yeoju|Korea Telecom|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|113.53.60.3|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|213.246.24.191|8080|Yemen|Sanaa|AS30873 YemenNet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.35.10.37|8080|Yemen|Aden|Public Telecommunication Corporation|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|180.180.123.40|8080|Thailand|Pluak Daeng|TOT Public Company Limited|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.164.178|8963|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|8963|Canada|Montreal|GloboTech Communications|
 
 
 
