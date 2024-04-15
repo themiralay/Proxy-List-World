@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.55.33.59|8080|Indonesia|Bandung|UIN Sunan Gunung Djati Bandung|
-|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|11|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|1|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|8|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|50.235.247.114|8085|United States|Henrico|Comcast Cable Communications, LLC|
 |14|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|15|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
-|16|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|19|67.43.228.253|14461|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28273|Canada|Montreal|GloboTech Communications|
+|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|16|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|17|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
