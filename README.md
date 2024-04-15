@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |7|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|8|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|12|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|8|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|102.36.217.30|8080|Uganda|Kampala|SimbaNET(U) p2p-Main POP|
+|12|152.54.5.26|8080|United States|Chapel Hill|MCNC|
 |13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|15|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|16|23.95.187.215|80|United States|Buffalo|HostPapa|
-|17|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|20|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|134.35.246.172|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|16|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|17|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
+|18|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|19|167.172.238.6|10011|United States|Clifton|DigitalOcean, LLC|
+|20|185.208.102.58|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 
 
 
