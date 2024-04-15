@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|103.20.97.32|8889|Vietnam|An Phú|Fast Byte Fast Data Company Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|134.35.204.142|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|6|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|7|190.6.56.133|8080|Venezuela|Caracas|Net Uno, C.A.|
-|8|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|8|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
-|16|101.6.42.37|7893|China|Haidian|CERNET|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|222.127.50.56|8082|Philippines|Lahug|INNOVE|
-|19|72.10.164.178|7499|Canada|Montreal|GloboTech Communications|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|134.35.204.142|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|16|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|17|101.6.42.37|7893|China|Haidian|CERNET|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|72.10.164.178|12279|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
