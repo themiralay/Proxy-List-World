@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|110.78.149.33|8080|Thailand|Bangkok|CAT-BB|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|60.174.0.225|8089|China|Guangzhou|Chinanet|
-|14|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|15|72.10.164.178|2999|Canada|Montreal|GloboTech Communications|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.228.253|5069|Canada|Montreal|GloboTech Communications|
+|1|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|110.78.149.33|8080|Thailand|Bangkok|CAT-BB|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|203.150.128.138|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|13|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|18|60.174.0.225|8089|China|Guangzhou|Chinanet|
 |19|72.10.164.178|2999|Canada|Montreal|GloboTech Communications|
-|20|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
+|20|114.106.134.155|8089|China|Guangzhou|Chinanet|
 
 
 
