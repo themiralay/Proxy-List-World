@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|4|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|103.131.232.16|8080|Australia|Goulburn|RemoteISP Pty Ltd|
-|9|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.8.68.46|3128|China|Shiyan|China Telecom|
-|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|14|67.43.227.227|29205|Canada|Montreal|GloboTech Communications|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
+|7|103.131.232.16|8080|Australia|Goulburn|RemoteISP Pty Ltd|
+|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|17|103.8.68.46|3128|China|Shiyan|China Telecom|
+|18|67.43.227.227|1771|Canada|Montreal|GloboTech Communications|
 |19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|68.183.48.146|10012|United States|Clifton|DigitalOcean, LLC|
+|20|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
 
 
 
