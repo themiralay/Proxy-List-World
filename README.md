@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|4|203.150.128.138|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|72.10.164.178|3817|Canada|Montreal|GloboTech Communications|
-|6|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|114.103.80.34|8089|China|Shenzhen|Chinanet|
-|9|72.10.164.178|3817|Canada|Montreal|GloboTech Communications|
-|10|159.65.186.46|10007|United States|Clifton|DigitalOcean, LLC|
-|11|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|12|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|19|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|110.78.149.33|8080|Thailand|Bangkok|CAT-BB|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|203.150.128.138|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|180.180.123.40|8080|Thailand|Pluak Daeng|TOT Public Company Limited|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|72.10.164.178|2999|Canada|Montreal|GloboTech Communications|
+|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
