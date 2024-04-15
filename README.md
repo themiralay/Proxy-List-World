@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
-|10|103.189.250.67|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|9|104.234.157.169|21278|India|Jaipur|Ipxo LLC|
+|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
 |13|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|14|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|15|67.43.228.253|2703|Canada|Montreal|GloboTech Communications|
-|16|165.22.36.164|10012|United States|Clifton|DigitalOcean, LLC|
-|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|18|96.80.235.1|8080|United States|Dearborn|Comcast Cable Communications, LLC|
-|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|20|202.154.18.0|8080|Indonesia|Jombang|DIGITNET|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|181.60.225.210|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|18|222.120.150.216|80|South Korea|Paju|Korea Telecom|
+|19|165.22.36.164|10012|United States|Clifton|DigitalOcean, LLC|
+|20|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 
 
 
