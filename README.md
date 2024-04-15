@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|7|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
-|8|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|11|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|67.43.236.20|11905|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|72.10.160.90|14009|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.22|8323|Canada|Montreal|GloboTech Communications|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|128.199.211.104|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|67.43.236.20|11905|Canada|Montreal|GloboTech Communications|
+|11|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|12|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|67.43.228.250|33269|Canada|Montreal|GloboTech Communications|
+|15|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|103.35.110.94|5020|Bangladesh|Dhaka|Ranks ITT|
 
 
 
