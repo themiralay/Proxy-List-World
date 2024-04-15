@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|67.43.228.251|7993|Canada|Montreal|GloboTech Communications|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
-|15|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|19|72.10.160.90|27843|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|67.43.228.251|7993|Canada|Montreal|GloboTech Communications|
+|13|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|17|72.10.160.90|29227|Canada|Montreal|GloboTech Communications|
+|18|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|19|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
 |20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
