@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|4|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|8|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|11|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|10|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|11|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|16|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
-|17|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|18|67.43.236.20|23497|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|3333|Canada|Montreal|GloboTech Communications|
-|20|64.225.4.81|10005|United States|Clifton|DigitalOcean, LLC|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|17|72.10.164.178|18567|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|3333|Canada|Montreal|GloboTech Communications|
+|19|138.197.16.249|10009|United States|Clifton|DigitalOcean, LLC|
+|20|67.43.236.20|24927|Canada|Montreal|GloboTech Communications|
 
 
 
