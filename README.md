@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|4|222.120.150.216|80|South Korea|Paju|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|6|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|9|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 |10|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|11|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
-|12|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|67.43.227.228|29061|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|25403|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|15|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
