@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|165.22.36.164|10012|United States|Clifton|DigitalOcean, LLC|
-|10|103.20.97.32|8889|Vietnam|An Phú|Fast Byte Fast Data Company Limited|
-|11|67.43.227.227|9951|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|9|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|10|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |12|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|159.65.186.46|10015|United States|Clifton|DigitalOcean, LLC|
-|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|14|67.43.227.227|17839|Canada|Montreal|GloboTech Communications|
 |15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|67.43.236.20|19213|Canada|Montreal|GloboTech Communications|
-|17|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|18|72.10.160.90|1187|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|19213|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|1187|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
