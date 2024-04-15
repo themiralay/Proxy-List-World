@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|13|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
-|17|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|67.43.227.227|19383|Canada|Montreal|GloboTech Communications|
-|19|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
+|15|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|16|166.111.153.224|9300|China|Haidian|China Education and Research Network Center|
+|17|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|67.43.227.227|19383|Canada|Montreal|GloboTech Communications|
+|20|119.92.236.53|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 
 
 
