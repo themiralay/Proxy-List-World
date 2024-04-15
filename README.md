@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.53.60.3|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|103.152.232.61|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|3|103.246.247.146|3128|Hong Kong|Mong Kok|Cloudie Limited|
 |4|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|124.16.103.0|4780|China|Haidian|CNIC-CAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|98.6.197.202|16099|United States|Mission|Spectrum|
-|10|72.10.164.178|4827|Canada|Montreal|GloboTech Communications|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|72.10.164.178|4827|Canada|Montreal|GloboTech Communications|
-|15|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
-|19|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|20|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|7|64.225.8.132|10013|United States|Clifton|DigitalOcean, LLC|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|94.130.181.59|32770|Germany|Tübingen|Hetzner Online GmbH|
+|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|64.225.8.132|10013|United States|Clifton|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|72.10.164.178|4827|Canada|Montreal|GloboTech Communications|
+|14|64.225.8.132|10013|United States|Clifton|DigitalOcean, LLC|
+|15|103.173.138.171|8080|Indonesia|Tanggamus|PT Serayu Multi Connection|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|64.225.8.132|10013|United States|Clifton|DigitalOcean, LLC|
+|18|72.10.164.178|4827|Canada|Montreal|GloboTech Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 
 
 
