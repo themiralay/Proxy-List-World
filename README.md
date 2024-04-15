@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|12|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|111.225.153.173|8089|China|Zhoutou|China Telecom|
-|14|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|67.43.236.20|32187|Canada|Montreal|GloboTech Communications|
+|7|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|67.43.236.20|21227|Canada|Montreal|GloboTech Communications|
+|13|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|14|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
+|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|16|64.225.8.132|10004|United States|Clifton|DigitalOcean, LLC|
 |17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|72.10.160.172|14683|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
+|20|67.43.227.227|16307|Canada|Montreal|GloboTech Communications|
 
 
 
