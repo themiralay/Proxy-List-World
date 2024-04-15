@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|7|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|5|222.120.150.196|80|South Korea|Paju|Korea Telecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|11|111.225.153.221|8089|China|Zhoutou|China Telecom|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|15|114.231.8.20|8089|China|Nanjing|Chinanet|
-|16|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
-|17|121.236.239.178|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
-|18|177.222.25.9|8080|Brazil|Duque de Caxias|Wireless Comm Services LTDA|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|89.58.48.220|10012|Germany|Nuremberg|netcup GmbH|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|77.37.132.129|8080|Russia|Moscow|NCNET|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|138.197.16.249|10003|United States|Clifton|DigitalOcean, LLC|
+|19|111.225.153.245|8089|China|Zhoutou|China Telecom|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
