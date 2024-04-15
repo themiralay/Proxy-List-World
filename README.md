@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|68.183.48.146|10005|United States|Clifton|DigitalOcean, LLC|
-|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|11|68.183.48.146|10005|United States|Clifton|DigitalOcean, LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|103.8.68.46|3128|China|Shiyan|China Telecom|
-|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|3|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
+|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|38.188.166.5|999|Dominican Republic|Santo Domingo|Onered Jwg532 SRL|
+|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
 
 
 
