@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|154.70.115.81|8080|Cameroon|Garoua|MTN Network Solutions (Cameroon)|
-|5|103.153.63.137|3125|Indonesia|Bekasi|IMEDIANET|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|154.70.115.81|8080|Cameroon|Garoua|MTN Network Solutions (Cameroon)|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|61.129.2.212|8080|China|Beijing|CHINANET|
-|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|12|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
-|16|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
-|17|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|72.10.164.178|2025|Canada|Montreal|GloboTech Communications|
-|20|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|16|103.169.133.34|8080|Indonesia|Karawang|PT Alfa Omega Interkoneksi|
+|17|72.10.164.178|16051|Canada|Montreal|GloboTech Communications|
+|18|94.206.19.246|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|103.161.30.29|83|India|Eluru|Venkata Sai Internet Pvt Ltd|
 
 
 
