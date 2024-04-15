@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|72.10.160.90|23605|Canada|Montreal|GloboTech Communications|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|67.43.227.226|19649|Canada|Montreal|GloboTech Communications|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|16|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
+|17|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|18|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
 |19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|222.109.151.80|1080|South Korea|Seoul|Korea Telecom|
+|20|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
 
 
 
