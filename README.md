@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|78.158.171.38|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|222.127.220.86|8082|Philippines|Quezon City|GLBB|
+|6|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|9|222.127.220.86|8082|Philippines|Quezon City|GLBB|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|72.10.160.93|18059|Canada|Montreal|GloboTech Communications|
-|15|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|16|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|102.68.131.31|8080|Libya|Tripoli|Rawafed|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|20|72.10.160.93|18059|Canada|Montreal|GloboTech Communications|
 
 
 
