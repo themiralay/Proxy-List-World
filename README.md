@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
-|2|157.245.218.226|8118|United States|Clifton|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|171.245.127.118|5000|Vietnam|Ha Long|Viettel Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|72.10.164.178|17757|Canada|Montreal|GloboTech Communications|
-|14|111.225.152.105|8089|China|Zhoutou|China Telecom|
-|15|103.8.68.46|3128|China|Shiyan|China Telecom|
-|16|141.136.56.16|999|Venezuela|San Carlos del Zulia|RED SERVITEL, CA|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|171.245.127.118|5000|Vietnam|Ha Long|Viettel Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|6|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|111.225.152.105|8089|China|Zhoutou|China Telecom|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|20|72.10.164.178|5473|Canada|Montreal|GloboTech Communications|
 
 
 
