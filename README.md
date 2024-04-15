@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|1|222.120.150.216|80|South Korea|Paju|Korea Telecom|
+|2|58.69.247.70|8083|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|152.54.5.26|8080|United States|Chapel Hill|MCNC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|222.120.150.216|80|South Korea|Paju|Korea Telecom|
-|10|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|111.225.152.99|8089|China|Zhoutou|China Telecom|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|8|212.22.64.14|8080|Russia|Moscow|Dmitrii Vladimirovich Malkov|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|14.163.45.72|443|Vietnam|Hanoi|VNPT-VNNIC|
+|13|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|14|111.225.152.52|8089|China|Zhoutou|China Telecom|
+|15|111.225.152.99|8089|China|Zhoutou|China Telecom|
 |16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|181.212.161.3|999|Chile|Macul|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|19|103.20.97.32|8889|Vietnam|An Phú|Fast Byte Fast Data Company Limited|
-|20|72.10.160.170|30343|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|19|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
