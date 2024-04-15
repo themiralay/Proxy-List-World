@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|10|45.32.28.105|12009|Japan|Shinagawa|Choopa|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|103.175.202.86|8080|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
-|14|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|213.131.230.22|3128|Germany|Düsseldorf|PlusServer GmbH|
-|18|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|19|138.197.92.54|10011|United States|Clifton|DigitalOcean, LLC|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|9|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|154.126.81.163|8080|Madagascar|Antananarivo|Telecom Malagasy|
+|12|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|16|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
 
 
 
