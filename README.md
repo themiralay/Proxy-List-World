@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|213.246.24.191|8080|Yemen|Sanaa|AS30873 YemenNet|
-|3|134.35.10.37|8080|Yemen|Aden|Public Telecommunication Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|6|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|72.10.160.90|28911|Canada|Montreal|GloboTech Communications|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|12|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|114.231.8.112|8089|China|Nanjing|Chinanet|
-|17|114.103.81.58|8089|China|Shenzhen|Chinanet|
-|18|222.249.72.6|8081|China|Beijing|China Networks Inter-Exchange|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|3|103.107.84.177|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|4|134.35.10.37|8080|Yemen|Aden|Public Telecommunication Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|157.245.218.226|8118|United States|Clifton|DigitalOcean, LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|190.14.225.15|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|13|72.10.160.90|28911|Canada|Montreal|GloboTech Communications|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 
 
 
