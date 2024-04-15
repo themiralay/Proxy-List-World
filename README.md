@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|4|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|117.72.39.51|3128|China|Beijing|JDCOM|
-|10|14.243.165.138|4001|Vietnam|Da Nang|VNPT|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|67.43.227.227|20697|Canada|Montreal|GloboTech Communications|
-|14|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|11|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|12|64.225.8.132|10004|United States|Clifton|DigitalOcean, LLC|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
+|15|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|16|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
 |18|67.43.228.253|15865|Canada|Montreal|GloboTech Communications|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|64.225.8.132|10004|United States|Clifton|DigitalOcean, LLC|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 
 
 
