@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|3|23.95.187.215|80|United States|Buffalo|HostPapa|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|203.150.113.138|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|43.245.249.22|8989|Indonesia|Pekanbaru|PT Smart Media Pratama|
+|8|222.120.150.196|80|South Korea|Paju|Korea Telecom|
 |9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|61.129.2.212|8080|China|Beijing|CHINANET|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|67.43.236.20|32881|Canada|Montreal|GloboTech Communications|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
 
 
 
