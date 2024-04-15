@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.54.5.26|8080|United States|Chapel Hill|MCNC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|23.95.187.215|80|United States|Buffalo|HostPapa|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|72.10.160.170|1167|Canada|Montreal|GloboTech Communications|
-|9|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|111.225.153.93|8089|China|Zhoutou|China Telecom|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|72.10.160.170|1167|Canada|Montreal|GloboTech Communications|
-|16|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|7|72.10.160.170|1167|Canada|Montreal|GloboTech Communications|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|64.225.4.81|10002|United States|Clifton|DigitalOcean, LLC|
+|15|103.152.232.194|8080|Indonesia|Bekasi|PT Kingpolah Network Solutions|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|67.43.228.253|16167|Canada|Montreal|GloboTech Communications|
+|18|111.225.153.3|8089|China|Zhoutou|China Telecom|
 |19|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|20|103.178.42.25|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|20|72.10.160.170|1167|Canada|Montreal|GloboTech Communications|
 
 
 
