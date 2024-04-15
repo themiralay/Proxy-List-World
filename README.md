@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|1|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|6|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|7|134.35.8.241|8080|Yemen|Aden|Public Telecommunication Corporation|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|11|67.43.227.227|8617|Canada|Montreal|GloboTech Communications|
-|12|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|191.252.92.34|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|15|103.217.224.139|8040|Indonesia|Semarang|PT Nesta Indo Media|
-|16|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|19|114.231.41.232|8089|China|Nanjing|Chinanet|
-|20|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
+|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|134.35.8.241|8080|Yemen|Aden|Public Telecommunication Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|191.252.92.34|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|18|183.164.242.201|8089|China|Rongcheng|Chinanet|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|111.225.152.235|8089|China|Zhoutou|China Telecom|
 
 
 
