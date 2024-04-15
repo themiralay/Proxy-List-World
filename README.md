@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|7|66.54.106.56|8080|United States|Itta Bena|Mobile Communications, LLC|
-|8|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|9|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|10|72.10.160.91|13403|Canada|Montreal|GloboTech Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|72.10.160.91|13403|Canada|Montreal|GloboTech Communications|
+|7|216.176.187.99|39865|United States|Los Angeles|Wowrack.com|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|103.217.224.139|8040|Indonesia|Semarang|PT Nesta Indo Media|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|212.112.120.252|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
+|12|191.252.92.34|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
 |13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|72.10.160.172|31901|Canada|Montreal|GloboTech Communications|
-|15|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|16|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|103.83.80.67|8080|India|Indore|Syntego Technologies India Private Limited|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|20|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|64.225.8.118|10010|United States|Clifton|DigitalOcean, LLC|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|216.176.187.99|39865|United States|Los Angeles|Wowrack.com|
+|20|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
 
 
 
