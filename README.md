@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|68.183.48.146|10005|United States|Clifton|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|8|68.183.48.146|10005|United States|Clifton|DigitalOcean, LLC|
-|9|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|9|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|67.43.236.21|17039|Canada|Montreal|GloboTech Communications|
-|15|159.65.176.77|10006|United States|Clifton|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|72.10.160.92|18789|Canada|Montreal|GloboTech Communications|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
+|17|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
+|18|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|67.43.228.250|26991|Canada|Montreal|GloboTech Communications|
 
 
 
