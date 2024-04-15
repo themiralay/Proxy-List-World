@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|4|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|9|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
-|10|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|14|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|18|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|19|67.43.236.20|27255|Canada|Montreal|GloboTech Communications|
-|20|200.251.41.61|8002|Brazil|Lagoa Santa|Claro S.A|
+|2|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|6|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|7|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
+|15|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|16|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|17|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|18|72.10.160.90|3299|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|20961|Canada|Montreal|GloboTech Communications|
+|20|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
 
 
 
