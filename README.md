@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|45.183.40.23|8080|Colombia|Contratación|TV AZTECA SUCURSAL COLOMBIA|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|12|114.106.136.116|8089|China|Rongcheng|Chinanet|
-|13|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|111.225.152.145|8089|China|Zhoutou|China Telecom|
-|18|72.10.164.178|22859|Canada|Montreal|GloboTech Communications|
-|19|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|20|101.255.151.69|3125|Indonesia|Bekasi|PT Remala Abadi|
+|3|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.211.196.230|80|United Kingdom|London|Alibaba (US) Technology Co., Ltd.|
+|8|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|9|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|14|103.10.61.186|8080|Indonesia|Bandung|PT Hipernet Indodata|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|17|182.253.177.137|8080|Indonesia|Jakarta Pusat|BIZNET|
+|18|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|19|112.78.150.133|8080|Indonesia|Jakarta|Biznet Networks|
+|20|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
