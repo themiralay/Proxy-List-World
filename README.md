@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.93.32.137|8080|Indonesia|Gunung Sahari Utara|Telekomunikasi Indonesia|
-|2|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|3|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
-|6|72.10.160.171|22283|Canada|Montreal|GloboTech Communications|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|72.10.160.90|4711|Canada|Montreal|GloboTech Communications|
-|9|207.138.39.145|999|United States|Santa Barbara|Galanet Solution C.A.|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|222.120.150.216|80|South Korea|Paju|Korea Telecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|72.10.160.171|22283|Canada|Montreal|GloboTech Communications|
+|6|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|72.10.160.90|23311|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|23311|Canada|Montreal|GloboTech Communications|
 |10|23.95.187.215|80|United States|Buffalo|HostPapa|
-|11|72.10.160.90|4711|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|18631|Canada|Montreal|GloboTech Communications|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|16|67.43.228.253|24107|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|185.157.108.55|3128|Estonia|Võru|Elevi|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|72.10.160.92|2189|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.253|24107|Canada|Montreal|GloboTech Communications|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|207.138.39.145|999|United States|Santa Barbara|Galanet Solution C.A.|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|17|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 
 
 
