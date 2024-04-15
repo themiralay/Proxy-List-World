@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|7|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|72.10.160.91|13403|Canada|Montreal|GloboTech Communications|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|72.10.160.91|13403|Canada|Montreal|GloboTech Communications|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
+|10|152.54.5.26|8080|United States|Chapel Hill|MCNC|
 |11|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|67.43.236.20|3905|Canada|Montreal|GloboTech Communications|
-|13|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|14|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|67.43.236.21|17039|Canada|Montreal|GloboTech Communications|
-|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|20|111.225.152.217|8089|China|Zhoutou|China Telecom|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|16|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|19|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|20|72.10.160.92|18789|Canada|Montreal|GloboTech Communications|
 
 
 
