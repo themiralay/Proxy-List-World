@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|45.224.23.251|999|Ecuador|Hacienda El Carmen|Ufinet Panama S.A.|
-|5|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|4|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|121.1.3.178|8888|Philippines|Makati City|Smart Broadband, Inc.|
+|10|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |14|14.243.165.138|4001|Vietnam|Da Nang|VNPT|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|64.225.4.81|10014|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.227.228|28333|Canada|Montreal|GloboTech Communications|
-|20|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
+|16|103.8.68.48|3128|China|Shiyan|China Telecom|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|20|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
