@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|7|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|8|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|114.231.8.13|8089|China|Nanjing|Chinanet|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|64.225.4.81|10011|United States|Clifton|DigitalOcean, LLC|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
-|19|72.10.164.178|27391|Canada|Montreal|GloboTech Communications|
-|20|123.182.58.135|8089|China|Zhangjiakou|China Telecom|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|91.185.38.105|7050|Russia|Moscow|JSC "ER-Telecom Holding"|
+|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|16|118.117.189.239|8089|China|Muping|Chinanet|
+|17|72.10.164.178|32785|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
