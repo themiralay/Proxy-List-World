@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|72.10.160.90|29639|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|9139|Canada|Montreal|GloboTech Communications|
-|9|190.90.233.25|8080|Colombia|Medellín|InterNexa Global Network|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|72.10.164.178|9139|Canada|Montreal|GloboTech Communications|
-|12|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
-|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.236.20|2807|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|64.225.4.81|10002|United States|Clifton|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|6|103.148.44.101|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|67.43.236.20|2807|Canada|Montreal|GloboTech Communications|
+|12|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|72.10.160.90|29639|Canada|Montreal|GloboTech Communications|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|72.10.164.178|2999|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|2999|Canada|Montreal|GloboTech Communications|
 |18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|34.154.161.152|80|Italy|Milan|Google LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 
 
 
