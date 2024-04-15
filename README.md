@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|104.234.157.169|21278|India|Jaipur|Ipxo LLC|
-|7|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|72.10.160.91|30919|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|26191|Canada|Montreal|GloboTech Communications|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|10|72.10.160.91|30919|Canada|Montreal|GloboTech Communications|
+|11|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
 |12|67.43.236.20|26191|Canada|Montreal|GloboTech Communications|
-|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|14|72.10.160.90|13165|Canada|Montreal|GloboTech Communications|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
 |15|67.43.236.20|26191|Canada|Montreal|GloboTech Communications|
 |16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
