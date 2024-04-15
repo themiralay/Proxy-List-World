@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.224.124.75|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
-|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|8|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunicação Ltda|
-|9|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|165.16.55.19|44444|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|14|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|15|159.65.176.77|10017|United States|Clifton|DigitalOcean, LLC|
-|16|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|17|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|18|72.10.160.90|10259|Canada|Montreal|GloboTech Communications|
-|19|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|20|166.111.153.224|9300|China|Haidian|China Education and Research Network Center|
+|3|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|8|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|67.43.236.20|9355|Canada|Montreal|GloboTech Communications|
+|12|185.73.103.23|3128|Czechia|Karlovy Vary|ISP Alliance a.s.|
+|13|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|14|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
+|18|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
