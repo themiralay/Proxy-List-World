@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|115.147.23.249|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|103.187.86.3|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|11|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|12|191.102.254.10|8085|Argentina|Rosario|IP·RED|
-|13|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|16|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
-|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|18|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|19|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|12|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
+|15|72.10.164.178|3015|Canada|Montreal|GloboTech Communications|
+|16|103.154.230.137|5555|Indonesia|Lamongan|DIGITNET|
+|17|72.10.164.178|3015|Canada|Montreal|GloboTech Communications|
+|18|115.147.23.249|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
