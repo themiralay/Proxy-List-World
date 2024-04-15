@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|72.10.160.90|8019|Canada|Montreal|GloboTech Communications|
-|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|12|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|14|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|15|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
-|16|51.159.66.158|3128|France|Paris|SCALEWAY|
-|17|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|18|67.43.236.20|6225|Canada|Montreal|GloboTech Communications|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|67.43.236.20|6225|Canada|Montreal|GloboTech Communications|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|67.43.236.20|24329|Canada|Montreal|GloboTech Communications|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|222.127.220.86|8082|Philippines|Quezon City|GLBB|
 
 
 
