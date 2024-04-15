@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|203.215.166.122|3128|Pakistan|Islamabad|Pakistan Software Export Board|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|222.109.151.80|1080|South Korea|Seoul|Korea Telecom|
+|8|203.215.166.122|3128|Pakistan|Islamabad|Pakistan Software Export Board|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|14|72.10.160.91|20157|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|32897|Canada|Montreal|GloboTech Communications|
+|11|103.16.118.165|8080|Indonesia|Madiun|CV Trustnet Media|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |16|72.10.160.90|23605|Canada|Montreal|GloboTech Communications|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|20|138.197.16.249|10013|United States|Clifton|DigitalOcean, LLC|
+|17|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 
 
 
