@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|129.154.224.75|80|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|1.20.207.160|8080|Thailand|Tha Maka|TOT Public Company Limited|
+|4|66.54.106.56|8080|United States|Itta Bena|Mobile Communications, LLC|
+|5|110.78.186.18|8080|Thailand|Rayong|CAT-BB|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|8|103.147.247.212|1234|Indonesia|Tangerang|PLBNET|
+|8|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
 |9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|111.225.152.213|8089|China|Zhoutou|China Telecom|
+|10|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|191.243.46.166|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|14|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|15|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|13|134.35.203.231|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|14|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|64.225.8.118|10006|United States|Clifton|DigitalOcean, LLC|
 |16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|138.197.92.54|10009|United States|Clifton|DigitalOcean, LLC|
 
 
 
