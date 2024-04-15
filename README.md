@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|1.20.207.160|8080|Thailand|Tha Maka|TOT Public Company Limited|
 |4|110.78.186.18|8080|Thailand|Rayong|CAT-BB|
-|5|1.20.207.160|8080|Thailand|Tha Maka|TOT Public Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.35.203.231|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|8|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|10|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
+|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|8|103.137.45.10|13799|India|Pūrna|Wsnl Broadband Private Limited|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|103.247.23.197|8080|Indonesia|Bekasi|PT wifian Solution|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|14|103.246.247.146|3128|Hong Kong|Mong Kok|Cloudie Limited|
 |15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
+|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|72.10.160.90|15295|Canada|Montreal|GloboTech Communications|
+|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 
 
 
