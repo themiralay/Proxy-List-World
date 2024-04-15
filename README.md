@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|11|103.152.232.194|8080|Indonesia|Bekasi|PT Kingpolah Network Solutions|
-|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|67.43.227.228|26005|Canada|Montreal|GloboTech Communications|
-|18|118.117.189.200|8089|China|Muping|Chinanet|
-|19|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|11|118.117.189.200|8089|China|Muping|Chinanet|
+|12|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|72.10.164.178|25621|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|26005|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
 |20|72.10.164.178|25621|Canada|Montreal|GloboTech Communications|
 
 
