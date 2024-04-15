@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|8|60.174.0.225|8089|China|Guangzhou|Chinanet|
-|9|161.49.90.70|1337|Philippines|Las Pinas|Converge ICT Solution Inc|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|14|111.225.153.2|8089|China|Zhoutou|China Telecom|
-|15|72.10.164.178|28817|Canada|Montreal|GloboTech Communications|
+|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|41.86.150.98|8080|Nigeria|Lagos|Cobranet Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.231.8.13|8089|China|Nanjing|Chinanet|
+|11|67.43.228.251|24719|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|4485|Canada|Montreal|GloboTech Communications|
+|13|103.133.223.211|2525|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|14|103.13.120.116|3128|Malaysia|Bayan Lepas|Exa Bytes Network Sdn.Bhd.|
+|15|103.90.156.220|8080|India|Nellore|Myguru Online India Pvt Ltd|
 |16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|72.10.160.170|9093|Canada|Montreal|GloboTech Communications|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.228.251|24719|Canada|Montreal|GloboTech Communications|
+|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
 
 
 
