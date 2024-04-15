@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|103.9.188.228|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|8|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|10|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|11|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|12|72.10.160.94|28235|Canada|Montreal|GloboTech Communications|
-|13|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|14|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|72.10.160.90|12833|Canada|Montreal|GloboTech Communications|
-|17|45.11.95.165|6024|Russia|Moscow|Delta Ltd|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|72.10.164.178|13025|Canada|Montreal|GloboTech Communications|
-|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|72.10.160.90|12833|Canada|Montreal|GloboTech Communications|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|18|72.10.160.94|28235|Canada|Montreal|GloboTech Communications|
+|19|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|20|103.8.68.46|3128|China|Shiyan|China Telecom|
 
 
 
