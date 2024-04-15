@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|115.132.165.97|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|6|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|64.225.8.132|10003|United States|Clifton|DigitalOcean, LLC|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|16|103.51.206.82|8080|Indonesia|Arjawinangun|PT Milenial Inti Telekomunikasi|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|20|159.65.186.46|10011|United States|Clifton|DigitalOcean, LLC|
+|10|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|11|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|12|170.83.77.246|999|Venezuela|Caracas|Galanet Solution C.A.|
+|13|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|103.246.247.146|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|18|64.225.8.132|10003|United States|Clifton|DigitalOcean, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
 
 
 
