@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.147.247.175|8181|Indonesia|Tangerang|PLBNET|
-|5|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|121.236.236.33|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
-|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
+|10|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|103.113.79.123|80|Indonesia|Guntur|Indonesia Network Information Center|
 |13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|19|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|20|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|24.112.3.220|8080|United States|Durant|Vyve Broadband|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|64.225.4.81|10002|United States|Clifton|DigitalOcean, LLC|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
