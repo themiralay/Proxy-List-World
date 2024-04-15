@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|6|5.202.104.22|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|7|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.53.170.199|3128|Vietnam|GJong GJa|VCIC|
-|9|58.69.247.70|8083|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|10|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|67.43.227.227|27429|Canada|Montreal|GloboTech Communications|
-|13|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|14|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|188.209.234.88|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|67.43.227.228|13865|Canada|Montreal|GloboTech Communications|
-|19|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|212.22.64.14|8080|Russia|Moscow|Dmitrii Vladimirovich Malkov|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|12|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
+|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|18|200.24.153.151|999|Ecuador|Tosagua|Ufinet Panama S.A.|
+|19|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
