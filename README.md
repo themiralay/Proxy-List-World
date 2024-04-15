@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|5|45.250.215.8|8080|India|Delhi|Geocity Network Solutions PVT LTD|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
-|8|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|9|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
-|10|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|11|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|15|72.10.160.90|31993|Canada|Montreal|GloboTech Communications|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|17|72.10.164.178|2703|Canada|Montreal|GloboTech Communications|
-|18|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
-|19|72.10.160.90|31993|Canada|Montreal|GloboTech Communications|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|4|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|5|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|13|101.6.42.37|7893|China|Haidian|CERNET|
+|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|15|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
+|16|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|17|67.43.228.253|3635|Canada|Montreal|GloboTech Communications|
+|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
