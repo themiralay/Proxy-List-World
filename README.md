@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|5|202.165.39.102|8080|Indonesia|Jakarta|Circlecom|
+|6|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 |8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|72.10.164.178|21079|Canada|Montreal|GloboTech Communications|
-|12|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|179.49.113.230|999|Honduras|Rio Comayagua|Asociacion De Servicio De Internet S. De RL|
+|10|72.10.164.178|25707|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|16|111.225.152.213|8089|China|Zhoutou|China Telecom|
-|17|67.43.236.21|16561|Canada|Montreal|GloboTech Communications|
-|18|188.209.228.36|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|19|72.10.160.90|29161|Canada|Montreal|GloboTech Communications|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|222.174.178.122|4999|China|Xintai|Chinanet|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|67.43.236.21|16561|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|25707|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|85.26.218.112|3128|Russia|St Petersburg|North-West Branch of OJSC MegaFon Network|
+|20|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
 
 
 
