@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|201.182.149.29|999|Ecuador|Zaruma|Esmonsa S.A.|
-|8|190.61.47.78|9992|Colombia|Medellín|Ufinet Panama S.A.|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|114.106.137.249|8089|China|Rongcheng|Chinanet|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|64.225.4.81|10014|United States|Clifton|DigitalOcean, LLC|
-|17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|18|45.188.164.47|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|19|103.8.68.46|3128|China|Shiyan|China Telecom|
-|20|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
+|7|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
+|8|103.179.27.133|8080|Indonesia|Menggala|PT Primadona Media Digitalindo|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|12|114.106.137.249|8089|China|Rongcheng|Chinanet|
+|13|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|14|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|15|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|64.225.4.81|10014|United States|Clifton|DigitalOcean, LLC|
+|20|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
 
 
 
