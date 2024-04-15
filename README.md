@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.113.138|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|6|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|9|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|134.35.23.243|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|12|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|13|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.164.178|28109|Canada|Montreal|GloboTech Communications|
-|16|177.234.194.157|999|Ecuador|Machala|Ufinet Panama S.A.|
-|17|95.111.239.49|3128|Germany|Nuremberg|Contabo GmbH|
-|18|72.10.164.178|28109|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|4|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|72.10.164.178|32493|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.164.178|32493|Canada|Montreal|GloboTech Communications|
+|13|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|15|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
+|19|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
+|20|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
