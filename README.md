@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|170.245.132.82|9000|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|138.197.92.54|10011|United States|Clifton|DigitalOcean, LLC|
-|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|15|67.43.236.20|6649|Canada|Montreal|GloboTech Communications|
-|16|24.192.227.234|8080|United States|Albion|WideOpenWest Finance LLC|
-|17|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|5|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|8|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|138.197.92.54|10011|United States|Clifton|DigitalOcean, LLC|
+|11|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
+|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|13|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|14|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
 |18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|19|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
+|20|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
 
 
 
