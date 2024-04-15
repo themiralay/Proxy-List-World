@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|171.245.127.118|5000|Vietnam|Ha Long|Viettel Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|190.61.61.210|999|Colombia|Neiva|Ufinet Panama S.A.|
-|9|51.159.66.158|3128|France|Paris|SCALEWAY|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|7|190.61.61.210|999|Colombia|Neiva|Ufinet Panama S.A.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|72.10.164.178|22859|Canada|Montreal|GloboTech Communications|
+|12|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|72.10.164.178|26421|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.236.20|16643|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|16643|Canada|Montreal|GloboTech Communications|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|15|72.10.160.93|2289|Canada|Montreal|GloboTech Communications|
+|16|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|88.255.65.104|8080|Türkiye|Kartal|Turk Telekomunikasyon Anonim Sirketi|
+|19|103.8.68.48|3128|China|Shiyan|China Telecom|
+|20|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
 
 
 
