@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|10|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|72.10.164.178|1343|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|33001|Canada|Montreal|GloboTech Communications|
-|15|45.183.40.23|8080|Colombia|Contratación|TV AZTECA SUCURSAL COLOMBIA|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|18|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|64.225.8.118|10002|United States|Clifton|DigitalOcean, LLC|
+|18|36.92.48.103|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|72.10.164.178|24309|Canada|Montreal|GloboTech Communications|
+|20|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 
 
 
