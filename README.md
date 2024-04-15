@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|122.154.35.190|8080|Thailand|Vadhana|CAT Telecom Public Company Limited|
-|8|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|64.225.4.81|10016|United States|Clifton|DigitalOcean, LLC|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|36.93.130.219|66|Indonesia|Tomang|Telekomunikasi Indonesia|
-|14|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|67.43.227.228|13957|Canada|Montreal|GloboTech Communications|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|72.10.164.178|21235|Canada|Montreal|GloboTech Communications|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|64.225.8.132|10003|United States|Clifton|DigitalOcean, LLC|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
+|16|67.43.227.228|25277|Canada|Montreal|GloboTech Communications|
+|17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
