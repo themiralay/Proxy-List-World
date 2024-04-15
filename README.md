@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|64.225.8.132|10003|United States|Clifton|DigitalOcean, LLC|
-|10|67.43.228.253|16167|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|16167|Canada|Montreal|GloboTech Communications|
-|12|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|13|67.43.227.227|17839|Canada|Montreal|GloboTech Communications|
-|14|223.215.177.113|8089|China|Rongcheng|Chinanet|
-|15|112.78.150.133|8080|Indonesia|Jakarta|Biznet Networks|
-|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|20|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|67.43.228.253|16785|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|21551|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.253|16785|Canada|Montreal|GloboTech Communications|
+|10|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|67.43.228.250|28331|Canada|Montreal|GloboTech Communications|
+|15|202.5.46.243|5020|Bangladesh|Khulna|BBTS-NEW|
+|16|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|17|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|223.215.177.113|8089|China|Rongcheng|Chinanet|
+|20|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
 
 
 
