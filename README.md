@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|7|103.168.164.94|83|India|Pune|Ssicon Systems Private Limited|
+|8|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 |9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|10|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
-|11|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
-|12|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|72.10.160.170|3587|Canada|Montreal|GloboTech Communications|
-|15|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|72.10.160.90|1677|Canada|Montreal|GloboTech Communications|
-|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|19|67.43.227.228|8941|Canada|Montreal|GloboTech Communications|
-|20|64.225.8.132|10010|United States|Clifton|DigitalOcean, LLC|
+|10|61.129.2.212|8080|China|Beijing|CHINANET|
+|11|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|12|182.52.231.202|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|13|38.9.56.70|8080|India|Chennai|Cogent Communications|
+|14|47.236.52.48|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
+|20|72.10.160.170|5409|Canada|Montreal|GloboTech Communications|
 
 
 
