@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|6|148.0.6.30|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|7|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|58.136.236.90|8080|Thailand|Bangkok|AIS-Fibre|
+|7|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|134.35.246.172|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|18|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
-|20|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|10|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|11|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|166.111.153.224|9300|China|Haidian|China Education and Research Network Center|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|167.86.115.218|8888|Germany|Nuremberg|Contabo GmbH|
+|18|121.195.170.225|1024|China|Haidian|CERNET|
+|19|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
+|20|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
 
 
 
