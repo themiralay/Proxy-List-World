@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|67.43.236.20|11205|Canada|Montreal|GloboTech Communications|
-|6|72.10.164.178|29129|Canada|Montreal|GloboTech Communications|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|152.32.64.43|8095|Philippines|Marikina City|Converge ICT Solution Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|134.35.10.37|8080|Yemen|Aden|Public Telecommunication Corporation|
-|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|111.225.152.141|8089|China|Zhoutou|China Telecom|
-|13|203.150.128.138|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|67.43.227.227|14165|Canada|Montreal|GloboTech Communications|
-|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|17|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|72.10.164.178|29129|Canada|Montreal|GloboTech Communications|
+|5|114.79.146.166|8080|India|Mumbai|D-VoiS Broadband Private Limited|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|203.150.128.138|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|67.43.227.227|21007|Canada|Montreal|GloboTech Communications|
+|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|12|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|72.10.164.178|2175|Canada|Montreal|GloboTech Communications|
+|17|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|18|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|19|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
