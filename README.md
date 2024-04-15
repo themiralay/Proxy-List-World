@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|6|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|12|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|14.103.26.198|8000|China|Beijing|BITNET|
-|15|181.204.41.147|3128|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|16|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|67.43.236.20|3905|Canada|Montreal|GloboTech Communications|
-|19|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|5|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|10|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
+|15|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|181.204.41.147|3128|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|19|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|20|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
 
 
 
