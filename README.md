@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|5|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|67.43.227.227|3545|Canada|Montreal|GloboTech Communications|
-|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|15|67.43.236.20|1257|Canada|Montreal|GloboTech Communications|
-|16|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|67.43.227.228|16371|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|3545|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|22099|Canada|Montreal|GloboTech Communications|
+|7|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
+|8|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|103.152.232.162|8181|Indonesia|Bekasi|PT Kingpolah Network Solutions|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
