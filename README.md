@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|6|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|72.10.160.172|31307|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|7091|Canada|Montreal|GloboTech Communications|
-|14|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|15|72.10.164.178|12855|Canada|Montreal|GloboTech Communications|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|45.188.164.3|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|19|64.225.8.118|10001|United States|Clifton|DigitalOcean, LLC|
-|20|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|8|103.252.169.158|8080|India|Nagpur|UCN CABLE NETWORK PVT. LTD|
+|9|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.160.172|31307|Canada|Montreal|GloboTech Communications|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|45.236.107.86|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|15|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|16|67.43.236.20|26045|Canada|Montreal|GloboTech Communications|
+|17|111.225.153.3|8089|China|Zhoutou|China Telecom|
+|18|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
+|19|159.65.176.77|10015|United States|Clifton|DigitalOcean, LLC|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
