@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|68.183.48.146|10017|United States|Clifton|DigitalOcean, LLC|
-|3|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|68.183.48.146|10017|United States|Clifton|DigitalOcean, LLC|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|68.183.48.146|10017|United States|Clifton|DigitalOcean, LLC|
-|11|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
-|16|46.35.84.120|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|17|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|18|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|9|68.183.48.146|10017|United States|Clifton|DigitalOcean, LLC|
+|10|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
+|11|190.97.233.18|999|Venezuela|Vigía|Viginet C.A|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|159.65.186.46|10015|United States|Clifton|DigitalOcean, LLC|
+|18|46.35.84.120|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|72.10.164.178|17221|Canada|Montreal|GloboTech Communications|
 
 
 
