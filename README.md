@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|67.43.236.20|7071|Canada|Montreal|GloboTech Communications|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 |9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|38.188.127.74|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|36.6.144.155|8089|China|Guangzhou|Chinanet|
-|14|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|19|67.43.227.226|13265|Canada|Montreal|GloboTech Communications|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|103.178.2.72|8080|Indonesia|Bandung|RSTNET|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|144.137.217.187|80|Australia|Sydney|Telstra Internet|
+|15|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 |20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 
 
