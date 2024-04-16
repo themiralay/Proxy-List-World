@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|46.4.242.214|1337|Germany|Bad Muenstereifel|Hetzner Online GmbH|
-|6|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|60.174.0.111|8089|China|Guangzhou|Chinanet|
-|9|72.10.160.170|19543|Canada|Montreal|GloboTech Communications|
-|10|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|64.225.8.118|10016|United States|Clifton|DigitalOcean, LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|72.10.164.178|12105|Canada|Montreal|GloboTech Communications|
-|19|114.231.42.204|8089|China|Nanjing|Chinanet|
-|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|46.4.242.214|1337|Germany|Bad Muenstereifel|Hetzner Online GmbH|
+|8|45.227.195.121|8082|Brazil|Maravilha|Mhnet Telecom|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|16|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|17|64.225.8.118|10016|United States|Clifton|DigitalOcean, LLC|
+|18|72.10.160.170|19543|Canada|Montreal|GloboTech Communications|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
 
 
 
