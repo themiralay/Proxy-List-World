@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|177.241.233.3|999|Mexico|Zacatecas City|Mega Cable, S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|7|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|9|109.200.177.107|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|12|67.43.227.227|24211|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|24211|Canada|Montreal|GloboTech Communications|
-|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|15|72.10.164.178|21417|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|72.10.164.178|21417|Canada|Montreal|GloboTech Communications|
-|19|180.191.255.147|8081|Philippines|General Trias|Globe Telecom|
-|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.8.68.48|3128|China|Shiyan|China Telecom|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|67.43.227.227|23845|Canada|Montreal|GloboTech Communications|
+|16|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|67.43.227.227|23845|Canada|Montreal|GloboTech Communications|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
