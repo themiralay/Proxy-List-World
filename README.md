@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|202.51.214.134|8080|Indonesia|Jakarta Pusat|PT. Sejahtera Globalindo|
-|6|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|190.119.68.141|999|Peru|Lima|America Movil Peru S.A.C.|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|72.10.164.178|7103|Canada|Montreal|GloboTech Communications|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|16|72.10.160.170|2749|Canada|Montreal|GloboTech Communications|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|19|67.43.227.227|24871|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7103|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.94|11967|Canada|Montreal|GloboTech Communications|
+|9|167.114.96.13|9300|Canada|Montreal|OVH SAS|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|72.10.164.178|9669|Canada|Montreal|GloboTech Communications|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|72.10.164.178|9669|Canada|Montreal|GloboTech Communications|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|59.92.211.63|3128|India|Belgaum|BSNL Internet|
+|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|103.114.97.98|8999|Bangladesh|Comilla|Skynet Chowmuhani|
 
 
 
