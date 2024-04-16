@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|103.31.232.243|8080|Indonesia|Bogor|PT. Usaha Adisanggoro|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|116.212.151.250|8080|Cambodia|Phnom Penh|MekongNet|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|12|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|13|124.105.21.141|8181|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.152.232.162|8181|Indonesia|Bekasi|PT Kingpolah Network Solutions|
-|17|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|18|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|19|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|12|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|13|138.121.142.154|8080|Costa Rica|San José|Navegalo S.A.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|103.146.185.138|1111|Indonesia|Sragen|YAMNET|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |20|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 
 
