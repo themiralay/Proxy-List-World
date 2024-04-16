@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|67.43.228.253|13017|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|24955|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|33035|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|72.10.160.170|11565|Canada|Montreal|GloboTech Communications|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|197.98.201.99|11114|South Africa|Johannesburg|Dimension Data|
-|19|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|20|197.98.201.99|11114|South Africa|Johannesburg|Dimension Data|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|9|16.171.225.77|3128|Sweden|Stockholm|Amazon.com|
+|10|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|11|67.43.227.228|24955|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.172|33035|Canada|Montreal|GloboTech Communications|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|197.98.201.99|11687|South Africa|Johannesburg|Dimension Data|
+|15|197.98.201.99|11687|South Africa|Johannesburg|Dimension Data|
+|16|197.98.201.99|11687|South Africa|Johannesburg|Dimension Data|
+|17|197.98.201.99|11687|South Africa|Johannesburg|Dimension Data|
+|18|197.98.201.99|11687|South Africa|Johannesburg|Dimension Data|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
