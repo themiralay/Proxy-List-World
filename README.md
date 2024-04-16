@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
 |6|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|11|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|67.43.236.20|5041|Canada|Montreal|GloboTech Communications|
-|18|89.58.48.220|10011|Germany|Nuremberg|netcup GmbH|
-|19|68.183.48.146|10005|United States|Clifton|DigitalOcean, LLC|
-|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|59.7.73.76|80|South Korea|Goyang-si|Korea Telecom|
+|10|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|111.225.152.147|8089|China|Zhoutou|China Telecom|
+|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|138.197.92.54|10009|United States|Clifton|DigitalOcean, LLC|
+|15|89.58.48.220|10011|Germany|Nuremberg|netcup GmbH|
+|16|212.200.39.210|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|19|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
