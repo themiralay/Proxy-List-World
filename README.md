@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|159.65.186.46|10003|United States|Clifton|DigitalOcean, LLC|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|20.244.106.115|3128|India|Pune|Microsoft Corporation|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|15|159.65.176.77|10014|United States|Clifton|DigitalOcean, LLC|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|72.10.160.90|1951|Canada|Montreal|GloboTech Communications|
-|18|159.65.186.46|10003|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.236.20|13861|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|13|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|14|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|112.78.134.132|7777|Indonesia|Jakarta|Biznet Networks|
+|18|159.65.176.77|10014|United States|Clifton|DigitalOcean, LLC|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
