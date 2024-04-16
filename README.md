@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|171.97.42.32|80|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|114.106.173.129|8089|China|Rongcheng|Chinanet|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|72.10.164.178|12645|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|22869|Canada|Montreal|GloboTech Communications|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|72.10.164.178|12645|Canada|Montreal|GloboTech Communications|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|11|103.165.234.46|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|12|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|185.19.4.22|3128|Ukraine|Kyiv|Triolan|
+|15|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|16|114.231.42.131|8089|China|Nanjing|Chinanet|
+|17|72.10.164.178|12645|Canada|Montreal|GloboTech Communications|
+|18|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|19|138.197.16.249|10003|United States|Clifton|DigitalOcean, LLC|
+|20|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
 
 
 
