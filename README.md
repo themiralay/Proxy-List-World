@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|116.107.243.151|64017|Vietnam|Hanoi|Viettel Corporation|
-|7|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|8|72.10.164.178|3201|Canada|Montreal|GloboTech Communications|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|45.11.95.165|5037|Russia|Moscow|Delta Ltd|
-|11|45.11.95.166|6014|Russia|Moscow|Delta Ltd|
-|12|45.11.95.165|5037|Russia|Moscow|Delta Ltd|
-|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|14|72.10.164.178|3201|Canada|Montreal|GloboTech Communications|
-|15|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|16|72.10.164.178|3201|Canada|Montreal|GloboTech Communications|
-|17|152.32.68.171|65535|Philippines|Taguig|Converge ICT Solution Inc|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|72.10.160.171|27201|Canada|Montreal|GloboTech Communications|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|6|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|7|116.107.243.151|64017|Vietnam|Hanoi|Viettel Corporation|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|72.10.164.178|8015|Canada|Montreal|GloboTech Communications|
+|10|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|45.11.95.166|6003|Russia|Moscow|Delta Ltd|
+|15|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|16|72.10.160.171|27201|Canada|Montreal|GloboTech Communications|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
