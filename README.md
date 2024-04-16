@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|2|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|1|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|165.22.36.164|10013|United States|Clifton|DigitalOcean, LLC|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|13|159.65.176.77|10011|United States|Clifton|DigitalOcean, LLC|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|11|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|103.87.169.189|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|13|165.22.36.164|10013|United States|Clifton|DigitalOcean, LLC|
 |14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|197.98.201.99|11294|South Africa|Johannesburg|Dimension Data|
-|17|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|197.98.201.99|11294|South Africa|Johannesburg|Dimension Data|
-|20|212.252.71.9|8080|Türkiye|Gerede|Superonline Iletisim Hizmetleri A.S.|
+|16|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|17|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
+|18|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
