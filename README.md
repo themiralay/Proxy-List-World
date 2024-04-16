@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|91.149.253.164|3128|Poland|Warsaw|Baxet Group Inc.|
 |9|72.10.160.171|21917|Canada|Montreal|GloboTech Communications|
-|10|91.149.253.164|3128|Poland|Warsaw|Baxet Group Inc.|
-|11|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|67.43.228.253|26021|Canada|Montreal|GloboTech Communications|
-|14|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|72.10.160.90|1829|Canada|Montreal|GloboTech Communications|
-|16|114.231.8.20|8089|China|Nanjing|Chinanet|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|72.10.164.178|3069|Canada|Montreal|GloboTech Communications|
+|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|103.25.210.102|33317|Indonesia|Purwokerto|TRANSDATA|
+|20|67.43.228.253|26021|Canada|Montreal|GloboTech Communications|
 
 
 
