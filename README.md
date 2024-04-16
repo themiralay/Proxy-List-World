@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|5|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|7|181.48.107.26|999|Colombia|Barranquilla|Telmex Colombia S.A.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|12|72.10.160.90|6921|Canada|Montreal|GloboTech Communications|
-|13|116.212.151.250|8080|Cambodia|Phnom Penh|MekongNet|
-|14|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|15|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|3|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|11|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|12|103.31.232.243|8080|Indonesia|Bogor|PT. Usaha Adisanggoro|
+|13|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|14|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|15|190.186.18.161|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |17|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|19|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
-|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|18|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|19|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|114.5.199.222|80|Indonesia|Padang|PT. INDOSAT Tbk|
 
 
 
