@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|60.174.0.245|8089|China|Guangzhou|Chinanet|
-|7|45.4.201.32|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|6|111.225.152.40|8089|China|Zhoutou|China Telecom|
+|7|60.174.0.245|8089|China|Guangzhou|Chinanet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|10|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|11|186.125.235.253|999|Argentina|Simoca|Telecom Argentina S.A.|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|72.10.164.178|20021|Canada|Montreal|GloboTech Communications|
-|14|111.225.152.40|8089|China|Zhoutou|China Telecom|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|138.197.16.249|10009|United States|Clifton|DigitalOcean, LLC|
-|17|165.22.36.164|10006|United States|Clifton|DigitalOcean, LLC|
-|18|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|19|167.172.238.6|10006|United States|Clifton|DigitalOcean, LLC|
-|20|112.209.52.190|9999|Philippines|Pulupandan|Philippine Long Distance Telephone Co.|
+|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|12|72.10.164.178|4763|Canada|Montreal|GloboTech Communications|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|167.172.238.6|10006|United States|Clifton|DigitalOcean, LLC|
+|15|165.22.36.164|10006|United States|Clifton|DigitalOcean, LLC|
+|16|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|68.183.48.146|10002|United States|Clifton|DigitalOcean, LLC|
+|19|138.197.16.249|10015|United States|Clifton|DigitalOcean, LLC|
+|20|183.88.241.167|8080|Thailand|Rayong|Triple T Broadband Public Company Limited|
 
 
 
