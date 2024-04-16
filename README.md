@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6422** proxies at the latest update. Usable proxies are below.
+> Scraper found **6465** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|62|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|472|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|467|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|257|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|305|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4671|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|116.107.243.151|64017|Vietnam|Hanoi|Viettel Corporation|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|61.129.2.212|8080|China|Beijing|CHINANET|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|72.10.160.92|19731|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|197.98.201.99|10919|South Africa|Johannesburg|Dimension Data|
-|17|197.98.201.99|10919|South Africa|Johannesburg|Dimension Data|
-|18|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|190.97.238.89|999|Venezuela|Maracaibo|Viginet C.A|
-|20|103.73.164.190|32650|Cambodia|Phnom Penh|TPLC Holdings Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|12|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|14|24.116.218.204|8080|United States|Pascagoula|CABLE ONE, INC.|
+|15|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|16|197.98.201.99|11208|South Africa|Johannesburg|Dimension Data|
+|17|167.172.238.6|10006|United States|Clifton|DigitalOcean, LLC|
+|18|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|19|197.98.201.99|11208|South Africa|Johannesburg|Dimension Data|
+|20|197.98.201.99|11208|South Africa|Johannesburg|Dimension Data|
 
 
 
