@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|111.225.152.217|8089|China|Zhoutou|China Telecom|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|14|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
-|15|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
-|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|17|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|20|103.6.223.2|3128|China|Baoshan|China Unicom|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|6|180.190.200.210|8085|Philippines|Lahug|Globe Telecom|
+|7|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|36.91.15.241|8080|Indonesia|Kartini|PT Telekomunikasi Indonesia|
+|13|114.106.172.167|8089|China|Rongcheng|Chinanet|
+|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|15|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|16|119.92.236.184|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|17|191.7.189.101|20183|Brazil|Maringá|FIBERCOM Telecomunicações|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
