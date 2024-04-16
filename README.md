@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|8|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|72.10.164.178|18017|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|72.10.164.178|3253|Canada|Montreal|GloboTech Communications|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|111.225.152.72|8089|China|Zhoutou|China Telecom|
-|19|67.43.227.226|13265|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|21589|Canada|Montreal|GloboTech Communications|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|111.225.152.72|8089|China|Zhoutou|China Telecom|
+|16|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|72.10.160.93|27385|Canada|Montreal|GloboTech Communications|
+|19|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
+|20|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
 
 
 
