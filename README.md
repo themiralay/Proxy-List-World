@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|222.120.150.196|80|South Korea|Paju|Korea Telecom|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|5|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|4|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|12|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|216.176.187.99|39865|United States|Los Angeles|Wowrack.com|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|222.174.178.122|4999|China|Xintai|Chinanet|
-|18|67.43.228.253|5249|Canada|Montreal|GloboTech Communications|
-|19|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|171.22.108.188|3128|United States|Seattle|Dedicated.com|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|188.132.222.70|8080|Turkey|Reyhanlı|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|103.152.232.162|8181|Indonesia|Bekasi|PT Kingpolah Network Solutions|
+|15|147.75.34.93|9443|The Netherlands|Amsterdam|Equinix Services|
+|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|72.10.160.90|7091|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.172|31307|Canada|Montreal|GloboTech Communications|
 
 
 
