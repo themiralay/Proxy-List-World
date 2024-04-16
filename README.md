@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|4|171.97.42.32|80|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|6|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|2|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|208.87.243.199|3128|United States|Walnut|Psychz Networks|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|11|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|103.165.234.46|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|138.197.16.249|10013|United States|Clifton|DigitalOcean, LLC|
-|19|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|20|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|8|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|13|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|103.1.93.55|80|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|16|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
+|19|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
