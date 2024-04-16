@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|7|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|89.250.88.12|3128|Kazakhstan|Oral|KazRENA|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|18|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|10|119.47.90.25|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|11|103.153.62.250|3125|Indonesia|Bekasi|IMEDIANET|
+|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|13|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|14|89.250.88.12|3128|Kazakhstan|Oral|KazRENA|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|20|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
