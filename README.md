@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|118.99.73.81|8080|Indonesia|Bandung|BIZNET|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|3|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|111.67.71.139|3888|Indonesia|Ciputat|PT. Hawk Teknologi Solusi|
-|8|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|5|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|8|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|72.10.164.178|24101|Canada|Montreal|GloboTech Communications|
-|15|118.117.189.17|8089|China|Muping|Chinanet|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|18|111.67.71.139|3888|Indonesia|Ciputat|PT. Hawk Teknologi Solusi|
+|19|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
