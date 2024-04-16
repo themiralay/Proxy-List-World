@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|34.154.161.152|80|Italy|Milan|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|80.78.65.230|8080|Albania|Tirana|ABCom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|10|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|121.236.236.33|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
-|14|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|72.10.164.178|10683|Canada|Montreal|GloboTech Communications|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|7|89.58.48.220|10009|Germany|Nuremberg|netcup GmbH|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|10|72.10.164.178|6495|Canada|Montreal|GloboTech Communications|
+|11|159.65.186.46|10003|United States|Clifton|DigitalOcean, LLC|
+|12|45.71.200.175|999|Ecuador|Atuntaqui|Negocios Y Telefonia Nedetel S.A|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|72.10.160.173|4523|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|67.43.236.20|18657|Canada|Montreal|GloboTech Communications|
+|19|188.132.222.28|8080|Turkey|Reyhanlı|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 
 
 
