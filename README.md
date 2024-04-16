@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|11|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|12|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|111.225.152.159|8089|China|Zhoutou|China Telecom|
-|15|64.225.8.132|10016|United States|Clifton|DigitalOcean, LLC|
-|16|38.123.220.83|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|19|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
-|20|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|67.205.189.239|154|United States|North Bergen|DigitalOcean, LLC|
+|11|91.210.228.148|8080|Russia|Mugreyevskiy|Westlan LTD|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|14|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
 
 
 
