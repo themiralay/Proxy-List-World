@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|3|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|5|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|104.129.199.32|8800|United States|Los Angeles|ZSCALER, INC.|
-|8|104.129.199.37|8800|United States|Los Angeles|ZSCALER, INC.|
-|9|67.43.227.227|30345|Canada|Montreal|GloboTech Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
-|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|15|111.225.153.170|8089|China|Zhoutou|China Telecom|
-|16|114.232.109.177|8089|China|Nanjing|Chinanet|
-|17|138.197.92.54|10012|United States|Clifton|DigitalOcean, LLC|
-|18|117.72.39.51|3128|China|Beijing|JDCOM|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
+|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|218.153.133.202|8080|South Korea|Anyang-si|Korea Telecom|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|104.129.199.32|8800|United States|Los Angeles|ZSCALER, INC.|
+|11|104.129.199.37|8800|United States|Los Angeles|ZSCALER, INC.|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|67.43.227.227|30345|Canada|Montreal|GloboTech Communications|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |19|67.43.236.20|4083|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|4083|Canada|Montreal|GloboTech Communications|
+|20|110.235.129.14|1337|Philippines|Manila|RADIUS TELECOMS, INC.|
 
 
 
