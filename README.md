@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|152.54.5.26|8080|United States|Chapel Hill|MCNC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|14|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|15|67.43.227.227|3201|Canada|Montreal|GloboTech Communications|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|170.246.85.109|50991|Ecuador|Cuenca|Servicable Cia. Ltda.|
-|18|72.10.164.178|5151|Canada|Montreal|GloboTech Communications|
-|19|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|146.59.93.27|3128|Poland|Warsaw|OVH SAS|
+|12|197.98.201.99|12016|South Africa|Johannesburg|Dimension Data|
+|13|197.98.201.99|12016|South Africa|Johannesburg|Dimension Data|
+|14|72.10.164.178|5151|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|197.98.201.99|12016|South Africa|Johannesburg|Dimension Data|
+|17|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|64.225.8.118|10010|United States|Clifton|DigitalOcean, LLC|
+|20|197.98.201.99|12016|South Africa|Johannesburg|Dimension Data|
 
 
 
