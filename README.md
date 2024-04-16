@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|36.89.16.186|8866|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|5|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
-|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|9|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
-|10|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
-|11|111.225.153.202|8089|China|Zhoutou|China Telecom|
-|12|67.43.227.227|3137|Canada|Montreal|GloboTech Communications|
-|13|103.6.223.2|3128|China|Baoshan|China Unicom|
-|14|72.10.164.178|29395|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|1181|Canada|Montreal|GloboTech Communications|
-|16|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|17|72.10.160.90|11145|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|3137|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|64.225.8.132|10013|United States|Clifton|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.189.96.38|8080|Indonesia|Sragen|Lintas Data Prima, PT|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|85.94.24.29|1488|Russia|Moscow|PJSC Rostelecom|
+|12|67.43.228.253|1181|Canada|Montreal|GloboTech Communications|
+|13|111.225.153.95|8089|China|Zhoutou|China Telecom|
+|14|111.225.152.73|8089|China|Zhoutou|China Telecom|
+|15|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|16|72.10.164.178|18359|Canada|Montreal|GloboTech Communications|
+|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|188.130.240.136|8080|Russia|Pskov|Pskovline Ltd.|
+|20|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
 
 
 
