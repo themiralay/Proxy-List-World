@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|171.97.42.32|80|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|171.97.42.32|80|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|72.10.164.178|21081|Canada|Montreal|GloboTech Communications|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
 |12|103.6.223.2|3128|China|Baoshan|China Unicom|
-|13|114.231.42.131|8089|China|Nanjing|Chinanet|
-|14|114.231.45.241|8089|China|Nanjing|Chinanet|
-|15|67.43.236.20|2223|Canada|Montreal|GloboTech Communications|
+|13|114.232.110.86|8089|China|Nanjing|Chinanet|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|72.10.164.178|29599|Canada|Montreal|GloboTech Communications|
 |16|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|19|114.232.110.86|8089|China|Nanjing|Chinanet|
-|20|103.8.68.46|3128|China|Shiyan|China Telecom|
+|17|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|18|64.225.8.118|10016|United States|Clifton|DigitalOcean, LLC|
+|19|103.8.68.48|3128|China|Shiyan|China Telecom|
+|20|114.231.42.131|8089|China|Nanjing|Chinanet|
 
 
 
