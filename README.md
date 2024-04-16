@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.154.87.12|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|103.191.196.108|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.154.87.12|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
 |11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|17|72.10.160.170|7499|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|6605|Canada|Montreal|GloboTech Communications|
-|19|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|72.10.160.170|7499|Canada|Montreal|GloboTech Communications|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|165.22.36.164|10013|United States|Clifton|DigitalOcean, LLC|
 
 
 
