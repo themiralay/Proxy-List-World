@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|68.183.48.146|10002|United States|Clifton|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|5|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|68.183.48.146|10002|United States|Clifton|DigitalOcean, LLC|
-|9|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|11|103.152.232.162|8181|Indonesia|Bekasi|PT Kingpolah Network Solutions|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|14|111.225.152.105|8089|China|Zhoutou|China Telecom|
-|15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|8|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|9|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|10|211.227.94.112|3128|South Korea|Gangbuk-gu|Korea Telecom|
+|11|212.200.39.210|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|12|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
+|13|114.103.80.34|8089|China|Shenzhen|Chinanet|
+|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|81.169.204.107|8080|Germany|Rostock|Strato AG|
-|18|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|19|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
-|20|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|17|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
+|18|72.10.164.178|10683|Canada|Montreal|GloboTech Communications|
+|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 
 
 
