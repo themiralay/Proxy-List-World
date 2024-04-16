@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|103.164.214.122|8080|Indonesia|Kedungdoro|PT iForte Global Internet|
-|6|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|7|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|5|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|6|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |9|103.199.214.154|8080|India|Ambāla|RailTel Corporation|
-|10|111.68.117.200|4995|Indonesia|Jakarta|Varnion Technology Semesta, PT|
-|11|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|12|201.71.3.59|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|13|124.6.155.170|3130|Philippines|Taguig|Globe Telecom|
-|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|15|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
-|18|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|19|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
-|20|103.247.23.65|2022|Indonesia|Bekasi|PT wifian Solution|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|181.209.78.75|999|Argentina|Daireaux|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|13|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|14|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
