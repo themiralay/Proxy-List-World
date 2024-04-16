@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|181.48.107.26|999|Colombia|Barranquilla|Telmex Colombia S.A.|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|14|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|223.247.47.187|8089|China|Rongcheng|Chinanet|
+|1|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|19|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
