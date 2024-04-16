@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|10|114.106.173.237|8089|China|Rongcheng|Chinanet|
-|11|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|67.43.236.20|32239|Canada|Montreal|GloboTech Communications|
-|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|17|67.43.227.227|15503|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|1103|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|1103|Canada|Montreal|GloboTech Communications|
-|20|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|2|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|43.252.107.202|8089|Indonesia|Kudus|PT Lintas Data Prima|
+|6|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|11|114.106.173.237|8089|China|Rongcheng|Chinanet|
+|12|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|13|45.230.169.9|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|103.159.194.249|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
+|17|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|18|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|19|72.10.160.93|6351|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|1103|Canada|Montreal|GloboTech Communications|
 
 
 
