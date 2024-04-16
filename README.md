@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|46.4.242.214|1337|Germany|Bad Muenstereifel|Hetzner Online GmbH|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|119.76.142.196|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|2|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|14|103.186.90.41|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|15|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.227.227|24635|Canada|Montreal|GloboTech Communications|
-|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|19|72.10.160.90|9203|Canada|Montreal|GloboTech Communications|
-|20|89.58.48.220|10002|Germany|Nuremberg|netcup GmbH|
+|6|46.4.242.214|1337|Germany|Bad Muenstereifel|Hetzner Online GmbH|
+|7|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|190.83.15.241|999|Ecuador|Zamora|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
+|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
 
 
 
