@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|9|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|5|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|14|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|15|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|16|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|17|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.164.178|18003|Canada|Montreal|GloboTech Communications|
-|20|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|72.10.164.178|8767|Canada|Montreal|GloboTech Communications|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|118.69.233.165|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
