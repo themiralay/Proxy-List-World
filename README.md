@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
-|14|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
-|15|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
-|16|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
-|17|67.43.228.253|15865|Canada|Montreal|GloboTech Communications|
-|18|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
-|19|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
-|20|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|13|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|197.98.201.99|11294|South Africa|Johannesburg|Dimension Data|
+|16|197.98.201.99|11294|South Africa|Johannesburg|Dimension Data|
+|17|197.98.201.99|11294|South Africa|Johannesburg|Dimension Data|
+|18|197.98.201.99|11294|South Africa|Johannesburg|Dimension Data|
+|19|197.98.201.99|11294|South Africa|Johannesburg|Dimension Data|
+|20|197.98.201.99|11294|South Africa|Johannesburg|Dimension Data|
 
 
 
