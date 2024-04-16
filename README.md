@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|72.10.164.178|15105|Canada|Montreal|GloboTech Communications|
-|11|114.103.80.141|8089|China|Shenzhen|Chinanet|
-|12|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|165.22.36.164|10003|United States|Clifton|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.141.109.174|1111|Indonesia|Setro|Data Buana Nusantara|
+|9|103.133.27.86|8085|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|10|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|118.99.127.212|8080|Indonesia|Malang|Biznet Metronet|
+|12|103.56.206.65|4995|Indonesia|Cianjur|Argon Data Communication|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|110.78.149.205|8080|Thailand|Bangkok|CAT-BB|
+|15|72.10.164.178|8743|Canada|Montreal|GloboTech Communications|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 |17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|65.109.239.59|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|67.43.236.22|8323|Canada|Montreal|GloboTech Communications|
-|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.160.170|3001|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
