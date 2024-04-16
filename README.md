@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|72.10.164.178|1081|Canada|Montreal|GloboTech Communications|
-|9|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|10|72.10.164.178|1081|Canada|Montreal|GloboTech Communications|
-|11|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|103.175.46.194|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
-|19|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|20|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|8|72.10.164.178|3387|Canada|Montreal|GloboTech Communications|
+|9|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|16|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
 
 
 
