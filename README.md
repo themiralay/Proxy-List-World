@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|191.242.111.195|8080|Brazil|Rio de Janeiro|V W INTERNET|
+|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|138.197.16.249|10003|United States|Clifton|DigitalOcean, LLC|
-|12|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
-|13|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
-|14|72.10.164.178|13677|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|12167|Canada|Montreal|GloboTech Communications|
-|16|159.65.176.77|10014|United States|Clifton|DigitalOcean, LLC|
-|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|20|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|72.10.164.178|13677|Canada|Montreal|GloboTech Communications|
+|12|159.65.176.77|10014|United States|Clifton|DigitalOcean, LLC|
+|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|159.65.176.77|10014|United States|Clifton|DigitalOcean, LLC|
+|16|67.43.228.253|17119|Canada|Montreal|GloboTech Communications|
+|17|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|159.65.176.77|10014|United States|Clifton|DigitalOcean, LLC|
+|19|103.124.137.150|20|Indonesia|Jakarta|Global Media Data Prima|
+|20|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
 
 
 
