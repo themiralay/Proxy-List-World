@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|89.250.88.12|3128|Kazakhstan|Oral|KazRENA|
+|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|10|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |13|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|14|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|34.154.161.152|80|Italy|Milan|Google LLC|
-|16|112.78.150.133|8080|Indonesia|Jakarta|Biznet Networks|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|14|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|16|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|19|34.154.161.152|80|Italy|Milan|Google LLC|
+|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 
 
 
