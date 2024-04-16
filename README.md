@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|62.3.71.255|8118|United Kingdom|Llandrindod Wells|Zen Internet Ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|103.247.21.98|8080|Indonesia|Bekasi|PT wifian Solution|
-|7|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|186.215.196.50|3128|Brazil|Recife|Vivo|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|12|103.169.135.80|8080|Indonesia|Tulungagung|PT Neo Santara Solusi|
-|13|67.43.227.226|5313|Canada|Montreal|GloboTech Communications|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|16|103.152.232.128|8181|Indonesia|Bekasi|PT Kingpolah Network Solutions|
-|17|72.10.164.178|2847|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|2847|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|7831|Canada|Montreal|GloboTech Communications|
-|20|144.137.217.187|80|Australia|Sydney|Telstra Internet|
+|4|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|5|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|67.43.227.226|5313|Canada|Montreal|GloboTech Communications|
+|8|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|9|64.225.8.132|10003|United States|Clifton|DigitalOcean, LLC|
+|10|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|72.10.164.178|2847|Canada|Montreal|GloboTech Communications|
+|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|114.67.96.47|45212|China|Chaowai|China Unicom|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|138.121.161.121|8290|Argentina|Rosario|WICORP SA|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
