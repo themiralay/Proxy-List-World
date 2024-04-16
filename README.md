@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|134.35.0.67|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|7|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|8|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|10|72.10.160.90|18127|Canada|Montreal|GloboTech Communications|
-|11|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|46.166.165.33|4000|Lithuania|Jonava|Cherry Servers|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|183.165.244.79|8089|China|Shenzhen|Chinanet|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|7|72.10.164.178|6243|Canada|Montreal|GloboTech Communications|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.160.90|27563|Canada|Montreal|GloboTech Communications|
+|13|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|103.105.126.18|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
