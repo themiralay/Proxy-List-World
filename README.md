@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|4|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|9|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|67.43.228.253|1741|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|20|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|14.243.165.138|4001|Vietnam|Da Nang|VNPT|
+|6|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|10|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|17|45.58.52.5|80|United States|Dallas|HostUS|
+|18|67.43.228.253|1741|Canada|Montreal|GloboTech Communications|
+|19|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
