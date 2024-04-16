@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7091** proxies at the latest update. Usable proxies are below.
+> Scraper found **7092** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|69|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|70|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|817|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|416|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|6|103.87.169.198|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|7|202.12.80.14|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|8|103.41.88.33|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|15|117.121.204.248|9797|Indonesia|Purwokerto|PT Sekawan Global Komunika|
-|16|67.43.228.251|31595|Canada|Montreal|GloboTech Communications|
-|17|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
-|18|72.10.164.178|13115|Canada|Montreal|GloboTech Communications|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|174.108.200.2|8080|United States|Waxhaw|Road Runner|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|7|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|8|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
+|9|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|12|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|37.53.103.4|3128|Ukraine|Ternivka|UKRTELECOM|
+|16|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|19|68.183.48.146|10005|United States|Clifton|DigitalOcean, LLC|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
