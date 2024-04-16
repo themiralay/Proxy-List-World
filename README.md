@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|4|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|4|167.172.238.6|10012|United States|Clifton|DigitalOcean, LLC|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|59.92.211.63|3128|India|Belgaum|BSNL Internet|
-|12|181.204.41.147|3128|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|13|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|16|176.211.113.246|80|Russia|Novosibirsk|PJSC Rostelecom|
-|17|67.43.227.228|20933|Canada|Montreal|GloboTech Communications|
-|18|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
-|19|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|20|67.43.227.227|25871|Canada|Montreal|GloboTech Communications|
+|15|59.92.211.63|3128|India|Belgaum|BSNL Internet|
+|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|67.43.227.227|2679|Canada|Montreal|GloboTech Communications|
+|18|167.172.238.6|10012|United States|Clifton|DigitalOcean, LLC|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|67.43.236.20|21245|Canada|Montreal|GloboTech Communications|
 
 
 
