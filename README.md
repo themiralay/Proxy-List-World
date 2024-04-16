@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|134.35.220.71|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|7|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|67.43.228.250|29221|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|24765|Canada|Montreal|GloboTech Communications|
-|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|17|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|18|114.232.109.168|8089|China|Nanjing|Chinanet|
-|19|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.211.196.230|80|United Kingdom|London|Alibaba (US) Technology Co., Ltd.|
+|5|59.92.211.63|3128|India|Belgaum|BSNL Internet|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|103.193.144.111|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|11|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
+|12|67.43.236.20|4731|Canada|Montreal|GloboTech Communications|
+|13|134.35.220.71|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|14|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|16|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
+|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 
 
 
