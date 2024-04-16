@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|177.240.20.117|999|Mexico|Maravatío|Mega Cable, S.A. de C.V.|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.115.242.192|8080|Bangladesh|Dohār|Md. Rashed Mollah|
-|8|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|9|72.10.160.90|24101|Canada|Montreal|GloboTech Communications|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|15|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|103.111.207.138|80|Indonesia|South Tangerang|PT Cyberindo Aditama|
-|18|67.43.227.228|1551|Canada|Montreal|GloboTech Communications|
-|19|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|20|67.43.236.20|9163|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
 
 
 
