@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|4|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|146.196.110.13|3888|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|10|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|11|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
-|12|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|13|110.78.81.107|8080|Thailand|Si Maha Phot|CAT Telecom Public Company Limited|
-|14|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|15|72.10.160.90|8849|Canada|Montreal|GloboTech Communications|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|64.225.8.132|10001|United States|Clifton|DigitalOcean, LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|138.121.142.154|8080|Costa Rica|San José|Navegalo S.A.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.70.236.150|999|Ecuador|Puebloviejo|Ufinet Panama S.A.|
+|9|103.169.198.214|8080|Indonesia|Palembang|PT. GLOBAL INAYAH ELEKTRINDO|
+|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|11|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|12|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|64.225.8.132|10013|United States|Clifton|DigitalOcean, LLC|
+|17|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|18|138.121.142.154|8080|Costa Rica|San José|Navegalo S.A.|
+|19|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|20|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
 
 
 
