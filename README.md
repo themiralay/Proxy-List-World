@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|67.43.228.254|23003|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|6737|Canada|Montreal|GloboTech Communications|
-|15|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|103.210.120.58|8080|Indonesia|Palu|JNETWORK|
+|10|61.129.2.212|8080|China|Beijing|CHINANET|
+|11|72.10.164.178|6737|Canada|Montreal|GloboTech Communications|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|72.10.160.90|13643|Canada|Montreal|GloboTech Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|103.234.31.66|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|197.98.201.99|11208|South Africa|Johannesburg|Dimension Data|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|103.174.108.42|3128|India|Akbarpur|Entire Cable And Broadband Opc Private Limited|
 
 
 
