@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|6|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|7|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |14|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|167.114.96.13|9300|Canada|Montreal|OVH SAS|
-|17|72.10.164.178|5343|Canada|Montreal|GloboTech Communications|
-|18|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
-|19|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|72.10.164.178|22115|Canada|Montreal|GloboTech Communications|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|223.215.177.113|8089|China|Rongcheng|Chinanet|
+|20|138.197.92.54|10004|United States|Clifton|DigitalOcean, LLC|
 
 
 
