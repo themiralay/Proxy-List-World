@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|118.99.73.81|8080|Indonesia|Bandung|BIZNET|
-|3|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|118.99.73.81|8080|Indonesia|Bandung|BIZNET|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|9|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
 |10|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|114.67.96.47|45212|China|Chaowai|China Unicom|
-|15|200.125.169.194|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|20|114.231.41.199|8089|China|Nanjing|Chinanet|
+|11|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|8.211.196.230|80|United Kingdom|London|Alibaba (US) Technology Co., Ltd.|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|15|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|103.172.23.82|8080|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
+|18|114.231.82.94|8089|China|Nanjing|Chinanet|
+|19|223.247.47.121|8089|China|Rongcheng|Chinanet|
+|20|170.246.85.109|50991|Ecuador|Cuenca|Servicable Cia. Ltda.|
 
 
 
