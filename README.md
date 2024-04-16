@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|3|62.3.71.255|8118|United Kingdom|Llandrindod Wells|Zen Internet Ltd|
-|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.160.223.225|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
-|8|178.130.120.20|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|1.32.59.217|47045|Malaysia|Cheras|TM TECHNOLOGY SERVICES SDN BHD|
-|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|12|111.225.152.217|8089|China|Zhoutou|China Telecom|
-|13|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|167.172.238.6|10012|United States|Clifton|DigitalOcean, LLC|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|159.65.176.77|10011|United States|Clifton|DigitalOcean, LLC|
-|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|19|103.247.21.98|8080|Indonesia|Bekasi|PT wifian Solution|
-|20|103.117.194.69|8080|Bangladesh|Rājāfair|DigiCon Telecommunication Ltd|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|178.130.120.20|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
+|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|167.172.238.6|10012|United States|Clifton|DigitalOcean, LLC|
+|14|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
