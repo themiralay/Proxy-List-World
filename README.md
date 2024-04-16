@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.210.120.58|8080|Indonesia|Palu|JNETWORK|
-|6|67.43.228.253|6551|Canada|Montreal|GloboTech Communications|
-|7|67.43.228.253|6551|Canada|Montreal|GloboTech Communications|
-|8|27.147.219.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|67.43.227.227|13351|Canada|Montreal|GloboTech Communications|
-|10|186.215.196.50|3128|Brazil|Recife|Vivo|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|16|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
-|17|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
-|18|114.231.45.87|8089|China|Nanjing|Chinanet|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|6|103.156.70.38|8084|Indonesia|Banyuwangi|PT Indo Access Semesta|
+|7|67.43.228.253|8645|Canada|Montreal|GloboTech Communications|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|67.43.227.227|32371|Canada|Montreal|GloboTech Communications|
+|14|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
+|15|14.103.26.198|8000|China|Beijing|BITNET|
+|16|197.98.201.99|11294|South Africa|Johannesburg|Dimension Data|
+|17|197.98.201.99|11294|South Africa|Johannesburg|Dimension Data|
+|18|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
