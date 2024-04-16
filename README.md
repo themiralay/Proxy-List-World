@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|116.107.243.151|64017|Vietnam|Hanoi|Viettel Corporation|
-|7|213.32.104.189|8080|Spain|Madrid|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|5|116.107.243.151|64017|Vietnam|Hanoi|Viettel Corporation|
+|6|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|9|202.180.21.203|8009|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|111.225.153.3|8089|China|Zhoutou|China Telecom|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|45.11.95.165|5038|Russia|Moscow|Delta Ltd|
-|18|111.225.153.157|8089|China|Zhoutou|China Telecom|
-|19|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
-|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|103.152.232.58|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|111.225.153.130|8089|China|Zhoutou|China Telecom|
 
 
 
