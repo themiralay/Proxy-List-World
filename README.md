@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |7|72.10.160.174|4831|Canada|Montreal|GloboTech Communications|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.120.175.243|9191|Indonesia|Bekasi|PT. Eka Mas Republik|
-|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|12|72.10.160.91|1911|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.21|6045|Canada|Montreal|GloboTech Communications|
-|14|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|72.10.164.178|22837|Canada|Montreal|GloboTech Communications|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|197.98.201.99|10008|South Africa|Johannesburg|Dimension Data|
-|20|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|8|67.43.227.228|15385|Canada|Montreal|GloboTech Communications|
+|9|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|10|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|11|72.10.164.178|22837|Canada|Montreal|GloboTech Communications|
+|12|197.98.201.99|30001|South Africa|Johannesburg|Dimension Data|
+|13|197.98.201.99|30001|South Africa|Johannesburg|Dimension Data|
+|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|197.98.201.99|30001|South Africa|Johannesburg|Dimension Data|
+|18|114.231.8.112|8089|China|Nanjing|Chinanet|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|197.98.201.99|30001|South Africa|Johannesburg|Dimension Data|
 
 
 
