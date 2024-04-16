@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|62.3.71.255|8118|United Kingdom|Llandrindod Wells|Zen Internet Ltd|
-|3|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|2|45.233.169.40|9994|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|3|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|111.225.152.55|8089|China|Zhoutou|China Telecom|
 |11|121.236.239.178|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
-|12|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|13|111.225.152.55|8089|China|Zhoutou|China Telecom|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|67.43.228.253|13051|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|204.199.81.46|999|Colombia|Santiago de Cali|CTL Colombia|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|178.130.120.20|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.160.90|10511|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|10573|Canada|Montreal|GloboTech Communications|
+|17|34.154.161.152|80|Italy|Milan|Google LLC|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
