@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
 |9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|103.8.68.46|3128|China|Shiyan|China Telecom|
-|11|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
-|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|72.10.160.92|2789|Canada|Montreal|GloboTech Communications|
+|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|16|180.232.171.210|8080|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|121.236.236.57|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
-|20|89.58.48.220|10005|Germany|Nuremberg|netcup GmbH|
+|15|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|103.8.68.46|3128|China|Shiyan|China Telecom|
+|17|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|18|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
+|19|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|20|72.10.160.92|2789|Canada|Montreal|GloboTech Communications|
 
 
 
