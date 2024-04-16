@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|10|72.10.164.178|19239|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|13477|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.164.178|19239|Canada|Montreal|GloboTech Communications|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|67.43.227.228|11077|Canada|Montreal|GloboTech Communications|
-|16|111.225.153.99|8089|China|Zhoutou|China Telecom|
-|17|111.225.152.234|8089|China|Zhoutou|China Telecom|
-|18|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|19|67.43.236.20|25249|Canada|Montreal|GloboTech Communications|
-|20|103.247.23.65|2022|Indonesia|Bekasi|PT wifian Solution|
+|8|72.10.164.178|27165|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|72.10.164.178|27165|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|13477|Canada|Montreal|GloboTech Communications|
+|14|69.160.223.225|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
+|15|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|16|186.215.87.194|6032|Brazil|Campo Grande|TELEFÔNICA BRASIL S.A|
+|17|34.154.161.152|80|Italy|Milan|Google LLC|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 
 
 
