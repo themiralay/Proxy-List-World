@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.10.101.15|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
-|2|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|134.35.22.37|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|10|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|103.154.113.90|8080|Indonesia|Jakarta|MORATELINDONAP|
-|14|67.43.236.20|2443|Canada|Montreal|GloboTech Communications|
-|15|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|134.35.22.37|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|122.10.101.15|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
+|19|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|20|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
