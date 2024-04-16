@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|3|187.134.199.229|80|Mexico|Ahome|Uninet S.A. de C.V.|
-|4|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
+|3|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|5|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|6|187.134.199.229|80|Mexico|Ahome|Uninet S.A. de C.V.|
 |7|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|8|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
-|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|10|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
 |12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|64.225.8.132|10013|United States|Clifton|DigitalOcean, LLC|
-|15|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|190.14.225.15|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|111.225.153.3|8089|China|Zhoutou|China Telecom|
-|20|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|16|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|20|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
 
 
 
