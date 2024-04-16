@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|159.65.176.77|10016|United States|Clifton|DigitalOcean, LLC|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|67.43.236.20|8937|Canada|Montreal|GloboTech Communications|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|72.10.160.90|11755|Canada|Montreal|GloboTech Communications|
-|13|181.57.131.122|8080|Colombia|Cartagena|Telmex Colombia S.A.|
-|14|72.10.160.170|18549|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|17865|Canada|Montreal|GloboTech Communications|
-|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|67.43.228.253|2281|Canada|Montreal|GloboTech Communications|
-|18|89.58.48.220|10012|Germany|Nuremberg|netcup GmbH|
-|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|8|72.10.164.178|17865|Canada|Montreal|GloboTech Communications|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|12|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
+|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|138.197.92.54|10008|United States|Clifton|DigitalOcean, LLC|
+|15|67.43.236.20|25269|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
+|19|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|89.58.48.220|10012|Germany|Nuremberg|netcup GmbH|
 
 
 
