@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
-|2|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
-|5|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|7|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|67.43.236.20|9127|Canada|Montreal|GloboTech Communications|
-|13|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
-|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|18|45.236.106.245|999|Ecuador|Cuenca|Eliana Vanessa Morocho Oña|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|184.66.245.51|3128|Canada|Victoria|Shaw Communications Inc.|
+|3|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|4|103.144.181.74|80|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|5|37.53.103.4|3128|Ukraine|Ternivka|UKRTELECOM|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|67.43.236.20|33041|Canada|Montreal|GloboTech Communications|
+|9|123.200.18.155|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|117.57.93.83|8089|China|Shenzhen|Chinanet|
+|11|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|103.180.122.201|1080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |19|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|20|103.118.175.189|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
