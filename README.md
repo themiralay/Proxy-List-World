@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|3|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|4|72.10.160.90|28549|Canada|Montreal|GloboTech Communications|
 |5|72.10.160.90|28549|Canada|Montreal|GloboTech Communications|
-|6|119.92.236.184|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|7|72.10.160.90|28549|Canada|Montreal|GloboTech Communications|
-|8|45.11.95.166|6015|Russia|Moscow|Delta Ltd|
-|9|147.75.34.93|9443|The Netherlands|Amsterdam|Equinix Services|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|72.10.160.90|28549|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.92|21159|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|121.236.236.33|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
-|16|123.182.58.58|8089|China|Zhangjiakou|China Telecom|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|147.75.34.93|9443|The Netherlands|Amsterdam|Equinix Services|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|72.10.160.92|21159|Canada|Montreal|GloboTech Communications|
+|12|197.98.201.66|8800|South Africa|Johannesburg|Dimension Data|
+|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|17|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|103.159.194.97|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
+|20|103.6.223.2|3128|China|Baoshan|China Unicom|
 
 
 
