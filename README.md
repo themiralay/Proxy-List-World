@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|193.111.124.101|7777|Indonesia|Jakarta|CV Atha Media Prima|
+|3|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.187.111.81|84|India|Hyderabad|Neolog Broadband Services|
 |6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|103.137.45.74|21758|India|Pūrna|Wsnl Broadband Private Limited|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|89.58.48.220|10011|Germany|Nuremberg|netcup GmbH|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|67.43.236.20|20031|Canada|Montreal|GloboTech Communications|
-|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|18|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|103.25.210.102|33317|Indonesia|Purwokerto|TRANSDATA|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|58.147.186.214|3125|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
+|12|89.58.48.220|10014|Germany|Nuremberg|netcup GmbH|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|88.250.60.33|8080|Turkey|Erzurum|TurkTelecom|
+|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|16|67.43.227.229|2523|Canada|Montreal|GloboTech Communications|
+|17|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|67.43.236.20|20031|Canada|Montreal|GloboTech Communications|
+|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
