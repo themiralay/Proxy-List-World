@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|103.153.62.161|8080|Indonesia|Bekasi|IMEDIANET|
-|4|167.114.96.13|9300|Canada|Montreal|OVH SAS|
-|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|8|114.103.80.77|8089|China|Shenzhen|Chinanet|
-|9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|72.10.164.178|8363|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
-|15|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|72.10.164.178|8363|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.252|3303|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|8363|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|8363|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|18657|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|68.183.48.146|10012|United States|Clifton|DigitalOcean, LLC|
+|3|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|4|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|6|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|7|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|8|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|10|72.10.164.178|6495|Canada|Montreal|GloboTech Communications|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|67.43.228.252|3303|Canada|Montreal|GloboTech Communications|
+|13|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|68.183.48.146|10012|United States|Clifton|DigitalOcean, LLC|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|114.103.80.77|8089|China|Shenzhen|Chinanet|
+|18|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
