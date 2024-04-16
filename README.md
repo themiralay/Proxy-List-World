@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|4|103.152.232.162|8181|Indonesia|Bekasi|PT Kingpolah Network Solutions|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|4|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 |5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|7|89.250.88.12|3128|Kazakhstan|Oral|KazRENA|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|46.52.192.171|3128|Russia|Moscow|Krasnoyarsk|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|15|60.174.0.16|8089|China|Guangzhou|Chinanet|
-|16|72.128.133.154|16099|United States|Pflugerville|Charter Communications|
-|17|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
-|18|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|19|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|20|123.182.59.61|8089|China|Zhangjiakou|China Telecom|
+|9|103.152.232.162|8181|Indonesia|Bekasi|PT Kingpolah Network Solutions|
+|10|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|11|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|12|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|46.52.192.171|3128|Russia|Moscow|Krasnoyarsk|
+|20|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
 
 
 
