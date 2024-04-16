@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|67.43.227.227|21589|Canada|Montreal|GloboTech Communications|
 |8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|67.43.227.227|21589|Canada|Montreal|GloboTech Communications|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|12|197.98.201.99|12016|South Africa|Johannesburg|Dimension Data|
-|13|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|91.185.4.132|8080|Kazakhstan|Astana|TTC|
-|15|197.98.201.99|12016|South Africa|Johannesburg|Dimension Data|
-|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|167.172.238.6|10006|United States|Clifton|DigitalOcean, LLC|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|20|197.98.201.99|12016|South Africa|Johannesburg|Dimension Data|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|197.98.201.99|10919|South Africa|Johannesburg|Dimension Data|
+|13|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|197.98.201.99|10919|South Africa|Johannesburg|Dimension Data|
+|15|197.98.201.99|10919|South Africa|Johannesburg|Dimension Data|
+|16|197.98.201.100|10006|South Africa|Johannesburg|Dimension Data|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|36.6.145.236|8089|China|Guangzhou|Chinanet|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|222.120.150.216|80|South Korea|Paju|Korea Telecom|
 
 
 
