@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|5|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|8|112.109.16.51|8080|Indonesia|Surabaya|DATAUTAMANET|
-|9|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|12|1.32.59.217|47045|Malaysia|Cheras|TM TECHNOLOGY SERVICES SDN BHD|
-|13|38.156.235.35|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|14|103.152.232.162|8181|Indonesia|Bekasi|PT Kingpolah Network Solutions|
-|15|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
-|20|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|2|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|6|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|8|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|45.227.195.121|8082|Brazil|Maravilha|Mhnet Telecom|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|38.156.235.35|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|72.10.164.178|29789|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|14197|Canada|Montreal|GloboTech Communications|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|178.130.120.20|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
 
 
 
