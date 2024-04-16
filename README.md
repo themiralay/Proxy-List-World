@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|3|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|4|201.77.108.64|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
 |5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|114.106.136.116|8089|China|Rongcheng|Chinanet|
-|12|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|13|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|64.225.8.118|10000|United States|Clifton|DigitalOcean, LLC|
-|15|103.179.27.133|8080|Indonesia|Menggala|PT Primadona Media Digitalindo|
-|16|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|119.92.236.184|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|6|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|7|45.236.106.243|999|Ecuador|Cuenca|Eliana Vanessa Morocho Oña|
+|8|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|200.125.185.226|999|United States|Reston|Gold Data C.A|
+|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|103.167.170.210|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|18|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|19|36.66.171.215|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
