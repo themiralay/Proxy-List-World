@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|2|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|3|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|8|64.225.8.132|10001|United States|Clifton|DigitalOcean, LLC|
-|9|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|8|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|12|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|14|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
-|15|67.43.236.20|7461|Canada|Montreal|GloboTech Communications|
-|16|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|72.10.160.91|31893|Canada|Montreal|GloboTech Communications|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|12|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|88.255.217.57|8080|Turkey|Istanbul|TurkTelekom|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|17|181.209.116.20|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|159.65.176.77|10014|United States|Clifton|DigitalOcean, LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
