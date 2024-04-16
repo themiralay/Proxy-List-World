@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|3|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|9|200.39.120.44|999|Mexico|Aguascalientes|Marcatel Com, S.A. de C.V.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|11|191.243.46.166|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
 |12|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 |14|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|15|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|17|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|18|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|15|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|16|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|174.108.200.2|8080|United States|Waxhaw|Road Runner|
 
 
 
