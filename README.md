@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|14.243.165.138|4001|Vietnam|Da Nang|VNPT|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|8|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|9|202.12.80.14|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|11|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|72.10.164.178|7679|Canada|Montreal|GloboTech Communications|
-|16|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
-|20|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|103.87.169.198|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|10|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|11|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|13|114.106.137.233|8089|China|Rongcheng|Chinanet|
+|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
+|16|114.231.82.168|8089|China|Nanjing|Chinanet|
+|17|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
+|18|72.10.164.178|16679|Canada|Montreal|GloboTech Communications|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|72.10.160.170|19473|Canada|Montreal|GloboTech Communications|
 
 
 
