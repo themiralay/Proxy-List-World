@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|103.184.54.3|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|103.139.242.113|83|India|Pune|Spectram Telecom Pvt.Ltd|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|9|147.75.34.93|9443|The Netherlands|Amsterdam|Equinix Services|
-|10|72.10.160.91|4743|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|13|103.188.252.65|1234|Indonesia|Semarang|PT Data Lintas Media Indonesia|
-|14|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|15|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|18|67.43.228.253|18343|Canada|Montreal|GloboTech Communications|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|218.145.131.182|443|South Korea|Seongnam-si|Korea Telecom|
+|10|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|11|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|147.75.34.93|9443|The Netherlands|Amsterdam|Equinix Services|
+|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|14|72.10.160.91|4743|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|18343|Canada|Montreal|GloboTech Communications|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |19|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
