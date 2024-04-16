@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|8.211.196.230|80|United Kingdom|London|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|68.183.48.146|10005|United States|Clifton|DigitalOcean, LLC|
-|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|223.215.176.208|8089|China|Rongcheng|Chinanet|
-|12|45.250.215.8|8080|India|Delhi|Geocity Network Solutions PVT LTD|
-|13|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
-|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|15|72.10.160.170|18549|Canada|Montreal|GloboTech Communications|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
-|18|103.75.96.70|8080|Indonesia|Tangerang|MORATELINDO|
-|19|89.58.48.220|10011|Germany|Nuremberg|netcup GmbH|
-|20|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|72.10.160.170|3427|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|223.215.176.208|8089|China|Rongcheng|Chinanet|
+|15|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|17|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|18|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
