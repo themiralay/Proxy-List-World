@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|118.99.127.212|8080|Indonesia|Malang|Biznet Metronet|
-|3|103.155.196.65|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|6|103.152.232.122|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|7|110.78.149.205|8080|Thailand|Bangkok|CAT-BB|
-|8|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
-|9|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|103.156.17.39|8181|Indonesia|Indramayu|RSTNET|
-|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|123.182.58.230|8089|China|Zhangjiakou|China Telecom|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|72.10.160.90|26251|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|118.99.127.212|8080|Indonesia|Malang|Biznet Metronet|
+|4|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|9|69.160.223.129|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|114.231.8.112|8089|China|Nanjing|Chinanet|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|14|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|16|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|19|72.10.164.178|7499|Canada|Montreal|GloboTech Communications|
+|20|182.50.65.169|8080|Nepal|Biratnagar|RO-65 BroadLink|
 
 
 
