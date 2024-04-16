@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|9|121.227.180.162|8089|China|Nanjing|China Telecom|
-|10|67.43.236.20|7071|Canada|Montreal|GloboTech Communications|
-|11|190.97.238.84|999|Venezuela|Maracaibo|Viginet C.A|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|16|103.56.206.65|4995|Indonesia|Cianjur|Argon Data Communication|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|111.225.152.105|8089|China|Zhoutou|China Telecom|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|67.43.228.250|23171|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|11|111.225.152.105|8089|China|Zhoutou|China Telecom|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|67.43.236.20|15359|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|23171|Canada|Montreal|GloboTech Communications|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|45.236.106.245|999|Ecuador|Cuenca|Eliana Vanessa Morocho Oña|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|164.77.240.26|999|Chile|Santiago|Entel Chile S.A.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
