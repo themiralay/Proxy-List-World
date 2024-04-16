@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.250.130.110|8080|Indonesia|Surabaya|PT Jawara Lintas Data Nusantara|
+|8|180.190.200.210|8085|Philippines|Lahug|Globe Telecom|
 |9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|159.65.176.77|10006|United States|Clifton|DigitalOcean, LLC|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|121.236.236.33|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|20|67.43.236.20|6811|Canada|Montreal|GloboTech Communications|
+|10|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|11|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|36.91.98.115|8181|Indonesia|Bekasi|PT Telekomunikasi Indonesia|
+|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
