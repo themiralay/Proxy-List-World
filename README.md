@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|7|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|8|187.110.227.78|8080|Brazil|Campo Alegre de Lourdes|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|9|103.105.126.18|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
-|10|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|1|134.35.0.67|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|134.35.190.23|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|113.160.154.23|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|9|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|10|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
 |11|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.101.24.77|8080|India|Delhi|Vajra Telecom Pvt Ltd|
+|12|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|15|200.71.237.238|23500|Argentina|Gobernador Crespo|Telecom Argentina S.A.|
-|16|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|103.234.159.5|8080|India|Bengaluru|MWPL|
+|17|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|18|36.88.148.138|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|72.10.160.171|22225|Canada|Montreal|GloboTech Communications|
 
 
 
