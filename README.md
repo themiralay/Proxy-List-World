@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |10|72.10.164.178|12105|Canada|Montreal|GloboTech Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|119.92.236.184|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|114.231.46.64|8089|China|Nanjing|Chinanet|
-|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|67.43.236.20|7527|Canada|Montreal|GloboTech Communications|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|13|103.171.245.14|8080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|16|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|17|222.127.170.189|3128|Philippines|Lahug|Globe Telecom Inc.|
+|18|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|114.231.46.64|8089|China|Nanjing|Chinanet|
 
 
 
