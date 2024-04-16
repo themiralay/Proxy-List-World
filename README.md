@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|6|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|46.246.86.11|3128|Sweden|Stockholm|Portlane Network|
-|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|15|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|72.10.160.90|29171|Canada|Montreal|GloboTech Communications|
 |16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.160.90|29171|Canada|Montreal|GloboTech Communications|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
