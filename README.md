@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
-|15|67.43.236.20|4731|Canada|Montreal|GloboTech Communications|
-|16|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|103.156.70.38|8084|Indonesia|Banyuwangi|PT Indo Access Semesta|
-|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|19|187.188.16.28|999|Mexico|Cancún|Total Play Telecomunicaciones SA De CV|
-|20|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
+|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|16|81.169.204.107|8080|Germany|Rostock|Strato AG|
+|17|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|19|122.235.99.16|7890|China|Hangzhou|Chinanet|
+|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 
 
 
