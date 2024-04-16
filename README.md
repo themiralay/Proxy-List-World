@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|6|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|72.10.164.178|22427|Canada|Montreal|GloboTech Communications|
-|12|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|72.10.164.178|22427|Canada|Montreal|GloboTech Communications|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|103.162.63.162|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|12|114.231.41.24|8089|China|Nanjing|Chinanet|
+|13|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 |17|147.75.34.93|9443|The Netherlands|Amsterdam|Equinix Services|
-|18|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
-|19|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|20|103.67.90.2|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
+|18|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|19|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
+|20|154.64.211.145|999|Puerto Rico|San Juan|OSNET Wireless|
 
 
 
