@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
-|5|134.35.22.37|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|45.77.182.170|12009|Japan|Komae|The Constant Company|
-|9|185.111.156.170|80|Poland|Warsaw|Nubes, LLC|
-|10|45.95.232.128|3128|Switzerland|Zurich|Global Internet Solutions LLC|
-|11|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|15|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|16|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|17|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|18|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|19|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
-|20|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|6|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.48.69.105|83|India|Hyderabad|Country Online Services PVT LTD|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
+|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|15|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|45.95.232.128|3128|Switzerland|Zurich|Global Internet Solutions LLC|
+|18|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 
 
 
