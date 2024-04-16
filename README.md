@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|72.10.164.178|10855|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|10855|Canada|Montreal|GloboTech Communications|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|67.43.227.227|12215|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|31489|Canada|Montreal|GloboTech Communications|
-|13|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|14|72.10.164.178|10855|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|26877|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|12215|Canada|Montreal|GloboTech Communications|
-|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|18|72.10.164.178|10855|Canada|Montreal|GloboTech Communications|
-|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|67.43.227.227|32251|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|32251|Canada|Montreal|GloboTech Communications|
+|14|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|72.10.164.178|5343|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|5343|Canada|Montreal|GloboTech Communications|
+|18|131.100.48.73|999|Colombia|Neiva|Fibernet TV SAS|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|72.10.164.178|5343|Canada|Montreal|GloboTech Communications|
 
 
 
