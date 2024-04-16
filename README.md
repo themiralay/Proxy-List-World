@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|116.107.243.151|64017|Vietnam|Hanoi|Viettel Corporation|
-|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|10|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|13|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|72.10.164.178|2431|Canada|Montreal|GloboTech Communications|
-|19|111.225.152.213|8089|China|Zhoutou|China Telecom|
-|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|7|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.164.178|2431|Canada|Montreal|GloboTech Communications|
+|13|45.7.64.100|999|Mexico|San Bartolo Tutotepec|Maysnet SA De CV|
+|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|46.243.171.6|443|Russia|Podolsk|"IT Osoba" LLC|
 
 
 
