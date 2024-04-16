@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|118.99.73.81|8080|Indonesia|Bandung|BIZNET|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
-|6|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|8|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|11|118.99.73.81|8080|Indonesia|Bandung|BIZNET|
+|12|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|17|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|19|67.43.227.227|28981|Canada|Montreal|GloboTech Communications|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|17|114.106.135.242|8089|China|Guangzhou|Chinanet|
+|18|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 
 
 
