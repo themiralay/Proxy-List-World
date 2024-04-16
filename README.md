@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|159.65.176.77|10016|United States|Clifton|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|16.171.225.77|3128|Sweden|Stockholm|Amazon.com|
+|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.228.246.130|6060|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|103.120.175.243|9191|Indonesia|Bekasi|PT. Eka Mas Republik|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|111.225.152.159|8089|China|Zhoutou|China Telecom|
-|18|197.98.201.99|10271|South Africa|Johannesburg|Dimension Data|
-|19|197.98.201.99|10271|South Africa|Johannesburg|Dimension Data|
+|14|67.43.227.227|2547|Canada|Montreal|GloboTech Communications|
+|15|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|17|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|18|197.98.201.99|11687|South Africa|Johannesburg|Dimension Data|
+|19|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
 |20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
