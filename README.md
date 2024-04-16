@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|11|103.152.232.56|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|119.92.188.29|8080|Philippines|Calaocan District|Philippine Long Distance Telephone Co.|
-|14|67.43.236.20|32187|Canada|Montreal|GloboTech Communications|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|5|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|7|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|222.120.150.216|80|South Korea|Paju|Korea Telecom|
+|13|8.211.196.230|80|United Kingdom|London|Alibaba (US) Technology Co., Ltd.|
+|14|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
 |16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|123.182.58.58|8089|China|Zhangjiakou|China Telecom|
-|18|34.154.161.152|80|Italy|Milan|Google LLC|
-|19|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|20|111.225.152.105|8089|China|Zhoutou|China Telecom|
+|17|72.10.164.178|14035|Canada|Montreal|GloboTech Communications|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|20|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 
 
 
