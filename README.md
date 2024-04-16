@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|134.35.64.47|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|67.43.228.253|3033|Canada|Montreal|GloboTech Communications|
-|11|134.35.0.67|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|12|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|72.10.164.178|30911|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|32999|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|45.11.95.165|6003|Russia|Moscow|Delta Ltd|
-|17|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
-|19|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|8|202.51.106.229|8080|Indonesia|Bogor|PT Solusi Infostruktur Nusantara|
+|9|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|10|134.35.64.47|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|197.98.201.66|8800|South Africa|Johannesburg|Dimension Data|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|177.115.239.37|8080|Brazil|São Paulo|Vivo|
+|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
