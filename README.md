@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|46.4.242.214|1337|Germany|Bad Muenstereifel|Hetzner Online GmbH|
-|6|103.171.245.14|8080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|119.92.236.184|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 |7|67.43.236.20|7527|Canada|Montreal|GloboTech Communications|
-|8|223.247.46.116|8089|China|Rongcheng|Chinanet|
-|9|67.43.227.227|24501|Canada|Montreal|GloboTech Communications|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|67.43.227.228|22243|Canada|Montreal|GloboTech Communications|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|14|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
+|8|103.184.19.73|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|11|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
+|13|111.225.152.234|8089|China|Zhoutou|China Telecom|
+|14|222.174.178.122|4999|China|Xintai|Chinanet|
 |15|67.43.228.253|26629|Canada|Montreal|GloboTech Communications|
-|16|138.121.161.121|8290|Argentina|Rosario|WICORP SA|
-|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|16|67.43.227.228|22243|Canada|Montreal|GloboTech Communications|
+|17|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
 |18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|20|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
