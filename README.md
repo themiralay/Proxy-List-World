@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|6|201.77.128.158|8080|Brazil|Machado|Axtelecom Ltda|
-|7|159.65.186.46|10012|United States|Clifton|DigitalOcean, LLC|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|4|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|43.252.107.202|8089|Indonesia|Kudus|PT Lintas Data Prima|
+|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|13|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|72.10.164.178|4763|Canada|Montreal|GloboTech Communications|
-|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|17|72.10.164.178|4763|Canada|Montreal|GloboTech Communications|
-|18|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|19|103.8.68.48|3128|China|Shiyan|China Telecom|
-|20|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
+|12|72.10.164.178|4763|Canada|Montreal|GloboTech Communications|
+|13|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|159.65.186.46|10012|United States|Clifton|DigitalOcean, LLC|
+|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|19|112.197.3.200|8080|Vietnam|Ho Chi Minh City|SCTV|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
