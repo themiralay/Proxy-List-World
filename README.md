@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.172.238.6|10005|United States|Clifton|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|167.172.238.6|10005|United States|Clifton|DigitalOcean, LLC|
-|7|82.222.11.212|8080|Türkiye|Gaziantep|Superonline Iletisim Hizmetleri A.S.|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|167.172.238.6|10005|United States|Clifton|DigitalOcean, LLC|
-|11|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
-|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|1|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|167.172.238.6|10012|United States|Clifton|DigitalOcean, LLC|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|89.58.48.220|10011|Germany|Nuremberg|netcup GmbH|
-|15|72.10.164.178|25053|Canada|Montreal|GloboTech Communications|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|67.43.228.251|32239|Canada|Montreal|GloboTech Communications|
-|19|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|67.43.228.251|32239|Canada|Montreal|GloboTech Communications|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|89.58.48.220|10014|Germany|Nuremberg|netcup GmbH|
+|17|72.10.164.178|25053|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|170.80.242.78|999|Mexico|Torreón|TV CABLE DEL GUADIANA S.A DE C.V.|
 
 
 
