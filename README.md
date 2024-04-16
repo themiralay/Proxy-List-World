@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|67.43.228.253|26929|Canada|Montreal|GloboTech Communications|
-|12|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|15|67.43.228.251|30045|Canada|Montreal|GloboTech Communications|
-|16|114.106.134.43|8089|China|Guangzhou|Chinanet|
-|17|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|67.43.236.20|19497|Canada|Montreal|GloboTech Communications|
+|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|110.235.129.14|1337|Philippines|Manila|RADIUS TELECOMS, INC.|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|13|67.43.228.253|26929|Canada|Montreal|GloboTech Communications|
+|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|67.43.228.251|30045|Canada|Montreal|GloboTech Communications|
+|18|119.39.68.48|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
