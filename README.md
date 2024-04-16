@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|1.32.59.217|47045|Malaysia|Cheras|TM TECHNOLOGY SERVICES SDN BHD|
-|8|103.191.196.47|3127|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|103.110.36.65|83|India|Lucknow|Bytel Tranet Private Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|185.67.95.91|8080|Russia|St Petersburg|ru.elitel|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|15|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|95.0.206.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|20|103.170.115.180|8080|Indonesia|Bengkalis|PT Mega Data Akses|
+|2|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
+|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|17|103.8.68.46|3128|China|Shiyan|China Telecom|
+|18|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
 
 
 
