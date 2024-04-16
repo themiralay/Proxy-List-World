@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|9|91.185.55.42|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
-|10|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|13|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|7|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|91.185.55.42|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|11|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|12|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
 |15|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|16|67.43.236.20|15997|Canada|Montreal|GloboTech Communications|
-|17|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
-|18|64.225.8.118|10010|United States|Clifton|DigitalOcean, LLC|
-|19|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|20|67.43.227.227|9897|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|67.43.227.227|2827|Canada|Montreal|GloboTech Communications|
+|18|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|19|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|20|67.43.227.227|2827|Canada|Montreal|GloboTech Communications|
 
 
 
