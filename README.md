@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.243.165.138|4001|Vietnam|Da Nang|VNPT|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|11|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|45.58.52.5|80|United States|Dallas|HostUS|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|67.205.189.239|154|United States|North Bergen|DigitalOcean, LLC|
+|8|67.205.189.239|154|United States|North Bergen|DigitalOcean, LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|45.58.52.5|80|United States|Dallas|HostUS|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|103.154.230.83|5678|Indonesia|Lamongan|DIGITNET|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
