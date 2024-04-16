@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|9|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|12|152.54.5.26|8080|United States|Chapel Hill|MCNC|
-|13|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|174.108.200.2|8080|United States|Waxhaw|Road Runner|
-|15|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|18|128.199.116.34|4444|Singapore|Singapore|DigitalOcean, LLC|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|4|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|7|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|200.59.184.127|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|20|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
 
 
 
