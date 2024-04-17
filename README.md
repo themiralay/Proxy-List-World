@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
+|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
 |6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|103.217.224.69|8989|Indonesia|Semarang|PT Nesta Indo Media|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|103.217.224.69|8989|Indonesia|Semarang|PT Nesta Indo Media|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|10|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|12|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|49.156.47.162|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
 |16|67.43.228.253|19425|Canada|Montreal|GloboTech Communications|
-|17|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|18|72.10.160.90|16967|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|30483|Canada|Montreal|GloboTech Communications|
-|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
+|18|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|20|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
 
 
 
