@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.4.201.99|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|6|103.118.46.77|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.4.201.99|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|12|111.225.152.237|8089|China|Zhoutou|China Telecom|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|67.43.228.250|19571|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|10|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|11|38.158.202.82|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|111.225.152.237|8089|China|Zhoutou|China Telecom|
+|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|15|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|16|85.117.60.162|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|67.43.228.250|19571|Canada|Montreal|GloboTech Communications|
+|20|149.28.187.80|12009|Australia|Sydney|The Constant Company|
 
 
 
