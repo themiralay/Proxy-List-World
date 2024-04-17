@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|4|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
-|10|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|123.182.58.51|8089|China|Zhangjiakou|China Telecom|
-|14|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
-|15|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|45.58.52.5|80|United States|Dallas|HostUS|
-|18|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|19|89.58.48.220|10009|Germany|Nuremberg|netcup GmbH|
-|20|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|9|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|10|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|14|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
+|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|20|89.58.48.220|10017|Germany|Nuremberg|netcup GmbH|
 
 
 
