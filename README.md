@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|185.204.2.231|3128|Russia|Moscow|First Server Limited|
 |7|103.122.1.74|7777|Indonesia|Palembang|PT. Java Digital Nusantara|
-|8|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|8|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
 |9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|45.189.252.245|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|103.155.196.65|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|18|118.117.189.17|8089|China|Muping|Chinanet|
-|19|36.91.107.245|8080|Indonesia|Bekasi|PT Telekomunikasi Indonesia|
-|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|10|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|11|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|13|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|114.232.109.131|8089|China|Nanjing|Chinanet|
+|18|222.109.151.80|1080|South Korea|Seoul|Korea Telecom|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|177.234.223.29|999|Ecuador|Jipijapa|Ufinet Panama S.A.|
 
 
 
