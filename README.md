@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|7|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
-|11|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|12|188.209.240.23|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|13|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|14|114.106.171.175|8089|China|Rongcheng|Chinanet|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
-|19|95.0.168.62|1981|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
-|20|103.8.68.48|3128|China|Shiyan|China Telecom|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|202.144.157.1|9009|Bhutan|Thimphu|Bhutan Telecom Ltd|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|114.232.109.131|8089|China|Nanjing|Chinanet|
+|8|103.105.126.18|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|12|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|17|188.209.240.23|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|77.137.21.78|19000|Israel|Haifa|Hot-Net internet services Ltd.|
 
 
 
