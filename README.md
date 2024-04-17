@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6311** proxies at the latest update. Usable proxies are below.
+> Scraper found **6312** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|90|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|91|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|608|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|331|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|5|103.180.122.201|1080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
-|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|7|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|8|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|10|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|11|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
-|12|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|17|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|5|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|6|103.165.212.210|8080|Indonesia|Malang|PT iForte Global Internet|
+|7|113.30.190.204|14611|Germany|Frankfurt|Kamatera Inc|
+|8|103.169.254.39|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|9|103.189.250.69|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|11|103.180.122.201|1080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|12|186.190.225.152|999|Colombia|Villanueva|TV AZTECA SUCURSAL COLOMBIA|
+|13|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|14|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|15|103.164.117.186|3128|Indonesia|Jakarta Pusat|SOLUSINET|
+|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|138.197.92.54|10004|United States|Clifton|DigitalOcean, LLC|
 
 
 
