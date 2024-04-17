@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|134.35.82.83|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|7|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
 |11|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|16|182.253.177.137|80|Indonesia|Jakarta Pusat|BIZNET|
-|17|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|18|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|19|72.10.164.178|13775|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|13775|Canada|Montreal|GloboTech Communications|
+|15|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
