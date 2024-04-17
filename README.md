@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.76.149.66|8080|Indonesia|Batu|PT. Java Digital Nusantara|
-|5|122.3.121.231|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|10|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|4|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|6|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|9|103.111.207.138|32650|Indonesia|South Tangerang|PT Cyberindo Aditama|
+|10|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
 |11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|154.73.28.193|8080|Libya|Tripoli|Rawafed|
-|14|103.118.46.77|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|17|123.182.59.236|8089|China|Zhangjiakou|China Telecom|
-|18|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|68.183.48.146|10012|United States|Clifton|DigitalOcean, LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|67.43.228.253|2087|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|72.10.164.178|18835|Canada|Montreal|GloboTech Communications|
 
 
 
