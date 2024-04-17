@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|84.247.146.121|10004|Singapore|Singapore|Contabo GmbH|
-|7|103.87.169.150|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|10|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
-|11|58.69.117.149|8082|Philippines|Dumaguete|Philippine Long Distance Telephone Co.|
-|12|8.208.100.155|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|114.231.8.112|8089|China|Nanjing|Chinanet|
-|15|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|118.117.189.17|8089|China|Muping|Chinanet|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
+|4|84.247.146.121|10004|Singapore|Singapore|Contabo GmbH|
+|5|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|6|190.94.212.240|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|114.231.8.112|8089|China|Nanjing|Chinanet|
+|9|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|10|121.227.178.127|8089|China|Nanjing|China Telecom|
+|11|84.247.146.121|10004|Singapore|Singapore|Contabo GmbH|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
+|14|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.160.90|11001|Canada|Montreal|GloboTech Communications|
+|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 
 
 
