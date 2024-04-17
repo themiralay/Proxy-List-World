@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.150.128.24|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|5|154.64.215.132|999|United States|Jacksonville|OSNET Wireless|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|203.150.128.24|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.184.54.42|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|203.192.217.6|8080|India|Mumbai|Entire In2Cable|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|159.65.176.77|10006|United States|Clifton|DigitalOcean, LLC|
-|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|15|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.160.170|2059|Canada|Montreal|GloboTech Communications|
-|17|165.16.27.43|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
-|18|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
-|19|207.230.8.7|999|Colombia|Popayán|Cogent Communications|
-|20|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|103.179.139.81|1111|Indonesia|Bekasi|PT. Fiber Networks Indonesia|
+|13|67.43.228.253|1805|Canada|Montreal|GloboTech Communications|
+|14|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|15|72.10.160.170|2059|Canada|Montreal|GloboTech Communications|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|8.211.196.230|80|United Kingdom|London|Alibaba (US) Technology Co., Ltd.|
+|18|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|19|138.197.92.54|10007|United States|Clifton|DigitalOcean, LLC|
+|20|68.183.48.146|10013|United States|Clifton|DigitalOcean, LLC|
 
 
 
