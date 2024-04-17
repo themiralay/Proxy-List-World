@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.246.247.146|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|7|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.208.26.210|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
-|13|113.30.190.204|14611|Germany|Frankfurt|Kamatera Inc|
-|14|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|16|159.65.186.46|10003|United States|Clifton|DigitalOcean, LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|154.64.215.132|999|United States|Jacksonville|OSNET Wireless|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|119.39.79.15|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|7|103.112.45.46|8080|Indonesia|Majalengka|PT.Globalnet Multi Data|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
+|13|119.39.79.15|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|64.225.8.118|10016|United States|Clifton|DigitalOcean, LLC|
+|15|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|16|190.43.92.100|999|Peru|Tacna|Telefonica Del Peru|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|72.10.164.178|18875|Canada|Montreal|GloboTech Communications|
 
 
 
