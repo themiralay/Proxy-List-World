@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|3|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|4|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
-|5|103.152.232.61|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|121.195.170.225|1024|China|Haidian|CERNET|
-|9|117.70.49.241|8089|China|Rongcheng|Chinanet|
+|1|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|7|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|8|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|9|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|103.6.223.2|3128|China|Baoshan|China Unicom|
+|11|121.195.170.225|1024|China|Haidian|CERNET|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|117.72.39.51|3128|China|Beijing|JDCOM|
-|14|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
-|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|67.43.236.20|27935|Canada|Montreal|GloboTech Communications|
-|17|114.231.42.131|8089|China|Nanjing|Chinanet|
-|18|121.236.236.57|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
-|19|68.183.48.146|10014|United States|Clifton|DigitalOcean, LLC|
-|20|183.165.247.86|8089|China|Shenzhen|Chinanet|
+|13|117.70.49.241|8089|China|Rongcheng|Chinanet|
+|14|84.247.146.121|10005|Singapore|Singapore|Contabo GmbH|
+|15|67.43.236.20|24561|Canada|Montreal|GloboTech Communications|
+|16|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|84.247.146.121|10005|Singapore|Singapore|Contabo GmbH|
+|19|138.197.16.249|10017|United States|Clifton|DigitalOcean, LLC|
+|20|111.225.153.170|8089|China|Zhoutou|China Telecom|
 
 
 
