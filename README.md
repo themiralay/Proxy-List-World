@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|14.170.154.193|19132|Vietnam|Thai Nguyen|VNPT-VNNIC|
-|8|190.12.95.170|47029|Peru|Santiago de Surco|WIN EMPRESAS S.A.C|
+|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|12|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
-|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|14|111.225.153.58|8089|China|Zhoutou|China Telecom|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|12|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|13|111.225.153.58|8089|China|Zhoutou|China Telecom|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|67.43.227.227|31639|Canada|Montreal|GloboTech Communications|
-|17|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|114.103.89.26|8089|China|Shenzhen|Chinanet|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|67.43.227.227|31639|Canada|Montreal|GloboTech Communications|
+|16|103.8.68.48|3128|China|Shiyan|China Telecom|
+|17|123.200.18.155|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
