@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|4|203.253.142.176|8080|South Korea|Yuseong|KISTI|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
+|2|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|3|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.239.146.110|3128|India|Guntur|BSNL Internet|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|103.8.68.48|3128|China|Shiyan|China Telecom|
-|12|141.94.19.216|3128|France|Gravelines|OVH SAS|
-|13|103.203.172.22|84|India|Hyderabad|Softgaurd Powertronics|
-|14|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|103.8.68.46|3128|China|Shiyan|China Telecom|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|183.165.247.189|8089|China|Shenzhen|Chinanet|
-|19|72.10.164.178|27381|Canada|Montreal|GloboTech Communications|
-|20|114.231.46.184|8089|China|Nanjing|Chinanet|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|111.225.152.222|8089|China|Zhoutou|China Telecom|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|14|72.10.164.178|4867|Canada|Montreal|GloboTech Communications|
+|15|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|16|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|17|132.255.50.126|3128|Brazil|Macapá|R & B Serviços de Telecomunicações Ltda.|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
