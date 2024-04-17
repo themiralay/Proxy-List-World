@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
-|3|103.178.42.3|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|4|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|7|179.184.224.91|3129|Brazil|São Paulo|TELEFÔNICA BRASIL S.A|
-|8|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|9|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|103.203.172.22|84|India|Hyderabad|Softgaurd Powertronics|
-|14|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
-|15|103.59.44.28|8181|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|16|72.10.160.90|29201|Canada|Montreal|GloboTech Communications|
-|17|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|118.117.189.199|8089|China|Muping|Chinanet|
+|1|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|202.40.185.146|8080|Bangladesh|Sāmair|Ranks ITT|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|72.10.160.90|29201|Canada|Montreal|GloboTech Communications|
+|10|118.117.189.199|8089|China|Muping|Chinanet|
+|11|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|12|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
+|13|114.231.41.199|8089|China|Nanjing|Chinanet|
+|14|103.175.202.86|8080|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|17|198.244.149.182|37615|United Kingdom|London|OVH SAS|
+|18|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|72.10.164.178|16097|Canada|Montreal|GloboTech Communications|
+|20|89.58.48.220|10003|Germany|Nuremberg|netcup GmbH|
 
 
 
