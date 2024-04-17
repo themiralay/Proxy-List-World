@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|8|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|72.10.164.178|30237|Canada|Montreal|GloboTech Communications|
+|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|72.10.164.178|31697|Canada|Montreal|GloboTech Communications|
+|15|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|186.148.182.55|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|72.10.164.178|31697|Canada|Montreal|GloboTech Communications|
-|19|192.9.224.181|3128|United States|San Jose|Oracle Corporation|
-|20|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|192.9.224.181|3128|United States|San Jose|Oracle Corporation|
+|19|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
