@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|125.25.82.48|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|2|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|134.35.62.67|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|103.178.42.225|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|8|134.35.62.67|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
-|11|103.159.96.26|8080|Indonesia|Malang|MYRISE|
-|12|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|223.215.177.236|8089|China|Rongcheng|Chinanet|
-|14|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|18|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|182.50.65.145|8080|Nepal|Biratnagar|RO-65 BroadLink|
-|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|10|223.215.177.236|8089|China|Rongcheng|Chinanet|
+|11|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|15|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
+|20|8.208.26.210|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
 
 
 
