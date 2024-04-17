@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|182.52.131.15|8080|Thailand|Bangkok|TOT Public Company Limited|
+|2|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
 |3|192.9.224.181|3128|United States|San Jose|Oracle Corporation|
-|4|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
+|4|182.52.131.15|8080|Thailand|Bangkok|TOT Public Company Limited|
 |5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|192.9.224.181|3128|United States|San Jose|Oracle Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|192.9.224.181|3128|United States|San Jose|Oracle Corporation|
-|11|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|12|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
-|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.227.227|26279|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|20|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|182.160.113.77|80|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
 
 
 
