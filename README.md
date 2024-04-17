@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|4|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|6|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|7|113.30.190.204|14611|Germany|Frankfurt|Kamatera Inc|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|12|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|14|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|18|72.10.164.178|23259|Canada|Montreal|GloboTech Communications|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|10|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|67.43.227.227|4731|Canada|Montreal|GloboTech Communications|
+|17|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|18|111.225.152.207|8089|China|Zhoutou|China Telecom|
+|19|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 
 
 
