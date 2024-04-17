@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|2|38.56.70.183|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|8.242.176.39|999|Colombia|Santiago de Cali|CTL Colombia|
-|10|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|103.8.68.48|3128|China|Shiyan|China Telecom|
-|12|67.43.236.20|32839|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|16097|Canada|Montreal|GloboTech Communications|
-|14|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
-|15|67.43.236.20|32839|Canada|Montreal|GloboTech Communications|
-|16|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|85.214.190.195|3128|Germany|Berlin|Strato AG|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
+|8|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|203.253.142.176|8080|South Korea|Yuseong|KISTI|
+|11|72.10.164.178|27381|Canada|Montreal|GloboTech Communications|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|103.8.68.48|3128|China|Shiyan|China Telecom|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|67.43.236.20|32839|Canada|Montreal|GloboTech Communications|
+|17|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|18|67.43.236.20|32839|Canada|Montreal|GloboTech Communications|
+|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|20|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
 
 
 
