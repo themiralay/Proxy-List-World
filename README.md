@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|8|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|217.219.121.66|3128|Iran|Bandar Abbas|Iran Telecommunication Company PJS|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|12|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |14|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
