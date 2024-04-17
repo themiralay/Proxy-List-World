@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|80.66.81.47|4000|Russia|Moscow|BUQU.SU Solutions|
 |4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|9|103.78.113.7|8080|Indonesia|Jakarta|MORATELINDO|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|114.103.89.110|8089|China|Shenzhen|Chinanet|
-|13|72.10.164.178|14073|Canada|Montreal|GloboTech Communications|
-|14|123.182.58.133|8089|China|Zhangjiakou|China Telecom|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|8|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|13|203.215.166.122|3128|Pakistan|Islamabad|Pakistan Software Export Board|
+|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |15|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|19|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
