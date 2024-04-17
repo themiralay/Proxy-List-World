@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|203.150.128.223|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|222.120.150.196|80|South Korea|Paju|Korea Telecom|
-|5|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|72.10.164.178|1341|Canada|Montreal|GloboTech Communications|
-|11|41.57.182.12|6060|South Africa|Centurion|FTH SCR P20|
-|12|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.52.17.69|1234|Indonesia|Jakarta Pusat|PT Inti Bangun Sejahtera, tbk|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|202.154.36.117|8080|Indonesia|Surabaya|RADNET-BDG|
-|18|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|4|203.150.128.223|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|9|72.10.164.178|1341|Canada|Montreal|GloboTech Communications|
+|10|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|223.25.100.42|2222|Indonesia|Surabaya|PT Indonesia Comnets Plus|
+|13|101.255.165.130|1111|Indonesia|Bekasi|PT Remala Abadi|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|17|190.14.225.15|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|18|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|119.39.69.182|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|67.43.236.20|26569|Canada|Montreal|GloboTech Communications|
 
 
 
