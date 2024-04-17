@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|72.10.164.178|21151|Canada|Montreal|GloboTech Communications|
-|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|118.99.73.81|8080|Indonesia|Bandung|BIZNET|
-|15|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|203.215.166.122|3128|Pakistan|Islamabad|Pakistan Software Export Board|
-|18|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
-|19|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|20|223.247.46.122|8089|China|Rongcheng|Chinanet|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|14|72.10.164.178|11469|Canada|Montreal|GloboTech Communications|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|17|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|103.105.228.35|8080|India|Mumbai|Mnk Infoway Private Limited|
+|19|103.4.94.2|8080|Pakistan|Islamabad|HEC|
+|20|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
 
 
 
