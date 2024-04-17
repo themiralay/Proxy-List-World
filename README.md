@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|114.103.80.72|8089|China|Shenzhen|Chinanet|
-|15|67.43.227.227|15643|Canada|Montreal|GloboTech Communications|
-|16|114.232.109.221|8089|China|Nanjing|Chinanet|
-|17|36.103.234.137|3128|China|Hongsipu|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|103.78.113.15|8080|Indonesia|Jakarta|MORATELINDO|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|10|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|114.232.109.221|8089|China|Nanjing|Chinanet|
+|13|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|16|67.43.227.227|15643|Canada|Montreal|GloboTech Communications|
+|17|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|20|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
 
 
 
