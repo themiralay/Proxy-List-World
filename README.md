@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|171.96.204.156|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|171.96.204.156|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |5|85.214.190.195|3128|Germany|Berlin|Strato AG|
-|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|6|202.144.157.1|9009|Bhutan|Thimphu|Bhutan Telecom Ltd|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|89.58.48.220|10002|Germany|Nuremberg|netcup GmbH|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|89.58.48.220|10002|Germany|Nuremberg|netcup GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|198.244.149.182|37615|United Kingdom|London|OVH SAS|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |15|34.154.161.152|80|Italy|Milan|Google LLC|
-|16|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|17|60.174.0.98|8089|China|Guangzhou|Chinanet|
-|18|188.132.222.3|8080|Turkey|Reyhanlı|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|103.8.68.48|3128|China|Shiyan|China Telecom|
+|17|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|18|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |19|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
