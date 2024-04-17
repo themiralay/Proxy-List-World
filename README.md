@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.35.158.42|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|3|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|4|80.66.81.47|4000|Russia|Moscow|BUQU.SU Solutions|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
-|11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|167.172.238.6|10008|United States|Clifton|DigitalOcean, LLC|
-|13|67.43.227.227|32911|Canada|Montreal|GloboTech Communications|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
-|20|181.78.95.32|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|103.160.205.170|3127|Indonesia|Mataram|PRIME|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|171.6.77.85|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
+|9|167.172.238.6|10008|United States|Clifton|DigitalOcean, LLC|
+|10|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|11|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|103.69.60.10|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|15|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|165.22.36.164|10006|United States|Clifton|DigitalOcean, LLC|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
