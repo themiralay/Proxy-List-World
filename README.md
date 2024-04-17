@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|134.35.22.252|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|202.165.39.102|8080|Indonesia|Jakarta|Circlecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|134.35.22.252|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|6|114.7.0.62|80|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|117.70.48.231|8089|China|Rongcheng|Chinanet|
-|14|181.209.100.50|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|15|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|15|134.122.66.16|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |16|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
 |17|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|18|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|19|36.91.20.5|8080|Indonesia|Kartini|PT. Telekomunikasi Indonesia|
+|20|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
 
 
 
