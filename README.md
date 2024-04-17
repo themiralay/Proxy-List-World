@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|45.4.148.72|8080|Brazil|Surubim|Fausto Silva de Almeida Serviços - ME|
-|5|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |6|84.247.146.121|10005|Singapore|Singapore|Contabo GmbH|
-|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|119.39.69.182|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.164.178|21889|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|9957|Canada|Montreal|GloboTech Communications|
+|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|14|118.99.103.16|8080|Indonesia|Jakarta|Biznet Metronet|
+|15|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|16|119.39.69.182|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|19|103.8.68.48|3128|China|Shiyan|China Telecom|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
