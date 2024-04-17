@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|5|165.22.36.164|10006|United States|Clifton|DigitalOcean, LLC|
-|6|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|17|67.43.236.20|10253|Canada|Montreal|GloboTech Communications|
-|18|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
-|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|134.35.135.4|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|15|38.45.44.51|6332|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.176.96.53|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
 
 
 
