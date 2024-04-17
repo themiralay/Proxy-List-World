@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
-|8|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
-|12|181.46.243.155|3128|Argentina|Banfield|Telecentro S.A.|
-|13|103.188.252.65|1234|Indonesia|Semarang|PT Data Lintas Media Indonesia|
-|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|15|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|91.149.253.164|3128|Poland|Warsaw|Baxet Group Inc.|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|202.162.213.182|8080|Indonesia|Bandung|PT Indonesia Comnets Plus|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|13|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|68.183.48.146|10001|United States|Clifton|DigitalOcean, LLC|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
