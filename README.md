@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|222.109.151.80|1080|South Korea|Seoul|Korea Telecom|
-|6|103.76.151.133|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |8|182.253.195.114|3128|Indonesia|Palembang|BIZNET|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|72.10.160.90|11509|Canada|Montreal|GloboTech Communications|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|72.10.160.90|12081|Canada|Montreal|GloboTech Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|118.117.189.17|8089|China|Muping|Chinanet|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|13|72.10.160.90|12081|Canada|Montreal|GloboTech Communications|
+|14|179.49.160.31|999|Colombia|Neiva|Integra Multisolutions|
+|15|8.208.26.210|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
