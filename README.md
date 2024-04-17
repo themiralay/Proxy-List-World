@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|89.250.88.12|3128|Kazakhstan|Oral|KazRENA|
-|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|115.127.95.81|8080|Bangladesh|Dhaka|BRACNet Limited|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|72.10.160.93|23031|Canada|Montreal|GloboTech Communications|
-|13|64.225.8.132|10004|United States|Clifton|DigitalOcean, LLC|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|16|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
-|17|72.10.164.178|22661|Canada|Montreal|GloboTech Communications|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|67.43.227.228|13259|Canada|Montreal|GloboTech Communications|
+|12|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
+|13|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|72.10.164.178|14449|Canada|Montreal|GloboTech Communications|
+|15|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
+|17|45.5.117.76|999|Guatemala|Guatemala City|Infinitum S.A.|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|64.225.8.132|10004|United States|Clifton|DigitalOcean, LLC|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
