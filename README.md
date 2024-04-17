@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|45.160.15.254|999|Chile|Santiago|Servicio De Telecomunicaciones Vemos MAS Ltda.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.69.106.88|8080|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|67.43.228.253|3255|Canada|Montreal|GloboTech Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|45.160.15.254|999|Chile|Santiago|Servicio De Telecomunicaciones Vemos MAS Ltda.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|7|207.138.39.145|999|United States|Santa Barbara|Galanet Solution C.A.|
+|8|67.43.228.253|3255|Canada|Montreal|GloboTech Communications|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.164.178|10325|Canada|Montreal|GloboTech Communications|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|72.10.164.178|10325|Canada|Montreal|GloboTech Communications|
-|15|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
-|16|82.194.45.218|3128|Bahrain|Hamad Town|Bahrain Telecommunication Company|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|20|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|62.240.40.194|1974|Libya|Kambūt|LTT Network Backbone and POPs|
+|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|17|72.10.164.178|10325|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|20|72.10.164.178|10325|Canada|Montreal|GloboTech Communications|
 
 
 
