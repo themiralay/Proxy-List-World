@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|182.53.143.200|8180|Thailand|Bangkok|TOT Public Company Limited|
-|5|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|6|186.125.218.145|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|207.230.8.66|999|Colombia|Popayán|Cogent Communications|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |16|5.135.188.62|9999|France|Roubaix|OVH SAS|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |18|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
