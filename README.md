@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|4|103.250.130.111|8080|Indonesia|Surabaya|PT Jawara Lintas Data Nusantara|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
-|11|89.58.48.220|10005|Germany|Nuremberg|netcup GmbH|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|114.106.172.167|8089|China|Rongcheng|Chinanet|
-|15|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
-|17|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|18|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|65.109.239.59|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|72.10.164.178|19739|Canada|Montreal|GloboTech Communications|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|12|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|14|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|17|114.106.172.167|8089|China|Rongcheng|Chinanet|
+|18|101.255.165.130|1111|Indonesia|Bekasi|PT Remala Abadi|
+|19|68.183.48.146|10012|United States|Clifton|DigitalOcean, LLC|
+|20|103.6.223.2|3128|China|Baoshan|China Unicom|
 
 
 
