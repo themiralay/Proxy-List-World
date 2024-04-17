@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|4|85.214.190.195|3128|Germany|Berlin|Strato AG|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|1|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|178.212.53.17|41258|Poland|Międzyrzecz|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|6|141.94.19.216|3128|France|Gravelines|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|85.214.190.195|3128|Germany|Berlin|Strato AG|
 |9|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|10|198.244.149.182|37615|United Kingdom|London|OVH SAS|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|171.96.204.156|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|15|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
+|10|200.39.139.65|999|Chile|Valparaíso|Iconex SPA|
+|11|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
 |18|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|171.96.204.156|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|20|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
