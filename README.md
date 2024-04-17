@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|188.240.124.196|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
 |4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|5|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|72.10.164.178|28843|Canada|Montreal|GloboTech Communications|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|45.11.95.165|5010|Russia|Moscow|Delta Ltd|
-|12|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|13|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 |14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|67.43.227.227|13477|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|5129|Canada|Montreal|GloboTech Communications|
-|18|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
-|20|72.10.164.178|28843|Canada|Montreal|GloboTech Communications|
+|16|85.117.60.133|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|17|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|20|212.22.64.14|8080|Russia|Moscow|Dmitrii Vladimirovich Malkov|
 
 
 
