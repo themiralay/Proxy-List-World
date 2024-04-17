@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|134.35.82.83|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|9|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
-|11|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|14|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|72.10.164.178|9033|Canada|Montreal|GloboTech Communications|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|45.236.106.245|999|Ecuador|Cuenca|Eliana Vanessa Morocho Oña|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.236.20|13237|Canada|Montreal|GloboTech Communications|
+|5|134.35.82.83|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|8|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|103.115.227.198|8071|Indonesia|Surakarta|Pemerintah Kota Surakarta|
+|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
