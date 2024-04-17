@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.168.164.94|83|India|Pune|Ssicon Systems Private Limited|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|72.10.164.178|6789|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|10763|Canada|Montreal|GloboTech Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|72.10.164.178|6789|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|31581|Canada|Montreal|GloboTech Communications|
-|17|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|18|72.10.160.90|10763|Canada|Montreal|GloboTech Communications|
-|19|93.125.3.22|8080|Belarus|Minsk|TELECOMAT|
-|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|5|177.136.86.5|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|6|188.132.222.230|8080|Turkey|Reyhanlı|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|36.93.61.193|65432|Indonesia|Ciputat|Telekomunikasi Indonesia|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|170.78.211.33|999|Mexico|Villa de Reyes|Wantelco SAS de CV|
+|10|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.160.90|16967|Canada|Montreal|GloboTech Communications|
+|16|118.99.103.16|8080|Indonesia|Jakarta|Biznet Metronet|
+|17|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
