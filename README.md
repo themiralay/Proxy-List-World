@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|8|111.225.152.217|8089|China|Zhoutou|China Telecom|
-|9|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|41.242.116.150|50003|Mayotte|Mamoudzou|STOI-block1|
-|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|13|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|18|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|4|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|12|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|13|113.78.190.20|1111|China|Dongguan|Chinanet|
+|14|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|16|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|19|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
