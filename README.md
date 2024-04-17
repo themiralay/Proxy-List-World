@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|103.247.21.234|8080|Indonesia|Bekasi|PT wifian Solution|
-|7|113.30.190.204|14611|Germany|Frankfurt|Kamatera Inc|
-|8|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|113.30.190.204|14611|Germany|Frankfurt|Kamatera Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|5|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
 |11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|72.10.164.178|29471|Canada|Montreal|GloboTech Communications|
-|13|138.197.16.249|10013|United States|Clifton|DigitalOcean, LLC|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|17|72.10.164.178|29471|Canada|Montreal|GloboTech Communications|
-|18|223.247.46.223|8089|China|Rongcheng|Chinanet|
-|19|103.119.55.232|10001|Indonesia|Bogor|PT. Eka Mas Republik|
-|20|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|138.197.16.249|10015|United States|Clifton|DigitalOcean, LLC|
+|14|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|15|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
+|16|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
