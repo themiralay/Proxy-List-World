@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|171.6.79.221|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
-|5|185.64.208.117|53281|Russia|Kstovo|Svyazist LLC|
+|4|185.64.208.117|53281|Russia|Kstovo|Svyazist LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|7|8.208.100.155|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
 |8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|109.74.45.27|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|11|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|67.43.227.227|9173|Canada|Montreal|GloboTech Communications|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|14|103.133.25.241|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
 |15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|103.6.223.2|3128|China|Baoshan|China Unicom|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|20|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
 
 
 
