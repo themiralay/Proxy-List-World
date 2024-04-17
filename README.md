@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|4|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|9|72.10.160.170|6119|Canada|Montreal|GloboTech Communications|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|67.43.228.253|32739|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|67.43.227.228|13077|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|17|111.225.152.164|8089|China|Zhoutou|China Telecom|
-|18|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|45.11.95.165|5013|Russia|Moscow|Delta Ltd|
+|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|45.11.95.165|6044|Russia|Moscow|Delta Ltd|
+|8|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|67.43.228.253|1491|Canada|Montreal|GloboTech Communications|
+|12|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
+|13|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|59.92.211.63|3128|India|Belgaum|BSNL Internet|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
