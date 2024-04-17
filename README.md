@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.204.2.231|3128|Russia|Moscow|First Server Limited|
-|7|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|8|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|222.127.135.164|8082|Philippines|Cebu City|Globe Telecom|
+|11|103.189.96.38|8080|Indonesia|Sragen|Lintas Data Prima, PT|
+|12|111.225.153.152|8089|China|Zhoutou|China Telecom|
 |13|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|14|158.101.126.210|80|United States|Ashburn|Oracle Corporation|
-|15|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|16|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|158.101.126.210|80|United States|Ashburn|Oracle Corporation|
+|16|45.238.58.1|999|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
 |17|103.8.68.48|3128|China|Shiyan|China Telecom|
-|18|72.10.164.178|3089|Canada|Montreal|GloboTech Communications|
-|19|111.225.153.152|8089|China|Zhoutou|China Telecom|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|72.10.164.178|3089|Canada|Montreal|GloboTech Communications|
 
 
 
