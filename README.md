@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|134.35.62.67|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|161.35.88.210|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.152.232.45|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
 |8|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|170.238.239.72|8080|Colombia|Buenaventura|InterNexa Global Network|
-|16|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
-|17|68.183.48.146|10014|United States|Clifton|DigitalOcean, LLC|
-|18|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|19|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|103.204.20.21|8080|India|Tanuku|CityOnline Services Ltd|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|134.35.62.67|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|222.99.192.29|8080|South Korea|Yeoju|Korea Telecom|
+|17|154.73.87.241|8080|Botswana|Rakops|STATURE (PTY) LTD|
+|18|185.89.156.2|44224|Albania|Fier|ATU|
+|19|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
