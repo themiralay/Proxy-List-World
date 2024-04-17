@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|7|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
-|8|191.252.92.34|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
-|12|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|13|23.95.187.215|80|United States|Buffalo|HostPapa|
-|14|119.82.242.200|8080|Indonesia|Surabaya|Indonesia Network Information Center|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|17|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|18|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|19|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
-|20|72.10.160.90|27441|Canada|Montreal|GloboTech Communications|
+|6|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|9|191.252.92.34|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|12|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|15|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|16|119.39.69.104|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|18|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
+|19|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|20|67.43.236.20|1849|Canada|Montreal|GloboTech Communications|
 
 
 
