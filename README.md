@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|68.183.48.146|10014|United States|Clifton|DigitalOcean, LLC|
-|6|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|7|115.127.95.81|8080|Bangladesh|Dhaka|BRACNet Limited|
-|8|68.183.48.146|10014|United States|Clifton|DigitalOcean, LLC|
-|9|149.202.168.208|80|France|Gravelines|OVH SAS|
-|10|67.43.227.227|7711|Canada|Montreal|GloboTech Communications|
-|11|89.58.48.220|10010|Germany|Nuremberg|netcup GmbH|
-|12|103.132.52.210|3128|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
-|15|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
-|16|16.171.225.77|3128|Sweden|Stockholm|Amazon.com|
-|17|72.10.164.178|22661|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|26569|Canada|Montreal|GloboTech Communications|
+|5|103.148.44.101|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|6|115.127.95.81|8080|Bangladesh|Dhaka|BRACNet Limited|
+|7|97.64.69.57|16099|United States|College Station|PRONSS|
+|8|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|67.43.227.227|7711|Canada|Montreal|GloboTech Communications|
+|13|68.183.48.146|10011|United States|Clifton|DigitalOcean, LLC|
+|14|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|67.43.236.20|28403|Canada|Montreal|GloboTech Communications|
+|17|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|45.185.162.194|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 |19|89.58.48.220|10010|Germany|Nuremberg|netcup GmbH|
-|20|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
