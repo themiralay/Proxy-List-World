@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|2|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
+|3|182.52.131.15|8080|Thailand|Bangkok|TOT Public Company Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|9|103.152.232.39|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|10|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|11|111.225.152.3|8089|China|Zhoutou|China Telecom|
-|12|72.10.160.90|21129|Canada|Montreal|GloboTech Communications|
-|13|138.197.16.249|10016|United States|Clifton|DigitalOcean, LLC|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|67.43.227.227|5191|Canada|Montreal|GloboTech Communications|
-|16|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
-|17|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
-|18|119.39.79.15|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
-|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|192.9.224.181|3128|United States|San Jose|Oracle Corporation|
+|6|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|192.9.224.181|3128|United States|San Jose|Oracle Corporation|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|12|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|15|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|20|58.32.15.188|8090|China|Shanghai|CHINANET-SH|
 
 
 
