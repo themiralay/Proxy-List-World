@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|9|103.52.17.69|1234|Indonesia|Jakarta Pusat|PT Inti Bangun Sejahtera, tbk|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
-|12|89.58.48.220|10012|Germany|Nuremberg|netcup GmbH|
-|13|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|16|119.39.69.182|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|146.196.40.146|8888|Indonesia|Sembang Ilon|UNINA|
-|18|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|72.10.164.178|1341|Canada|Montreal|GloboTech Communications|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|7|178.65.171.6|8080|Russia|Monchegorsk|PJSC "Rostelecom" North-West region|
+|8|181.60.225.210|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|9|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|64.225.4.81|10014|United States|Clifton|DigitalOcean, LLC|
+|12|67.43.227.228|2183|Canada|Montreal|GloboTech Communications|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|34.154.161.152|80|Italy|Milan|Google LLC|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|89.58.48.220|10010|Germany|Nuremberg|netcup GmbH|
+|20|72.10.164.178|1341|Canada|Montreal|GloboTech Communications|
 
 
 
