@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|190.43.92.100|999|Peru|Tacna|Telefonica Del Peru|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |12|103.6.223.2|3128|China|Baoshan|China Unicom|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|17|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|18|67.43.227.230|17637|Canada|Montreal|GloboTech Communications|
-|19|81.23.114.238|8080|Russia|St Petersburg|SEVEREN|
-|20|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|13|114.231.45.43|8089|China|Nanjing|Chinanet|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|16|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|64.225.8.118|10016|United States|Clifton|DigitalOcean, LLC|
+|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
 
 
 
