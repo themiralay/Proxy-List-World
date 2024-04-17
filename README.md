@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|139.180.168.177|80|Australia|Sydney|Choopa|
-|7|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|14|223.215.176.98|8089|China|Rongcheng|Chinanet|
-|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|72.10.164.178|32633|Canada|Montreal|GloboTech Communications|
-|17|103.87.171.140|32650|India|Jaipur|Tejays|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
-|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|201.77.108.21|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|9|58.32.15.188|8090|China|Shanghai|CHINANET-SH|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|223.215.176.98|8089|China|Rongcheng|Chinanet|
+|12|72.10.160.171|20181|Canada|Montreal|GloboTech Communications|
+|13|103.87.171.140|32650|India|Jaipur|Tejays|
+|14|179.49.113.230|999|Honduras|Rio Comayagua|Asociacion De Servicio De Internet S. De RL|
+|15|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|16|103.152.232.39|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|17|103.177.176.62|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
+|18|69.160.223.65|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
