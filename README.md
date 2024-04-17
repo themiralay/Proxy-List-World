@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|134.35.3.68|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|72.10.164.178|10161|Canada|Montreal|GloboTech Communications|
-|9|179.108.220.184|8080|Brazil|Barbacena|Conecta Ltda.|
-|10|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|166.111.153.224|9300|China|Haidian|China Education and Research Network Center|
-|14|72.10.164.178|10161|Canada|Montreal|GloboTech Communications|
-|15|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|72.10.164.178|10161|Canada|Montreal|GloboTech Communications|
-|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|201.71.3.59|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|8|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|111.225.152.34|8089|China|Zhoutou|China Telecom|
+|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|67.43.236.20|5225|Canada|Montreal|GloboTech Communications|
+|16|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|166.111.153.224|9300|China|Haidian|China Education and Research Network Center|
+|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
