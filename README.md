@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|182.52.131.15|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
-|9|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|202.180.20.66|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|13|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
-|14|72.10.164.178|25621|Canada|Montreal|GloboTech Communications|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|38.7.1.233|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|17|192.9.224.181|3128|United States|San Jose|Oracle Corporation|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|182.253.177.137|8080|Indonesia|Jakarta Pusat|BIZNET|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|189.201.191.75|999|Mexico|Aguascalientes|IP Matrix, S.A. de C.V.|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|8|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|166.111.176.6|9999|China|Haidian|China Education and Research Network Center|
+|12|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|13|119.39.69.182|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|67.43.227.227|15867|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|103.68.207.34|82|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
