@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|3|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|64.225.8.118|10003|United States|Clifton|DigitalOcean, LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|2|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|103.169.254.39|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|7|103.247.23.65|2022|Indonesia|Bekasi|PT wifian Solution|
+|8|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
 |9|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|12|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|13|114.106.134.63|8089|China|Guangzhou|Chinanet|
-|14|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|15|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|16|36.91.45.12|51672|Indonesia|Karawang|PT. Telekomunikasi Indonesia|
-|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|19|72.10.164.178|13185|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|11|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|12|119.92.236.184|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|13|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
+|16|186.190.225.152|999|Colombia|Villanueva|TV AZTECA SUCURSAL COLOMBIA|
+|17|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|18|72.10.164.178|3059|Canada|Montreal|GloboTech Communications|
+|19|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
