@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|4|103.48.69.105|83|India|Hyderabad|Country Online Services PVT LTD|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|5|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|6|103.141.109.157|8080|Indonesia|Setro|Data Buana Nusantara|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 |9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|13|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|14|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|15|61.129.2.212|8080|China|Beijing|CHINANET|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|11|67.43.228.253|9885|Canada|Montreal|GloboTech Communications|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|67.43.236.20|25383|Canada|Montreal|GloboTech Communications|
+|14|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|119.39.79.15|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
