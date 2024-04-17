@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|103.52.17.69|1234|Indonesia|Jakarta Pusat|PT Inti Bangun Sejahtera, tbk|
-|9|119.39.79.15|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|10|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|113.30.190.204|14611|Germany|Frankfurt|Kamatera Inc|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
-|16|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
-|17|103.164.214.122|8080|Indonesia|Kedungdoro|PT iForte Global Internet|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|177.19.167.242|80|Brazil|Rio de Janeiro|Vivo|
+|5|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|89.58.48.220|10010|Germany|Nuremberg|netcup GmbH|
+|9|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|72.10.160.92|31751|Canada|Montreal|GloboTech Communications|
+|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|15|119.39.79.15|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|119.39.69.182|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
 
 
 
