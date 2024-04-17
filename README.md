@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|4|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
+|2|84.247.146.121|10005|Singapore|Singapore|Contabo GmbH|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|7|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 |8|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|17|72.10.160.90|6187|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|111.225.153.152|8089|China|Zhoutou|China Telecom|
+|9|192.248.95.1|3128|Sri Lanka|Kandy|Lanka Education and Research Network|
+|10|103.153.191.45|80|Indonesia|Kudus|WANET|
+|11|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.8.68.46|3128|China|Shiyan|China Telecom|
+|16|72.10.160.90|6187|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|58.69.137.62|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|72.10.164.178|3223|Canada|Montreal|GloboTech Communications|
+|20|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
 
 
 
