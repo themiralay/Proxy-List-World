@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.35.3.68|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|188.209.240.23|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|67.43.236.20|1317|Canada|Montreal|GloboTech Communications|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|134.209.144.177|80|India|Bengaluru|DigitalOcean, LLC|
-|17|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|1|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|10|67.43.236.20|5225|Canada|Montreal|GloboTech Communications|
+|11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
+|13|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|103.167.170.210|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|16|188.209.240.23|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|17|182.50.65.169|8080|Nepal|Biratnagar|RO-65 BroadLink|
+|18|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|103.8.68.48|3128|China|Shiyan|China Telecom|
+|20|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
 
 
 
