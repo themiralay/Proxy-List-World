@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
-|6|200.119.218.89|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|7|102.213.84.250|8080|Nigeria|Ado-Odo|Globacom Limited|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|13|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
-|14|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|72.10.160.170|2319|Canada|Montreal|GloboTech Communications|
-|18|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|72.10.160.170|2319|Canada|Montreal|GloboTech Communications|
+|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|15|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|16|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|18|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
