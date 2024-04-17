@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|2|159.65.186.46|10014|United States|Clifton|DigitalOcean, LLC|
+|1|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|103.110.10.132|8181|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|6|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|203.253.142.176|8080|South Korea|Yuseong|KISTI|
-|10|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|11|103.153.135.100|8083|Indonesia|Tangerang|WMINET|
-|12|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
-|13|159.65.186.46|10014|United States|Clifton|DigitalOcean, LLC|
-|14|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|89.58.48.220|10002|Germany|Nuremberg|netcup GmbH|
-|16|159.65.186.46|10014|United States|Clifton|DigitalOcean, LLC|
-|17|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
-|18|89.58.48.220|10002|Germany|Nuremberg|netcup GmbH|
+|4|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
+|5|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|6|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|9|103.203.172.22|84|India|Hyderabad|Softgaurd Powertronics|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|65.20.154.62|28080|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
+|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
+|18|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
 |19|61.129.2.212|8080|China|Beijing|CHINANET|
-|20|114.103.81.248|8089|China|Shenzhen|Chinanet|
+|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
