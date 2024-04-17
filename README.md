@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|186.201.63.83|3128|Brazil|São Paulo|Vivo|
+|1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.154.91.182|8080|Indonesia|Bogor|MORATELINDONAP|
-|5|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|6|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
-|7|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|8|200.32.64.126|999|Venezuela|Caracas|Level 3 Venezuela S.A|
-|9|122.50.6.186|80|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|10|64.225.8.132|10010|United States|Clifton|DigitalOcean, LLC|
-|11|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|103.110.10.132|8181|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|45.133.107.238|81|Russia|Mezmay|Art-net LLC|
-|17|114.106.171.175|8089|China|Rongcheng|Chinanet|
-|18|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|19|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
-|20|103.8.68.48|3128|China|Shiyan|China Telecom|
+|4|200.24.154.218|999|Ecuador|Manta|Ufinet Panama S.A.|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|38.56.70.183|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|9|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|13|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|14|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|115.132.165.97|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|17|193.111.124.101|7777|Indonesia|Jakarta|CV Atha Media Prima|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
 
 
 
