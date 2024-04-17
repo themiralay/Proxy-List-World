@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.24.154.218|999|Ecuador|Manta|Ufinet Panama S.A.|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|38.56.70.183|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|9|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|13|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|14|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|115.132.165.97|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|17|193.111.124.101|7777|Indonesia|Jakarta|CV Atha Media Prima|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|8|111.225.153.14|8089|China|Zhoutou|China Telecom|
+|9|111.225.153.157|8089|China|Zhoutou|China Telecom|
+|10|111.225.153.101|8089|China|Zhoutou|China Telecom|
+|11|72.10.164.178|4867|Canada|Montreal|GloboTech Communications|
+|12|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
+|13|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
+|14|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
+|16|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|17|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|18|64.225.8.132|10010|United States|Clifton|DigitalOcean, LLC|
+|19|67.43.228.253|32583|Canada|Montreal|GloboTech Communications|
+|20|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
 
 
 
