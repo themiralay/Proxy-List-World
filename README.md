@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.64.208.117|53281|Russia|Kstovo|Svyazist LLC|
-|5|171.6.79.221|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|8|175.158.58.140|8081|Indonesia|Jakarta|CBNNAP|
-|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|10|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
-|11|43.252.236.157|8080|Indonesia|Bogor|NET|
-|12|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|14|103.8.68.48|3128|China|Shiyan|China Telecom|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|17|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|187.73.188.35|8080|Brazil|Campos do Jordao|Gwg telco telecomunicaçoes eireli|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|171.6.79.221|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
+|7|185.64.208.117|53281|Russia|Kstovo|Svyazist LLC|
+|8|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|9|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|109.74.45.27|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|45.151.13.242|8080|Italy|Pisa|Vianova spa|
+|16|188.240.98.143|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 |19|117.70.49.252|8089|China|Rongcheng|Chinanet|
-|20|72.10.160.170|20663|Canada|Montreal|GloboTech Communications|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
