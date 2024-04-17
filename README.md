@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|186.148.182.55|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|6|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|72.10.164.178|7871|Canada|Montreal|GloboTech Communications|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|185.186.242.135|3128|Iran|Tehran|Gostaresh Ertebat Azin Kia Company PJSC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|8|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |11|67.43.228.253|31775|Canada|Montreal|GloboTech Communications|
 |12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|103.8.68.46|3128|China|Shiyan|China Telecom|
-|14|67.43.236.20|10969|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|7871|Canada|Montreal|GloboTech Communications|
-|16|170.246.85.109|50991|Ecuador|Cuenca|Servicable Cia. Ltda.|
-|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|18|72.10.164.178|7871|Canada|Montreal|GloboTech Communications|
-|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|20|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|13|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|67.43.236.20|29263|Canada|Montreal|GloboTech Communications|
+|18|190.14.225.15|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|19|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|20|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
 
 
 
