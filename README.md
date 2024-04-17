@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|152.32.240.78|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|123.200.18.155|80|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|92.255.202.78|8080|Russia|Kazan'|CJSC "ER-Telecom Holding" Kazan' branch|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|12|37.152.91.219|8080|Spain|Petra|Soluciones Corporativas IP|
-|13|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|114.106.173.237|8089|China|Rongcheng|Chinanet|
-|15|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|67.43.228.253|21129|Canada|Montreal|GloboTech Communications|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|203.160.186.246|8080|Philippines|Pasay|Philippine Telelgraph & Telephone|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|45.230.48.131|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|8|36.67.27.189|39674|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|13|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|14|72.10.164.178|22735|Canada|Montreal|GloboTech Communications|
+|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|103.68.207.34|82|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
+|18|200.24.136.43|999|Ecuador|Quito|Negocios Y Telefonia Nedetel S.A|
+|19|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|20|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
 
 
 
