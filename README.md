@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|7|182.53.143.200|8180|Thailand|Bangkok|TOT Public Company Limited|
-|8|43.245.249.22|8989|Indonesia|Pekanbaru|PT Smart Media Pratama|
-|9|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|103.16.118.78|8080|Indonesia|Madiun|CV Trustnet Media|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|36.95.249.157|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|24.112.3.220|8080|United States|Durant|Vyve Broadband|
+|8|8.208.100.155|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|58.69.247.70|8083|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|16|134.35.62.67|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |17|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.156.15.35|1080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 
 
 
