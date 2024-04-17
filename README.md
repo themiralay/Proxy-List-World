@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6416** proxies at the latest update. Usable proxies are below.
+> Scraper found **6395** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|89|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|537|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|516|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|280|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4550|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|7|8.208.26.210|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|203.190.44.201|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.80.230.21|8080|Indonesia|Medan|DNSOLUSINDO|
-|12|139.180.168.177|80|Australia|Sydney|Choopa|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|89.58.48.220|10006|Germany|Nuremberg|netcup GmbH|
-|16|72.10.160.170|16397|Canada|Montreal|GloboTech Communications|
-|17|180.191.16.254|8085|Philippines|Cabanatuan City|Globe Telecom|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|72.10.164.178|27421|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|139.180.168.177|80|Australia|Sydney|Choopa|
+|7|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|14|223.215.176.98|8089|China|Rongcheng|Chinanet|
+|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|72.10.164.178|32633|Canada|Montreal|GloboTech Communications|
+|17|103.87.171.140|32650|India|Jaipur|Tejays|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
+|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
