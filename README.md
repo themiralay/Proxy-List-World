@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
-|12|113.23.183.154|8989|Malaysia|Subang Jaya|Extreme Broadband|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|15|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|16|45.4.201.32|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|72.10.164.178|14591|Canada|Montreal|GloboTech Communications|
-|20|103.133.223.226|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|72.10.164.178|19567|Canada|Montreal|GloboTech Communications|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|72.10.164.178|19567|Canada|Montreal|GloboTech Communications|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
+|15|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
+|16|67.43.227.227|13477|Canada|Montreal|GloboTech Communications|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|19|190.181.24.206|8080|Bolivia|Achocalla|AXS Bolivia S. A.|
+|20|72.10.164.178|19567|Canada|Montreal|GloboTech Communications|
 
 
 
