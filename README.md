@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6566** proxies at the latest update. Usable proxies are below.
+> Scraper found **6518** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|104|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|809|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|773|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|427|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|415|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4266|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|202.40.185.146|8080|Bangladesh|Sāmair|Ranks ITT|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|72.10.160.90|29201|Canada|Montreal|GloboTech Communications|
-|10|118.117.189.199|8089|China|Muping|Chinanet|
-|11|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|12|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
-|13|114.231.41.199|8089|China|Nanjing|Chinanet|
-|14|103.175.202.86|8080|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|17|198.244.149.182|37615|United Kingdom|London|OVH SAS|
-|18|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|72.10.164.178|16097|Canada|Montreal|GloboTech Communications|
-|20|89.58.48.220|10003|Germany|Nuremberg|netcup GmbH|
+|1|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|2|159.65.186.46|10014|United States|Clifton|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|103.110.10.132|8181|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|6|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|203.253.142.176|8080|South Korea|Yuseong|KISTI|
+|10|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|11|103.153.135.100|8083|Indonesia|Tangerang|WMINET|
+|12|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
+|13|159.65.186.46|10014|United States|Clifton|DigitalOcean, LLC|
+|14|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|89.58.48.220|10002|Germany|Nuremberg|netcup GmbH|
+|16|159.65.186.46|10014|United States|Clifton|DigitalOcean, LLC|
+|17|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
+|18|89.58.48.220|10002|Germany|Nuremberg|netcup GmbH|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|114.103.81.248|8089|China|Shenzhen|Chinanet|
 
 
 
