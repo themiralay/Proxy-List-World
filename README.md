@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.6.77.85|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|171.6.77.85|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
 |4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|80.66.81.47|4000|Russia|Moscow|BUQU.SU Solutions|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
-|9|72.10.164.178|30853|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|29639|Canada|Montreal|GloboTech Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|13|72.10.164.178|30853|Canada|Montreal|GloboTech Communications|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|6|165.16.31.19|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|72.10.164.178|30853|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|14|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|192.140.225.70|9090|Indonesia|Jakarta|PT Asia Teknologi Solusi|
+|17|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|72.10.160.90|29639|Canada|Montreal|GloboTech Communications|
 
 
 
