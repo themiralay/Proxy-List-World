@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|89.189.95.24|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|16|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
-|17|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|103.105.126.18|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|72.10.164.178|6031|Canada|Montreal|GloboTech Communications|
+|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|165.16.31.19|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|18|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
+|19|72.10.164.178|6031|Canada|Montreal|GloboTech Communications|
+|20|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
 
 
 
