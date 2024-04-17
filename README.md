@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|177.19.167.242|80|Brazil|Rio de Janeiro|Vivo|
-|6|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|7|89.58.48.220|10010|Germany|Nuremberg|netcup GmbH|
-|8|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
-|10|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|13|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|5|8.208.100.155|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
+|6|101.255.165.130|1111|Indonesia|Bekasi|PT Remala Abadi|
+|7|177.19.167.242|80|Brazil|Rio de Janeiro|Vivo|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
 |14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|123.182.59.80|8089|China|Zhangjiakou|China Telecom|
-|17|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|119.39.69.182|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|103.105.126.18|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
-|20|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|15|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|16|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|18|159.65.176.77|10007|United States|Clifton|DigitalOcean, LLC|
+|19|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
