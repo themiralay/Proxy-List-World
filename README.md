@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|171.96.204.156|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|4|85.214.190.195|3128|Germany|Berlin|Strato AG|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|211.248.134.103|3128|South Korea|Incheon|Korea Telecom|
-|11|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
-|12|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|171.96.204.156|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|85.214.190.195|3128|Germany|Berlin|Strato AG|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|12|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
 
 
 
