@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|8|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|10|60.174.1.244|8089|China|Guangzhou|Chinanet|
-|11|138.197.92.54|10002|United States|Clifton|DigitalOcean, LLC|
-|12|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|103.246.247.146|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|16|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|119.39.69.104|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|138.197.16.249|10017|United States|Clifton|DigitalOcean, LLC|
+|2|203.192.217.6|8080|India|Mumbai|Entire In2Cable|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|14|60.174.1.244|8089|China|Guangzhou|Chinanet|
+|15|103.117.194.69|8080|Bangladesh|Rājāfair|DigiCon Telecommunication Ltd|
+|16|138.197.16.249|10017|United States|Clifton|DigitalOcean, LLC|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|72.10.160.90|19609|Canada|Montreal|GloboTech Communications|
+|19|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
