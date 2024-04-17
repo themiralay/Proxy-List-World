@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|84.247.146.121|10005|Singapore|Singapore|Contabo GmbH|
+|2|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|11|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|5|84.247.146.121|10005|Singapore|Singapore|Contabo GmbH|
+|6|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
+|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |12|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|119.39.79.15|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
-|17|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|18|38.7.1.233|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|19|67.43.236.20|31873|Canada|Montreal|GloboTech Communications|
-|20|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|13|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|19|119.39.79.15|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
