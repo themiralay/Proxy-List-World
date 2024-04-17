@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|134.35.19.186|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|4|103.133.25.241|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
-|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|38.123.220.83|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|12|8.208.26.210|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|134.35.19.186|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|8|72.10.160.90|16641|Canada|Montreal|GloboTech Communications|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|222.174.178.122|4999|China|Xintai|Chinanet|
+|11|72.10.160.90|16641|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|114.231.8.152|8089|China|Nanjing|Chinanet|
+|14|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|72.10.164.178|27543|Canada|Montreal|GloboTech Communications|
 |16|72.10.160.90|16641|Canada|Montreal|GloboTech Communications|
-|17|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.160.90|16641|Canada|Montreal|GloboTech Communications|
+|17|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|18|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
