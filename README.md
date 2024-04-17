@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|125.26.230.139|8080|Thailand|Si Samrong|TOT Public Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|67.43.227.227|1749|Canada|Montreal|GloboTech Communications|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|17|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|64.225.4.81|10013|United States|Clifton|DigitalOcean, LLC|
+|2|125.26.230.139|8080|Thailand|Si Samrong|TOT Public Company Limited|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|8|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|67.43.227.227|25967|Canada|Montreal|GloboTech Communications|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|20|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 
 
 
