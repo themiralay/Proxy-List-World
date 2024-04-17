@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|139.180.168.177|80|Australia|Sydney|Choopa|
+|2|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
-|10|72.10.160.90|5255|Canada|Montreal|GloboTech Communications|
-|11|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|14|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|15|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|157.90.25.123|80|Germany|Nuremberg|Hetzner Online GmbH|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|7|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|69.160.223.65|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
+|10|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|182.50.65.145|8080|Nepal|Biratnagar|RO-65 BroadLink|
+|13|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|14|139.255.67.52|3888|Indonesia|Jakarta|PT. LINKNET|
+|15|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|16|179.49.113.230|999|Honduras|Rio Comayagua|Asociacion De Servicio De Internet S. De RL|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
