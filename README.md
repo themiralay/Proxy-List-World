@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6538** proxies at the latest update. Usable proxies are below.
+> Scraper found **6544** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|100|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|523|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|99|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|530|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|307|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4648|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|134.35.19.186|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|4|103.133.25.241|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
-|8|45.5.92.94|8137|Mexico|Monclova|Señal Interactiva, S.A De C.V|
-|9|103.8.68.48|3128|China|Shiyan|China Telecom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|13|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
-|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|16|67.43.236.20|27431|Canada|Montreal|GloboTech Communications|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|166.111.153.224|9300|China|Haidian|China Education and Research Network Center|
-|20|103.78.96.146|80|Indonesia|Jakarta|MORATELINDO|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
+|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|38.123.220.83|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|12|8.208.26.210|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|72.10.160.90|16641|Canada|Montreal|GloboTech Communications|
+|17|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.160.90|16641|Canada|Montreal|GloboTech Communications|
 
 
 
