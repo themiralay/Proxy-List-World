@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.78.194.75|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|5|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|9|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|45.11.95.165|5042|Russia|Moscow|Delta Ltd|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|16|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|17|67.43.228.250|19571|Canada|Montreal|GloboTech Communications|
-|18|45.11.95.165|5042|Russia|Moscow|Delta Ltd|
-|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|20|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|4|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|9|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|10|184.82.130.44|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|15|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
+|16|103.8.68.48|3128|China|Shiyan|China Telecom|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|103.8.68.46|3128|China|Shiyan|China Telecom|
+|20|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 
 
 
