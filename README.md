@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|111.225.152.252|8089|China|Zhoutou|China Telecom|
-|11|181.78.19.242|999|Colombia|Fonseca|IFX Networks Argentina S.R.L|
-|12|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|117.57.92.27|8089|China|Shenzhen|Chinanet|
-|15|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|16|72.10.164.178|25707|Canada|Montreal|GloboTech Communications|
-|17|123.182.59.69|8089|China|Zhangjiakou|China Telecom|
-|18|114.231.45.43|8089|China|Nanjing|Chinanet|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|14.241.46.131|8080|Vietnam|Bac Ninh|VNPT|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|10|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|11|114.232.109.131|8089|China|Nanjing|Chinanet|
+|12|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|192.140.225.70|9090|Indonesia|Jakarta|PT Asia Teknologi Solusi|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|18|103.203.172.22|84|India|Hyderabad|Softgaurd Powertronics|
+|19|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
