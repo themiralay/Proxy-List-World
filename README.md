@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|182.52.131.15|8080|Thailand|Bangkok|TOT Public Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|111.225.152.6|8089|China|Zhoutou|China Telecom|
-|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|12|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|114.231.46.64|8089|China|Nanjing|Chinanet|
-|14|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|15|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|121.195.170.225|1024|China|Haidian|CERNET|
-|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|18|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|200.59.10.50|999|Argentina|Belen de Escobar|COTELCAM|
+|11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|119.39.68.39|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|111.225.152.6|8089|China|Zhoutou|China Telecom|
+|20|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
