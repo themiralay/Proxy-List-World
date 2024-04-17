@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.170.115.180|8080|Indonesia|Bengkalis|PT Mega Data Akses|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|186.148.182.55|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|6|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.49.218.139|10101|Philippines|Mabalacat|Converge Information and Communications Technology Solutions|
-|10|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|19|183.165.244.227|8089|China|Shenzhen|Chinanet|
-|20|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.49.218.139|10101|Philippines|Mabalacat|Converge Information and Communications Technology Solutions|
+|9|103.56.205.84|8080|Indonesia|Cirebon|Argon Data Communication|
+|10|103.35.110.94|5020|Bangladesh|Dhaka|Ranks ITT|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|103.51.205.98|8080|Indonesia|Karanganyar|Lintas Data Prima, PT|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|201.20.118.146|27234|Brazil|Lavras da Mangabeira|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|103.87.169.158|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|200.41.170.211|11201|Argentina|Rincon de Los Sauces|Telefonica de Argentina|
 
 
 
