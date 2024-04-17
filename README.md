@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|103.228.244.211|8080|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|11|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|103.6.223.2|3128|China|Baoshan|China Unicom|
-|14|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
-|15|190.14.225.15|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|16|16.171.225.77|3128|Sweden|Stockholm|Amazon.com|
-|17|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|18|89.46.249.148|8888|United Kingdom|London|Hydra Communications Ltd|
-|19|72.10.160.90|29251|Canada|Montreal|GloboTech Communications|
-|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|186.215.196.50|3128|Brazil|Recife|Vivo|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|94.154.152.3|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
+|15|16.171.225.77|3128|Sweden|Stockholm|Amazon.com|
+|16|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|17|72.10.160.90|29251|Canada|Montreal|GloboTech Communications|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
 
 
 
