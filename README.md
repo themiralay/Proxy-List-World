@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|45.175.252.18|999|Mexico|Chihuahua City|Alma Jessica Gallegos Gutierrez|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.7.0.62|80|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
-|5|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.14.211|80|Canada|Toronto|DigitalOcean, LLC|
-|7|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|67.43.227.228|20741|Canada|Montreal|GloboTech Communications|
-|10|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|11|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
-|12|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|16|192.9.224.181|3128|United States|San Jose|Oracle Corporation|
-|17|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|72.10.164.178|8095|Canada|Montreal|GloboTech Communications|
+|1|159.203.14.211|80|Canada|Toronto|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|67.43.227.228|20741|Canada|Montreal|GloboTech Communications|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|11|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|119.39.69.182|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|103.80.230.21|8080|Indonesia|Medan|DNSOLUSINDO|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
 
 
 
