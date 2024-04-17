@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|7|103.80.230.21|8080|Indonesia|Medan|DNSOLUSINDO|
-|8|110.93.227.28|3128|Pakistan|Karachi|TW RO|
-|9|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|17|80.66.81.37|4006|Russia|Moscow|BUQU.SU Solutions|
-|18|67.43.228.253|1125|Canada|Montreal|GloboTech Communications|
-|19|103.182.112.11|5000|India|Mumbai|Ruhi Infotech|
-|20|67.43.227.227|32039|Canada|Montreal|GloboTech Communications|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|10|200.39.152.193|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|221.226.75.86|55443|China|Nanjing|CHINANET jiangsu province network|
+|13|43.153.84.84|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|15|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|16|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|19|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
