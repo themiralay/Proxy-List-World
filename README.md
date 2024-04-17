@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 |7|45.160.15.254|999|Chile|Santiago|Servicio De Telecomunicaciones Vemos MAS Ltda.|
-|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|11|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|12|103.8.68.48|3128|China|Shiyan|China Telecom|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|15|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|148.135.39.25|3129|United States|Los Angeles|Multacom Corporation|
-|19|89.250.88.12|3128|Kazakhstan|Oral|KazRENA|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|77.41.146.60|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|13|138.197.92.54|10009|United States|Clifton|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|18|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|19|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|20|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
