@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|6|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|4|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
+|5|152.32.240.78|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|67.43.236.20|30589|Canada|Montreal|GloboTech Communications|
-|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|14|103.8.68.48|3128|China|Shiyan|China Telecom|
-|15|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|45.191.75.186|999|Colombia|Guachené|Global Raices|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|103.137.45.243|33357|India|Pūrna|Wsnl Broadband Private Limited|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
 |16|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 |17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|67.43.236.20|30589|Canada|Montreal|GloboTech Communications|
-|19|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|20|45.229.58.33|999|Panama|La Chorrera|GEEK NETWORKS, S.A|
+|18|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
