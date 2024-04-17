@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|72.10.164.178|26253|Canada|Montreal|GloboTech Communications|
-|5|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|6|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|112.78.131.6|8080|Indonesia|Jagakarsa|Biznet Networks|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|8.208.100.155|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
-|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|13|167.172.238.6|10008|United States|Clifton|DigitalOcean, LLC|
-|14|103.35.110.94|5020|Bangladesh|Dhaka|Ranks ITT|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|17|182.50.65.169|8080|Nepal|Biratnagar|RO-65 BroadLink|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|67.43.227.228|13133|Canada|Montreal|GloboTech Communications|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|125.26.230.139|8080|Thailand|Si Samrong|TOT Public Company Limited|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|101.255.164.134|8080|Indonesia|Bekasi|PT Remala Abadi|
+|9|72.10.164.178|26253|Canada|Montreal|GloboTech Communications|
+|10|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
+|11|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|191.102.254.53|8085|Argentina|Rosario|IP·RED|
+|14|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|16|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|204.199.120.61|999|Colombia|Pasto|Level 3 Communications, Inc.|
+|20|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
 
 
 
