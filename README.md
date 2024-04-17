@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|2|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|5|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|8|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|82.65.249.238|8118|France|La Garenne-Colombes|Proxad / Free SAS|
-|10|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|16|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|17|212.132.74.86|3128|Germany|Karlsruhe|IONOS SE fra.de|
-|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|4|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|177.234.194.157|999|Ecuador|Machala|Ufinet Panama S.A.|
+|8|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|9|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|13|45.71.3.51|999|Ecuador|La Troncal|Sysnovelltel S.A|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|111.225.153.61|8089|China|Zhoutou|China Telecom|
+|18|67.43.228.253|26063|Canada|Montreal|GloboTech Communications|
+|19|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
