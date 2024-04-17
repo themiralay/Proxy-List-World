@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|4|103.246.247.146|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.208.26.210|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
-|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|80.87.178.175|8080|Czechia|Velke Bilovice|Oxid - I|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|16|119.39.69.104|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|103.55.33.59|8080|Indonesia|Bandung|UIN Sunan Gunung Djati Bandung|
-|20|114.232.109.58|8089|China|Nanjing|Chinanet|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|113.30.190.204|14611|Germany|Frankfurt|Kamatera Inc|
+|7|191.102.254.9|8081|Argentina|Rosario|IP·RED|
+|8|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|9|103.152.232.39|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|10|103.166.8.238|3125|Indonesia|Sragen|PT Akses Bersama Sedaya|
+|11|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|12|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|119.39.69.104|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|103.26.110.125|84|India|Tirunelveli|Niss Networks|
+|16|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|17|47.252.20.121|8009|United States|Charlottesville|Alibaba.com LLC|
+|18|38.9.56.70|8080|India|Chennai|Cogent Communications|
+|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|20|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 
 
 
