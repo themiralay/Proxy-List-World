@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|2|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|5|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|11|103.152.232.194|8080|Indonesia|Bekasi|PT Kingpolah Network Solutions|
-|12|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
-|13|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
-|14|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|15|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|38.56.70.75|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|8|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|13|67.43.228.253|3063|Canada|Montreal|GloboTech Communications|
+|14|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|119.39.69.104|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|68.183.48.146|10002|United States|Clifton|DigitalOcean, LLC|
+|18|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|19|185.125.169.24|8118|Norway|Sandefjord|TerraHost AS|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
