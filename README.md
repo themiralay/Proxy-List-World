@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|67.43.227.230|17637|Canada|Montreal|GloboTech Communications|
-|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|8|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|11|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|149.51.231.194|3128|United States|Ashburn|Rackdog, LLC|
-|15|181.10.200.154|3128|Argentina|Nono|Telecom Argentina S.A.|
-|16|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|19|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|103.152.232.39|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|13|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|16|164.77.240.27|999|Chile|Santiago|Entel Chile S.A.|
+|17|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |20|119.39.69.182|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
