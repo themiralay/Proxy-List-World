@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|134.35.0.127|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|8|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.247.23.201|8080|Indonesia|Bekasi|PT wifian Solution|
+|7|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|223.215.176.117|8089|China|Rongcheng|Chinanet|
-|12|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
-|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|14|72.10.164.178|11607|Canada|Montreal|GloboTech Communications|
-|15|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|13|223.215.176.117|8089|China|Rongcheng|Chinanet|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|67.43.227.227|12573|Canada|Montreal|GloboTech Communications|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|110.34.8.110|8080|Nepal|Kathmandu|Subisu Cablenet|
+|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
 |19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
