@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.192.217.6|8080|India|Mumbai|Entire In2Cable|
-|3|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|203.150.128.24|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|9|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|192.203.0.190|999|Puerto Rico|Fajardo|Boom NET|
-|15|119.39.69.182|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|18|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|19|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|80.87.178.175|8080|Czechia|Velke Bilovice|Oxid - I|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.87.169.158|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|10|200.24.153.151|999|Ecuador|Tosagua|Ufinet Panama S.A.|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|119.39.69.182|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|113.30.190.204|14611|Germany|Frankfurt|Kamatera Inc|
+|19|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|20|165.16.27.43|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
 
 
 
