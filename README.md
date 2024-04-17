@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|72.10.160.174|17343|Canada|Montreal|GloboTech Communications|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|17|103.68.214.19|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|18|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|114.106.136.203|8089|China|Rongcheng|Chinanet|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|114.106.136.203|8089|China|Rongcheng|Chinanet|
+|19|114.106.171.175|8089|China|Rongcheng|Chinanet|
+|20|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
 
 
 
