@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|109.111.140.23|8080|Russia|Kaliningrad|TIS Dialog LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|134.35.3.68|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|198.244.149.182|37615|United Kingdom|London|OVH SAS|
-|8|212.112.125.44|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|110.235.129.14|1337|Philippines|Manila|RADIUS TELECOMS, INC.|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|36.6.144.236|8089|China|Guangzhou|Chinanet|
-|16|67.43.227.228|25453|Canada|Montreal|GloboTech Communications|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|170.238.239.72|8080|Colombia|Buenaventura|InterNexa Global Network|
-|19|111.225.152.94|8089|China|Zhoutou|China Telecom|
-|20|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|4|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|5|134.35.3.68|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|11|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
+|12|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|13|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
+|19|67.43.227.228|25453|Canada|Montreal|GloboTech Communications|
+|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 
 
 
