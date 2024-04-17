@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|5|103.180.122.201|1080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|89.58.48.220|10010|Germany|Nuremberg|netcup GmbH|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|67.43.228.253|32739|Canada|Montreal|GloboTech Communications|
-|10|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|119.39.79.15|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|67.43.227.228|24735|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|32739|Canada|Montreal|GloboTech Communications|
-|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|119.39.69.182|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|19|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|20|192.9.224.181|3128|United States|San Jose|Oracle Corporation|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|67.43.228.253|32739|Canada|Montreal|GloboTech Communications|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|119.39.79.15|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|164.77.240.28|999|Chile|Santiago|Entel Chile S.A.|
+|9|67.43.236.20|11543|Canada|Montreal|GloboTech Communications|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|103.87.169.160|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|15|89.58.48.220|10010|Germany|Nuremberg|netcup GmbH|
+|16|45.4.201.94|8080|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|17|67.43.227.228|24735|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|32739|Canada|Montreal|GloboTech Communications|
+|19|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|20|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 
 
 
