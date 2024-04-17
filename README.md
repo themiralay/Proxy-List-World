@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|5|85.214.190.195|3128|Germany|Berlin|Strato AG|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|171.96.204.156|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|85.214.190.195|3128|Germany|Berlin|Strato AG|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
 |9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|103.203.172.22|84|India|Hyderabad|Softgaurd Powertronics|
-|11|142.11.195.185|80|United States|Seattle|Hostwinds LLC.|
-|12|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
-|13|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
-|14|103.8.68.48|3128|China|Shiyan|China Telecom|
-|15|166.111.153.224|9300|China|Haidian|China Education and Research Network Center|
+|10|188.132.146.75|8080|Turkey|Ulus|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|11|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|12|45.11.95.166|6014|Russia|Moscow|Delta Ltd|
+|13|142.11.195.185|80|United States|Seattle|Hostwinds LLC.|
+|14|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|15|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
 |16|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.160.173|31995|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|14235|Canada|Montreal|GloboTech Communications|
+|18|166.111.153.224|9300|China|Haidian|China Education and Research Network Center|
+|19|103.117.194.69|8080|Bangladesh|Rājāfair|DigiCon Telecommunication Ltd|
+|20|157.159.10.86|80|France|Évry|IT-EVRY-8/22|
 
 
 
