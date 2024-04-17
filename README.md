@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.246.78.21|8080|Indonesia|Pemalang|PT Saka Media Komunika|
-|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|9|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|10|92.255.202.78|8080|Russia|Kazan'|CJSC "ER-Telecom Holding" Kazan' branch|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|103.36.8.55|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|9|103.147.247.26|3127|Indonesia|Tangerang|PLBNET|
+|10|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|11|181.209.82.202|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|161.49.89.219|8082|Philippines|Las Pinas|Converge ICT Solution Inc|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|75.112.64.27|8080|United States|Orlando|Spectrum|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
