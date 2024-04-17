@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|114.106.172.121|8089|China|Rongcheng|Chinanet|
-|10|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
-|11|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|12|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|119.39.69.104|2323|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|72.10.160.90|27441|Canada|Montreal|GloboTech Communications|
-|19|146.190.53.175|32794|United States|Santa Clara|DigitalOcean, LLC|
-|20|67.43.227.227|18293|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|134.122.66.16|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|114.106.172.121|8089|China|Rongcheng|Chinanet|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
+|10|72.10.160.90|8413|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|13|72.10.160.92|21159|Canada|Montreal|GloboTech Communications|
+|14|138.197.16.249|10011|United States|Clifton|DigitalOcean, LLC|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|138.197.16.249|10011|United States|Clifton|DigitalOcean, LLC|
+|17|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|18.140.65.204|3128|Singapore|Singapore|Amazon.com, Inc.|
 
 
 
