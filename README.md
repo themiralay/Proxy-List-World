@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|134.35.187.143|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|203.150.128.232|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 |8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|11|203.150.128.232|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|13|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|45.122.228.10|8899|Australia|Sydney|NETPTYLTD|
-|16|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
-|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|18|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|19|200.69.159.177|8080|Argentina|La Plata|Citarella S.A.|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|11|122.54.92.233|8080|Philippines|Las Pinas|Philippine Long Distance Telephone Co.|
+|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|13|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|202.5.40.21|5020|Bangladesh|Khulna|BBTS-NEW|
+|19|167.172.238.6|10010|United States|Clifton|DigitalOcean, LLC|
+|20|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
