@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5678** proxies at the latest update. Usable proxies are below.
+> Scraper found **5661** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|107|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|731|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|714|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|452|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3428|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.25.193.111|8080|Indonesia|Karawang|UNINA|
-|2|195.35.29.39|80|France|Paris|HOSTINGER FR|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|181.114.224.133|8080|Argentina|Mar del Plata|CyberWave S.A.|
-|6|103.147.247.212|1234|Indonesia|Tangerang|PLBNET|
+|4|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|5|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|6|103.141.109.219|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|72.10.160.172|7153|Canada|Montreal|GloboTech Communications|
-|11|23.95.187.215|80|United States|Buffalo|HostPapa|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|15|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|19|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
-|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|8|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|9|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|11|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|12|64.225.8.132|10013|United States|Clifton|DigitalOcean, LLC|
+|13|43.247.38.57|8080|Indonesia|Karawang|Maxindo|
+|14|177.93.40.54|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|103.156.75.41|8181|Indonesia|Singaraja|PT Trika Global Media|
+|16|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
