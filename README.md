@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|5|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|6|103.141.109.219|8080|Indonesia|Sumberkrajan|Data Buana Nusantara|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|170.239.207.226|999|Colombia|Bogotá|FIBERNET|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|138.59.235.249|8080|Brazil|Curvelo|RZ NET LTDA|
 |9|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|11|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|10|64.225.8.132|10013|United States|Clifton|DigitalOcean, LLC|
+|11|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
 |12|64.225.8.132|10013|United States|Clifton|DigitalOcean, LLC|
-|13|43.247.38.57|8080|Indonesia|Karawang|Maxindo|
-|14|177.93.40.54|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|103.156.75.41|8181|Indonesia|Singaraja|PT Trika Global Media|
-|16|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|19|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|16|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 
 
 
