@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
-|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.228.253|26985|Canada|Montreal|GloboTech Communications|
-|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
-|20|72.10.160.174|32561|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|89.58.48.220|10011|Germany|Nuremberg|netcup GmbH|
+|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|18|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|19|67.43.236.20|19173|Canada|Montreal|GloboTech Communications|
+|20|103.6.223.2|3128|China|Baoshan|China Unicom|
 
 
 
