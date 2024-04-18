@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|54.186.42.15|3128|United States|Portland|Amazon.com, Inc.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|54.186.42.15|3128|United States|Portland|Amazon.com, Inc.|
-|7|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|54.186.42.15|3128|United States|Portland|Amazon.com, Inc.|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|54.186.42.15|3128|United States|Portland|Amazon.com, Inc.|
+|6|103.152.232.55|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|111.225.153.130|8089|China|Zhoutou|China Telecom|
-|13|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|14|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
-|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|1.20.200.154|8081|Thailand|Bangkok|TOT Public Company Limited|
-|17|45.188.164.3|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|18|45.122.228.10|8899|Australia|Sydney|NETPTYLTD|
-|19|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|20|98.6.197.202|16099|United States|Mission|Spectrum|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|190.14.225.15|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|13|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|14|201.77.128.158|8080|Brazil|Machado|Axtelecom Ltda|
+|15|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|111.225.153.130|8089|China|Zhoutou|China Telecom|
+|18|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
+|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|103.189.231.217|8080|Indonesia|Ciamis|PT Media Access Telematika|
 
 
 
