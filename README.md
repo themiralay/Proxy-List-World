@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|67.43.227.227|7307|Canada|Montreal|GloboTech Communications|
-|8|181.224.205.42|999|Dominican Republic|Puerto Plata|BW TELECOM|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|72.10.164.178|23289|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|23289|Canada|Montreal|GloboTech Communications|
-|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|72.10.160.90|8457|Canada|Montreal|GloboTech Communications|
-|14|103.55.33.59|8080|Indonesia|Bandung|UIN Sunan Gunung Djati Bandung|
-|15|101.255.158.42|8080|Indonesia|Bekasi|PT Remala Abadi|
-|16|138.197.16.249|10016|United States|Clifton|DigitalOcean, LLC|
-|17|72.10.164.178|23289|Canada|Montreal|GloboTech Communications|
-|18|45.58.52.5|80|United States|Dallas|HostUS|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|103.111.99.253|3125|Indonesia|Pangkalpinang|PT Mitra Lintas Multimedia|
+|9|71.14.23.121|8080|United States|Birmingham|Spectrum|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|67.43.227.227|19695|Canada|Montreal|GloboTech Communications|
+|13|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|15|72.10.164.178|27391|Canada|Montreal|GloboTech Communications|
+|16|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|19|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|20|167.172.238.6|10016|United States|Clifton|DigitalOcean, LLC|
 
 
 
