@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|159.203.14.128|80|Canada|Toronto|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|159.203.14.128|80|Canada|Toronto|DigitalOcean, LLC|
-|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|72.10.164.178|15709|Canada|Montreal|GloboTech Communications|
-|12|114.129.19.139|8080|Indonesia|Banjar Medura|PT Hipernet Indodata|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|103.30.29.179|5020|Bangladesh|Chittagong|Broad Band Telecom Services Ltd.|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|8|50.236.203.15|8080|United States|Indianapolis|Comcast Cable Communications, LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|89.58.48.220|10016|Germany|Nuremberg|netcup GmbH|
+|13|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|14|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|181.78.85.45|998|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|16|139.28.221.233|3128|Finland|Helsinki|I-servers LTD|
+|17|72.10.164.178|15709|Canada|Montreal|GloboTech Communications|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
