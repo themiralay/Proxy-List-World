@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|5|98.6.197.202|16099|United States|Mission|Spectrum|
-|6|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
-|10|89.58.48.220|10014|Germany|Nuremberg|netcup GmbH|
-|11|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|12|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|121.195.170.225|1024|China|Haidian|CERNET|
-|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|16|111.225.152.124|8089|China|Zhoutou|China Telecom|
-|17|64.225.8.132|10003|United States|Clifton|DigitalOcean, LLC|
-|18|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|19|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|70.113.250.186|16099|United States|Weslaco|Spectrum|
+|5|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|6|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|7|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|8|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|9|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|10|159.65.186.46|10018|United States|Clifton|DigitalOcean, LLC|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|15|67.43.236.20|15205|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|18751|Canada|Montreal|GloboTech Communications|
+|17|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
+|18|67.43.228.253|3011|Canada|Montreal|GloboTech Communications|
+|19|190.95.209.180|999|Ecuador|Guayaquil|Telconet S.A|
+|20|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
 
 
 
