@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
-|7|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|8|203.150.113.248|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|203.150.113.248|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|8|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
 |9|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
-|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|45.4.201.32|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|17|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|10|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
+|11|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|193.111.124.186|7777|Indonesia|Jakarta|CV Atha Media Prima|
+|14|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|18|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
 
 
 
