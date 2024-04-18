@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|98.6.197.202|16099|United States|Mission|Spectrum|
-|11|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|12|71.14.23.121|8080|United States|Birmingham|Spectrum|
-|13|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|14|223.247.46.106|8089|China|Rongcheng|Chinanet|
-|15|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|16|111.225.152.237|8089|China|Zhoutou|China Telecom|
-|17|185.233.247.186|8080|Türkiye|Reyhanlı|Veganet Teknolojileri ve Hizmetleri LTD STI|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|67.43.236.20|13525|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|27669|Canada|Montreal|GloboTech Communications|
+|4|103.73.164.190|32650|Cambodia|Phnom Penh|TPLC Holdings Ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|118.172.239.231|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|9|111.225.152.237|8089|China|Zhoutou|China Telecom|
+|10|72.10.160.171|26789|Canada|Montreal|GloboTech Communications|
+|11|167.172.238.6|10016|United States|Clifton|DigitalOcean, LLC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|67.43.227.227|14165|Canada|Montreal|GloboTech Communications|
+|14|167.172.238.6|10016|United States|Clifton|DigitalOcean, LLC|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|102.214.166.1|1981|Libya|Benghazi|Taqnyat Aljeel Company Communication and Information|
+|19|167.172.238.6|10016|United States|Clifton|DigitalOcean, LLC|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
