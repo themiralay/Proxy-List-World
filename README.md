@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|67.227.158.154|80|United States|Lansing|Liquid Web, L.L.C|
-|11|103.24.213.124|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
-|17|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
-|18|67.43.227.227|13063|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|2411|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2411|Canada|Montreal|GloboTech Communications|
+|2|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
