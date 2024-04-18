@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|177.234.192.231|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|41.209.10.211|8080|Kenya|Nairobi|MTN Business Kenya|
-|6|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|7|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
-|8|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.49.215.28|10101|Philippines|Bolacan|Converge Information and Communications Technology Solutions|
-|11|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
-|12|134.35.219.131|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|13|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|104.167.6.218|80|United States|Boca Raton|CloudS|
-|16|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|19|72.10.164.178|4867|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.155.198.53|8181|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|72.10.164.178|27529|Canada|Montreal|GloboTech Communications|
+|9|223.247.46.181|8089|China|Rongcheng|Chinanet|
+|10|114.106.136.54|8089|China|Rongcheng|Chinanet|
+|11|67.43.228.253|5277|Canada|Montreal|GloboTech Communications|
+|12|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|17|121.236.236.57|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
+|18|61.129.2.212|8080|China|Beijing|CHINANET|
+|19|72.10.164.178|27529|Canada|Montreal|GloboTech Communications|
+|20|85.214.190.195|3128|Germany|Berlin|Strato AG|
 
 
 
