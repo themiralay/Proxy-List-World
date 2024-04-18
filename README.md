@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|200.108.205.194|8080|Uruguay|Solis de Mataojo|Tecnowind S.A.|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
-|8|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|11|64.225.8.132|10018|United States|Clifton|DigitalOcean, LLC|
+|7|200.108.205.194|8080|Uruguay|Solis de Mataojo|Tecnowind S.A.|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|77.51.204.218|8080|Russia|Istra|CTC-JNPR|
+|11|72.10.160.90|12299|Canada|Montreal|GloboTech Communications|
 |12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|212.192.3.101|8080|Palestinian Territory|Rafah|AjyalFi Company for Information and Communication Technology LLC|
-|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|18|72.10.160.170|13441|Canada|Montreal|GloboTech Communications|
-|19|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|20|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|103.8.68.48|3128|China|Shiyan|China Telecom|
+|19|72.10.160.90|12299|Canada|Montreal|GloboTech Communications|
+|20|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
