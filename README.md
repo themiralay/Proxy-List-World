@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|165.22.59.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|183.178.50.58|8080|Hong Kong|Ngau Wu Tok|Hong Kong Broadband Network Ltd|
-|7|81.161.121.114|8080|Russia|Prokopyevsk|ELECTRON-SERVICE|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|134.35.89.55|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|16|67.43.236.20|2309|Canada|Montreal|GloboTech Communications|
-|17|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|19|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|165.22.59.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.6.223.2|3128|China|Baoshan|China Unicom|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
+|18|138.121.161.121|8290|Argentina|Rosario|WICORP SA|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|180.232.171.210|8080|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
 
 
 
