@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|8|72.10.160.90|20231|Canada|Montreal|GloboTech Communications|
-|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|10|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|11|167.172.238.6|10014|United States|Clifton|DigitalOcean, LLC|
-|12|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|4|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|5|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|7|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|72.10.160.90|25659|Canada|Montreal|GloboTech Communications|
+|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|11|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|12|45.174.79.232|999|Mexico|Miguel Ahumada|Raul Duarte Urita|
+|13|167.172.238.6|10011|United States|Clifton|DigitalOcean, LLC|
 |14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|193.111.124.186|7777|Indonesia|Jakarta|CV Atha Media Prima|
-|16|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|17|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|18|72.10.164.178|3527|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
+|15|45.225.207.185|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|16|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
