@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|4|134.35.238.198|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|103.176.96.140|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
+|5|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|187.86.133.125|3128|Brazil|Pelotas|VETORIALNET INF. E SERVIÇOS DE INTERNET LTDA|
-|8|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|9|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 |10|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|11|164.52.204.156|80|India|Noida|E2E Networks Limited|
-|12|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|111.225.152.219|8089|China|Zhoutou|China Telecom|
-|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|16|123.182.58.154|8089|China|Zhangjiakou|China Telecom|
-|17|181.48.107.26|999|Colombia|Barranquilla|Telmex Colombia S.A.|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|72.10.164.178|7963|Canada|Montreal|GloboTech Communications|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|164.52.204.156|80|India|Noida|E2E Networks Limited|
+|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|14|134.35.238.198|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|223.26.22.250|8080|Afghanistan|Kabul|Ankabut Internet Service Provider|
+|16|64.225.8.132|10018|United States|Clifton|DigitalOcean, LLC|
+|17|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
+|18|72.10.164.178|7963|Canada|Montreal|GloboTech Communications|
+|19|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
 |20|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
