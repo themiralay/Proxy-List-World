@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|13|206.42.27.113|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
-|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|16|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|17|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|18|67.43.236.20|27375|Canada|Montreal|GloboTech Communications|
-|19|177.234.192.207|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|6|203.150.128.232|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|131.100.48.73|999|Colombia|Neiva|Fibernet TV SAS|
+|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|19|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|20|183.165.250.25|8089|China|Shenzhen|Chinanet|
 
 
 
