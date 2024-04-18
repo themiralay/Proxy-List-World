@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|38.52.222.242|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|103.184.19.73|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
 |8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|72.10.164.178|6259|Canada|Montreal|GloboTech Communications|
-|10|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
-|12|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|194.67.113.86|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|16|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|67.43.236.20|14357|Canada|Montreal|GloboTech Communications|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|72.10.164.178|28613|Canada|Montreal|GloboTech Communications|
+|13|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|190.14.225.15|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
