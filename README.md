@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|165.22.59.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|103.106.112.87|8080|Indonesia|Bandar Lampung|SMSNET|
-|8|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|11|183.165.244.246|8089|China|Shenzhen|Chinanet|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|67.43.227.227|9727|Canada|Montreal|GloboTech Communications|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|120.28.195.250|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|16|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|17|67.43.228.252|21307|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|27507|Canada|Montreal|GloboTech Communications|
-|19|78.170.135.164|8080|Turkey|Istanbul|TurkTelecom|
-|20|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|9|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|120.29.124.131|8080|Philippines|San Fernando City|ComClark Network & Technology Corp|
+|19|203.79.29.246|1111|Indonesia|Ciputat|PT Surya Global Teknologi|
+|20|103.153.40.38|8080|Indonesia|Bekasi|Persada Nayaka Infotama|
 
 
 
