@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|188.136.164.140|3128|Iran|Khvānsār|Ariana Gostar Spadana's|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|14|103.155.62.163|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|16|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|20|111.225.152.59|8089|China|Zhoutou|China Telecom|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|189.193.254.98|8080|Mexico|Jiquipilco|Mega Cable, S.A. de C.V.|
+|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|8|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|9|186.215.196.50|3128|Brazil|Recife|Vivo|
+|10|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|11|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|34.154.161.152|80|Italy|Milan|Google LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|206.42.27.113|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|17|105.112.135.165|8080|Nigeria|Lagos|Airtel Networks Limited|
+|18|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
