@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|72.10.164.178|13069|Canada|Montreal|GloboTech Communications|
-|12|46.166.165.33|4000|Lithuania|Jonava|Cherry Servers|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|111.225.152.209|8089|China|Zhoutou|China Telecom|
-|15|181.224.205.42|999|Dominican Republic|Puerto Plata|BW TELECOM|
-|16|111.225.153.197|8089|China|Zhoutou|China Telecom|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|10|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|103.8.68.48|3128|China|Shiyan|China Telecom|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|20|87.250.5.188|8181|Russia|Izhevsk|MARK-ITT|
 
 
 
