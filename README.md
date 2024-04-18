@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|110.235.129.14|1337|Philippines|Manila|RADIUS TELECOMS, INC.|
-|6|45.188.164.47|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|7|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
-|8|177.70.72.103|20183|Brazil|Ijuí|RazaoInfo Internet Ltda|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|114.231.41.48|8089|China|Nanjing|Chinanet|
-|12|204.199.81.90|999|Colombia|Santiago de Cali|CTL Colombia|
-|13|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|45.235.16.121|27234|Brazil|Itacorubi|Acessoline Telecom|
+|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|109.175.9.203|8080|Bosnia and Herzegovina|Živinice|BH Telecom d.d. Sarajevo|
+|8|204.199.81.90|999|Colombia|Santiago de Cali|CTL Colombia|
+|9|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|12|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|13|72.10.160.93|27385|Canada|Montreal|GloboTech Communications|
 |14|103.8.68.46|3128|China|Shiyan|China Telecom|
-|15|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
-|16|79.106.165.246|8989|Albania|Tirana|ONE ALBANIA SH.A.|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|19|61.129.2.212|8080|China|Beijing|CHINANET|
-|20|111.225.152.107|8089|China|Zhoutou|China Telecom|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
+|17|67.43.227.227|18917|Canada|Montreal|GloboTech Communications|
+|18|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
