@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|190.121.239.195|999|Venezuela|El Tigre|Corporacion Digitel C.A|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|103.76.108.30|8080|Indonesia|Lumajang|PT Mahawira Nusantara Grup|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|121.195.170.225|1024|China|Haidian|CERNET|
-|13|223.247.46.151|8089|China|Rongcheng|Chinanet|
-|14|67.43.236.20|1591|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|103.8.68.48|3128|China|Shiyan|China Telecom|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|223.247.46.151|8089|China|Rongcheng|Chinanet|
+|15|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|17|103.133.27.86|8085|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|18|203.202.253.108|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
