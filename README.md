@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|10|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|11|167.172.238.6|10016|United States|Clifton|DigitalOcean, LLC|
-|12|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|103.105.126.18|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|17|111.225.153.99|8089|China|Zhoutou|China Telecom|
-|18|159.65.186.46|10016|United States|Clifton|DigitalOcean, LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
+|4|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|5|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|6|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|7|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|8|94.154.152.68|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|9|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|103.24.124.94|83|India|Hyderabad|Pioneer Elabs Ltd.|
+|13|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
+|14|181.224.205.42|999|Dominican Republic|Puerto Plata|BW TELECOM|
+|15|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|85.214.190.195|3128|Germany|Berlin|Strato AG|
 |19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
