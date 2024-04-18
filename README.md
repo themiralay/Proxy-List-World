@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.186.106.159|999|Guatemala|Guatemala City|Infinitum S.A.|
-|7|200.69.71.138|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
+|5|212.46.210.242|8080|Russia|Moscow|VympelKom broadband internet|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.141.180.254|3128|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|10|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|41.111.243.133|80|Algeria|Tizi Ouzou|Algerie Telecom|
-|13|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|72.10.160.171|11755|Canada|Montreal|GloboTech Communications|
-|17|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
+|12|101.51.99.213|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|14|74.62.179.122|8080|United States|Hawthorne|Charter Communications Inc|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|103.177.9.104|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
+|19|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
+|20|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
 
 
 
