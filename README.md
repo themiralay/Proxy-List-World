@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|118.99.127.243|8080|Indonesia|Malang|Biznet Metronet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|116.107.18.102|5002|Vietnam|Sơn Dương|Viettel Corporation|
-|6|111.225.152.78|8089|China|Zhoutou|China Telecom|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
-|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|12|93.159.247.109|3128|Russia|Krasnoyarsk|Axioma, LLC|
-|13|200.117.13.75|999|Argentina|Córdoba|Telecom Argentina S.A|
-|14|180.232.127.48|3128|Philippines|Cainta|Eastern Telecommunications Philippines, Inc.|
-|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|103.182.112.11|1234|India|Mumbai|Ruhi Infotech|
-|18|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|2|118.99.127.243|8080|Indonesia|Malang|Biznet Metronet|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|116.107.18.102|5002|Vietnam|Sơn Dương|Viettel Corporation|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|111.225.152.78|8089|China|Zhoutou|China Telecom|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|14|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
+|15|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|16|43.252.107.202|8089|Indonesia|Kudus|PT Lintas Data Prima|
+|17|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|94.228.194.18|41890|Russia|Moscow|Uniontel ZAO network|
 |19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
