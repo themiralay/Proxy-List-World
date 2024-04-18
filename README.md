@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|101.51.169.226|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|64.76.43.115|999|Mexico|Mexico City|Level 3|
-|9|119.92.75.48|8181|Philippines|Tacloban City|Philippine Long Distance Telephone Co.|
-|10|201.77.108.48|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|11|189.203.181.34|8080|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
-|14|34.154.161.152|80|Italy|Milan|Google LLC|
+|3|101.51.169.226|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.80.237.211|3888|Indonesia|Jakarta|PT MITRA VISIONER PRATAMA|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|72.10.164.178|8113|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|8113|Canada|Montreal|GloboTech Communications|
 |15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|72.10.164.178|29529|Canada|Montreal|GloboTech Communications|
+|16|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
 |17|72.10.160.170|4519|Canada|Montreal|GloboTech Communications|
-|18|167.172.238.6|10006|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.227.227|9043|Canada|Montreal|GloboTech Communications|
-|20|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
+|18|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|121.195.170.225|1024|China|Haidian|CERNET|
+|20|70.113.250.186|16099|United States|Weslaco|Spectrum|
 
 
 
