@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|171.6.198.244|8080|Thailand|Mueang Samut Prakan|Triple T Broadband Public Company Limited|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|91.214.31.136|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|14|72.10.164.178|29187|Canada|Montreal|GloboTech Communications|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|165.22.36.164|10009|United States|Clifton|DigitalOcean, LLC|
-|17|138.197.16.249|10011|United States|Clifton|DigitalOcean, LLC|
-|18|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|117.69.232.208|8089|China|Rongcheng|Chinanet|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
+|12|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|13|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
+|14|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|15|193.111.124.186|7777|Indonesia|Jakarta|CV Atha Media Prima|
+|16|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|17|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|18|101.109.119.24|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
