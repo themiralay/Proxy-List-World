@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|4|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|5|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|6|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|8|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|12|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|13|46.35.92.13|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|15|103.108.88.41|8080|Bangladesh|Nārāyanganj|BKB Network|
-|16|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|103.51.206.82|8080|Indonesia|Arjawinangun|PT Milenial Inti Telekomunikasi|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|3|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|4|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|5|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|12|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|19|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|20|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 
 
 
