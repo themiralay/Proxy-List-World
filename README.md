@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|161.82.248.22|8080|Thailand|Bang Kruai|Symphony Communication Public Company Limited|
 |9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|11|67.43.236.20|30543|Canada|Montreal|GloboTech Communications|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|10|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|67.43.236.20|9071|Canada|Montreal|GloboTech Communications|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |17|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|19|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |20|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
