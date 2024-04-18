@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|72.10.164.178|17741|Canada|Montreal|GloboTech Communications|
-|9|64.225.4.81|10016|United States|Clifton|DigitalOcean, LLC|
-|10|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|11|72.10.160.171|3035|Canada|Montreal|GloboTech Communications|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|123.182.59.146|8089|China|Zhangjiakou|China Telecom|
-|14|114.103.80.141|8089|China|Shenzhen|Chinanet|
-|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|223.247.46.223|8089|China|Rongcheng|Chinanet|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|117.70.48.52|8089|China|Rongcheng|Chinanet|
+|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|8|191.242.111.195|8080|Brazil|Rio de Janeiro|V W INTERNET|
+|9|114.103.80.141|8089|China|Shenzhen|Chinanet|
+|10|72.10.160.171|3035|Canada|Montreal|GloboTech Communications|
+|11|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|12|123.182.59.146|8089|China|Zhangjiakou|China Telecom|
+|13|72.10.164.178|17741|Canada|Montreal|GloboTech Communications|
+|14|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|188.125.169.8|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
