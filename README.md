@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|185.32.5.130|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|12|45.7.64.100|999|Mexico|San Bartolo Tutotepec|Maysnet SA De CV|
-|13|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|45.225.207.165|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|19|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|188.209.241.215|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|67.43.227.227|16013|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|31033|Canada|Montreal|GloboTech Communications|
+|13|77.51.204.218|8080|Russia|Istra|CTC-JNPR|
+|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|15|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
+|16|134.35.89.125|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|17|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
