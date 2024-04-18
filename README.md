@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|154.73.29.1|8080|Libya|Tripoli|Rawafed|
-|10|159.65.176.77|10014|United States|Clifton|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|134.35.17.232|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|16|45.4.201.94|8080|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|17|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
-|18|170.245.132.129|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|9|103.234.159.5|8080|India|Bengaluru|MWPL|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|200.55.255.251|8083|Ecuador|Machala|Comm & Net S.A.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|134.35.17.232|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|16|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|19|72.10.164.178|25525|Canada|Montreal|GloboTech Communications|
+|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
 
 
 
