@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|187.251.230.10|3128|Mexico|Córdoba|Total Play Telecomunicaciones SA De CV|
 |2|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|5|118.99.96.170|8080|Indonesia|Jakarta|Biznet Networks|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.4.201.32|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|72.10.160.90|29215|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|23153|Canada|Montreal|GloboTech Communications|
-|14|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|60.174.1.193|8089|China|Guangzhou|Chinanet|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|7|193.111.124.101|7777|Indonesia|Jakarta|CV Atha Media Prima|
+|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|61.129.2.212|8080|China|Beijing|CHINANET|
+|12|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|13|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
+|14|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
-|19|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|186.215.196.50|3128|Brazil|Recife|Vivo|
+|19|67.43.228.253|8883|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|28843|Canada|Montreal|GloboTech Communications|
 
 
 
