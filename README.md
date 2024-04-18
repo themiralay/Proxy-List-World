@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|177.93.51.210|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|10|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|212.252.71.9|8080|Türkiye|Gerede|Superonline Iletisim Hizmetleri A.S.|
-|15|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|67.43.228.253|17689|Canada|Montreal|GloboTech Communications|
-|19|114.103.80.210|8089|China|Shenzhen|Chinanet|
-|20|72.10.160.91|31711|Canada|Montreal|GloboTech Communications|
+|4|158.101.126.210|80|United States|Ashburn|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.76.108.30|8080|Indonesia|Lumajang|PT Mahawira Nusantara Grup|
+|7|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|190.121.239.195|999|Venezuela|El Tigre|Corporacion Digitel C.A|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|67.43.228.253|17689|Canada|Montreal|GloboTech Communications|
+|12|114.103.80.210|8089|China|Shenzhen|Chinanet|
+|13|72.10.160.91|31711|Canada|Montreal|GloboTech Communications|
+|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|16|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|17|38.156.235.113|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
