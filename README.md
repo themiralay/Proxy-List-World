@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|5|159.203.14.128|80|Canada|Toronto|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|8|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
-|9|103.176.116.171|32650|India|Murshidābād|Gbpl Global Broadband Private Limited|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.25.64.248|999|Colombia|Medellín|Osnet SAS|
+|7|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|8|159.203.14.128|80|Canada|Toronto|DigitalOcean, LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|72.10.164.178|15709|Canada|Montreal|GloboTech Communications|
-|13|71.14.23.121|8080|United States|Birmingham|Spectrum|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|103.110.34.140|3125|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|17|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|18|14.143.145.35|80|India|Gurugram|Tata Communications Limited|
-|19|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|89.58.48.220|10003|Germany|Nuremberg|netcup GmbH|
+|12|103.68.207.34|82|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
+|13|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|14|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
+|17|72.10.164.178|15629|Canada|Montreal|GloboTech Communications|
+|18|89.58.48.220|10003|Germany|Nuremberg|netcup GmbH|
+|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|20|119.92.75.48|8181|Philippines|Tacloban City|Philippine Long Distance Telephone Co.|
 
 
 
