@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|103.174.175.99|8085|Indonesia|Bekasi|PT Lintas Teknologi Solusindo|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|191.243.46.166|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|118.99.127.243|8080|Indonesia|Malang|Biznet Metronet|
-|14|103.152.232.36|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|15|64.225.4.81|10011|United States|Clifton|DigitalOcean, LLC|
-|16|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|17|195.35.29.39|80|France|Paris|HOSTINGER FR|
-|18|67.43.236.20|25975|Canada|Montreal|GloboTech Communications|
-|19|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|20|182.50.65.145|8080|Nepal|Biratnagar|RO-65 BroadLink|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|103.76.151.90|8090|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|13|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|15|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|45.76.71.170|8118|United States|Los Angeles|The Constant Company|
+|17|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|18|72.10.164.178|11793|Canada|Montreal|GloboTech Communications|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
 
 
 
