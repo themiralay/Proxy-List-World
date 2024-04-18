@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.154.161.152|80|Italy|Milan|Google LLC|
-|3|182.53.23.157|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|182.53.23.157|8080|Thailand|Chachoengsao|TOT Public Company Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|103.8.68.48|3128|China|Shiyan|China Telecom|
-|13|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|72.10.164.178|2129|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|72.10.160.170|9141|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|72.10.164.178|28435|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
