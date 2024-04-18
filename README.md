@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.108.205.194|8080|Uruguay|Solis de Mataojo|Tecnowind S.A.|
-|7|103.87.169.173|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|188.209.241.215|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
 |8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|179.1.192.58|999|Colombia|Tello|InterNexa Global Network|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|13|72.10.160.92|30261|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|16|72.10.164.178|4613|Canada|Montreal|GloboTech Communications|
-|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|103.8.68.48|3128|China|Shiyan|China Telecom|
-|20|188.209.241.215|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|72.10.164.178|20969|Canada|Montreal|GloboTech Communications|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|16|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|17|67.43.227.228|26359|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.19|3613|Canada|Montreal|GloboTech Communications|
+|19|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|20|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 
 
 
