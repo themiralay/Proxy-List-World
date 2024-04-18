@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|61.7.191.221|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|38.158.202.121|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|12|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|16|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|190.94.212.151|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|67.43.228.253|24815|Canada|Montreal|GloboTech Communications|
-|19|185.125.169.24|8118|Norway|Sandefjord|TerraHost AS|
-|20|72.10.164.178|2165|Canada|Montreal|GloboTech Communications|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|4|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|38.158.202.121|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|8|134.35.238.198|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|9|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|103.176.96.140|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|67.43.228.253|21975|Canada|Montreal|GloboTech Communications|
+|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|72.10.164.178|3529|Canada|Montreal|GloboTech Communications|
+|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|72.10.160.170|30725|Canada|Montreal|GloboTech Communications|
 
 
 
