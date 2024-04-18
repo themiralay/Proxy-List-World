@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|4|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|5|103.147.246.185|3127|Indonesia|Tangerang|PLBNET|
-|6|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|4|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|5|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|7|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|96.80.235.1|8080|United States|Dearborn|Comcast Cable Communications, LLC|
+|10|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|65.109.239.59|80|Finland|Helsinki|Hetzner Online GmbH|
-|13|72.10.164.178|12659|Canada|Montreal|GloboTech Communications|
-|14|8.208.100.155|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|19|72.10.164.178|12659|Canada|Montreal|GloboTech Communications|
-|20|114.231.8.13|8089|China|Nanjing|Chinanet|
+|12|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
+|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|72.10.164.178|12659|Canada|Montreal|GloboTech Communications|
+|17|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
+|18|65.109.239.59|80|Finland|Helsinki|Hetzner Online GmbH|
+|19|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|20|180.191.59.88|8082|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
