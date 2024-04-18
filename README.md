@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|134.35.14.203|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|107.178.9.186|8080|United States|Weatherford|Nextlink Broadband|
-|9|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|10|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
-|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|13|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|58.147.186.214|3125|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
-|20|72.10.160.173|5073|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|10|134.35.14.203|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|11|89.58.48.220|10016|Germany|Nuremberg|netcup GmbH|
+|12|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
+|13|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|14|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|15|60.174.0.220|8089|China|Guangzhou|Chinanet|
+|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|89.58.48.220|10016|Germany|Nuremberg|netcup GmbH|
 
 
 
