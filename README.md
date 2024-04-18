@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|202.57.2.20|80|Indonesia|Jakarta|Primanet - ISP|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|9|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
 |10|72.10.160.171|22225|Canada|Montreal|GloboTech Communications|
-|11|45.128.144.250|3129|United States|Los Angeles|Zenlayer Inc|
-|12|72.10.164.178|8321|Canada|Montreal|GloboTech Communications|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|181.224.205.42|999|Dominican Republic|Puerto Plata|BW TELECOM|
-|15|64.225.8.132|10004|United States|Clifton|DigitalOcean, LLC|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|181.224.205.42|999|Dominican Republic|Puerto Plata|BW TELECOM|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|77.51.204.218|8080|Russia|Istra|CTC-JNPR|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.8.68.48|3128|China|Shiyan|China Telecom|
-|18|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|19|72.10.160.90|12279|Canada|Montreal|GloboTech Communications|
+|17|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|18|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|19|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
 |20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
