@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|101.51.169.226|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|193.111.124.101|7777|Indonesia|Jakarta|CV Atha Media Prima|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.173.139.222|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|10|154.73.29.33|8080|Libya|Tripoli|Rawafed|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|177.93.36.151|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|176.105.220.74|3129|Ukraine|Semenivka|NPK Home-Net Ltd.|
-|20|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|101.51.169.226|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|156.255.1.175|8080|The Netherlands|Amsterdam|BitCommand LLC|
+|10|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|14|193.30.13.21|999|Ecuador|Nobol|Eliana Vanessa Morocho Oña|
+|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|17|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|223.215.176.239|8089|China|Rongcheng|Chinanet|
 
 
 
