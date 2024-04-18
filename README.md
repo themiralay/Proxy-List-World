@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|103.105.228.66|8080|India|Mumbai|Mnk Infoway Private Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|103.164.116.172|8080|Indonesia|Jakarta Pusat|SOLUSINET|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|72.10.160.170|4519|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|190.94.212.36|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|9|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|10|167.114.96.13|9300|Canada|Montreal|OVH SAS|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|72.10.160.170|4519|Canada|Montreal|GloboTech Communications|
+|17|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|18|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|19|103.160.184.222|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|20|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
