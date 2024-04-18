@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|49.48.127.28|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|185.14.233.40|8080|Czechia|Říčany|INTERCONNECT s.r.o.|
-|17|110.232.67.44|55443|Indonesia|Medan|PT. Media Antar Nusa|
-|18|87.255.200.108|60080|Kazakhstan|Almaty|NLS Kazakhstan LLC|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|10|178.34.190.6|8080|Russia|Moscow|Miranda-Media Ltd|
+|11|113.160.247.27|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
+|12|41.254.56.34|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|13|62.240.40.194|1974|Libya|Kambūt|LTT Network Backbone and POPs|
+|14|49.229.100.235|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
