@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|11|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|12|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|212.115.232.79|31280|Ukraine|Dnipro|ISP "Fregat"|
-|15|67.43.236.20|16157|Canada|Montreal|GloboTech Communications|
-|16|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|103.6.223.2|3128|China|Baoshan|China Unicom|
+|13|67.43.236.20|20969|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 |17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|103.6.223.2|3128|China|Baoshan|China Unicom|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|45.4.201.99|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
