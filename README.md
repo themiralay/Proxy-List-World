@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|178.214.80.28|1981|Palestinian Territory|Ramallah|Gemzo information technology Private Joint-Stock company|
-|5|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|183.165.224.152|8089|China|Shenzhen|Chinanet|
-|9|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|67.43.236.20|15205|Canada|Montreal|GloboTech Communications|
-|12|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|16|72.10.164.178|21561|Canada|Montreal|GloboTech Communications|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|2|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|67.43.236.20|15205|Canada|Montreal|GloboTech Communications|
+|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|8|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|9|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|45.236.106.245|999|Ecuador|Cuenca|Eliana Vanessa Morocho Oña|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|72.10.164.178|18267|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
+|20|183.165.224.152|8089|China|Shenzhen|Chinanet|
 
 
 
