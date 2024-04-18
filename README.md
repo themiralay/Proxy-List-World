@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|4|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|134.35.14.203|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.8.68.48|3128|China|Shiyan|China Telecom|
-|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|15|89.58.48.220|10016|Germany|Nuremberg|netcup GmbH|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|17|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|190.83.15.241|999|Ecuador|Zamora|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
-|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|67.43.228.253|9347|Canada|Montreal|GloboTech Communications|
+|8|134.35.14.203|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|81.23.153.93|8080|Russia|Kazan'|PJSC Rostelecom|
+|17|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
