@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|138.118.200.49|999|Venezuela|San Francisco|Iguana Network Services C.A.|
-|7|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|8|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|103.174.108.42|3128|India|Akbarpur|Entire Cable And Broadband Opc Private Limited|
-|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|165.16.31.19|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|13|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|16|111.225.152.34|8089|China|Zhoutou|China Telecom|
-|17|72.10.160.171|5891|Canada|Montreal|GloboTech Communications|
-|18|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|154.73.28.193|8080|Libya|Tripoli|Rawafed|
-|20|216.176.187.99|39865|United States|Los Angeles|Wowrack.com|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
+|7|103.174.108.42|3128|India|Akbarpur|Entire Cable And Broadband Opc Private Limited|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|103.157.117.76|2525|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|13|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|159.65.186.46|10014|United States|Clifton|DigitalOcean, LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|103.147.247.26|3127|Indonesia|Tangerang|PLBNET|
+|19|67.43.227.227|25221|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
