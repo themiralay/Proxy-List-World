@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|89.250.88.12|3128|Kazakhstan|Oral|KazRENA|
-|8|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|46.35.86.168|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|13|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|114.231.46.9|8089|China|Nanjing|Chinanet|
-|16|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|17|67.43.236.20|12315|Canada|Montreal|GloboTech Communications|
-|18|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|19|114.231.45.87|8089|China|Nanjing|Chinanet|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|13|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|14|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|15|175.196.125.203|80|South Korea|Gangdong-gu|Korea Telecom|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|114.231.45.87|8089|China|Nanjing|Chinanet|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|20|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
 
 
 
