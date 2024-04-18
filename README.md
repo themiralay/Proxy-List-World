@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|134.35.10.158|8080|Yemen|Aden|Public Telecommunication Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|102.164.252.154|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|7|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|11|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|103.130.175.169|8080|Bangladesh|Dhaka|Cyber Net Communications|
-|15|67.43.227.227|18391|Canada|Montreal|GloboTech Communications|
-|16|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|38.7.31.230|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|19|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|20|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
+|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|15|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|17|72.10.164.178|28977|Canada|Montreal|GloboTech Communications|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|20|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
 
 
 
