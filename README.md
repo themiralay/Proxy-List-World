@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|49.48.127.28|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|193.19.255.21|8080|Ukraine|Drohobych|Limited Liability Company Radio Network|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|72.10.164.178|1389|Canada|Montreal|GloboTech Communications|
-|17|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|18|67.43.228.253|4371|Canada|Montreal|GloboTech Communications|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|117.69.236.165|8089|China|Rongcheng|Chinanet|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|193.19.255.21|8080|Ukraine|Drohobych|Limited Liability Company Radio Network|
+|10|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|15|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|16|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
