@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|159.203.14.128|80|Canada|Toronto|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
 |8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.52.36.49|32650|India|Hyderabad|VAINAVIINDUSTRIESLTD|
-|13|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|14|72.10.164.178|18101|Canada|Montreal|GloboTech Communications|
-|15|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|16|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|12|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
+|13|72.10.164.178|18101|Canada|Montreal|GloboTech Communications|
+|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|15|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
+|16|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|50.236.203.15|8080|United States|Indianapolis|Comcast Cable Communications, LLC|
-|19|67.43.228.253|1389|Canada|Montreal|GloboTech Communications|
-|20|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|18|72.10.160.90|18305|Canada|Montreal|GloboTech Communications|
+|19|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|20|72.10.164.178|18101|Canada|Montreal|GloboTech Communications|
 
 
 
