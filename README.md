@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|101.51.99.213|8080|Thailand|Bangkok|TOT Public Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|101.51.99.213|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.133.27.86|8085|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|9|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|15|111.225.152.213|8089|China|Zhoutou|China Telecom|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|19|72.10.164.178|27529|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|11495|Canada|Montreal|GloboTech Communications|
+|5|212.46.210.242|8080|Russia|Moscow|VympelKom broadband internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.242.176.37|999|Colombia|Santiago de Cali|CTL Colombia|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|103.125.160.178|83|India|Hyderabad|CtrlS|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|13|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|17|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
+|18|115.74.246.138|8080|Vietnam|Quan Muoi Mot|VIETELxdsl|
+|19|38.156.75.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|72.10.164.178|27529|Canada|Montreal|GloboTech Communications|
 
 
 
