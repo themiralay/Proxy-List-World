@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
+|4|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|6|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|7|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|193.111.124.101|7777|Indonesia|Jakarta|CV Atha Media Prima|
 |10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
-|14|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
-|15|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
-|16|165.22.36.164|10006|United States|Clifton|DigitalOcean, LLC|
-|17|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|18|121.195.170.225|1024|China|Haidian|CERNET|
-|19|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|176.105.220.74|3129|Ukraine|Semenivka|NPK Home-Net Ltd.|
+|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|17|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|103.51.206.82|8080|Indonesia|Arjawinangun|PT Milenial Inti Telekomunikasi|
+|19|138.84.40.117|999|Colombia|Bogota|SpaceX Starlink|
+|20|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
 
 
 
