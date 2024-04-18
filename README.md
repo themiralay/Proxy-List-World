@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|6|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|7|103.68.214.10|1234|Indonesia|Tangerang|PT Media Grasi Internet|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|11|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|103.152.232.36|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|14|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|15|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
-|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|118.99.127.49|8080|Indonesia|Malang|Biznet Metronet|
+|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|138.0.228.123|8080|Honduras|San Pedro Sula|Multicable De Honduras|
+|10|103.87.170.228|45585|India|Jaipur|Tejays Industries Pvt Ltd|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|67.43.236.20|17213|Canada|Montreal|GloboTech Communications|
+|14|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|16|72.10.164.178|25273|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|203.210.86.45|1080|Indonesia|Bandung|Infrastruktur STARNET|
 
 
 
