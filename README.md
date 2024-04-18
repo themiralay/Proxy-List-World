@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|7|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|103.8.68.48|3128|China|Shiyan|China Telecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|207.230.8.75|999|Colombia|Popayán|Cogent Communications|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|180.190.200.210|8085|Philippines|Lahug|Globe Telecom|
 |11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|103.8.68.48|3128|China|Shiyan|China Telecom|
-|14|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|15|180.190.200.210|8085|Philippines|Lahug|Globe Telecom|
-|16|72.10.160.90|9203|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|18845|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|18845|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.164.178|2793|Canada|Montreal|GloboTech Communications|
+|12|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|13|72.10.160.90|9203|Canada|Montreal|GloboTech Communications|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|138.121.161.121|8290|Argentina|Rosario|WICORP SA|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|20|72.10.164.178|4943|Canada|Montreal|GloboTech Communications|
 
 
 
