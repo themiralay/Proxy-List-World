@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|161.82.248.22|8080|Thailand|Bang Kruai|Symphony Communication Public Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|103.87.169.173|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|9|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|185.32.5.130|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |10|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|19|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|11|161.82.248.22|8080|Thailand|Bang Kruai|Symphony Communication Public Company Limited|
+|12|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
+|16|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
+|17|159.65.186.46|10007|United States|Clifton|DigitalOcean, LLC|
+|18|72.10.164.178|3275|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|89.250.88.12|3128|Kazakhstan|Oral|KazRENA|
 
 
 
