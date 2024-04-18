@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|101.51.99.213|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|103.181.25.158|8080|Bangladesh|Chittagong|Right Net|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
-|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|200.188.121.98|999|Mexico|Colima|Alestra, S. de R.L. de C.V.|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|188.125.169.8|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|67.43.236.20|11495|Canada|Montreal|GloboTech Communications|
-|13|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|14|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|15|67.43.236.20|11495|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|27529|Canada|Montreal|GloboTech Communications|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|19|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|20|103.25.210.102|33317|Indonesia|Purwokerto|TRANSDATA|
+|7|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
+|10|91.197.77.118|443|Russia|Stary Oskol|ReInfoCom Ltd.|
+|11|190.14.225.15|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|12|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|13|177.230.183.185|10101|Mexico|Libres|Mega Cable, S.A. de C.V.|
+|14|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
+|15|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|16|111.225.153.53|8089|China|Zhoutou|China Telecom|
+|17|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|20|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
