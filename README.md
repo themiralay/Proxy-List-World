@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|165.22.59.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|165.22.59.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|9|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|12|103.8.68.48|3128|China|Shiyan|China Telecom|
-|13|181.129.130.18|8154|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|117.70.48.125|8089|China|Rongcheng|Chinanet|
-|16|67.43.227.227|12461|Canada|Montreal|GloboTech Communications|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|6|183.178.50.58|8080|Hong Kong|Ngau Wu Tok|Hong Kong Broadband Network Ltd|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|9|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|10|117.70.48.125|8089|China|Rongcheng|Chinanet|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|15|67.43.236.20|2309|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|58.69.137.62|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
