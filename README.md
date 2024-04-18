@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|12|142.190.149.206|8080|United States|St. Petersburg|Uniti Fiber Holdings Inc.|
-|13|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
-|14|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|15|142.190.149.206|8080|United States|St. Petersburg|Uniti Fiber Holdings Inc.|
-|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|17|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|67.43.236.20|12315|Canada|Montreal|GloboTech Communications|
-|19|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|46.35.86.168|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|185.49.170.20|43626|Spain|Madrid|Olivenet Network S L|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|11|142.190.149.206|8080|United States|St. Petersburg|Uniti Fiber Holdings Inc.|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|116.212.151.250|8080|Cambodia|Phnom Penh|MekongNet|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|67.43.227.227|14513|Canada|Montreal|GloboTech Communications|
+|16|136.239.176.85|8080|Philippines|Mandaluyong|ComClark Network & Technology Corp|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|67.43.227.228|29085|Canada|Montreal|GloboTech Communications|
+|20|202.79.57.59|8080|Nepal|Kathmandu|WorldLink Communications|
 
 
 
