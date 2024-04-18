@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|8|94.130.181.59|32770|Germany|Tübingen|Hetzner Online GmbH|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|149.28.181.17|80|Australia|Sydney|The Constant Company|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
 |11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|103.8.68.48|3128|China|Shiyan|China Telecom|
-|14|123.182.58.143|8089|China|Zhangjiakou|China Telecom|
-|15|72.10.164.178|16491|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|16|149.28.181.17|80|Australia|Sydney|The Constant Company|
+|17|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
