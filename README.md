@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.252.107.202|8089|Indonesia|Kudus|PT Lintas Data Prima|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|192.248.95.1|3128|Sri Lanka|Kandy|Lanka Education and Research Network|
-|11|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|12|72.10.164.178|13249|Canada|Montreal|GloboTech Communications|
-|13|123.182.59.64|8089|China|Zhangjiakou|China Telecom|
-|14|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|15|67.43.227.228|17413|Canada|Montreal|GloboTech Communications|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|18|117.69.236.102|8089|China|Rongcheng|Chinanet|
-|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|20|203.150.128.21|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|38.9.141.27|80|Indonesia|Medan|Cogent Communications|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.8.68.48|3128|China|Shiyan|China Telecom|
+|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
