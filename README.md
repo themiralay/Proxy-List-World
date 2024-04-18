@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6674** proxies at the latest update. Usable proxies are below.
+> Scraper found **6685** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|112|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|592|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|259|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4762|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.108.205.194|8080|Uruguay|Solis de Mataojo|Tecnowind S.A.|
-|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|8|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|9|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|62.176.12.111|8080|Russia|Serpukhov|Rial Com JSC|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|18|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
-|19|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|200.108.205.194|8080|Uruguay|Solis de Mataojo|Tecnowind S.A.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
+|8|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|11|64.225.8.132|10018|United States|Clifton|DigitalOcean, LLC|
+|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|212.192.3.101|8080|Palestinian Territory|Rafah|AjyalFi Company for Information and Communication Technology LLC|
+|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|18|72.10.160.170|13441|Canada|Montreal|GloboTech Communications|
+|19|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|20|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
 
 
 
