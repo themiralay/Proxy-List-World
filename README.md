@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|161.82.248.22|8080|Thailand|Bang Kruai|Symphony Communication Public Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|11|72.10.164.178|2249|Canada|Montreal|GloboTech Communications|
-|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|119.92.75.48|8181|Philippines|Tacloban City|Philippine Long Distance Telephone Co.|
-|14|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
-|15|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
-|16|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
-|17|103.174.122.46|8181|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|20|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|77.51.204.218|8080|Russia|Istra|CTC-JNPR|
+|7|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|72.10.164.178|22143|Canada|Montreal|GloboTech Communications|
+|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|13|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|14|161.132.111.243|999|Peru|Lima|Optical Technologies S.A.C.|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 
 
 
