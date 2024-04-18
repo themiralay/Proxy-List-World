@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|171.6.198.244|8080|Thailand|Mueang Samut Prakan|Triple T Broadband Public Company Limited|
-|5|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|3|171.6.198.244|8080|Thailand|Mueang Samut Prakan|Triple T Broadband Public Company Limited|
+|4|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|7|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|13|103.8.68.48|3128|China|Shiyan|China Telecom|
-|14|222.174.178.122|4999|China|Xintai|Chinanet|
-|15|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|67.43.227.228|32923|Canada|Montreal|GloboTech Communications|
-|20|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|222.174.178.122|4999|China|Xintai|Chinanet|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
