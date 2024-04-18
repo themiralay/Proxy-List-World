@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|7|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|8|45.186.106.159|999|Guatemala|Guatemala City|Infinitum S.A.|
-|9|165.22.36.164|10006|United States|Clifton|DigitalOcean, LLC|
-|10|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|11|101.51.99.213|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|6|101.51.99.213|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|45.186.106.159|999|Guatemala|Guatemala City|Infinitum S.A.|
 |13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|64.225.8.132|10003|United States|Clifton|DigitalOcean, LLC|
-|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|167.172.238.6|10000|United States|Clifton|DigitalOcean, LLC|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|212.46.210.242|8080|Russia|Moscow|VympelKom broadband internet|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|72.10.164.178|3165|Canada|Montreal|GloboTech Communications|
+|18|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|19|103.142.241.165|8085|Indonesia|Jember|Multi Teknologi Telematika|
+|20|72.10.164.178|3165|Canada|Montreal|GloboTech Communications|
 
 
 
