@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
-|4|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|5|36.95.84.151|41890|Indonesia|Bambu Apus|PT. Telekomunikasi Indonesia|
-|6|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|7|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|103.8.68.48|3128|China|Shiyan|China Telecom|
-|10|103.180.123.143|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|11|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|12|177.8.226.222|9898|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|13|103.87.169.146|56642|India|Jaipur|Tejays Industries Pvt Ltd|
-|14|103.8.68.48|3128|China|Shiyan|China Telecom|
-|15|101.251.204.174|8080|United States|Los Angeles|IDC, China Telecommunications Corporation|
-|16|38.156.73.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|18|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|19|181.233.62.0|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
-|20|41.254.56.34|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|80.65.28.57|30962|Russia|Krasnoyarsk|Orion Telecom LLC|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|11|118.99.127.49|8080|Indonesia|Malang|Biznet Metronet|
+|12|72.10.164.178|13967|Canada|Montreal|GloboTech Communications|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|72.10.160.172|1073|Canada|Montreal|GloboTech Communications|
+|15|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
+|16|103.87.169.146|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|45.225.207.185|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
