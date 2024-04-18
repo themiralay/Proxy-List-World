@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|114.103.89.7|8089|China|Shenzhen|Chinanet|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|67.43.236.18|8057|Canada|Montreal|GloboTech Communications|
-|14|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|15|64.225.8.132|10018|United States|Clifton|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|103.48.69.225|83|India|Hyderabad|Country Online Services PVT LTD|
+|8|223.26.22.250|8080|Afghanistan|Kabul|Ankabut Internet Service Provider|
+|9|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|10|47.245.109.134|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|13|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|14|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
+|15|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
 |16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|17|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|18|103.8.68.48|3128|China|Shiyan|China Telecom|
-|19|67.43.227.227|13199|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|67.43.236.18|6061|Canada|Montreal|GloboTech Communications|
+|19|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|20|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
 
 
 
