@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|12|103.145.14.56|8080|Indonesia|Cirebon|PT Pembangunan Sarana Telematika|
-|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|102.39.215.83|9090|South Africa|Cape Town|Vox Telecom|
-|18|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|19|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|193.111.124.186|7777|Indonesia|Jakarta|CV Atha Media Prima|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|18|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
 
 
 
