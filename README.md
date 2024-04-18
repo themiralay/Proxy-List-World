@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|2|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|3|79.106.165.246|8989|Albania|Tirana|ONE ALBANIA SH.A.|
+|2|158.101.126.210|80|United States|Ashburn|Oracle Corporation|
+|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |4|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|5|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|182.160.100.156|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|10|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|11|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|12|72.10.164.178|4919|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|72.10.164.178|4919|Canada|Montreal|GloboTech Communications|
-|19|103.8.68.48|3128|China|Shiyan|China Telecom|
-|20|152.32.64.43|8095|Philippines|Marikina City|Converge ICT Solution Inc|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|204.199.81.90|999|Colombia|Santiago de Cali|CTL Colombia|
+|7|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
+|8|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|188.125.169.8|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|103.8.68.48|3128|China|Shiyan|China Telecom|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|170.80.242.78|999|Mexico|Torreón|TV CABLE DEL GUADIANA S.A DE C.V.|
+|18|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
+|19|103.172.42.113|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|20|223.112.53.2|1025|China|Suzhou|China Mobile communications corporation|
 
 
 
