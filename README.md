@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.107.18.102|5002|Vietnam|Sơn Dương|Viettel Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|72.10.160.90|29613|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.160.207.53|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|72.10.164.178|3185|Canada|Montreal|GloboTech Communications|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|15|67.43.236.20|13607|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|103.152.232.55|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
