@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
-|3|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|94.130.181.59|32770|Germany|Tübingen|Hetzner Online GmbH|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|6|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|13|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|217.21.148.70|8080|Albania|Vlorë|Nisatel LTD|
-|16|103.122.66.240|1080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|17|103.6.223.2|3128|China|Baoshan|China Unicom|
-|18|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|18|165.16.59.226|8080|Libya|Tripoli|Aljeel Aljadeed Technology|
+|19|103.160.205.170|3127|Indonesia|Mataram|PRIME|
+|20|103.8.68.48|3128|China|Shiyan|China Telecom|
 
 
 
