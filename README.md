@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|101.255.158.42|8080|Indonesia|Bekasi|PT Remala Abadi|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|212.46.210.242|8080|Russia|Moscow|VympelKom broadband internet|
-|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|9|201.168.199.7|999|Mexico|Zapopan|Marcatel Com, S.A. de C.V.|
-|10|67.43.227.227|9915|Canada|Montreal|GloboTech Communications|
-|11|103.117.194.69|8080|Bangladesh|Rājāfair|DigiCon Telecommunication Ltd|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|103.180.245.169|8080|Bangladesh|Dhaka|UKH BD Ltd|
-|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|19|72.10.160.90|27483|Canada|Montreal|GloboTech Communications|
-|20|131.117.167.71|8080|Yemen|Ma'rib|Public Telecommunication Corporation|
+|4|103.67.90.2|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|8|45.250.215.8|8080|India|Delhi|Geocity Network Solutions PVT LTD|
+|9|67.43.227.227|27237|Canada|Montreal|GloboTech Communications|
+|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|115.74.246.138|8080|Vietnam|Quan Muoi Mot|VIETELxdsl|
+|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|14|222.127.220.86|8082|Philippines|Quezon City|GLBB|
+|15|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
