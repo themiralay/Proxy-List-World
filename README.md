@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|3|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|4|178.218.95.6|8123|Russia|Samara|Samarasvyazinform Ltd|
-|5|195.35.29.39|80|France|Paris|HOSTINGER FR|
-|6|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|7|67.43.236.20|1521|Canada|Montreal|GloboTech Communications|
-|8|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
-|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|10|45.236.106.245|999|Ecuador|Cuenca|Eliana Vanessa Morocho Oña|
-|11|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|1|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|67.43.236.20|11403|Canada|Montreal|GloboTech Communications|
+|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|6|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|11|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
 |12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|15|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|17|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|67.43.236.20|1521|Canada|Montreal|GloboTech Communications|
-|20|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|14|72.10.164.178|26627|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|67.43.236.21|10309|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|20|103.166.194.114|8080|Indonesia|Jakarta|Hipernet Indodata|
 
 
 
