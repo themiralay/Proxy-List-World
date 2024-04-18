@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|11|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|16|190.216.234.186|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|5|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|116.212.151.250|8080|Cambodia|Phnom Penh|MekongNet|
+|8|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|11|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|12|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
-|19|45.191.46.210|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|72.10.164.178|18003|Canada|Montreal|GloboTech Communications|
+|19|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
