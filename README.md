@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.175.46.159|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|103.8.68.48|3128|China|Shiyan|China Telecom|
-|9|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|123.182.59.169|8089|China|Zhangjiakou|China Telecom|
-|11|72.10.160.171|26905|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|16157|Canada|Montreal|GloboTech Communications|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|117.69.237.64|8089|China|Rongcheng|Chinanet|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|123.182.59.169|8089|China|Zhangjiakou|China Telecom|
+|9|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|12|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|13|67.43.236.20|16157|Canada|Montreal|GloboTech Communications|
+|14|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.6.223.2|3128|China|Baoshan|China Unicom|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
+|18|45.236.106.245|999|Ecuador|Cuenca|Eliana Vanessa Morocho Oña|
 |19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
 
 
 
