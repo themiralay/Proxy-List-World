@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|217.133.225.139|3128|Italy|Salerno|Tiscali Italia SpA|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|8|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
-|10|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|11|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|177.93.37.36|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|67.43.227.227|7925|Canada|Montreal|GloboTech Communications|
-|16|154.73.28.193|8080|Libya|Tripoli|Rawafed|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|67.43.227.227|5931|Canada|Montreal|GloboTech Communications|
+|14|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
+|15|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|45.125.193.37|8080|Singapore|Singapore|READYSERVER|
-|19|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|20|72.10.160.94|14965|Canada|Montreal|GloboTech Communications|
+|18|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
+|19|67.43.227.228|10425|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|20147|Canada|Montreal|GloboTech Communications|
 
 
 
