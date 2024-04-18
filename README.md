@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|101.51.169.226|8080|Thailand|Bangkok|TOT Public Company Limited|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|103.29.238.4|8090|Bangladesh|Gazipur District|Windstream Communication Limited|
+|4|101.51.169.226|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|9|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|10|103.157.83.77|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|11|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|13|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|7|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|10|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|11|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|12|206.42.56.195|8080|Brazil|Fortaleza|Brisanet Prestacao De Servicos De Internet Ltda|
+|13|193.30.13.21|999|Ecuador|Nobol|Eliana Vanessa Morocho Oña|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|67.43.228.253|24563|Canada|Montreal|GloboTech Communications|
-|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|17|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|67.43.228.253|24761|Canada|Montreal|GloboTech Communications|
 
 
 
