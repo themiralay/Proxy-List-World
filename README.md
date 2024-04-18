@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|8|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|9|47.237.4.125|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|12|190.128.152.37|8080|Paraguay|Asunción|Telecel S.A.|
-|13|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|14|103.8.68.48|3128|China|Shiyan|China Telecom|
-|15|103.109.57.250|8889|Bangladesh|Dhaka|Skynet Chowmuhani|
-|16|72.10.164.178|9581|Canada|Montreal|GloboTech Communications|
-|17|103.203.175.33|84|India|Hyderabad|Softgaurd Powertronics|
-|18|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|113.160.235.248|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|124.106.116.34|1337|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|15|72.10.164.178|9581|Canada|Montreal|GloboTech Communications|
+|16|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|17|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
+|18|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
 
 
 
