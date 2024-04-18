@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|4|134.35.17.232|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|8.219.10.21|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|62.140.233.192|41258|Russia|Fryazino|Fryazino.net|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|11|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|4|62.140.233.192|41258|Russia|Fryazino|Fryazino.net|
+|5|134.35.17.232|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|154.73.29.1|8080|Libya|Tripoli|Rawafed|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|77.119.237.96|55654|Austria|Vienna|Network of Hutchison Drei Austria GmbH|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|72.10.160.90|3021|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|2257|Canada|Montreal|GloboTech Communications|
+|16|187.188.169.169|8080|Mexico|Tepeaca|Total Play Telecomunicaciones SA De CV|
+|17|72.10.160.93|20587|Canada|Montreal|GloboTech Communications|
+|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|67.43.227.227|12783|Canada|Montreal|GloboTech Communications|
 
 
 
