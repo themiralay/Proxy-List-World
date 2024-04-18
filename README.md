@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|191.242.111.195|8080|Brazil|Rio de Janeiro|V W INTERNET|
-|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|67.43.236.20|25201|Canada|Montreal|GloboTech Communications|
-|13|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|114.231.8.152|8089|China|Nanjing|Chinanet|
-|16|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
-|17|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|41.254.56.34|1981|Libya|Tripoli|LTT Network Backbone and POPs|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|180.178.95.142|8080|Indonesia|Surakarta|PT Widya Intersat Nusantara|
+|8|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|188.240.126.161|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|16|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|17|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|18|67.43.236.20|15997|Canada|Montreal|GloboTech Communications|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|118.172.239.231|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
