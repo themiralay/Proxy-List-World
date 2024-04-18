@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|8|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 |9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |11|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|72.10.164.178|16665|Canada|Montreal|GloboTech Communications|
-|15|117.70.48.52|8089|China|Rongcheng|Chinanet|
-|16|183.164.242.27|8089|China|Rongcheng|Chinanet|
-|17|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|190.94.212.240|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|19|45.11.95.165|5032|Russia|Moscow|Delta Ltd|
-|20|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
+|13|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.246.247.146|3128|Hong Kong|Mong Kok|Cloudie Limited|
 
 
 
