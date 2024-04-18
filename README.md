@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|4|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|7|203.150.128.232|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
 |12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|131.100.48.73|999|Colombia|Neiva|Fibernet TV SAS|
-|15|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|16|103.115.20.26|8090|Indonesia|Subang|PMYNET|
-|17|188.94.159.26|3128|Kazakhstan|Almaty|It-grad TOO|
-|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|19|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
