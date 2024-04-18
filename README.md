@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|34.154.161.152|80|Italy|Milan|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|46.35.86.168|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|5|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|89.250.88.12|3128|Kazakhstan|Oral|KazRENA|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|102.16.24.30|8080|Madagascar|Antananarivo|Telecom Malagasy|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|122.10.101.15|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
+|2|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
+|3|46.35.86.168|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|203.150.128.103|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|121.195.170.225|1024|China|Haidian|CERNET|
+|11|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|181.129.196.26|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|14|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|15|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|13|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|14|110.93.227.28|3128|Pakistan|Karachi|TW RO|
+|15|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
 |16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|20|72.10.164.178|9617|Canada|Montreal|GloboTech Communications|
+|17|74.62.179.122|8080|United States|Hawthorne|Charter Communications Inc|
+|18|147.185.162.163|8080|Italy|Milan|Mywic Costumers|
+|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|20|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
 
 
 
