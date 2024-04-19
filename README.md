@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.35.19.224|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|194.163.183.151|8899|Germany|Düsseldorf|Contabo GmbH|
-|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|9|103.8.68.48|3128|China|Shiyan|China Telecom|
-|10|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
-|11|159.65.186.46|10015|United States|Clifton|DigitalOcean, LLC|
-|12|72.10.160.92|12787|Canada|Montreal|GloboTech Communications|
-|13|103.87.169.198|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|15|72.10.164.178|21445|Canada|Montreal|GloboTech Communications|
-|16|103.4.94.2|8080|Pakistan|Islamabad|HEC|
-|17|103.8.68.48|3128|China|Shiyan|China Telecom|
-|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|19|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|45.11.95.166|6009|Russia|Moscow|Delta Ltd|
+|8|178.207.11.148|3129|Russia|Al'met'yevsk|TATTELECOM|
+|9|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|200.54.22.74|8080|Chile|Providencia|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|13|177.93.59.70|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|14|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|72.10.164.178|14923|Canada|Montreal|GloboTech Communications|
+|20|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
 
 
 
