@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|91.185.56.139|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|13|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|186.194.160.211|999|Colombia|Bogotá|Telenet Digital S.A.S|
-|17|103.160.205.86|8080|Indonesia|Mataram|PRIME|
-|18|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|19|138.197.92.54|10009|United States|Clifton|DigitalOcean, LLC|
-|20|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.185.56.139|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|9|168.181.196.76|8080|Brazil|Marataizes|Windx Telecomunicações|
+|10|36.6.145.88|8089|China|Guangzhou|Chinanet|
+|11|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|12|103.129.3.246|83|India|Bhubaneswar|S S Cablenet|
+|13|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|16|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|17|67.43.227.227|7917|Canada|Montreal|GloboTech Communications|
+|18|188.94.159.26|3128|Kazakhstan|Almaty|It-grad TOO|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|117.102.76.254|8080|Indonesia|Jakarta|Biznet Networks|
 
 
 
