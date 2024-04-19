@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|8|203.150.113.61|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|9|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|10|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|13|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
-|14|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
-|15|67.43.228.253|8961|Canada|Montreal|GloboTech Communications|
-|16|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|17|181.78.95.30|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|89.189.89.82|8080|Yemen|Al Mahwit|Public Telecommunication Corporation|
-|20|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|203.192.217.6|8080|India|Mumbai|Entire In2Cable|
+|10|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|103.164.214.122|8080|Indonesia|Kedungdoro|PT iForte Global Internet|
+|13|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
+|14|89.189.89.82|8080|Yemen|Al Mahwit|Public Telecommunication Corporation|
+|15|114.106.172.169|8089|China|Rongcheng|Chinanet|
+|16|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
+|17|103.167.171.235|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
+|20|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
 
 
 
