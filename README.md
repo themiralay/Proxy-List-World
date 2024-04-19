@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|203.153.121.131|8080|Indonesia|Jakarta|PT Graha Multimedia Nusantara|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|8|69.75.143.13|80|United States|Whittier|Spectrum|
-|9|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
-|10|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
-|11|181.78.95.32|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|12|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|13|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|14|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|16|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|17|72.10.160.90|4107|Canada|Montreal|GloboTech Communications|
-|18|190.211.172.178|999|Chile|Santiago|InterNexa Global Network|
-|19|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|20|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
+|3|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.75.143.13|80|United States|Whittier|Spectrum|
+|6|45.11.95.166|6009|Russia|Moscow|Delta Ltd|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|15|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|16|72.10.160.90|4107|Canada|Montreal|GloboTech Communications|
+|17|103.160.150.251|8080|Indonesia|Samarinda|PT. LINTASMAYA MULTI MEDIA|
+|18|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|103.8.68.48|3128|China|Shiyan|China Telecom|
 
 
 
