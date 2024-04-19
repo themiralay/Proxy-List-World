@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|10|67.43.227.228|28099|Canada|Montreal|GloboTech Communications|
-|11|103.87.169.190|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|72.10.160.90|29619|Canada|Montreal|GloboTech Communications|
-|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|17|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|18|67.43.236.20|31935|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|16|67.43.227.228|28099|Canada|Montreal|GloboTech Communications|
+|17|103.110.10.69|3127|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
