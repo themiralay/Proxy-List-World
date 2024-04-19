@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|4|191.243.46.30|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
-|7|118.173.81.237|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|11|72.10.164.178|6537|Canada|Montreal|GloboTech Communications|
-|12|31.148.7.130|3128|Ukraine|Savran'|Nitrocom Ltd.|
-|13|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|16|190.116.87.15|999|Peru|Cajamarca|America Movil Peru S.A.C.|
-|17|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|20|103.247.23.65|2022|Indonesia|Bekasi|PT wifian Solution|
+|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|72.10.164.178|22521|Canada|Montreal|GloboTech Communications|
+|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|14|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|72.10.164.178|22521|Canada|Montreal|GloboTech Communications|
+|19|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|20|165.16.27.42|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
 
 
 
