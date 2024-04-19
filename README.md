@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|4|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|8|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.228.250|17909|Canada|Montreal|GloboTech Communications|
-|12|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|67.43.236.20|13611|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|13611|Canada|Montreal|GloboTech Communications|
-|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|16|67.43.228.250|17909|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|13611|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|67.43.236.20|13611|Canada|Montreal|GloboTech Communications|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|3|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|8|180.191.16.254|8085|Philippines|Cabanatuan City|Globe Telecom|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|103.8.68.48|3128|China|Shiyan|China Telecom|
+|11|67.43.227.228|25329|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|25323|Canada|Montreal|GloboTech Communications|
+|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|177.69.118.177|8080|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
+|16|222.174.178.122|4999|China|Xintai|Chinanet|
+|17|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|67.43.228.250|16089|Canada|Montreal|GloboTech Communications|
 
 
 
