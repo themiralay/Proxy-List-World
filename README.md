@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|4|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|101.109.61.169|8080|Thailand|Sattahip|TOT Public Company Limited|
-|7|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|14|89.58.48.220|10004|Germany|Nuremberg|netcup GmbH|
-|15|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
-|16|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.164.178|26843|Canada|Montreal|GloboTech Communications|
-|20|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|10|101.109.61.169|8080|Thailand|Sattahip|TOT Public Company Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|17|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|18|67.43.228.253|31661|Canada|Montreal|GloboTech Communications|
+|19|103.50.76.98|443|India|Mumbai|Jetway Broadband|
+|20|72.10.164.178|11393|Canada|Montreal|GloboTech Communications|
 
 
 
