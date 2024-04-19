@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|14|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|15|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|16|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|19|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|20|70.69.134.83|4001|Canada|Chilliwack|Shaw Communications Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|4|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|138.197.92.54|10014|United States|Clifton|DigitalOcean, LLC|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|12|217.219.121.66|3128|Iran|Bandar Abbas|Iran Telecommunication Company PJS|
+|13|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|138.197.92.54|10014|United States|Clifton|DigitalOcean, LLC|
+|15|70.90.138.109|8080|United States|Birmingham|Comcast Cable Communications, LLC|
+|16|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|18|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|19|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
