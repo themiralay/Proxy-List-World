@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|9|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|14|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|15|171.22.108.188|3128|United States|Seattle|Dedicated.com|
-|16|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|5|61.7.191.85|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|6|119.76.142.241|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
+|10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|14|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
 
 
 
