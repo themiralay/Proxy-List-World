@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|67.43.227.227|19197|Canada|Montreal|GloboTech Communications|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|72.10.160.170|30835|Canada|Montreal|GloboTech Communications|
-|16|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|17|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|18|114.232.109.253|8089|China|Nanjing|Chinanet|
-|19|138.121.161.121|8290|Argentina|Rosario|WICORP SA|
-|20|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|103.178.42.3|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|181.78.95.32|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|18|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|72.10.164.178|32139|Canada|Montreal|GloboTech Communications|
 
 
 
