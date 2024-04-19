@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|167.114.96.13|9300|Canada|Montreal|OVH SAS|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|67.43.228.252|14991|Canada|Montreal|GloboTech Communications|
-|13|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|14|181.78.95.30|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|15|72.10.160.90|29989|Canada|Montreal|GloboTech Communications|
-|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|72.10.164.178|22521|Canada|Montreal|GloboTech Communications|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|20|72.10.164.178|22521|Canada|Montreal|GloboTech Communications|
+|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|131.0.234.203|55555|Argentina|Villa Jose Leon Suarez|MUSURIT|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|11|72.10.160.90|29989|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|22521|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|22521|Canada|Montreal|GloboTech Communications|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|72.10.160.90|29989|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.164.178|22521|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
