@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|6|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|72.10.160.170|11697|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|1181|Canada|Montreal|GloboTech Communications|
-|10|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|92.39.110.210|8090|Russia|Moscow|JSC RDE "Unico"|
-|12|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|111.225.152.72|8089|China|Zhoutou|China Telecom|
-|15|103.8.68.48|3128|China|Shiyan|China Telecom|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|18|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|19|98.6.197.202|16099|United States|Mission|Spectrum|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
+|8|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|72.10.160.170|11697|Canada|Montreal|GloboTech Communications|
+|17|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|119.92.75.48|8181|Philippines|Tacloban City|Philippine Long Distance Telephone Co.|
+|19|67.43.228.253|2389|Canada|Montreal|GloboTech Communications|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
