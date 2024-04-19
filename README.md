@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
-|9|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|10|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|110.78.81.107|8080|Thailand|Si Maha Phot|CAT Telecom Public Company Limited|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|195.138.90.226|3128|Ukraine|Odesa|TeNeT Networking Centre|
-|15|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|3|84.247.146.121|10001|Singapore|Singapore|Contabo GmbH|
+|4|119.76.142.241|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|9|45.235.16.121|27234|Brazil|Itacorubi|Acessoline Telecom|
+|10|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|111.225.152.78|8089|China|Zhoutou|China Telecom|
+|16|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|17|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
 |19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|20|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
