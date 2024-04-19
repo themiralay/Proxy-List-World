@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|2|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|134.35.19.224|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|9|103.118.46.77|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|94.154.152.104|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
-|13|103.8.68.48|3128|China|Shiyan|China Telecom|
-|14|201.71.3.45|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|15|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|165.16.31.19|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|18|64.62.200.198|3128|United States|Fremont|Hurricane Electric LLC|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|103.152.232.42|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|159.192.139.178|8080|Thailand|Bangkok|CAT-BB|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
+|11|103.8.68.48|3128|China|Shiyan|China Telecom|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|182.50.65.169|8080|Nepal|Biratnagar|RO-65 BroadLink|
+|16|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|186.180.64.187|999|Colombia|Cúcuta|Colombia Móvil|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
