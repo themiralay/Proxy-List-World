@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|103.178.43.21|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
-|8|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
-|11|114.103.88.89|8089|China|Shenzhen|Chinanet|
-|12|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|13|103.6.223.2|3128|China|Baoshan|China Unicom|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|72.10.160.90|9329|Canada|Montreal|GloboTech Communications|
-|17|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|18|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|72.10.160.170|10049|Canada|Montreal|GloboTech Communications|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|112.78.165.130|8080|Indonesia|Jakarta|Biznet Networks|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|15|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|18|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|114.103.88.89|8089|China|Shenzhen|Chinanet|
 
 
 
