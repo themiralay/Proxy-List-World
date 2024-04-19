@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|110.77.241.107|8080|Thailand|Pak Chong|CAT Telecom Public Company Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|11|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|12|110.77.241.107|8080|Thailand|Pak Chong|CAT Telecom Public Company Limited|
-|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|14|89.58.48.220|10005|Germany|Nuremberg|netcup GmbH|
-|15|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|67.43.227.226|14343|Canada|Montreal|GloboTech Communications|
-|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|6|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|7|69.160.223.65|8181|United States|Alexandria|Swayzee Telephone Company, Inc.|
+|8|123.182.59.74|8089|China|Zhangjiakou|China Telecom|
+|9|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|10|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|11|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
+|12|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|13|67.43.227.226|14343|Canada|Montreal|GloboTech Communications|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|72.10.164.178|31123|Canada|Montreal|GloboTech Communications|
+|16|121.236.236.57|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
+|17|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|20|114.106.173.237|8089|China|Rongcheng|Chinanet|
 
 
 
