@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
-|2|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|3|194.117.230.230|3128|Romania|Bucharest|Mondo-Byte SRL|
-|4|103.12.21.4|3128|Indonesia|Jakarta|PT Equnix Business Solutions|
-|5|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
-|6|103.8.68.48|3128|China|Shiyan|China Telecom|
-|7|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
-|8|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|1|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|3|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|4|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|5|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|6|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|7|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |9|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|13|72.10.164.178|2441|Canada|Montreal|GloboTech Communications|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|154.73.28.193|8080|Libya|Tripoli|Rawafed|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|72.10.164.178|2441|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.228|26487|Canada|Montreal|GloboTech Communications|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|34.154.161.152|80|Italy|Milan|Google LLC|
+|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|18|45.58.52.5|80|United States|Dallas|HostUS|
+|19|103.19.58.179|8082|Indonesia|Indramayu|BITSNET|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
