@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|92.39.110.210|8090|Russia|Moscow|JSC RDE "Unico"|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|115.223.11.212|50000|China|Wenzhou|China Telecom|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|9|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|189.127.166.3|999|Venezuela|Barquisimeto|RED SERVITEL|
-|12|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|14|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|17|138.197.92.54|10017|United States|Clifton|DigitalOcean, LLC|
-|18|114.231.41.24|8089|China|Nanjing|Chinanet|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|11|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|111.225.152.73|8089|China|Zhoutou|China Telecom|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|18|185.233.247.186|8080|Türkiye|Reyhanlı|Veganet Teknolojileri ve Hizmetleri LTD STI|
+|19|14.142.36.210|80|India|Mumbai|Tata Communications Limited|
+|20|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
 
 
 
