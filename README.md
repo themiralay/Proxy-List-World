@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|37.182.79.112|8080|Italy|Vaiano|VODAFONE|
+|6|49.48.94.20|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |9|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|10|31.148.7.130|3128|Ukraine|Savran'|Nitrocom Ltd.|
-|11|186.227.112.65|8080|Brazil|Ibema|Orssatto Telecom Telecomunicacoes - Eireli|
-|12|72.10.164.178|16415|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|13619|Canada|Montreal|GloboTech Communications|
-|14|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
+|11|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|12|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|15|117.69.232.99|8089|China|Rongcheng|Chinanet|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|72.10.164.178|24971|Canada|Montreal|GloboTech Communications|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|182.50.65.169|8080|Nepal|Biratnagar|RO-65 BroadLink|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
