@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|91.185.56.139|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|91.185.56.139|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|15|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|67.43.236.20|13041|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1941|Canada|Montreal|GloboTech Communications|
-|19|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|15|72.10.164.178|1483|Canada|Montreal|GloboTech Communications|
+|16|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|17|45.11.95.165|5048|Russia|Moscow|Delta Ltd|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|20|72.10.164.178|1483|Canada|Montreal|GloboTech Communications|
 
 
 
