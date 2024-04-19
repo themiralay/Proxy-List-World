@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6126** proxies at the latest update. Usable proxies are below.
+> Scraper found **6127** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|164|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|165|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|402|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|232|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
-|8|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|9|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|12|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|190.2.210.114|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|103.153.246.142|8181|Indonesia|Depok|PRIMAHOME|
+|10|180.180.218.250|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|103.114.97.98|8999|Bangladesh|Comilla|Skynet Chowmuhani|
+|13|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|14|72.10.164.178|6905|Canada|Montreal|GloboTech Communications|
 |15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|72.10.164.178|19913|Canada|Montreal|GloboTech Communications|
-|17|111.68.117.200|4995|Indonesia|Jakarta|Varnion Technology Semesta, PT|
-|18|103.180.119.38|999|Indonesia|Lamongan|PT Persada Data Multimedia|
-|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|20|103.180.123.141|1080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|18|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 
 
 
