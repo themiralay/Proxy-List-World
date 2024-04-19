@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.159.90.14|83|India|Bhagwāngola|Pegasuswave Private Limited|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|138.197.16.249|10012|United States|Clifton|DigitalOcean, LLC|
-|11|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|13|67.43.227.227|17869|Canada|Montreal|GloboTech Communications|
-|14|45.233.67.210|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|15|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|222.127.75.23|8085|Philippines|Lahug|INNOVE|
-|18|67.43.228.253|19685|Canada|Montreal|GloboTech Communications|
-|19|167.172.238.6|10007|United States|Clifton|DigitalOcean, LLC|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|8|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|11|167.172.238.6|10012|United States|Clifton|DigitalOcean, LLC|
+|12|138.197.16.249|10012|United States|Clifton|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|18|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
 
 
 
