@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|16|103.143.169.9|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
-|19|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|20|203.210.86.45|1080|Indonesia|Bandung|Infrastruktur STARNET|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|16|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
+|17|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|18|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|20|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 
 
 
