@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
-|5|103.191.196.44|8082|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.148.192.82|9012|Indonesia|Bandung|PT. Akashia Thuba Jaya|
-|8|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
-|9|200.125.170.106|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|103.153.246.61|8080|Indonesia|Depok|PRIMAHOME|
-|12|38.158.81.226|999|Dominican Republic|Nacional|Visnetwork SRL|
-|13|83.171.90.83|8080|Russia|Moscow|PJSC Rostelecom|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|167.172.238.6|10004|United States|Clifton|DigitalOcean, LLC|
-|16|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|17|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|200.108.190.9|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|9|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|10|205.164.84.250|8591|Brazil|Buritis|AGIS|
+|11|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|12|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|13|201.244.127.210|8080|Colombia|Bogotá|ETB - Colombia|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|16|191.240.153.144|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
+|17|5.58.25.124|8080|Ukraine|Ternopil|Columbus|
+|18|45.119.113.62|83|India|Hyderabad|Netrun Technologies PVT LTD|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
