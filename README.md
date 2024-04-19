@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|220.70.149.126|3128|South Korea|Samcheok-si|Korea Telecom|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|103.156.14.18|8080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
-|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|9|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
-|15|103.159.47.34|83|India|Ahmedabad|King Netsol Private Limited|
-|16|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|103.126.28.14|2525|Indonesia|Bandung|PT Integra Kreasitama Solusindo|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|187.190.49.166|999|Mexico|Puebla City|Total Play Telecomunicaciones SA De CV|
+|16|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|18|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.160.90|16455|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
