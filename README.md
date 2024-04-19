@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
-|5|103.6.223.2|3128|China|Baoshan|China Unicom|
-|6|103.169.130.20|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|187.190.49.166|999|Mexico|Puebla City|Total Play Telecomunicaciones SA De CV|
-|9|181.209.82.202|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|10|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|11|72.10.160.170|26927|Canada|Montreal|GloboTech Communications|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|14|223.215.176.7|8089|China|Rongcheng|Chinanet|
-|15|197.232.47.122|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
-|16|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|17|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|18|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|19|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|20|154.73.28.193|8080|Libya|Tripoli|Rawafed|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|11|103.6.223.2|3128|China|Baoshan|China Unicom|
+|12|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|13|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
+|14|72.10.160.170|26927|Canada|Montreal|GloboTech Communications|
+|15|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
+|16|190.14.225.15|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|17|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
