@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|103.131.18.183|8080|Indonesia|Semarang|PT Global Media Data Prima|
-|7|65.18.114.254|55443|Myanmar|Yangon|Telecom International Myanmar Company Limited|
-|8|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
-|9|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|10|181.78.107.139|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|181.46.243.155|3128|Argentina|Banfield|Telecentro S.A.|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.139.188.41|7077|Indonesia|Blitar|Pemerintah Kabupaten Blitar|
-|16|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|17|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|19|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|20|72.10.164.178|15549|Canada|Montreal|GloboTech Communications|
+|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|7|103.217.213.125|32650|India|Guntur|E Net Entertainment Pvt Ltd|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|13|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|111.225.152.78|8089|China|Zhoutou|China Telecom|
+|15|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|18|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|19|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
