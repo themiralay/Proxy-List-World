@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|5|134.35.3.40|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.35.3.40|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
 |7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|13|125.17.13.54|3129|India|Bengaluru|Bharti Airtel Limited|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|122.10.101.15|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
-|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|17|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|18|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
+|11|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|12|165.22.36.164|10001|United States|Clifton|DigitalOcean, LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|16|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|17|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
