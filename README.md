@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
 |7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|10|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
-|11|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|16|123.182.58.154|8089|China|Zhangjiakou|China Telecom|
-|17|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|188.125.169.8|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|10|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|13|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|222.109.151.80|1080|South Korea|Seoul|Korea Telecom|
+|20|123.182.58.154|8089|China|Zhangjiakou|China Telecom|
 
 
 
