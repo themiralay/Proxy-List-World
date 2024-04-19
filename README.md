@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|36.95.17.93|9812|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|7|103.5.232.148|8080|Bangladesh|Chittagong|Chittagong Online Limited|
+|4|103.149.194.11|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |11|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|13|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
-|18|103.234.254.6|7777|Indonesia|Jakarta|Maxindo|
-|19|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|12|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|14|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|17|78.170.135.164|8080|Turkey|Istanbul|TurkTelecom|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|20|114.231.45.237|8089|China|Nanjing|Chinanet|
 
 
 
