@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|8|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|109.73.43.86|8080|Russia|Moscow|JSC Mastertel|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|67.43.236.20|17113|Canada|Montreal|GloboTech Communications|
-|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
-|19|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|6|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|7|207.230.8.10|999|Colombia|Popayán|Cogent Communications|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|67.43.236.20|20411|Canada|Montreal|GloboTech Communications|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|14|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|16|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
+|19|103.122.1.74|7777|Indonesia|Palembang|PT. Java Digital Nusantara|
+|20|36.66.242.117|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
