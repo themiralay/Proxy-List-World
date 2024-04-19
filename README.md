@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|103.174.236.60|3127|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|67.43.236.20|20679|Canada|Montreal|GloboTech Communications|
+|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|158.69.7.48|8050|Canada|Montreal|OVH SAS|
+|8|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|12|72.10.160.172|29573|Canada|Montreal|GloboTech Communications|
-|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|14|67.43.236.20|20679|Canada|Montreal|GloboTech Communications|
-|15|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|16|67.43.227.227|28921|Canada|Montreal|GloboTech Communications|
-|17|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|18|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|67.43.236.20|5309|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|9883|Canada|Montreal|GloboTech Communications|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|67.43.236.20|5309|Canada|Montreal|GloboTech Communications|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|72.10.164.178|32139|Canada|Montreal|GloboTech Communications|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
