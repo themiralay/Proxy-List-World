@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|72.10.160.90|24071|Canada|Montreal|GloboTech Communications|
-|5|67.43.227.227|20747|Canada|Montreal|GloboTech Communications|
-|6|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|67.43.236.20|25871|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|29359|Canada|Montreal|GloboTech Communications|
-|10|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|17|103.174.236.60|3127|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|18|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|72.10.160.170|13049|Canada|Montreal|GloboTech Communications|
+|3|103.250.130.111|8080|Indonesia|Surabaya|PT Jawara Lintas Data Nusantara|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|72.10.160.90|20731|Canada|Montreal|GloboTech Communications|
+|7|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|67.43.227.227|20747|Canada|Montreal|GloboTech Communications|
+|10|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|11|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
+|20|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
 
 
 
