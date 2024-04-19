@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|103.8.68.48|3128|China|Shiyan|China Telecom|
-|8|181.233.62.0|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
-|9|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|7|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|111.225.152.78|8089|China|Zhoutou|China Telecom|
 |10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|72.10.160.90|23353|Canada|Montreal|GloboTech Communications|
-|12|14.161.33.150|8080|Vietnam|Ho Chi Minh City|VNPT|
+|11|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|103.8.68.46|3128|China|Shiyan|China Telecom|
 |13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|15|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|16|41.242.116.150|50003|Mayotte|Mamoudzou|STOI-block1|
-|17|67.43.236.20|23343|Canada|Montreal|GloboTech Communications|
-|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|19|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|20|103.8.68.46|3128|China|Shiyan|China Telecom|
+|14|111.225.152.122|8089|China|Zhoutou|China Telecom|
+|15|67.43.236.20|26063|Canada|Montreal|GloboTech Communications|
+|16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|17|103.114.97.98|8999|Bangladesh|Comilla|Skynet Chowmuhani|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.228.253|30595|Canada|Montreal|GloboTech Communications|
+|20|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
 
 
 
