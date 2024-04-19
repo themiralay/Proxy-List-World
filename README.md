@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|112.78.165.130|8080|Indonesia|Jakarta|Biznet Networks|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|36.91.68.147|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|11|94.154.152.9|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|85.132.11.208|3128|Azerbaijan|Baku|Delta|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|103.8.68.48|3128|China|Shiyan|China Telecom|
+|10|103.6.223.2|3128|China|Baoshan|China Unicom|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|13|134.65.31.113|3128|Brazil|Vinhedo|Oracle Corporation|
 |14|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
-|16|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
-|17|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
-|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|19|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
-|20|125.24.61.167|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
+|19|89.58.48.220|10013|Germany|Nuremberg|netcup GmbH|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
