@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
-|10|83.171.90.83|8080|Russia|Moscow|PJSC Rostelecom|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|13|103.10.61.186|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|14|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|15|113.160.241.196|19132|Vietnam|Ninh Binh|VietNam Post and Telecom Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|18|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|5|103.72.89.2|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|170.239.207.230|999|Colombia|Bogotá|FIBERNET|
+|8|5.58.25.124|8080|Ukraine|Ternopil|Columbus|
+|9|205.164.84.250|8591|Brazil|Buritis|AGIS|
+|10|103.153.246.61|8080|Indonesia|Depok|PRIMAHOME|
+|11|201.244.127.210|8080|Colombia|Bogotá|ETB - Colombia|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|134.35.210.43|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|16|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|17|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|72.10.160.173|6565|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|12135|Canada|Montreal|GloboTech Communications|
 
 
 
