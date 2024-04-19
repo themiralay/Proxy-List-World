@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|8|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
-|9|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
-|10|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
-|11|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|13|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|14|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|111.225.152.78|8089|China|Zhoutou|China Telecom|
-|19|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|20|38.183.152.34|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|9|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|91.185.56.139|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|16|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|18|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|19|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
