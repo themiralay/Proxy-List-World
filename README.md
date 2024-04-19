@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|167.114.96.13|9300|Canada|Montreal|OVH SAS|
 |6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|134.35.144.238|8080|Yemen|Dhamār|Public Telecommunication Corporation|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|12|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|67.43.236.20|10969|Canada|Montreal|GloboTech Communications|
-|14|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
-|15|72.10.164.178|14035|Canada|Montreal|GloboTech Communications|
-|16|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|72.10.160.90|20939|Canada|Montreal|GloboTech Communications|
-|19|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
-|20|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|7|103.69.106.88|8080|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|103.151.30.17|8090|Bangladesh|Tongi|Bright Star Network|
+|11|67.43.236.20|13157|Canada|Montreal|GloboTech Communications|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
+|15|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
+|16|72.10.160.90|4161|Canada|Montreal|GloboTech Communications|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|19|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|20|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
