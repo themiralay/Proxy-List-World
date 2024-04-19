@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|8|66.211.155.34|8080|United States|Berlin|FirstLight Fiber|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|12|154.73.28.161|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|13|190.14.225.15|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|110.49.34.126|32650|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|9|103.114.97.98|8999|Bangladesh|Comilla|Skynet Chowmuhani|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|209.126.2.143|2323|United States|St Louis|Nubes, LLC|
+|13|161.49.218.139|10101|Philippines|Mabalacat|Converge Information and Communications Technology Solutions|
 |14|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|15|114.106.170.94|8089|China|Rongcheng|Chinanet|
-|16|138.197.16.249|10008|United States|Clifton|DigitalOcean, LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|103.114.97.98|8999|Bangladesh|Comilla|Skynet Chowmuhani|
-|20|36.103.234.137|3128|China|Hongsipu|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|24.192.227.234|8080|United States|Albion|WideOpenWest Finance LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|182.50.65.169|8080|Nepal|Biratnagar|RO-65 BroadLink|
 
 
 
