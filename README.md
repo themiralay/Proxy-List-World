@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|4|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|72.10.164.178|31435|Canada|Montreal|GloboTech Communications|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|72.10.164.178|31435|Canada|Montreal|GloboTech Communications|
-|11|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|12|72.10.164.178|31435|Canada|Montreal|GloboTech Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|188.68.176.2|8080|Russia|Yaroslavl|Yarnet Ltd.|
-|15|103.48.69.105|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.227.227|20747|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|109.74.47.21|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|72.10.164.178|23037|Canada|Montreal|GloboTech Communications|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|72.10.164.178|23037|Canada|Montreal|GloboTech Communications|
+|12|103.114.97.98|8999|Bangladesh|Comilla|Skynet Chowmuhani|
+|13|190.97.238.89|999|Venezuela|Maracaibo|Viginet C.A|
+|14|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|15|103.250.130.111|8080|Indonesia|Surabaya|PT Jawara Lintas Data Nusantara|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|67.43.227.227|20747|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|23037|Canada|Montreal|GloboTech Communications|
+|19|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
+|20|103.105.76.214|9090|Indonesia|Malang|GARUDA|
 
 
 
