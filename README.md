@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|103.8.68.48|3128|China|Shiyan|China Telecom|
-|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|12|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
-|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|15|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|16|72.10.164.178|11997|Canada|Montreal|GloboTech Communications|
-|17|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|176.211.113.246|80|Russia|Novosibirsk|PJSC Rostelecom|
-|19|103.87.169.198|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|20|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|9|103.8.68.48|3128|China|Shiyan|China Telecom|
+|10|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
+|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|13|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|15|72.10.164.178|19423|Canada|Montreal|GloboTech Communications|
+|16|114.9.24.214|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|18|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
