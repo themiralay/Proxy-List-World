@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|125.24.61.167|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|134.35.12.41|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|9|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|10|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|11|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|12|38.56.70.75|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|67.43.236.20|5863|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|38.156.233.78|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|6|103.68.214.10|1234|Indonesia|Tangerang|PT Media Grasi Internet|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|10|103.172.42.113|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|11|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|103.189.116.107|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|67.43.227.227|28921|Canada|Montreal|GloboTech Communications|
+|15|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|16|103.8.68.48|3128|China|Shiyan|China Telecom|
+|17|170.83.76.22|999|Venezuela|Caracas|Galanet Solution C.A.|
+|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
