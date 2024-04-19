@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|7|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|103.8.68.48|3128|China|Shiyan|China Telecom|
-|10|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|11|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|12|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|13|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|14|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
-|15|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
-|18|72.10.164.178|23213|Canada|Montreal|GloboTech Communications|
-|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|5|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|103.227.186.13|8080|Indonesia|Banyuwangi|PT Master Star Network|
+|9|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|10|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|11|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|12|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|13|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|16|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|19|45.230.169.10|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|20|111.225.153.160|8089|China|Zhoutou|China Telecom|
 
 
 
