@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|220.70.149.126|3128|South Korea|Samcheok-si|Korea Telecom|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|220.70.149.126|3128|South Korea|Samcheok-si|Korea Telecom|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|6|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
 |7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|11|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|12|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|181.46.243.155|3128|Argentina|Banfield|Telecentro S.A.|
-|14|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|103.156.14.18|8080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
+|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|9|186.3.155.25|8080|Ecuador|Guayaquil|Telconet S.A|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|13|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|16|191.102.254.54|8085|Argentina|Rosario|IP·RED|
+|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |18|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|19|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
