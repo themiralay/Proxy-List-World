@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|6|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.189.231.217|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|10|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|13|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|1.4.250.63|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|20|166.111.176.6|9999|China|Haidian|China Education and Research Network Center|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|5|122.3.121.231|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|103.122.66.240|1080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|14|103.6.223.2|3128|China|Baoshan|China Unicom|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|18|181.94.244.22|8080|Paraguay|Asunción|Núcleo S.A.|
+|19|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|20|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
 
 
 
