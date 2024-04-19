@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6759** proxies at the latest update. Usable proxies are below.
+> Scraper found **6760** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|166|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|167|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|646|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|362|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|103.8.68.48|3128|China|Shiyan|China Telecom|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|67.43.236.18|8553|Canada|Montreal|GloboTech Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|91.185.56.139|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|9|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|72.10.164.178|1483|Canada|Montreal|GloboTech Communications|
-|14|103.69.90.57|8081|India|Kukatpally|Allied IT Infrastructure and Services PVT LTD|
-|15|72.10.160.173|11607|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.164.178|1483|Canada|Montreal|GloboTech Communications|
-|18|138.197.16.249|10012|United States|Clifton|DigitalOcean, LLC|
-|19|45.236.106.245|999|Ecuador|Cuenca|Eliana Vanessa Morocho Oña|
-|20|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|9|38.183.152.34|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|10|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|11|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|72.10.164.178|28579|Canada|Montreal|GloboTech Communications|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|72.10.160.173|7965|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|28579|Canada|Montreal|GloboTech Communications|
+|20|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
 
 
 
