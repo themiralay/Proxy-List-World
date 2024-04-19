@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|11|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
-|16|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
-|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|72.10.164.178|14035|Canada|Montreal|GloboTech Communications|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|17|103.163.13.159|8090|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
 |18|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|199.116.62.148|9999|Puerto Rico|Guaynabo|OSNET Wireless|
+|19|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
+|20|103.159.194.151|8082|Indonesia|Rembang|PT Giga Digital Nusantara|
 
 
 
