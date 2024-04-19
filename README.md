@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.113.108|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|5|45.229.58.33|999|Panama|La Chorrera|GEEK NETWORKS, S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|8|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|203.150.113.108|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|7|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |9|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
-|12|103.8.68.48|3128|China|Shiyan|China Telecom|
-|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|197.232.47.122|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
+|10|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
+|11|38.56.70.75|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|12|190.104.20.84|8080|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
+|13|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|45.4.201.99|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|17|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
