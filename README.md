@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 |5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 |6|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|12|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|165.22.36.164|10012|United States|Clifton|DigitalOcean, LLC|
-|15|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|103.8.68.48|3128|China|Shiyan|China Telecom|
+|7|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|12|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|13|23.95.187.215|80|United States|Buffalo|HostPapa|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|165.22.36.164|10016|United States|Clifton|DigitalOcean, LLC|
+|18|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|19|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|20|23.95.187.215|80|United States|Buffalo|HostPapa|
 
 
 
