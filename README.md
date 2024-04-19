@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.238.58.1|999|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|13|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
-|17|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|5|103.156.75.41|8181|Indonesia|Singaraja|PT Trika Global Media|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
+|8|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|9|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|10|67.43.227.230|26727|Canada|Montreal|GloboTech Communications|
+|11|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|12|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
