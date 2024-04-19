@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.103.89.181|8089|China|Shenzhen|Chinanet|
-|11|89.58.48.220|10012|Germany|Nuremberg|netcup GmbH|
-|12|138.197.16.249|10015|United States|Clifton|DigitalOcean, LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|223.215.176.36|8089|China|Rongcheng|Chinanet|
-|15|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|67.43.227.226|10867|Canada|Montreal|GloboTech Communications|
-|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|19|67.43.236.20|28559|Canada|Montreal|GloboTech Communications|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|38.156.73.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|11|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|12|67.43.227.226|10867|Canada|Montreal|GloboTech Communications|
+|13|103.68.214.90|1234|Indonesia|Tangerang|PT Media Grasi Internet|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
+|17|181.78.95.30|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
 
 
 
