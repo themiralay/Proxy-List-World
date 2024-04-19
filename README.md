@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|161.49.91.13|1337|Philippines|Las Pinas|Converge ICT Solution Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|9|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.99.22.75|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|7|203.150.113.108|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|8|125.24.61.167|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
+|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|103.6.223.2|3128|China|Baoshan|China Unicom|
-|17|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|64.225.8.132|10017|United States|Clifton|DigitalOcean, LLC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|161.49.91.13|1337|Philippines|Las Pinas|Converge ICT Solution Inc|
+|14|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|15|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|16|146.190.53.175|32797|United States|Santa Clara|DigitalOcean, LLC|
+|17|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
 
 
 
