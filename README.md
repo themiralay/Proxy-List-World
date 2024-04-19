@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |2|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|3|118.99.73.81|8080|Indonesia|Bandung|BIZNET|
-|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|4|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 |5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|8|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|9|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
-|10|188.125.169.8|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
-|12|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.6.223.2|3128|China|Baoshan|China Unicom|
-|15|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|17|72.10.164.178|18445|Canada|Montreal|GloboTech Communications|
-|18|68.183.48.146|10005|United States|Clifton|DigitalOcean, LLC|
-|19|138.197.92.54|10002|United States|Clifton|DigitalOcean, LLC|
-|20|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|103.8.68.48|3128|China|Shiyan|China Telecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|118.99.73.81|8080|Indonesia|Bandung|BIZNET|
+|12|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|138.197.92.54|10002|United States|Clifton|DigitalOcean, LLC|
+|14|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
+|15|72.10.164.178|7581|Canada|Montreal|GloboTech Communications|
+|16|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|89.58.48.220|10016|Germany|Nuremberg|netcup GmbH|
 
 
 
