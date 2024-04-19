@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|173.212.213.133|3128|Germany|Nuremberg|Contabo GmbH|
-|5|36.94.60.26|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|3|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|4|103.110.10.69|3127|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|103.174.236.60|3127|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|12|72.10.164.178|26861|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|26861|Canada|Montreal|GloboTech Communications|
-|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|16|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
-|17|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
-|18|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|19|31.148.7.130|3128|Ukraine|Savran'|Nitrocom Ltd.|
-|20|72.10.164.178|26861|Canada|Montreal|GloboTech Communications|
+|9|142.171.17.12|3128|United States|Los Angeles|Multacom Corporation|
+|10|72.10.164.178|19913|Canada|Montreal|GloboTech Communications|
+|11|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|12|190.97.238.89|999|Venezuela|Maracaibo|Viginet C.A|
+|13|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|72.10.164.178|19913|Canada|Montreal|GloboTech Communications|
+|16|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|17|72.10.164.178|19913|Canada|Montreal|GloboTech Communications|
+|18|14.161.33.150|8080|Vietnam|Ho Chi Minh City|VNPT|
+|19|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 
 
 
