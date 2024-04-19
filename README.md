@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|34.140.73.25|3128|Belgium|Brussels|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|11|67.43.236.21|14289|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|24881|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.236.20|21231|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|29531|Canada|Montreal|GloboTech Communications|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|72.10.160.170|13049|Canada|Montreal|GloboTech Communications|
-|18|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|19|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
-|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|5|67.43.236.18|24881|Canada|Montreal|GloboTech Communications|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|8|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|9|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.160.170|13049|Canada|Montreal|GloboTech Communications|
+|13|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|14|67.43.236.21|14289|Canada|Montreal|GloboTech Communications|
+|15|188.125.169.8|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|17|72.10.160.90|29531|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|67.43.228.253|4051|Canada|Montreal|GloboTech Communications|
+|20|103.173.138.171|8080|Indonesia|Tanggamus|PT Serayu Multi Connection|
 
 
 
