@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|202.51.214.134|8080|Indonesia|Jakarta Pusat|PT. Sejahtera Globalindo|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
-|13|103.153.135.100|8083|Indonesia|Tangerang|WMINET|
-|14|103.6.223.2|3128|China|Baoshan|China Unicom|
-|15|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|119.92.236.53|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|20|67.43.236.20|2009|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.147.246.135|8080|Indonesia|Tangerang|PLBNET|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|103.147.247.26|3127|Indonesia|Tangerang|PLBNET|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|181.94.244.22|8080|Paraguay|Asunción|Núcleo S.A.|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|123.182.59.6|8089|China|Zhangjiakou|China Telecom|
+|15|103.8.68.48|3128|China|Shiyan|China Telecom|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|72.10.160.170|15109|Canada|Montreal|GloboTech Communications|
+|20|103.8.68.46|3128|China|Shiyan|China Telecom|
 
 
 
