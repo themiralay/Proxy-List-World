@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|103.178.42.225|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|7|45.236.106.245|999|Ecuador|Cuenca|Eliana Vanessa Morocho Oña|
-|8|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|9|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|10|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
-|15|180.191.16.254|8085|Philippines|Cabanatuan City|Globe Telecom|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|18|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
+|5|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|67.43.236.20|27955|Canada|Montreal|GloboTech Communications|
+|15|103.169.255.135|8080|Indonesia|Banyuwangi|PT Master Star Network|
+|16|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|17|72.10.164.178|21109|Canada|Montreal|GloboTech Communications|
+|18|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
 
 
 
