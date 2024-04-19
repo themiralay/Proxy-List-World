@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|103.118.46.77|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|7|46.175.1.65|8080|Slovakia|Michalovce|Andrex s.r.o.|
-|8|103.8.68.48|3128|China|Shiyan|China Telecom|
-|9|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
-|10|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
-|11|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|12|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|13|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|18|103.8.68.46|3128|China|Shiyan|China Telecom|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|3|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
+|11|103.8.68.48|3128|China|Shiyan|China Telecom|
+|12|103.6.223.2|3128|China|Baoshan|China Unicom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|15|118.117.189.170|8089|China|Muping|Chinanet|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|94.154.152.104|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|19|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
+|20|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
