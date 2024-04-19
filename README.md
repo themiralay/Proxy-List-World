@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|3|91.185.56.139|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|9|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|14|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|15|216.176.187.99|39865|United States|Los Angeles|Wowrack.com|
-|16|177.93.36.151|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|20|72.10.164.178|31693|Canada|Montreal|GloboTech Communications|
+|2|91.185.56.139|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|3|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|49.49.94.162|8888|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
+|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|62.240.40.194|1974|Libya|Kambūt|LTT Network Backbone and POPs|
+|12|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|123.127.94.83|8800|China|Chaowai|China Unicom Beijing Province Network|
+|15|67.43.227.227|20469|Canada|Montreal|GloboTech Communications|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|18|72.10.164.178|22863|Canada|Montreal|GloboTech Communications|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|45.11.95.165|5025|Russia|Moscow|Delta Ltd|
 
 
 
