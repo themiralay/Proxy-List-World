@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|89.58.48.220|10004|Germany|Nuremberg|netcup GmbH|
-|9|67.43.236.20|28029|Canada|Montreal|GloboTech Communications|
+|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|165.22.36.164|10006|United States|Clifton|DigitalOcean, LLC|
 |10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |11|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|12|182.50.65.145|8080|Nepal|Biratnagar|RO-65 BroadLink|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|72.10.160.90|20879|Canada|Montreal|GloboTech Communications|
-|17|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|18|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
-|19|165.22.36.164|10006|United States|Clifton|DigitalOcean, LLC|
-|20|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|191.97.6.150|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|14|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|15|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|17|103.240.110.242|8080|Indonesia|Kupang|PT.ArseNET Global Solusi|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|20|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
 
 
 
