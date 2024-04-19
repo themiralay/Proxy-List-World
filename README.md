@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
 |6|91.185.56.139|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|7|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|8|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|11|72.10.160.90|19809|Canada|Montreal|GloboTech Communications|
-|12|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|138.197.92.54|10009|United States|Clifton|DigitalOcean, LLC|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|103.8.68.48|3128|China|Shiyan|China Telecom|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|201.184.107.27|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|12|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|41.59.112.250|3030|Tanzania|Dar es Salaam|TTCL|
+|15|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|16|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|17|217.197.237.74|8080|Russia|St Petersburg|SEVEREN|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|72.10.160.90|19809|Canada|Montreal|GloboTech Communications|
+|20|45.191.75.171|999|Colombia|Guachené|Global Raices|
 
 
 
