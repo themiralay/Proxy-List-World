@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|159.65.186.46|10003|United States|Clifton|DigitalOcean, LLC|
-|10|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
-|11|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|15|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|16|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|36.6.144.68|8089|China|Guangzhou|Chinanet|
-|18|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|19|223.215.177.51|8089|China|Rongcheng|Chinanet|
-|20|72.10.164.178|32359|Canada|Montreal|GloboTech Communications|
+|7|159.65.186.46|10003|United States|Clifton|DigitalOcean, LLC|
+|8|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|11|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
+|17|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|18|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|67.43.236.20|9121|Canada|Montreal|GloboTech Communications|
 
 
 
