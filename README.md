@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 |3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.35.68.118|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|10|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
-|11|103.140.50.242|8080|India|Puducherry|Ramyaa Network Communication|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.105.76.214|9090|Indonesia|Malang|GARUDA|
-|16|103.167.170.210|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|17|103.40.11.141|3128|Singapore|Singapore|HONG KONG Megalayer Technology Co., Limited|
-|18|177.69.118.177|8080|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.164.178|12557|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
+|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|17|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|18|67.43.236.20|22081|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|1685|Canada|Montreal|GloboTech Communications|
+|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
