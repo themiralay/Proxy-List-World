@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|5|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|9|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|12|38.41.4.86|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|13|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|20|114.9.24.214|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|9|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|11|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|12|161.49.218.139|10101|Philippines|Mabalacat|Converge Information and Communications Technology Solutions|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
