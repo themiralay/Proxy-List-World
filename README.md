@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|89.250.88.12|3128|Kazakhstan|Oral|KazRENA|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
 |8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|9|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|38.50.166.244|999|Dominican Republic|Santiago de los Caballeros|Cogent Communications|
+|12|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
 |13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|16|45.11.95.165|5220|Russia|Moscow|Delta Ltd|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|72.10.164.178|19307|Canada|Montreal|GloboTech Communications|
-|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|20|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|15|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|17|216.176.187.99|8889|United States|Los Angeles|Wowrack.com|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
+|20|45.11.95.165|5215|Russia|Moscow|Delta Ltd|
 
 
 
