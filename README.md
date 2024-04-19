@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6749** proxies at the latest update. Usable proxies are below.
+> Scraper found **6708** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|167|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|635|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|616|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|362|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|340|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4625|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|11|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
-|12|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|14|72.10.160.173|7965|Canada|Montreal|GloboTech Communications|
-|15|217.197.237.74|8080|Russia|St Petersburg|SEVEREN|
-|16|103.8.68.48|3128|China|Shiyan|China Telecom|
-|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|8|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
+|9|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
+|10|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
+|11|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|13|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|14|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|111.225.152.78|8089|China|Zhoutou|China Telecom|
+|19|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|20|38.183.152.34|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
 
 
 
