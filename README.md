@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|103.122.66.240|1080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|112.78.40.210|8080|Indonesia|Yogyakarta|PT DES Teknologi Informasi|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|191.102.254.28|8085|Argentina|Rosario|IP·RED|
-|18|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
-|19|165.22.36.164|10013|United States|Clifton|DigitalOcean, LLC|
-|20|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
+|5|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|18|201.174.38.160|999|Mexico|Rosales|Transtelco Inc|
+|19|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
 
 
 
