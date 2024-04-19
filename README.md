@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|13|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|14|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 |15|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|20|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
+|16|111.225.152.33|8089|China|Zhoutou|China Telecom|
+|17|67.43.227.227|10193|Canada|Montreal|GloboTech Communications|
+|18|117.102.86.148|8080|Indonesia|Jakarta Pusat|BIZNET|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
