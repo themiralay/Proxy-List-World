@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|82.200.80.118|8080|Russia|Novosibirsk|ZSTTK|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|77.41.146.27|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|45.4.201.94|8080|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|16|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|17|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|72.10.160.90|2757|Canada|Montreal|GloboTech Communications|
-|20|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|9|103.234.254.6|7777|Indonesia|Jakarta|Maxindo|
+|10|77.41.146.27|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|20.170.92.197|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|14|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|15|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
+|16|103.105.76.214|9090|Indonesia|Malang|GARUDA|
+|17|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|88.250.60.33|8080|Turkey|Erzurum|TurkTelecom|
+|20|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
 
 
 
