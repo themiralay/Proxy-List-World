@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|181.78.95.32|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|9|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|10|103.6.223.2|3128|China|Baoshan|China Unicom|
-|11|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
-|12|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
-|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|45.11.95.165|5018|Russia|Moscow|Delta Ltd|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|67.43.236.20|10005|Canada|Montreal|GloboTech Communications|
-|19|89.58.48.220|10001|Germany|Nuremberg|netcup GmbH|
-|20|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.200.161.98|80|India|Mumbai|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|8|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|11|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|12|103.175.238.174|8080|Indonesia|Subang|PT Uliz Netmedia Solusindo|
+|13|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
+|15|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|89.58.48.220|10004|Germany|Nuremberg|netcup GmbH|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
