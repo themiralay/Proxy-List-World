@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|36.93.130.219|66|Indonesia|Tomang|Telekomunikasi Indonesia|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|6|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|201.91.248.67|20183|Brazil|São Paulo|Vivo|
-|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|9|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|10|36.91.20.5|8080|Indonesia|Kartini|PT. Telekomunikasi Indonesia|
-|11|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|14|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|15|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|18|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|6|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|201.91.248.67|20183|Brazil|São Paulo|Vivo|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|14|111.225.152.78|8089|China|Zhoutou|China Telecom|
+|15|189.240.60.163|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|216.176.187.99|39865|United States|Los Angeles|Wowrack.com|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
