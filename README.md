@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|6|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|7|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|190.2.211.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|181.129.243.37|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|103.8.68.48|3128|China|Shiyan|China Telecom|
-|17|191.97.6.149|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
-|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|19|38.52.222.242|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
-|20|67.43.228.253|32273|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
+|8|216.176.187.99|39865|United States|Los Angeles|Wowrack.com|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
+|13|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|14|45.11.95.165|5019|Russia|Moscow|Delta Ltd|
+|15|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|16|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
+|17|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|18|72.10.164.178|19423|Canada|Montreal|GloboTech Communications|
+|19|197.232.47.122|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
