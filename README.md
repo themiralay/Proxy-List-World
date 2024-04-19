@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|2|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|124.106.45.64|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
-|14|67.43.236.18|12369|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|182.50.65.169|8080|Nepal|Biratnagar|RO-65 BroadLink|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|72.10.164.178|18059|Canada|Montreal|GloboTech Communications|
-|20|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
+|15|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|16|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|17|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|72.10.164.178|17799|Canada|Montreal|GloboTech Communications|
 
 
 
