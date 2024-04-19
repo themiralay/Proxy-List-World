@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |3|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|49.48.94.20|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|181.224.205.42|999|Dominican Republic|Puerto Plata|BW TELECOM|
-|15|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
-|16|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|17|72.10.160.174|32561|Canada|Montreal|GloboTech Communications|
-|18|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|37.182.79.112|8080|Italy|Vaiano|VODAFONE|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|72.10.160.174|32561|Canada|Montreal|GloboTech Communications|
+|17|222.127.50.56|8082|Philippines|Lahug|INNOVE|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|20|182.253.172.159|8080|Indonesia|Jakarta|Biznet Metronet|
 
 
 
