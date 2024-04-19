@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|10|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|188.125.169.8|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|13|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|16|67.43.227.227|23957|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|103.106.193.5|53281|India|Rewāri|Elyzium Consulting|
+|20|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
 
 
 
