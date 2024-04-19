@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
-|12|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|16|67.43.227.227|9863|Canada|Montreal|GloboTech Communications|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|12|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|13|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|18|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 |19|67.43.227.226|4555|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|9863|Canada|Montreal|GloboTech Communications|
+|20|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
 
 
 
