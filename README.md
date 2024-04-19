@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.75.140.157|8080|United States|Whittier|Spectrum|
+|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|103.8.68.48|3128|China|Shiyan|China Telecom|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|9|181.78.11.218|999|Colombia|San Diego|IFX Networks Argentina S.R.L|
-|10|103.8.68.48|3128|China|Shiyan|China Telecom|
-|11|8.242.85.8|999|Colombia|Medellín|Level 3 Communications, Inc.|
-|12|181.209.125.186|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.228.253|1385|Canada|Montreal|GloboTech Communications|
-|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|9|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|141.136.56.16|999|Venezuela|San Carlos del Zulia|RED SERVITEL, CA|
+|19|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|20|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
 
 
 
