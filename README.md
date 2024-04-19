@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|207.230.8.10|999|Colombia|Popayán|Cogent Communications|
-|8|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|9|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|10|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|17|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
-|18|72.10.164.178|8377|Canada|Montreal|GloboTech Communications|
-|19|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|20|103.122.66.240|1080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|1|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|110.39.42.211|80|Pakistan|Lahore|Wateen Telecom Limited|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|7|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
+|8|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|9|41.254.56.34|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|15|103.8.68.46|3128|China|Shiyan|China Telecom|
+|16|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|17|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
+|18|103.203.175.49|80|India|Hyderabad|Softgaurd Powertronics|
+|19|103.111.207.138|80|Indonesia|South Tangerang|PT Cyberindo Aditama|
+|20|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
 
 
 
