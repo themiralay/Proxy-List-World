@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|10|138.197.16.249|10008|United States|Clifton|DigitalOcean, LLC|
-|11|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|12|203.150.128.90|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
-|15|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|16|190.26.255.28|999|Colombia|Bogotá|ETB - Colombia|
-|17|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|18|72.10.164.178|11417|Canada|Montreal|GloboTech Communications|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|67.43.236.20|9569|Canada|Montreal|GloboTech Communications|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|110.49.34.126|32650|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|8|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|66.211.155.34|8080|United States|Berlin|FirstLight Fiber|
+|11|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|13|203.210.86.45|1080|Indonesia|Bandung|Infrastruktur STARNET|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|72.10.164.178|32359|Canada|Montreal|GloboTech Communications|
+|16|114.9.24.214|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|17|189.240.60.166|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
