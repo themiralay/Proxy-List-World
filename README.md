@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|11|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|117.72.34.153|9999|China|Beijing|JDCOM|
-|14|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|15|67.43.228.253|31535|Canada|Montreal|GloboTech Communications|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|70.90.138.109|8080|United States|Birmingham|Comcast Cable Communications, LLC|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|212.77.163.196|3128|Germany|Regensburg|R-KOM Regensburger Telekommunikationsgesellschaft mbH & Co. KG|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|92.39.110.210|8090|Russia|Moscow|JSC RDE "Unico"|
+|8|103.19.59.10|8080|Indonesia|Madiun|BITSNET|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|216.176.187.99|39865|United States|Los Angeles|Wowrack.com|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|18|67.43.228.253|28557|Canada|Montreal|GloboTech Communications|
+|19|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|20|67.43.227.227|2485|Canada|Montreal|GloboTech Communications|
 
 
 
