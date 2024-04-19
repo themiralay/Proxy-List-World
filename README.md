@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|10|190.217.105.194|8080|Colombia|Bogotá|Level 3 Colombia S.A|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|67.43.227.227|4931|Canada|Montreal|GloboTech Communications|
-|13|103.125.154.176|8080|India|Sulur|Live Fibernet|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|67.43.236.20|2783|Canada|Montreal|GloboTech Communications|
-|16|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|17|120.196.207.10|443|China|Shenzhen|China Mobile communications corporation|
-|18|152.32.67.107|65535|Philippines|Marikina City|Converge ICT Solution Inc|
-|19|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|20|103.160.205.170|3127|Indonesia|Mataram|PRIME|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|7|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|8|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|11|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|14|190.26.255.28|999|Colombia|Bogotá|ETB - Colombia|
+|15|103.19.58.179|8082|Indonesia|Indramayu|BITSNET|
+|16|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|17|72.10.160.94|1095|Canada|Montreal|GloboTech Communications|
+|18|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|19|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
 
 
 
