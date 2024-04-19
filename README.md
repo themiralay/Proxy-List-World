@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|134.35.3.40|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|9|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|11|103.126.28.14|2525|Indonesia|Bandung|PT Integra Kreasitama Solusindo|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|37.228.65.107|32052|Kazakhstan|Aktau|Jusan Mobile JSC|
-|14|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
-|15|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|20|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
+|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|152.32.187.164|8118|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|46.35.93.168|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|8|134.35.3.40|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|189.240.60.164|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
