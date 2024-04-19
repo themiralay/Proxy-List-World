@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|189.240.60.168|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
-|9|178.212.48.80|8080|Poland|Międzyrzecz|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|10|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|12|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|13|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|14|138.197.92.54|10007|United States|Clifton|DigitalOcean, LLC|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|17|203.150.128.125|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|18|72.10.164.178|28969|Canada|Montreal|GloboTech Communications|
-|19|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|20|67.43.228.250|28331|Canada|Montreal|GloboTech Communications|
+|2|101.101.217.36|80|South Korea|Seongnam-si|NBP|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|10|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
+|11|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|72.10.164.178|1179|Canada|Montreal|GloboTech Communications|
+|14|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|15|92.39.110.210|8090|Russia|Moscow|JSC RDE "Unico"|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|18|189.240.60.169|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|19|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|20|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
