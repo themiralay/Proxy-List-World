@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|12|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|13|67.43.227.226|32907|Canada|Montreal|GloboTech Communications|
-|14|103.152.232.42|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|15|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|72.10.164.178|21007|Canada|Montreal|GloboTech Communications|
-|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|20|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|2|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
+|10|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|15|89.58.48.220|10017|Germany|Nuremberg|netcup GmbH|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|207.230.8.1|999|Colombia|Popayán|Cogent Communications|
+|18|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|19|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|20|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
 
 
 
