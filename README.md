@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.191.196.44|8082|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|103.105.76.49|8080|Indonesia|Malang|GARUDA|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|11|45.233.67.210|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|12|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
-|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|14|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|18|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|19|67.43.228.253|20321|Canada|Montreal|GloboTech Communications|
-|20|103.143.9.85|8088|India|Mumbai|Juweriyah Networks Private Limited|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|10|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
+|11|152.42.194.106|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|17|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|91.231.186.133|443|United Kingdom|London|Clouvider Limited|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
