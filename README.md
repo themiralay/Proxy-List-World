@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|9|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|11|72.10.160.90|15727|Canada|Montreal|GloboTech Communications|
-|12|103.152.232.194|8080|Indonesia|Bekasi|PT Kingpolah Network Solutions|
-|13|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|103.180.123.141|1080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|9|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|72.10.160.90|15727|Canada|Montreal|GloboTech Communications|
+|13|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 |17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|19|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
+|19|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|58.147.186.214|3125|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
 
 
 
