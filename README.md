@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|3|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|14|111.225.152.78|8089|China|Zhoutou|China Telecom|
-|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|24.176.53.183|8080|United States|Portage|Charter Communications|
-|18|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|19|89.58.48.220|10006|Germany|Nuremberg|netcup GmbH|
-|20|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|1|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|2|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|47.51.51.190|8080|United States|Los Angeles|Charter Communications|
+|6|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|7|112.198.129.34|8082|Philippines|Nasugbu|Globe Telecom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.171|9090|Mexico|Coyoacán|Uninet S.A. de C.V.|
+|10|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|38.156.235.36|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|16|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|93.170.90.223|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
