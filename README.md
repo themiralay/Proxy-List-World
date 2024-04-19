@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|10|67.43.228.250|23939|Canada|Montreal|GloboTech Communications|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|103.8.68.48|3128|China|Shiyan|China Telecom|
-|13|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|14|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|15|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|18|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|31.148.7.130|3128|Ukraine|Savran'|Nitrocom Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|4|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
+|5|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|9|67.43.228.250|23939|Canada|Montreal|GloboTech Communications|
+|10|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|11|67.43.228.250|23939|Canada|Montreal|GloboTech Communications|
+|12|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
+|17|5.17.6.83|8080|Russia|St Petersburg|Z-Telecom|
+|18|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
 
 
 
