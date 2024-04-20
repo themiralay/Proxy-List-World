@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|11|72.10.160.90|1815|Canada|Montreal|GloboTech Communications|
-|12|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
+|14|167.172.238.6|10006|United States|Clifton|DigitalOcean, LLC|
 |15|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|18|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|72.10.164.178|29053|Canada|Montreal|GloboTech Communications|
+|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
