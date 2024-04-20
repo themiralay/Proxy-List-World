@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.166.196|6089|Vietnam|Thai Nguyen|VietNam Post and Telecom Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|5|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
-|6|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|119.93.155.205|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|72.10.160.90|10477|Canada|Montreal|GloboTech Communications|
-|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|18|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|19|200.59.184.121|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|20|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|5|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|72.10.160.90|29555|Canada|Montreal|GloboTech Communications|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|67.43.228.253|23289|Canada|Montreal|GloboTech Communications|
+|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|19|67.43.236.20|24083|Canada|Montreal|GloboTech Communications|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
