@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|1.10.141.45|8080|Thailand|Pak Kret|TOT Public Company Limited|
-|4|154.70.115.104|8080|Cameroon|Garoua|MTN Network Solutions (Cameroon)|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|103.105.68.9|8080|Indonesia|South Tangerang|PT iForte Global Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
-|15|72.10.164.178|8951|Canada|Montreal|GloboTech Communications|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|20|72.10.160.90|2199|Canada|Montreal|GloboTech Communications|
+|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|154.70.115.104|8080|Cameroon|Garoua|MTN Network Solutions (Cameroon)|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|15|103.167.171.43|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|201.71.2.49|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
