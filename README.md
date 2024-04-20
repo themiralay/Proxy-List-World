@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|3|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |6|181.197.130.218|80|Panama|David|Cable Onda|
-|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|111.67.71.139|3888|Indonesia|Ciputat|PT. Hawk Teknologi Solusi|
-|13|138.118.106.237|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
-|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|7|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|8|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|17|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|20|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|16|188.132.221.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|119.93.155.205|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|20|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
 
 
 
