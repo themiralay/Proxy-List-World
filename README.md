@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|6|103.167.69.242|8080|Indonesia|Margahayukencana|PT Kataji Nukami Indonesia|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|45.71.3.51|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|10|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|15|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|6|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|7|107.148.103.219|58394|Japan|Koto-ku|PEG TECH INC|
+|8|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|9|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|11|94.131.203.7|8080|Bulgaria|Stara Zagora|Bulgarian Telecommunication Group EOOD|
+|12|107.148.103.219|58394|Japan|Koto-ku|PEG TECH INC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |17|72.10.160.171|1435|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|10957|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|11585|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|67.43.227.228|28807|Canada|Montreal|GloboTech Communications|
+|19|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
+|20|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
