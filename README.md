@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|8|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|9|72.10.160.170|13467|Canada|Montreal|GloboTech Communications|
-|10|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|191.97.15.94|11201|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|13|145.40.101.105|9400|United States|Chicago|Packet Host, Inc.|
-|14|145.40.101.105|9400|United States|Chicago|Packet Host, Inc.|
-|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|16|101.255.40.98|8080|Indonesia|Tangerang|PT Remala Abadi|
-|17|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|18|203.150.113.112|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|19|112.198.129.34|8082|Philippines|Nasugbu|Globe Telecom|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|123.182.59.149|8089|China|Zhangjiakou|China Telecom|
+|13|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|14|181.78.95.32|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|15|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|16|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|19|136.233.80.157|4480|India|Chennai|Reliance Jio Infocomm Limited|
+|20|167.172.238.6|10011|United States|Clifton|DigitalOcean, LLC|
 
 
 
