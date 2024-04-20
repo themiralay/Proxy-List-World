@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|4|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|5|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
 |6|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|11|77.237.28.191|8080|Poland|Lodz|Toya sp. z o.o.|
-|12|36.92.48.103|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|15|67.43.236.20|23497|Canada|Montreal|GloboTech Communications|
-|16|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|19|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|20|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.8.68.48|3128|China|Shiyan|China Telecom|
+|9|103.6.223.2|3128|China|Baoshan|China Unicom|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|222.174.178.122|4999|China|Xintai|Chinanet|
+|18|182.50.65.145|8080|Nepal|Biratnagar|RO-65 BroadLink|
+|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
