@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6748** proxies at the latest update. Usable proxies are below.
+> Scraper found **6747** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|164|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|163|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|484|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|244|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|4|142.190.149.206|8080|United States|St. Petersburg|Uniti Fiber Holdings Inc.|
-|5|134.35.215.23|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|6|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|7|138.59.227.248|999|Paraguay|Ciudad del Este|Aranda Cardozo Lider Ramon|
-|8|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
-|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|103.25.193.111|8080|Indonesia|Karawang|UNINA|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|15|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
-|16|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|17|78.170.135.164|8080|Turkey|Istanbul|TurkTelecom|
-|18|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
-|19|103.118.175.200|3127|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|20|103.159.66.61|8080|India|Ghaziabad|Home Broadband Services LLP|
+|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|89.58.48.220|10003|Germany|Nuremberg|netcup GmbH|
+|10|45.176.95.38|999|Dominican Republic|Santo Domingo|Exito Vision Cable S.A.S|
+|11|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|12|103.4.94.2|8080|Pakistan|Islamabad|HEC|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
+|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|200.54.22.74|80|Chile|Providencia|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|19|138.197.92.54|10013|United States|Clifton|DigitalOcean, LLC|
+|20|165.16.43.176|20000|Libya|Tripoli|Aljeel Aljadeed For Technology|
 
 
 
