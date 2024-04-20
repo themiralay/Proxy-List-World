@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.182.213.13|8080|Bangladesh|Tongi|Rapid Network|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
-|9|119.235.219.50|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|13|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
-|14|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|15|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|16|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|72.10.164.178|18083|Canada|Montreal|GloboTech Communications|
-|20|5.161.108.72|443|United States|Ashburn|Hetzner Online GmbH|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|13|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|15|187.72.132.170|3128|Brazil|São Paulo|ALGAR TELECOM S/A|
+|16|45.4.201.99|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|36.92.48.103|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|72.10.164.178|23399|Canada|Montreal|GloboTech Communications|
+|20|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
 
 
 
