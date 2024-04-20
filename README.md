@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|103.76.108.30|8080|Indonesia|Lumajang|PT Mahawira Nusantara Grup|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|62.176.12.111|8080|Russia|Serpukhov|Rial Com JSC|
 |6|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|7|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
-|8|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|9|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|10|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
 |11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|14|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|119.93.155.205|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|138.84.48.141|80|Colombia|Bogota|SpaceX Starlink|
-|20|67.43.236.20|15383|Canada|Montreal|GloboTech Communications|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|103.59.44.28|8181|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|18|103.8.68.48|3128|China|Shiyan|China Telecom|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
 
 
 
