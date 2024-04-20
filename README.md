@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|115.147.20.176|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|6|122.3.45.189|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|67.43.236.18|5593|Canada|Montreal|GloboTech Communications|
-|12|103.6.223.2|3128|China|Baoshan|China Unicom|
-|13|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|67.43.227.227|24201|Canada|Montreal|GloboTech Communications|
-|16|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|36.6.144.132|8089|China|Rongcheng|Chinanet|
-|19|67.43.227.227|24201|Canada|Montreal|GloboTech Communications|
-|20|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|3|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|8|181.224.205.42|999|Dominican Republic|Puerto Plata|BW TELECOM|
+|9|181.212.161.3|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|10|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|11|103.8.68.48|3128|China|Shiyan|China Telecom|
+|12|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|15|36.6.144.132|8089|China|Rongcheng|Chinanet|
+|16|67.43.227.227|24201|Canada|Montreal|GloboTech Communications|
+|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|18|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
+|19|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
