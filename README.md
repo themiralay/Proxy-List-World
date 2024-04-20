@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
-|5|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
-|6|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|203.150.128.80|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|121.200.48.58|8080|India|Coimbatore|WLSNET|
-|12|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|13|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
-|14|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|15|103.142.241.165|8085|Indonesia|Jember|Multi Teknologi Telematika|
-|16|179.49.160.31|999|Colombia|Neiva|Integra Multisolutions|
-|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|103.84.177.246|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
+|6|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
+|7|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
+|14|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
+|20|36.92.48.103|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
