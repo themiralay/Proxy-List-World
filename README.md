@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|190.61.55.141|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|202.169.51.46|8080|Indonesia|Jakarta Pusat|Biznet - PSN-NAP|
-|7|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|10|103.6.223.2|3128|China|Baoshan|China Unicom|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|74.62.179.122|8080|United States|Hawthorne|Charter Communications Inc|
-|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|18|191.240.153.165|8080|Brazil|Carapicuíba|Wireless Comm Services LTDA|
-|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|6|190.61.55.141|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|7|180.190.200.210|8085|Philippines|Lahug|Globe Telecom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|10|111.68.25.49|8080|Indonesia|Semarang|GMEDIA|
+|11|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|67.79.51.210|16099|United States|Beaumont|Spectrum|
+|15|177.87.15.141|8081|Brazil|Martins|L GONZAGA JUNIOR SERVICOS DE INTERNET - ME|
+|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|17|190.85.122.27|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
 
 
 
