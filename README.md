@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|150.136.139.78|3128|United States|Ashburn|Oracle Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|36.64.217.27|1313|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|1|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|150.136.139.78|3128|United States|Ashburn|Oracle Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|9|150.136.139.78|3128|United States|Ashburn|Oracle Corporation|
 |10|154.83.29.70|3030|Venezuela|Barinas|internautas system|
-|11|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|12|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 |16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|19|194.124.36.75|8080|Türkiye|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
