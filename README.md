@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|103.56.205.84|8080|Indonesia|Cirebon|Argon Data Communication|
-|10|200.59.10.42|999|Argentina|Tigre|COTELCAM|
-|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|154.73.28.193|8080|Libya|Tripoli|Rawafed|
-|13|58.32.15.188|8090|China|Shanghai|CHINANET-SH|
-|14|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.109.57.250|8889|Bangladesh|Dhaka|Skynet Chowmuhani|
-|17|67.43.236.20|26297|Canada|Montreal|GloboTech Communications|
-|18|62.240.40.194|1974|Libya|Kambūt|LTT Network Backbone and POPs|
-|19|45.236.106.245|999|Ecuador|Cuenca|Eliana Vanessa Morocho Oña|
-|20|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|12|103.6.223.2|3128|China|Baoshan|China Unicom|
+|13|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|18|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|19|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
+|20|67.43.236.20|26297|Canada|Montreal|GloboTech Communications|
 
 
 
