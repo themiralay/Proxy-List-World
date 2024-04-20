@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|190.61.55.141|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|45.149.93.213|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|187.190.49.166|999|Mexico|Puebla City|Total Play Telecomunicaciones SA De CV|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|182.50.65.145|8080|Nepal|Biratnagar|RO-65 BroadLink|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|17|72.10.164.178|2731|Canada|Montreal|GloboTech Communications|
-|18|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|72.10.164.178|27559|Canada|Montreal|GloboTech Communications|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|114.67.96.47|45212|China|Chaowai|China Unicom|
+|19|72.10.160.91|2995|Canada|Montreal|GloboTech Communications|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
