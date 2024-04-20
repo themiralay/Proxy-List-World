@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|7|77.119.237.96|55654|Austria|Vienna|Network of Hutchison Drei Austria GmbH|
-|8|148.101.47.190|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|9|94.231.192.2|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
-|12|203.115.124.74|8080|India|Mumbai|PRIMENET|
-|13|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|72.10.164.178|15411|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|15411|Canada|Montreal|GloboTech Communications|
-|17|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|177.130.104.106|33333|Brazil|Presidente Prudente|FIT Telecom Eireli|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|11|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
+|12|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|13|72.10.164.178|15411|Canada|Montreal|GloboTech Communications|
+|14|103.4.94.2|8080|Pakistan|Islamabad|HEC|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|103.6.223.2|3128|China|Baoshan|China Unicom|
+|17|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|103.8.68.48|3128|China|Shiyan|China Telecom|
+|19|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
