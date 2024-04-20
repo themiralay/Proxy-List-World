@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |5|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|12|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|114.232.109.131|8089|China|Nanjing|Chinanet|
-|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|18|59.92.211.63|3128|India|Belgaum|BSNL Internet|
-|19|72.10.160.90|1443|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|9|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|10|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|20|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 
 
 
