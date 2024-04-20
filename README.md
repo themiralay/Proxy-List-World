@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|203.150.113.112|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
 |8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|67.43.236.20|22353|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|19581|Canada|Montreal|GloboTech Communications|
-|17|103.105.126.18|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
+|9|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|67.43.227.227|32371|Canada|Montreal|GloboTech Communications|
 |18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|19|14.241.46.131|8080|Vietnam|Bac Ninh|VNPT|
-|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|19|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
+|20|190.128.152.37|8080|Paraguay|Asunción|Telecel S.A.|
 
 
 
