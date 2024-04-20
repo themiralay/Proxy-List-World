@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|4|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
-|5|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|8|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|10|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|11|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|2|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|4|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|7|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|8|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
 |13|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|103.8.68.48|3128|China|Shiyan|China Telecom|
-|20|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|17|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
