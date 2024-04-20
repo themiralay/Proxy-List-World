@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|142.190.149.206|8080|United States|St. Petersburg|Uniti Fiber Holdings Inc.|
+|3|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|134.35.62.237|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|9|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|103.156.15.35|1080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
-|13|109.164.38.201|2306|Czechia|Prague|STARNET, s.r.o.|
-|14|103.203.175.33|84|India|Hyderabad|Softgaurd Powertronics|
-|15|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|16|67.43.228.250|6933|Canada|Montreal|GloboTech Communications|
-|17|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|18|72.10.164.178|4909|Canada|Montreal|GloboTech Communications|
-|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|6|45.171.109.1|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
+|7|109.200.176.26|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|8|103.145.160.5|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
+|9|81.161.121.114|8080|Russia|Prokopyevsk|ELECTRON-SERVICE|
+|10|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|67.43.228.250|6933|Canada|Montreal|GloboTech Communications|
+|12|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|13|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
+|14|67.43.228.253|7699|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|4909|Canada|Montreal|GloboTech Communications|
+|16|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|67.43.227.227|12025|Canada|Montreal|GloboTech Communications|
+|18|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
 
 
 
