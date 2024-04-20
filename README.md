@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|181.197.130.218|80|Panama|David|Cable Onda|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|138.118.106.237|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
-|8|159.65.176.77|10011|United States|Clifton|DigitalOcean, LLC|
-|9|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|12|45.183.40.23|8080|Colombia|Contratación|TV AZTECA SUCURSAL COLOMBIA|
-|13|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|181.197.130.218|80|Panama|David|Cable Onda|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|122.50.6.186|80|Indonesia|Tangerang|PT Mora Telematika Indonesia|
+|10|38.52.222.242|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
+|11|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
 |14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|72.10.164.178|21749|Canada|Montreal|GloboTech Communications|
-|16|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|15|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 |17|67.43.236.20|25323|Canada|Montreal|GloboTech Communications|
-|18|138.204.95.166|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|19|67.43.227.227|24201|Canada|Montreal|GloboTech Communications|
-|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
+|19|67.43.236.20|25323|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|24201|Canada|Montreal|GloboTech Communications|
 
 
 
