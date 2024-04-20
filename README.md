@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|121.195.170.225|1024|China|Haidian|CERNET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|17|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|13|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |18|138.197.92.54|10013|United States|Clifton|DigitalOcean, LLC|
-|19|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 |20|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
 
 
