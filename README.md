@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|125.26.97.139|8080|Thailand|Chon Buri|TOT Public Company Limited|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|8|45.236.104.25|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|36.92.48.103|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|103.141.180.254|3128|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|6|103.25.210.141|3319|Indonesia|Purwokerto|TRANSDATA|
+|7|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
+|8|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|103.15.140.177|44759|Bangladesh|Khulna|ICC COMMUNICATION|
+|11|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
+|12|72.10.164.178|31623|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|19439|Canada|Montreal|GloboTech Communications|
 |14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|72.10.164.178|31623|Canada|Montreal|GloboTech Communications|
-|17|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|18|72.10.164.178|31623|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|15819|Canada|Montreal|GloboTech Communications|
-|20|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|72.10.164.178|31623|Canada|Montreal|GloboTech Communications|
+|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
