@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.235.16.121|27234|Brazil|Itacorubi|Acessoline Telecom|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|45.173.6.102|8080|Colombia|Bogotá|Columbus Networks Colombia|
-|10|103.15.140.177|44759|Bangladesh|Khulna|ICC COMMUNICATION|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|177.93.50.106|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|45.174.87.18|999|Mexico|Ciudad Juárez|Computadoras y Servicios Especiales SA de CV|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|45.236.104.25|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|19|72.10.164.178|21931|Canada|Montreal|GloboTech Communications|
-|20|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
+|2|103.184.19.73|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.141.180.254|3128|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|8|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|64.225.8.132|10002|United States|Clifton|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|14|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|36.92.48.103|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|78.25.68.130|8088|Russia|Krasnyy Oktyabr'|Volga Branch of OJSC MegaFon|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
 
 
 
