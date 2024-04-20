@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|8|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|10|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
 |11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|12|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|12|67.43.227.227|29295|Canada|Montreal|GloboTech Communications|
 |13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|67.43.227.227|29295|Canada|Montreal|GloboTech Communications|
-|15|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|185.167.59.215|443|Moldova|Chisinau|Caghet-plus SRL|
-|17|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|19|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|20|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|14|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|17|185.167.59.215|443|Moldova|Chisinau|Caghet-plus SRL|
+|18|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|67.43.228.253|10345|Canada|Montreal|GloboTech Communications|
+|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 
 
 
