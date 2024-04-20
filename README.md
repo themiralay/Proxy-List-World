@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|7|78.108.109.0|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
-|8|181.209.100.50|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|9|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|10|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|11|103.8.68.48|3128|China|Shiyan|China Telecom|
-|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|72.10.160.170|28433|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|9523|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|11|38.41.5.89|999|Venezuela|Ocumare|MDS TELECOM C.A.|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|65.20.154.62|28080|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|16|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|20|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
 
 
 
