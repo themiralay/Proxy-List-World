@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6638** proxies at the latest update. Usable proxies are below.
+> Scraper found **6636** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|174|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|172|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|465|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|261|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|64.225.8.132|10017|United States|Clifton|DigitalOcean, LLC|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|64.225.8.132|10017|United States|Clifton|DigitalOcean, LLC|
-|10|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|11|72.10.160.90|6407|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|38.49.159.74|999|Mexico|El Pueblito|Ientc S De RL De CV|
-|14|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|114.232.109.215|8089|China|Nanjing|Chinanet|
-|17|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
-|18|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
-|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|20|77.41.146.18|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|9|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
+|10|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|11|190.97.238.89|999|Venezuela|Maracaibo|Viginet C.A|
+|12|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|31.148.7.130|3128|Ukraine|Savran'|Nitrocom Ltd.|
+|17|191.97.15.94|11201|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|45.178.133.77|999|Chile|Renca|Mundonet S.p.A|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
