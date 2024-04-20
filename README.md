@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|190.61.55.141|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|177.87.15.141|8081|Brazil|Martins|L GONZAGA JUNIOR SERVICOS DE INTERNET - ME|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|190.61.55.141|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|4|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|181.78.85.45|998|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|12|119.93.155.205|8181|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|13|177.70.174.103|8080|Brazil|Entre Rios|infotec- serviços de provedor da internet ltda|
-|14|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|15|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|16|103.114.97.98|8999|Bangladesh|Comilla|Skynet Chowmuhani|
-|17|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|18|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|9|103.160.206.197|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|11|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|67.43.227.228|30045|Canada|Montreal|GloboTech Communications|
+|18|118.117.189.152|8089|China|Muping|Chinanet|
+|19|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
