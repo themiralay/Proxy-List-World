@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|138.84.48.141|80|Colombia|Bogota|SpaceX Starlink|
-|8|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
-|9|190.94.212.36|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|10|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|14|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|15|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|16|68.183.48.146|10008|United States|Clifton|DigitalOcean, LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|210.61.216.63|60808|Taiwan|Banqiao|Chunghwa Telecom Co., Ltd.|
+|7|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|8|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|9|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|10|103.167.170.210|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|11|181.78.19.252|999|Colombia|Barrio San Luis|IFX Networks Argentina S.R.L|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
+|16|190.60.36.77|8080|Colombia|Corozal|IFX NETWORKS COLOMBIA|
+|17|161.132.194.90|8080|Peru|Lima|Optical Technologies S.A.C.|
+|18|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
 |19|67.43.227.227|15863|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|15863|Canada|Montreal|GloboTech Communications|
+|20|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
 
 
 
