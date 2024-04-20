@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|36.88.148.138|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|5|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|6|109.164.38.201|2306|Czechia|Prague|STARNET, s.r.o.|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|7|72.10.160.90|30031|Canada|Montreal|GloboTech Communications|
 |8|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|10|72.10.160.90|26929|Canada|Montreal|GloboTech Communications|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|72.10.160.174|30457|Canada|Montreal|GloboTech Communications|
-|13|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|138.197.16.249|10017|United States|Clifton|DigitalOcean, LLC|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|72.10.164.178|2635|Canada|Montreal|GloboTech Communications|
+|11|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|17|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|103.180.118.5|8888|Indonesia|Lamongan|PT Persada Data Multimedia|
+|20|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
 
 
 
