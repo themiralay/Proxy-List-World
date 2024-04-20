@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|122.3.168.75|8080|Philippines|Tagbilaran|Philippine Long Distance Telephone Co.|
-|5|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
-|6|109.164.38.189|2306|Czechia|Prague|STARNET, s.r.o.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|118.117.189.237|8089|China|Muping|Chinanet|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|72.10.160.90|30031|Canada|Montreal|GloboTech Communications|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|72.10.160.90|30031|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|7|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|8|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.160.90|27769|Canada|Montreal|GloboTech Communications|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|197.232.47.122|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
+|20|177.240.20.117|999|Mexico|Maravatío|Mega Cable, S.A. de C.V.|
 
 
 
