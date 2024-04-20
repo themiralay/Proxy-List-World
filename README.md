@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|89.58.48.220|10011|Germany|Nuremberg|netcup GmbH|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
-|10|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|11|148.230.206.229|8080|Mexico|Chichiquila|Total Play Telecomunicaciones SA De CV|
-|12|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.68.214.19|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|16|59.92.211.63|3128|India|Belgaum|BSNL Internet|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|19|67.43.227.227|16573|Canada|Montreal|GloboTech Communications|
-|20|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|4|148.101.47.190|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|5|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|6|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|8|89.58.48.220|10011|Germany|Nuremberg|netcup GmbH|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|121.195.170.225|1024|China|Haidian|CERNET|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
+|13|59.92.211.63|3128|India|Belgaum|BSNL Internet|
+|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|213.32.104.189|8080|Spain|Madrid|OVH SAS|
+|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|20|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
 
 
 
