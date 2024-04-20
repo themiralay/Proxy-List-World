@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|3|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
-|8|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|10|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|103.107.84.124|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|17|111.225.152.159|8089|China|Zhoutou|China Telecom|
-|18|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
-|19|103.6.223.2|3128|China|Baoshan|China Unicom|
-|20|67.43.236.20|21961|Canada|Montreal|GloboTech Communications|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|9|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
+|10|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
+|11|91.214.31.136|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|12|103.4.94.2|8080|Pakistan|Islamabad|HEC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|154.73.28.193|8080|Libya|Tripoli|Rawafed|
+|18|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
