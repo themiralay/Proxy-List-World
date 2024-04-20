@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|3|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|10|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|41.254.56.34|1981|Libya|Tripoli|LTT Network Backbone and POPs|
-|12|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|13|111.225.153.44|8089|China|Zhoutou|China Telecom|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.164.178|1885|Canada|Montreal|GloboTech Communications|
-|16|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|114.9.24.214|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |20|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
 
 
