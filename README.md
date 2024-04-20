@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|47.90.126.78|8118|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|11|188.27.245.209|8181|Romania|Brasov|RCS & RDS|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|14|36.103.234.137|3128|China|Hongsipu|CHINANET NINGXIA province ZHONGWEI IDC network|
-|15|138.197.16.249|10017|United States|Clifton|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.227.226|12745|Canada|Montreal|GloboTech Communications|
-|18|64.225.4.81|10013|United States|Clifton|DigitalOcean, LLC|
-|19|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|20|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|6|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|7|103.8.68.48|3128|China|Shiyan|China Telecom|
+|8|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|9|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|10|138.197.16.249|10017|United States|Clifton|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|13|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
+|14|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|17|103.231.177.120|5020|Bangladesh|Nārāyanganj|Sayed Farhad Ahmed|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|20|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
 
 
 
