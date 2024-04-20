@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|67.43.228.253|27315|Canada|Montreal|GloboTech Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|10|72.10.164.178|23973|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|27315|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|45.70.236.150|999|Ecuador|Vinces|Ufinet Panama S.A.|
-|14|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|72.10.164.178|23973|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|5741|Canada|Montreal|GloboTech Communications|
-|18|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|202.148.14.146|3003|Indonesia|Surabaya|DNET-SBY|
+|8|103.148.39.26|82|India|Bengaluru|Broadway Communication Pvt Ltd|
+|9|103.6.223.2|3128|China|Baoshan|China Unicom|
+|10|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.164.178|23973|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|12955|Canada|Montreal|GloboTech Communications|
+|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|192.214.193.136|8080|France|Paris|Adista SAS|
 
 
 
