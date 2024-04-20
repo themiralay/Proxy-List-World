@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|36.255.87.133|83|India|Bengaluru|Gatik Business Solutions|
-|12|91.210.228.148|8080|Russia|Mugreyevskiy|Westlan LTD|
-|13|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|103.6.223.2|3128|China|Baoshan|China Unicom|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|36.255.87.133|83|India|Bengaluru|Gatik Business Solutions|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|185.169.183.28|8080|Türkiye|Reyhanlı|Veganet Teknolojileri ve Hizmetleri LTD STI|
+|10|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|11|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|12|170.238.112.71|8080|Brazil|Placas|Marlon Lima Gomes - ME|
+|13|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
+|14|110.78.159.245|8080|Thailand|Phra Nakhon Si Ayutthaya|CAT-BB|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|17|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|190.97.238.89|999|Venezuela|Maracaibo|Viginet C.A|
 
 
 
