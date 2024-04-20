@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|7|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|103.25.210.141|3319|Indonesia|Purwokerto|TRANSDATA|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|20|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
+|2|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|3|103.152.232.36|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|9|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|10|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|14|103.217.224.27|8085|Indonesia|Semarang|PT Nesta Indo Media|
+|15|150.129.5.227|8080|Pakistan|Karachi|Ebone Network (Pvt) Ltd|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|190.14.225.15|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|19|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
