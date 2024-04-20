@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|103.191.196.47|3127|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|12|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
+|6|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|7|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |13|72.10.160.90|2003|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|72.10.164.178|21445|Canada|Montreal|GloboTech Communications|
-|18|103.6.223.2|3128|China|Baoshan|China Unicom|
-|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
+|14|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
+|15|179.49.160.31|999|Colombia|Neiva|Integra Multisolutions|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|17|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|18|8.242.85.8|999|Colombia|Medellín|Level 3 Communications, Inc.|
+|19|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|20|208.87.243.199|3128|United States|Walnut|Psychz Networks|
 
 
 
