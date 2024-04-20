@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |5|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|11|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
+|7|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |12|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|72.10.164.178|5015|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|11433|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|1137|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|1137|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|72.10.160.170|27815|Canada|Montreal|GloboTech Communications|
-|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|13|67.43.236.20|2783|Canada|Montreal|GloboTech Communications|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|148.230.206.229|8080|Mexico|Chichiquila|Total Play Telecomunicaciones SA De CV|
+|18|72.10.164.178|5015|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|29201|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
