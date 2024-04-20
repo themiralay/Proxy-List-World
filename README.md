@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|11|131.117.164.73|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|17|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|101.109.61.169|8080|Thailand|Sattahip|TOT Public Company Limited|
-|20|67.43.236.20|17827|Canada|Montreal|GloboTech Communications|
+|2|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|12|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|13|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
