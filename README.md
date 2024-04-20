@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
-|7|103.247.23.65|2022|Indonesia|Cileungsir|PT wifian Solution|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|8|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
 |9|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|36.92.48.103|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
+|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 |14|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|16|41.242.116.150|50003|Mayotte|Mamoudzou|STOI-block1|
+|15|58.32.15.188|8090|China|Shanghai|CHINANET-SH|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |17|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
-|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|20|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
+|18|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
