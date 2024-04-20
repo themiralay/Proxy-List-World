@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6638** proxies at the latest update. Usable proxies are below.
+> Scraper found **6621** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|166|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|557|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|167|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|552|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|299|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|286|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4656|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|171.102.10.74|8080|Thailand|Din Daeng|True International Gateway Co., Ltd.|
-|10|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.8.68.48|3128|China|Shiyan|China Telecom|
-|13|64.225.8.132|10013|United States|Clifton|DigitalOcean, LLC|
-|14|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|18|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|4|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|5|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|10|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|11|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|103.8.68.48|3128|China|Shiyan|China Telecom|
+|20|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
