@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|9|111.225.153.165|8089|China|Zhoutou|China Telecom|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|8|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|165.22.36.164|10014|United States|Clifton|DigitalOcean, LLC|
-|15|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|19|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|20|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
 
 
 
