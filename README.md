@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|178.130.94.66|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
-|4|51.79.207.228|3128|Singapore|Singapore|OVH SAS|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
-|9|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
-|15|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
-|16|103.6.223.2|3128|China|Baoshan|China Unicom|
-|17|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
-|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|19|103.8.68.48|3128|China|Shiyan|China Telecom|
-|20|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|1|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|51.79.207.228|3128|Singapore|Singapore|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|7|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|178.130.94.66|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
+|12|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|18|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
+|19|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 
 
 
