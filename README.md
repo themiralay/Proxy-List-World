@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|67.43.236.20|32187|Canada|Montreal|GloboTech Communications|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|64.225.8.132|10018|United States|Clifton|DigitalOcean, LLC|
-|9|67.43.236.20|32187|Canada|Montreal|GloboTech Communications|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|103.6.223.2|3128|China|Baoshan|China Unicom|
-|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|17|72.10.164.178|27695|Canada|Montreal|GloboTech Communications|
-|18|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|125.26.97.139|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|8|103.187.86.3|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|11|103.28.114.157|66|Indonesia|Ketanggi|PT Lintas Data Prima|
+|12|45.89.230.174|3128|Russia|Zelenograd|LLC Baxet|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|103.255.145.62|84|India|Hyderabad|Pioneer Elabs Ltd|
+|16|103.8.68.48|3128|China|Shiyan|China Telecom|
+|17|78.170.135.164|8080|Turkey|Istanbul|TurkTelecom|
+|18|38.158.202.121|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|111.225.153.2|8089|China|Zhoutou|China Telecom|
 
 
 
