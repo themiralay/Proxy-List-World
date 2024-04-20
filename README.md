@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|6|89.58.48.220|10010|Germany|Nuremberg|netcup GmbH|
-|7|182.50.65.145|8080|Nepal|Biratnagar|RO-65 BroadLink|
-|8|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|9|138.59.227.248|999|Paraguay|Ciudad del Este|Aranda Cardozo Lider Ramon|
-|10|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|14|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|67.43.228.251|27403|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
-|19|167.172.238.6|10002|United States|Clifton|DigitalOcean, LLC|
-|20|109.164.38.201|2306|Czechia|Prague|STARNET, s.r.o.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
+|11|154.73.28.193|8080|Libya|Tripoli|Rawafed|
+|12|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|13|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|14|138.197.92.54|10011|United States|Clifton|DigitalOcean, LLC|
+|15|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|38.49.159.74|999|Mexico|San Antonio de Romerillo|Ientc S De RL De CV|
 
 
 
