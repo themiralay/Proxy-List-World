@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|85.117.60.162|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|181.78.21.149|999|Colombia|Barrio San Luis|IFX Networks Argentina S.R.L|
+|7|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
 |8|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
+|9|77.242.22.225|8080|Albania|Tirana|Abissnet ISP|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|14|103.8.68.48|3128|China|Shiyan|China Telecom|
-|15|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|38.49.159.74|999|Mexico|El Pueblito|Ientc S De RL De CV|
-|17|41.254.56.34|1981|Libya|Tripoli|LTT Network Backbone and POPs|
-|18|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
-|20|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
+|14|159.65.176.77|10011|United States|Clifton|DigitalOcean, LLC|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|201.91.82.155|3128|Brazil|Campinas|Vivo|
 
 
 
