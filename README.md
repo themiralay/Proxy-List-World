@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|190.61.55.141|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|6|45.149.93.213|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|7|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|8|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|9|188.209.247.74|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|177.70.174.103|8080|Brazil|Entre Rios|infotec- serviços de provedor da internet ltda|
-|12|103.170.115.213|2020|Indonesia|Bengkalis|PT Mega Data Akses|
-|13|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|16|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
+|7|190.61.55.141|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|8|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|9|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|10|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|186.96.102.209|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|138.197.16.249|10017|United States|Clifton|DigitalOcean, LLC|
+|16|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|45.143.220.99|8118|The Netherlands|Amsterdam|BestDC Limited|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|188.209.247.74|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
 
 
 
