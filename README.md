@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|7|203.115.124.74|8080|India|Mumbai|PRIMENET|
-|8|77.119.237.96|55654|Austria|Vienna|Network of Hutchison Drei Austria GmbH|
-|9|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|103.6.223.2|3128|China|Baoshan|China Unicom|
-|11|77.247.95.69|8989|Albania|Fier|Teleco Eighth|
-|12|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
-|14|103.4.94.2|8080|Pakistan|Islamabad|HEC|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|6|94.231.192.2|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|103.6.223.2|3128|China|Baoshan|China Unicom|
+|9|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
+|10|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|15|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|78.170.135.164|8080|Turkey|Istanbul|TurkTelecom|
+|17|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
+|20|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
