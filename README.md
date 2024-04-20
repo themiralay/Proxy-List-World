@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|2|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
 |3|119.76.142.134|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|8|103.6.223.2|3128|China|Baoshan|China Unicom|
-|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|115.167.124.75|8080|Pakistan|Islamabad|Redtone Telecommunications Pakistan (Private) Limited|
-|13|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
-|14|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|15|72.10.164.178|20751|Canada|Montreal|GloboTech Communications|
-|16|190.14.225.15|8080|Colombia|Florida|Media Commerce Partners S.A|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.6.223.2|3128|China|Baoshan|China Unicom|
+|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|11|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|72.10.164.178|3277|Canada|Montreal|GloboTech Communications|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
+|18|67.43.236.20|21649|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|32607|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
