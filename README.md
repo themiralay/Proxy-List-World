@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|201.54.176.128|8080|Brazil|Icó|Lucas De Souza Silva|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|103.142.241.165|8085|Indonesia|Jember|Multi Teknologi Telematika|
-|11|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
-|14|103.88.90.70|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|16|182.50.65.169|8080|Nepal|Biratnagar|RO-65 BroadLink|
-|17|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
-|18|111.225.152.103|8089|China|Zhoutou|China Telecom|
-|19|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|67.43.236.20|3089|Canada|Montreal|GloboTech Communications|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
+|8|103.8.68.48|3128|China|Shiyan|China Telecom|
+|9|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|10|154.73.28.193|8080|Libya|Tripoli|Rawafed|
+|11|181.192.2.23|8080|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
+|12|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|19|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|20|182.50.65.145|8080|Nepal|Biratnagar|RO-65 BroadLink|
 
 
 
