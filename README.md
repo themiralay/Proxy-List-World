@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.133.70.81|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|8|64.225.4.81|10002|United States|Clifton|DigitalOcean, LLC|
-|9|77.41.146.18|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|10|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|13|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|154.83.29.70|3030|Venezuela|Barinas|internautas system|
-|18|67.43.228.253|16953|Canada|Montreal|GloboTech Communications|
-|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|58.147.190.110|8080|Indonesia|Bogor|PT. Transhybrid Communication|
+|7|64.225.4.81|10011|United States|Clifton|DigitalOcean, LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
+|10|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|11|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|154.73.28.193|8080|Libya|Tripoli|Rawafed|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|181.78.95.32|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|103.234.159.5|8080|India|Bengaluru|MWPL|
 
 
 
