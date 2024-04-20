@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|8|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
-|14|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|17|67.43.227.226|30783|Canada|Montreal|GloboTech Communications|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|72.10.164.178|22653|Canada|Montreal|GloboTech Communications|
-|20|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|70.69.134.83|4001|Canada|Chilliwack|Shaw Communications Inc.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|103.42.120.43|8080|Indonesia|Jakarta|PT Transhybrid Communication|
+|10|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|11|103.156.15.35|1080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
+|12|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|67.43.227.226|30783|Canada|Montreal|GloboTech Communications|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|89.58.48.220|10014|Germany|Nuremberg|netcup GmbH|
 
 
 
