@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|4|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|203.150.128.80|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|13|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|16|111.225.152.219|8089|China|Zhoutou|China Telecom|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|20|72.10.164.178|2687|Canada|Montreal|GloboTech Communications|
+|6|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
+|7|80.78.65.230|8080|Albania|Tirana|ABCom|
+|8|129.222.176.138|999|Peru|Lima|SpaceX Starlink|
+|9|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
+|10|154.73.109.201|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
+|11|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|12|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|185.19.4.22|3128|Ukraine|Kyiv|Triolan|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|45.250.215.8|8080|India|Delhi|Geocity Network Solutions PVT LTD|
+|19|91.214.31.136|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
