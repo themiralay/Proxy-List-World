@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|8|113.160.182.236|19132|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
-|9|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|10|103.167.171.43|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|11|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|34.90.142.110|3128|Netherlands|Groningen|Google LLC|
-|15|67.43.227.227|14543|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|138.121.15.229|999|Colombia|Turbaná|Liberty Networks De Colombia|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|20|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|9|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|10|67.43.227.227|31895|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|72.10.160.90|9893|Canada|Montreal|GloboTech Communications|
+|13|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|14|67.43.227.227|31895|Canada|Montreal|GloboTech Communications|
+|15|216.176.187.99|8889|United States|Seattle|Wowrack.com|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|18|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
 
 
 
