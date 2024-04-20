@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|203.115.124.74|8080|India|Mumbai|PRIMENET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|182.93.82.191|8080|Nepal|Kathmandu|Subisu Cablenet|
-|11|67.43.228.253|10993|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|15321|Canada|Montreal|GloboTech Communications|
-|13|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
+|10|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|13|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
+|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|15|67.43.228.253|10993|Canada|Montreal|GloboTech Communications|
+|16|103.167.171.43|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|17|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
