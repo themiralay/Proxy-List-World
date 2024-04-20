@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|8|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
-|9|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|13|186.125.218.172|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|14|181.224.205.42|999|Dominican Republic|Puerto Plata|BW TELECOM|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
-|17|36.92.48.103|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|19|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
-|20|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|6|83.12.149.202|8080|Poland|Raczki Elblaskie|Orange Polska Spolka Akcyjna|
+|7|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|9|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|10|128.92.239.190|8080|United States|Long Beach|Spectrum|
+|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|164.70.88.64|8080|Japan|Kawasaki|InfoSphere|
+|13|118.99.103.16|8080|Indonesia|Jakarta|Biznet Metronet|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|17|41.254.56.34|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
