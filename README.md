@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|118.99.119.133|8080|Indonesia|Bandar Lampung|BIZNET|
-|5|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|103.30.182.116|80|Indonesia|Semarang|PT DES Teknologi Informasi|
-|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|15|67.43.228.253|1389|Canada|Montreal|GloboTech Communications|
-|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|138.197.92.54|10011|United States|Clifton|DigitalOcean, LLC|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|118.99.119.133|8080|Indonesia|Bandar Lampung|BIZNET|
+|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|14|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|15|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
