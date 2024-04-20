@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
-|5|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|6|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|47.51.51.190|8080|United States|Los Angeles|Charter Communications|
-|9|67.43.236.20|15493|Canada|Montreal|GloboTech Communications|
-|10|115.147.20.176|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|11|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.160.90|17121|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|67.43.228.253|9629|Canada|Montreal|GloboTech Communications|
-|17|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|121.195.170.225|1024|China|Haidian|CERNET|
-|20|72.10.160.90|17121|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|4|36.88.148.138|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|5|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|7|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|8|41.254.56.34|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|72.10.160.90|14699|Canada|Montreal|GloboTech Communications|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|67.43.228.253|9629|Canada|Montreal|GloboTech Communications|
+|16|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|18|123.112.214.51|9000|China|Beijing|China Unicom Beijing Province Network|
+|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|20|200.39.152.193|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
 
 
 
