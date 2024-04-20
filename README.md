@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|128.92.239.190|8080|United States|Long Beach|Spectrum|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|10|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|11|103.8.68.48|3128|China|Shiyan|China Telecom|
-|12|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
-|13|95.31.22.173|7777|Russia|Moscow|CORBINA-BROADBAND|
-|14|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|15|103.6.223.2|3128|China|Baoshan|China Unicom|
-|16|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|17|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|138.121.15.229|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|5|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|10|177.11.190.84|8080|Brazil|Nuporanga|Multpontos Telecomunicações Ltda - ME|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
+|13|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.19.58.179|8082|Indonesia|Indramayu|BITSNET|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|18|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
+|20|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
 
 
 
