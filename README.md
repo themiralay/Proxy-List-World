@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|134.236.102.11|8080|Thailand|Bang Lamung|CAT-BB|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.156.96.12|1080|Indonesia|Wonorejo|PT Karya Panca Telekomunikasi|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|177.93.51.213|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 |8|68.183.48.146|10017|United States|Clifton|DigitalOcean, LLC|
-|9|111.225.153.2|8089|China|Zhoutou|China Telecom|
-|10|138.121.15.229|999|Colombia|Turbaná|Liberty Networks De Colombia|
-|11|154.64.211.145|999|Puerto Rico|San Juan|OSNET Wireless|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.8.68.46|3128|China|Shiyan|China Telecom|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
 |13|103.8.68.48|3128|China|Shiyan|China Telecom|
 |14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|16|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|17|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|20|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|18|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|19|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|20|138.84.48.141|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
