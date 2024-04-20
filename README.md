@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|77.242.22.225|8080|Albania|Tirana|Abissnet ISP|
-|7|181.78.77.229|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|8|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|9|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
-|10|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|11|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|4|161.49.215.28|10101|Philippines|Angeles City|Converge Information and Communications Technology Solutions|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|7|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|10|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|134.35.27.253|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
-|15|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|16|72.10.160.170|9949|Canada|Montreal|GloboTech Communications|
-|17|190.108.12.117|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|13|181.224.205.42|999|Dominican Republic|Puerto Plata|BW TELECOM|
+|14|72.10.160.170|9949|Canada|Montreal|GloboTech Communications|
+|15|14.241.46.131|8080|Vietnam|Bac Ninh|VNPT|
+|16|103.68.214.19|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|17|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
 |18|72.10.160.90|22579|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|20|67.43.228.253|28991|Canada|Montreal|GloboTech Communications|
 
 
 
