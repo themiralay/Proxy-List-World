@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|8|170.238.239.72|8080|Colombia|Buenaventura|InterNexa Global Network|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|103.160.15.38|3125|Indonesia|Tanjung Pinang|PT INFORMASI NUSANTARA TEKNOLOGI|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|14|24.152.58.22|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|67.43.228.253|8249|Canada|Montreal|GloboTech Communications|
-|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|11|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|58.147.190.110|8080|Indonesia|Bogor|PT. Transhybrid Communication|
+|14|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
+|15|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
