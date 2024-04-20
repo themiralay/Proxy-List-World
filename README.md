@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|7|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
-|8|77.91.74.136|8080|Israel|Petah Tikva|Stark Industries Solutions LTD|
-|9|193.19.255.21|8080|Ukraine|Drohobych|Limited Liability Company Radio Network|
-|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|119.93.155.205|8181|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|12|154.73.28.193|8080|Libya|Tripoli|Rawafed|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|107.148.103.236|58394|Japan|Koto-ku|PEG TECH INC|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|107.148.103.236|58394|Japan|Koto-ku|PEG TECH INC|
-|17|145.40.101.105|9400|United States|Chicago|Packet Host, Inc.|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|72.10.164.178|33255|Canada|Montreal|GloboTech Communications|
-|20|145.40.101.105|9400|United States|Chicago|Packet Host, Inc.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|118.96.216.78|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
+|8|45.228.234.122|999|Guatemala|Guatemala City|Infinitum S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|36.91.45.12|51672|Indonesia|Karawang|PT. Telekomunikasi Indonesia|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|13|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|15|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|72.10.160.170|23191|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
