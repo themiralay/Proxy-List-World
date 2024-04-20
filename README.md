@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|119.76.142.134|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|103.76.151.133|8181|Indonesia|South Tangerang|PT. Java Digital Nusantara|
-|9|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|10|222.174.178.122|4999|China|Xintai|Chinanet|
+|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|8|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|103.8.68.48|3128|China|Shiyan|China Telecom|
 |11|67.43.236.20|21415|Canada|Montreal|GloboTech Communications|
-|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|13|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|14|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|15|103.152.232.42|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|89.58.48.220|10014|Germany|Nuremberg|netcup GmbH|
-|18|101.109.61.169|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|19|72.10.164.178|1271|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|10979|Canada|Montreal|GloboTech Communications|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|14|72.10.160.90|21323|Canada|Montreal|GloboTech Communications|
+|15|103.76.151.133|8181|Indonesia|South Tangerang|PT. Java Digital Nusantara|
+|16|72.10.160.171|25921|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|8009|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
