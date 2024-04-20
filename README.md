@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.236.102.11|8080|Thailand|Bang Lamung|CAT-BB|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|185.233.247.186|8080|Türkiye|Reyhanlı|Veganet Teknolojileri ve Hizmetleri LTD STI|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.6.223.2|3128|China|Baoshan|China Unicom|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|12|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|103.78.96.146|80|Indonesia|Jakarta|MORATELINDO|
-|15|67.43.227.228|30215|Canada|Montreal|GloboTech Communications|
-|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|17|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|18|89.58.48.220|10011|Germany|Nuremberg|netcup GmbH|
-|19|103.6.223.2|3128|China|Baoshan|China Unicom|
-|20|138.59.227.248|999|Paraguay|Ciudad del Este|Aranda Cardozo Lider Ramon|
+|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|4|103.156.96.12|1080|Indonesia|Wonorejo|PT Karya Panca Telekomunikasi|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.1.93.55|80|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|7|103.174.238.131|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|8|185.233.247.186|8080|Türkiye|Reyhanlı|Veganet Teknolojileri ve Hizmetleri LTD STI|
+|9|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|103.6.223.2|3128|China|Baoshan|China Unicom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|89.58.48.220|10009|Germany|Nuremberg|netcup GmbH|
+|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|16|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|19|67.43.227.228|30215|Canada|Montreal|GloboTech Communications|
+|20|89.58.48.220|10009|Germany|Nuremberg|netcup GmbH|
 
 
 
