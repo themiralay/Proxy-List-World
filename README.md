@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.90.142.110|3128|Netherlands|Groningen|Google LLC|
+|2|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|8|111.225.153.135|8089|China|Zhoutou|China Telecom|
-|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|10|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
-|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|72.10.164.178|19003|Canada|Montreal|GloboTech Communications|
-|17|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|18|114.231.42.9|8089|China|Nanjing|Chinanet|
-|19|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|72.10.160.174|3421|Canada|Montreal|GloboTech Communications|
+|13|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|14|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|15|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
 
 
 
