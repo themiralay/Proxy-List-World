@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|77.41.146.18|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
-|12|103.41.250.111|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|72.10.160.94|10799|Canada|Montreal|GloboTech Communications|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|72.10.160.93|25709|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
-|20|167.172.238.6|10005|United States|Clifton|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|77.41.146.18|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|9|36.64.217.27|1313|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|12|111.225.153.63|8089|China|Zhoutou|China Telecom|
+|13|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|14|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|17|72.10.160.94|10799|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.93|25709|Canada|Montreal|GloboTech Communications|
+|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
