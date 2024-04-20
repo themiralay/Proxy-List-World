@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|9|103.8.68.48|3128|China|Shiyan|China Telecom|
-|10|117.4.50.142|32650|Vietnam|Ha Long|VIETTEL|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
-|13|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
-|14|103.124.137.203|3128|Indonesia|Jakarta|Global Media Data Prima|
-|15|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|103.8.68.46|3128|China|Shiyan|China Telecom|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|8|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|9|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|10|89.58.48.220|10010|Germany|Nuremberg|netcup GmbH|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|103.105.126.18|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
+|15|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
+|16|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|17|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |18|72.10.160.90|29849|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|123.182.59.134|8089|China|Zhangjiakou|China Telecom|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
