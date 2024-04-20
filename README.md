@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|190.211.172.178|999|Chile|Las Condes|InterNexa Global Network|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|103.167.171.43|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|11|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|12|115.74.246.138|8080|Vietnam|Quan Muoi Mot|VIETELxdsl|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|46.8.252.94|8123|Kazakhstan|Karaganda|AstanaMegatel Ltd.|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|64.225.4.81|10010|United States|Clifton|DigitalOcean, LLC|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|64.225.4.81|10010|United States|Clifton|DigitalOcean, LLC|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|186.125.218.147|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
 |18|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|19|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|64.225.4.81|10010|United States|Clifton|DigitalOcean, LLC|
 
 
 
