@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|103.26.177.66|8080|Indonesia|Kediri|PT Lintas Jaringan Nusantara|
+|2|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|38.43.150.169|999|Peru|Lima|Nextnet SAC|
+|8|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
 |11|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|16|103.4.94.2|8080|Pakistan|Islamabad|HEC|
-|17|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|45.171.242.3|8083|Brazil|Atibaia|MaetingaNET Informática e Telecomunicações|
+|14|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|15|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|167.172.238.6|10003|United States|Clifton|DigitalOcean, LLC|
+|19|81.161.121.114|8080|Russia|Prokopyevsk|ELECTRON-SERVICE|
+|20|72.10.164.178|25847|Canada|Montreal|GloboTech Communications|
 
 
 
