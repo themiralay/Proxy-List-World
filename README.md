@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.150.113.112|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.115.20.26|8090|Indonesia|Subang|PMYNET|
+|5|157.119.222.22|8080|Indonesia|Semarang|DESNET|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|10|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
-|11|213.6.99.106|8080|Palestinian Territory|Ramallah|Palestine Telecommunications Company|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|103.133.223.20|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|16|45.58.52.5|80|United States|Dallas|HostUS|
-|17|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
-|18|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|19|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|9|67.43.227.228|10663|Canada|Montreal|GloboTech Communications|
+|10|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|119.93.155.205|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|15|67.43.227.227|27223|Canada|Montreal|GloboTech Communications|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|18|209.14.115.33|999|Colombia|Bogotá|AGIS|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|103.68.207.34|82|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
 
 
 
