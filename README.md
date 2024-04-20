@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
-|7|200.60.83.189|999|Peru|El Pedregal|Telefonica del Peru S.A.A.|
-|8|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|12|45.71.3.51|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|13|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|14|138.197.16.249|10017|United States|Clifton|DigitalOcean, LLC|
-|15|197.232.47.122|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|18|67.43.236.20|17211|Canada|Montreal|GloboTech Communications|
-|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|20|182.50.65.145|8080|Nepal|Biratnagar|RO-65 BroadLink|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|6|83.12.149.202|8080|Poland|Raczki Elblaskie|Orange Polska Spolka Akcyjna|
+|7|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|8|213.97.161.224|3128|Spain|Madrid|Telefonica de Espana SAU|
+|9|138.121.161.121|8290|Argentina|Rosario|WICORP SA|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|12|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|13|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
+|14|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
+|16|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
+|17|67.43.236.20|4211|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|20|138.197.16.249|10017|United States|Clifton|DigitalOcean, LLC|
 
 
 
