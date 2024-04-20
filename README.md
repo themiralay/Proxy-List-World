@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.154.77.64|83|Indonesia|Yogyakarta|T2NET|
 |8|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|9|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|12|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|13|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|14|190.108.12.117|8080|Uruguay|Montevideo|Tecnowind S.A.|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|17|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|19|103.105.126.18|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
-|20|72.10.164.178|26059|Canada|Montreal|GloboTech Communications|
+|11|186.148.181.69|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|13|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|14|45.6.224.254|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|15|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|72.10.164.178|31033|Canada|Montreal|GloboTech Communications|
+|18|148.101.47.190|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|19|138.121.161.121|8290|Argentina|Rosario|WICORP SA|
+|20|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
 
 
 
