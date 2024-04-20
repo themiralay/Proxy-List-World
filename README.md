@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|181.233.62.9|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
-|5|64.225.4.81|10010|United States|Clifton|DigitalOcean, LLC|
-|6|64.225.4.81|10010|United States|Clifton|DigitalOcean, LLC|
-|7|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|8|46.8.252.94|8123|Kazakhstan|Karaganda|AstanaMegatel Ltd.|
-|9|201.91.82.155|3128|Brazil|Campinas|Vivo|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|115.74.246.138|8080|Vietnam|Quan Muoi Mot|VIETELxdsl|
+|5|41.33.203.115|1974|Egypt|Cairo|TE Data|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|8|102.38.31.8|80|Libya|Zuwarah|GZA|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |10|183.164.242.32|8089|China|Rongcheng|Chinanet|
-|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
-|17|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|18|101.255.165.130|1111|Indonesia|Bekasi|PT Remala Abadi|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
+|11|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|118.99.73.81|8080|Indonesia|Cipete Selatan|BIZNET|
+|14|181.78.95.32|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|15|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
