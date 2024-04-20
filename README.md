@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
-|7|138.255.207.169|32926|Brazil|Rio do Sul|CIT INFORMATICA|
-|8|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
-|9|103.180.194.149|8080|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|103.105.76.249|8080|Indonesia|Bojonegoro|GARUDA|
-|12|111.225.152.78|8089|China|Zhoutou|China Telecom|
-|13|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
-|14|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|15|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
-|16|103.76.151.133|8181|Indonesia|South Tangerang|PT. Java Digital Nusantara|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|19|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
-|20|67.43.227.228|25827|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|181.31.225.234|3128|Argentina|Cipolletti|Telecom Argentina S.A|
+|9|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
+|10|67.43.227.227|29793|Canada|Montreal|GloboTech Communications|
+|11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|17|196.250.239.229|8787|South Africa|Thohoyandou|West Indian Ocean Cable Company|
+|18|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|19|67.43.227.228|25827|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
