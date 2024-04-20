@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|167.172.238.6|10005|United States|Clifton|DigitalOcean, LLC|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|122.50.6.186|80|Indonesia|Tangerang|PT Mora Telematika Indonesia|
-|9|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|10|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|11|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|12|154.73.28.193|8080|Libya|Tripoli|Rawafed|
-|13|190.14.225.15|8080|Colombia|Florida|Media Commerce Partners S.A|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.160.90|27015|Canada|Montreal|GloboTech Communications|
-|16|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
-|17|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|7|138.121.15.229|999|Colombia|Turbaná|Liberty Networks De Colombia|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|72.10.160.90|15581|Canada|Montreal|GloboTech Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|12|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|15|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|16|72.10.164.178|15941|Canada|Montreal|GloboTech Communications|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
 
 
 
