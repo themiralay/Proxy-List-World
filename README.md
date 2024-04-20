@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|203.115.124.74|8080|India|Mumbai|PRIMENET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|64.76.43.115|999|Mexico|Mexico City|Level 3|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|16|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|72.10.160.173|28179|Canada|Montreal|GloboTech Communications|
-|19|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
-|20|72.10.160.90|32799|Canada|Montreal|GloboTech Communications|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.178.133.78|999|Chile|Renca|Mundonet S.p.A|
+|10|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|11|72.10.164.178|15321|Canada|Montreal|GloboTech Communications|
+|12|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|13|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|14|72.10.164.178|15321|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|19|72.10.160.173|28179|Canada|Montreal|GloboTech Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
