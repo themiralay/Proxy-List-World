@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|187.157.243.254|8080|Mexico|Xalapa|Uninet S.A. de C.V.|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|72.10.160.172|16815|Canada|Montreal|GloboTech Communications|
-|13|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|14|103.15.140.121|44759|Bangladesh|Khulna|ICC COMMUNICATION|
-|15|186.5.31.251|999|Ecuador|Quito|Telconet S.A|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|4|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|207.230.8.69|999|Colombia|Popayán|Cogent Communications|
+|8|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|190.108.12.117|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 |17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|148.230.206.229|8080|Mexico|Tlalnepantla|Total Play Telecomunicaciones SA De CV|
 |19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
