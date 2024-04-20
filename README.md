@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|7|213.97.158.42|3128|Spain|Manacor|Telefonica de Espana SAU|
-|8|59.92.211.63|3128|India|Belgaum|BSNL Internet|
-|9|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
+|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
+|9|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
 |10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|12|58.147.190.110|8080|Indonesia|Bogor|PT. Transhybrid Communication|
-|13|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|14|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|67.43.236.20|8941|Canada|Montreal|GloboTech Communications|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|72.10.160.90|13083|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|11|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
+|13|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|14|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|15|189.3.69.230|8080|Brazil|Porto Alegre|Claro S.A.|
+|16|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|17|67.43.236.20|8941|Canada|Montreal|GloboTech Communications|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|72.10.164.178|9523|Canada|Montreal|GloboTech Communications|
 
 
 
