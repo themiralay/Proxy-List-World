@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.4.50.142|32650|Vietnam|Ha Long|VIETTEL|
-|5|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|6|119.93.155.205|8181|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
 |7|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|103.25.193.111|8080|Indonesia|Karawang|UNINA|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|167.172.238.6|10012|United States|Clifton|DigitalOcean, LLC|
-|16|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|72.10.160.171|21971|Canada|Montreal|GloboTech Communications|
-|18|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
-|19|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
-|20|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|10|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|17|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|19|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|67.43.227.227|19561|Canada|Montreal|GloboTech Communications|
 
 
 
