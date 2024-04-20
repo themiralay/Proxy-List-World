@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|103.234.159.5|8080|India|Bengaluru|MWPL|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|72.10.164.178|5559|Canada|Montreal|GloboTech Communications|
-|10|103.152.232.60|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|14|103.6.223.2|3128|China|Baoshan|China Unicom|
-|15|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
-|16|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|17|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
-|19|67.43.227.228|24201|Canada|Montreal|GloboTech Communications|
-|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|210.61.216.63|60808|Taiwan|Banqiao|Chunghwa Telecom Co., Ltd.|
+|6|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|10|45.183.40.23|8080|Colombia|Contratación|TV AZTECA SUCURSAL COLOMBIA|
+|11|138.118.106.237|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|103.8.68.48|3128|China|Shiyan|China Telecom|
+|16|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|17|179.60.235.251|8096|Argentina|Rosario|WICORP SA|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|203.190.44.225|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
