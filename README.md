@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.169.186.89|3125|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|10|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|67.43.227.227|26665|Canada|Montreal|GloboTech Communications|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|200.59.184.120|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|103.4.94.2|8080|Pakistan|Islamabad|HEC|
-|17|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
+|9|128.92.239.190|8080|United States|Long Beach|Spectrum|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|13|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|200.59.184.121|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|103.8.68.48|3128|China|Shiyan|China Telecom|
+|16|103.169.186.89|3125|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|17|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
+|18|183.165.244.208|8089|China|Shenzhen|Chinanet|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
