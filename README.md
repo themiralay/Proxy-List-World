@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|103.133.223.20|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|6|203.150.113.112|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|7|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|4|203.150.113.112|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
+|7|103.152.232.53|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
 |8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|12|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|13|67.43.228.253|18845|Canada|Montreal|GloboTech Communications|
-|14|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|18|72.10.164.178|10749|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|10749|Canada|Montreal|GloboTech Communications|
-|20|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|103.133.223.20|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|13|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|16|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|17|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|18|93.177.126.101|8088|Russia|Balashikha|G COM Ltd.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 
 
 
