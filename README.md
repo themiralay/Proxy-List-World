@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|167.172.238.6|10013|United States|Clifton|DigitalOcean, LLC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|72.10.164.178|5015|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|16|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|72.10.164.178|5015|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|72.10.164.178|29395|Canada|Montreal|GloboTech Communications|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|15|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|103.76.151.133|8181|Indonesia|South Tangerang|PT. Java Digital Nusantara|
+|20|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
