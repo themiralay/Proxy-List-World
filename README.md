@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.68.207.34|82|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
-|5|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|8|72.10.164.178|31415|Canada|Montreal|GloboTech Communications|
-|9|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|72.10.164.178|31415|Canada|Montreal|GloboTech Communications|
-|11|102.213.223.46|83|Gambia|Brikama|Sky Telecom Company Limited|
-|12|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|13|103.246.247.146|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|14|200.59.184.123|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.160.90|3155|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|117.186.29.61|3030|China|Shanghai|China Mobile communications corporation|
+|4|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|5|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|6|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|16|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|17|46.166.165.33|4006|Lithuania|Jonava|Cherry Servers|
+|18|194.163.183.151|8899|Germany|Düsseldorf|Contabo GmbH|
+|19|91.210.228.148|8080|Russia|Mugreyevskiy|Westlan LTD|
+|20|200.59.184.124|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
