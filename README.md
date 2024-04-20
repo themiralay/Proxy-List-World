@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.236.102.11|8080|Thailand|Bang Lamung|CAT-BB|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|103.87.228.187|8080|Indonesia|Lampung|ZITLINE|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|134.236.102.11|8080|Thailand|Bang Lamung|CAT-BB|
+|5|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|154.73.28.157|8080|Libya|Tripoli|Rawafed|
-|9|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|8|119.76.142.134|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|9|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
 |10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|103.6.223.2|3128|China|Baoshan|China Unicom|
-|12|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
-|13|72.10.160.171|32903|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|19567|Canada|Montreal|GloboTech Communications|
-|15|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|16|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|17|72.10.164.178|13091|Canada|Montreal|GloboTech Communications|
-|18|138.121.15.229|999|Colombia|Turbaná|Liberty Networks De Colombia|
-|19|45.230.51.130|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
-|20|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|11|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|12|72.10.160.171|32903|Canada|Montreal|GloboTech Communications|
+|13|41.139.169.99|8083|Kenya|Nairobi|Converged services Eastern|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|67.43.227.227|19567|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|22953|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|10037|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|22953|Canada|Montreal|GloboTech Communications|
+|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|20|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
