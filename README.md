@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|70.69.134.83|4001|Canada|Chilliwack|Shaw Communications Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|8|103.156.15.35|1080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
-|9|91.197.54.150|8090|Russia|Samara|SamaraEnergo PJSC|
-|10|96.80.235.1|8080|United States|Dearborn|Comcast Cable Communications, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|138.59.227.248|999|Paraguay|Ciudad del Este|Aranda Cardozo Lider Ramon|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|89.58.48.220|10017|Germany|Nuremberg|netcup GmbH|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|70.69.134.83|4001|Canada|Chilliwack|Shaw Communications Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.224.124.75|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|6|117.4.50.142|32650|Vietnam|Ha Long|VIETTEL|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|13|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
 |19|208.87.243.199|3128|United States|Walnut|Psychz Networks|
-|20|27.147.157.77|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|38.45.247.98|999|Mexico|Tancítaro|Jorge Luis Torres Fernandez|
 
 
 
