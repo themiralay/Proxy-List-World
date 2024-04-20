@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.68.214.19|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|4|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|5|203.73.62.104|60808|Taiwan|Xizhi District|Digital United Inc.|
-|6|138.118.106.130|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|89.58.48.220|10003|Germany|Nuremberg|netcup GmbH|
-|13|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|213.97.158.42|3128|Spain|Valencia|Telefonica de Espana SAU|
-|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|19|111.225.152.78|8089|China|Zhoutou|China Telecom|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|4|89.58.48.220|10011|Germany|Nuremberg|netcup GmbH|
+|5|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|6|62.3.30.70|8080|Georgia||Enbinet Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|115.147.20.176|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|9|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|10|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|67.43.227.227|16573|Canada|Montreal|GloboTech Communications|
+|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|64.225.4.81|10008|United States|Clifton|DigitalOcean, LLC|
+|19|31.148.7.130|3128|Ukraine|Savran'|Nitrocom Ltd.|
+|20|67.43.228.253|3943|Canada|Montreal|GloboTech Communications|
 
 
 
