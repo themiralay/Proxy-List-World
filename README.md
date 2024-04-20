@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|6|103.82.133.140|9090|India|Faridabad|Cloudfly Corporation|
+|6|190.2.210.115|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
 |7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
-|12|114.106.171.51|8089|China|Rongcheng|Chinanet|
-|13|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|16|72.10.160.90|2153|Canada|Montreal|GloboTech Communications|
-|17|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|20|111.225.153.127|8089|China|Zhoutou|China Telecom|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|10|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|200.59.184.121|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|13|103.76.151.133|8181|Indonesia|South Tangerang|PT. Java Digital Nusantara|
+|14|72.10.160.90|2179|Canada|Montreal|GloboTech Communications|
+|15|109.164.38.201|2306|Czechia|České Budějovice|STARNET, s.r.o.|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
 
 
 
