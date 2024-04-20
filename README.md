@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -44,20 +44,20 @@ Click the file format that you want and copy the URL.
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|65.109.152.88|8888|Finland|Helsinki|Hetzner Online GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|125.26.97.139|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|7|186.125.235.101|999|Argentina|Simoca|Telecom Argentina S.A.|
-|8|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|38.156.74.88|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
-|13|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|14|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|15|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|150.129.5.227|8080|Pakistan|Karachi|Ebone Network (Pvt) Ltd|
+|6|91.197.54.149|8090|Russia|Samara|SamaraEnergo PJSC|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|10|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|116.68.170.115|8019|Indonesia|Jakarta||
+|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|16|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 |17|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|18|103.217.224.27|8085|Indonesia|Semarang|PT Nesta Indo Media|
-|19|103.87.169.158|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|18|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
