@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|6|134.35.235.190|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|8|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|138.84.48.141|80|Colombia|Bogota|SpaceX Starlink|
-|12|181.78.77.229|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|17|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|18|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|19|14.241.46.131|8080|Vietnam|Bac Ninh|VNPT|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|2|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|172.81.61.125|3128|United States|Phoenix|Dynu Systems Incorporated|
+|6|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|12|208.87.243.199|3128|United States|Walnut|Psychz Networks|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|200.59.184.121|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|18|103.19.58.179|8082|Indonesia|Madiun|BITSNET|
+|19|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|20|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
 
 
 
