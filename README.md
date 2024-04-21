@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.6.223.2|3128|China|Baoshan|China Unicom|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|103.8.68.48|3128|China|Shiyan|China Telecom|
-|13|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|14|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|119.93.155.205|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|64.225.8.132|10010|United States|Clifton|DigitalOcean, LLC|
-|20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|201.89.89.34|8080|Brazil|Curitiba|V tal|
+|9|103.8.68.48|3128|China|Shiyan|China Telecom|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|13|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
+|14|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|15|45.234.61.157|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|16|77.247.95.69|8989|Albania|Fier|Teleco Eighth|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.160.171|9785|Canada|Montreal|GloboTech Communications|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
