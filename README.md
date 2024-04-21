@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.166.28.63|8080|Indonesia|Bojonegoro|PT Global Media Data Prima|
+|4|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|103.152.232.39|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|67.43.236.20|5783|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|13157|Canada|Montreal|GloboTech Communications|
-|15|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|6|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|103.153.246.142|8181|Indonesia|Depok|PRIMAHOME|
+|10|186.201.63.83|3128|Brazil|São Paulo|Vivo|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.236.20|5783|Canada|Montreal|GloboTech Communications|
+|13|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|15|103.228.246.165|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|20|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
+|18|67.43.227.227|13157|Canada|Montreal|GloboTech Communications|
+|19|31.145.154.138|9093|Türkiye|Istanbul|Vodafone Internal|
+|20|58.69.117.149|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
