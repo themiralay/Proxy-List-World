@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|2|161.49.89.219|8082|Philippines|Las Pinas|Converge ICT Solution Inc|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
 |6|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|7|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|207.230.8.1|999|Colombia|Bogotá|Cogent Communications|
-|10|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|11|194.44.36.114|6868|Ukraine|Brody|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
-|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|16|152.32.67.107|65535|Philippines|San Mateo|Converge ICT Solution Inc|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|19|67.43.228.251|14065|Canada|Montreal|GloboTech Communications|
-|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|15|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|16|14.241.46.131|8080|Vietnam|Bac Ninh|VNPT|
+|17|36.92.48.103|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
