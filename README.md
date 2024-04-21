@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|118.99.98.248|8080|Indonesia|Jakarta|Biznet Gamers|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|194.163.183.151|8899|Germany|Düsseldorf|Contabo GmbH|
-|8|12.55.68.54|8081|United States|Powhatan|AT&T Services, Inc.|
-|9|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|12|159.65.176.77|10015|United States|Clifton|DigitalOcean, LLC|
-|13|161.49.89.219|8082|Philippines|Las Pinas|Converge ICT Solution Inc|
-|14|64.225.8.132|10001|United States|Clifton|DigitalOcean, LLC|
-|15|102.39.215.83|9090|South Africa|Brackenfell|Vox Telecom|
-|16|94.26.217.152|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|17|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|101.255.116.163|33333|Indonesia|Bekasi|PT Remala Abadi|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.185.162.194|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|9|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|11|159.65.176.77|10015|United States|Clifton|DigitalOcean, LLC|
+|12|64.157.16.43|8080|United States|Francesville|Level 3|
+|13|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|16|103.6.223.2|3128|China|Baoshan|China Unicom|
+|17|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
+|18|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
