@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|203.150.113.62|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|103.143.169.9|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|10|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
+|8|103.169.254.185|2068|Indonesia|Sidoarjo|PT Master Star Network|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|134.35.23.48|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
 |13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|15|138.118.200.49|999|Venezuela|San Francisco|Iguana Network Services C.A.|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|72.10.164.178|16321|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|103.247.216.70|8080|Indonesia|Katulampa|PT. Parsaoran Global Datatrans|
+|14|82.218.176.25|32650|Austria|Vienna|kabelplus GmbH|
+|15|103.166.28.63|8080|Indonesia|Bojonegoro|PT Global Media Data Prima|
+|16|103.6.223.2|3128|China|Baoshan|China Unicom|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|67.43.236.20|2975|Canada|Montreal|GloboTech Communications|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
