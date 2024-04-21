@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|45.233.67.204|999|Mexico|Tapachula|Conectividad Y Tecnologia S.A.|
-|12|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|72.10.160.90|21531|Canada|Montreal|GloboTech Communications|
+|12|103.203.174.98|84|India|Hyderabad|Softgaurd Powertronics|
+|13|103.41.91.161|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|161.49.215.28|10101|Philippines|Angeles City|Converge Information and Communications Technology Solutions|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|18|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
-|19|103.6.223.2|3128|China|Baoshan|China Unicom|
-|20|67.43.227.228|32635|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|222.174.178.122|4999|China|Xintai|Chinanet|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|67.43.236.20|12901|Canada|Montreal|GloboTech Communications|
+|20|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
