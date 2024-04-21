@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.53.195.173|3128|Croatia|Velika|Croatian Academic and Research Network|
-|3|173.249.37.45|5005|Germany|Nuremberg|Contabo GmbH|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
-|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|161.53.195.173|3128|Croatia|Velika|Croatian Academic and Research Network|
+|6|72.10.160.90|29095|Canada|Montreal|GloboTech Communications|
+|7|67.43.236.22|5991|Canada|Montreal|GloboTech Communications|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |10|67.43.236.20|17265|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|30303|Canada|Montreal|GloboTech Communications|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|67.43.236.22|5991|Canada|Montreal|GloboTech Communications|
-|17|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|18|67.43.228.250|21965|Canada|Montreal|GloboTech Communications|
-|19|203.150.128.160|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|20|103.6.223.2|3128|China|Baoshan|China Unicom|
+|11|67.43.236.18|21053|Canada|Montreal|GloboTech Communications|
+|12|203.150.128.160|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|13|181.197.130.218|80|Panama|David|Cable Onda|
+|14|72.10.160.90|29095|Canada|Montreal|GloboTech Communications|
+|15|161.53.195.173|3128|Croatia|Velika|Croatian Academic and Research Network|
+|16|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
+|17|181.225.96.137|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
 
 
 
