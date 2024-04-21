@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|4|190.61.101.39|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|7|67.43.227.228|32635|Canada|Montreal|GloboTech Communications|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|111.225.152.125|8089|China|Zhoutou|China Telecom|
-|10|36.6.145.211|8089|China|Rongcheng|Chinanet|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|8|67.43.227.228|32635|Canada|Montreal|GloboTech Communications|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|88.255.185.245|8080|Türkiye|Adapazarı|Turk Telekomunikasyon Anonim Sirketi|
+|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|13|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
 |14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|15|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|118.173.81.237|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|19|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|20|161.49.218.139|10101|Philippines|Pasig|Converge Information and Communications Technology Solutions|
+|15|98.6.197.202|16099|United States|Mission|Spectrum|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|118.173.81.237|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|124.167.20.48|7777|China|Shuozhou|CNC Group CHINA169 Shan1xi Province Network|
 
 
 
