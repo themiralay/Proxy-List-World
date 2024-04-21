@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|164.163.133.17|999|Ecuador|Wilfrido Loor Moreira|Ufinet Panama S.A.|
-|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|103.179.139.81|1111|Indonesia|Bekasi|PT. Fiber Networks Indonesia|
-|16|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|17|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|134.35.185.62|8080|Yemen|Al Bayda|Public Telecommunication Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|139.180.168.177|80|Australia|Sydney|Choopa|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|9|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|164.163.133.17|999|Ecuador|Wilfrido Loor Moreira|Ufinet Panama S.A.|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|15|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|70.90.138.109|8080|United States|Southfield|Comcast Cable Communications, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|62.183.96.194|8080|Russia|Maykop|Southen Telecommunication Maintainer|
 
 
 
