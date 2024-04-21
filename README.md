@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|2|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|3|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|3|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|4|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|72.10.160.90|3325|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|3325|Canada|Montreal|GloboTech Communications|
+|6|103.87.228.187|8080|Indonesia|Lampung|ZITLINE|
+|7|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|8|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|72.10.164.178|18023|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|16|114.232.110.77|8089|China|Nanjing|Chinanet|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|19|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|72.10.164.178|18023|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|21551|Canada|Montreal|GloboTech Communications|
+|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|16|201.77.108.130|999|Mexico|Valle de Allende|Nidix Networks S.a. De C.V.|
+|17|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|20|103.217.224.27|8085|Indonesia|Banyumas|PT Nesta Indo Media|
 
 
 
