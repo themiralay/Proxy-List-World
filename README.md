@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|134.35.10.220|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|6|201.71.2.185|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|7|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
 |12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|15|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|16|67.43.227.227|23871|Canada|Montreal|GloboTech Communications|
-|17|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
-|18|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|19|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|67.43.227.227|23871|Canada|Montreal|GloboTech Communications|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|138.84.48.141|80|Colombia|Bogota|SpaceX Starlink|
+|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|18|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|19|103.246.78.21|8080|Indonesia|Pemalang|PT Saka Media Komunika|
+|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 
 
 
