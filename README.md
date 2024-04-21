@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|223.247.46.116|8089|China|Rongcheng|Chinanet|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|13|72.10.164.178|27465|Canada|Montreal|GloboTech Communications|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|64.225.8.132|10012|United States|Clifton|DigitalOcean, LLC|
-|17|98.6.197.202|16099|United States|Mission|Spectrum|
-|18|72.10.164.178|27465|Canada|Montreal|GloboTech Communications|
-|19|138.197.92.54|10004|United States|Clifton|DigitalOcean, LLC|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|103.246.247.146|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|8|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|72.10.164.178|28129|Canada|Montreal|GloboTech Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
+|13|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|14|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|15|220.178.135.84|7777|China|Hefei|Chinanet|
+|16|138.84.48.141|80|Colombia|Bogota|SpaceX Starlink|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|19|103.203.173.113|84|India|Hyderabad|Softgaurd Powertronics|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
