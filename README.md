@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|72.10.160.90|21531|Canada|Montreal|GloboTech Communications|
-|12|103.203.174.98|84|India|Hyderabad|Softgaurd Powertronics|
-|13|103.41.91.161|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|222.174.178.122|4999|China|Xintai|Chinanet|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|67.43.236.20|12901|Canada|Montreal|GloboTech Communications|
-|20|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.107.84.124|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|181.78.19.252|999|Colombia|Barrio San Luis|IFX Networks Argentina S.R.L|
+|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|15|177.115.239.37|8080|Brazil|São Paulo|Vivo|
+|16|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
+|17|147.161.200.255|9480|Japan|Tokyo|Zscaler, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|147.161.200.248|9480|Japan|Tokyo|Zscaler, Inc.|
+|20|20.72.218.43|8080|United States|Quincy|Microsoft Corporation|
 
 
 
