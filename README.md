@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|9|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|10|103.8.68.48|3128|China|Shiyan|China Telecom|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|14|123.182.59.61|8089|China|Zhangjiakou|China Telecom|
-|15|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|19|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|72.10.164.178|3017|Canada|Montreal|GloboTech Communications|
+|7|115.178.49.181|8080|Indonesia|Pengasinan|NOC SIMAYA|
+|8|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|64.225.8.132|10014|United States|Clifton|DigitalOcean, LLC|
+|13|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|18|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|19|123.182.59.61|8089|China|Zhangjiakou|China Telecom|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
