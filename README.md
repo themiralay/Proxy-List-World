@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|6|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
-|7|203.112.79.90|8080|Bangladesh|Paltan|OptiMax Communication Ltd|
-|8|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|103.152.232.60|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|60.174.1.215|8089|China|Guangzhou|Chinanet|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|167.172.238.6|10001|United States|Clifton|DigitalOcean, LLC|
-|16|103.8.68.48|3128|China|Shiyan|China Telecom|
-|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|5|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
