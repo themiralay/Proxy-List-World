@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|4|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|103.152.232.60|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|139.180.163.141|80|Australia|Sydney|Choopa|
-|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|103.8.68.48|3128|China|Shiyan|China Telecom|
-|15|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|17|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
+|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|8|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|9|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
+|10|188.235.6.236|8080|Russia|Voronezh|JSC "ER-Telecom Holding"|
+|11|165.16.43.176|20000|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|12|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|13|216.176.187.99|8889|United States|Seattle|Wowrack.com|
+|14|167.114.96.13|9300|Canada|Montreal|OVH SAS|
+|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|103.8.68.48|3128|China|Shiyan|China Telecom|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|177.115.239.37|8080|Brazil|São Paulo|Vivo|
+|20|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 
 
 
