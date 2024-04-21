@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|8|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|223.215.177.236|8089|China|Shenzhen|Chinanet|
 |10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|67.43.236.20|8073|Canada|Montreal|GloboTech Communications|
-|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|72.10.164.178|14583|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|32185|Canada|Montreal|GloboTech Communications|
-|15|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
-|16|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|17|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|67.43.228.253|30157|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|103.8.68.48|3128|China|Shiyan|China Telecom|
+|11|67.43.236.20|13997|Canada|Montreal|GloboTech Communications|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|67.43.227.227|32185|Canada|Montreal|GloboTech Communications|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|72.10.164.178|2571|Canada|Montreal|GloboTech Communications|
+|16|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|17|72.10.164.178|2571|Canada|Montreal|GloboTech Communications|
+|18|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|82.223.222.8|3128|Spain|Barcelona|arsys.es|
 
 
 
