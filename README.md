@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|91.209.114.179|8080|Hungary|Siófok|MVM NET Zrt.|
+|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |9|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|10|67.43.236.20|25811|Canada|Montreal|GloboTech Communications|
-|11|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
-|12|103.125.240.237|8080|Pakistan|Karachi|GCS (Private) Limited|
-|13|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|14|67.43.227.228|12643|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|67.43.227.227|30037|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|200.59.184.121|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|14|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|15|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|103.87.169.173|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
