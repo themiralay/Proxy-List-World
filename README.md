@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|118.99.98.248|8080|Indonesia|Jakarta|Biznet Gamers|
-|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|118.99.98.248|8080|Indonesia|Jakarta|Biznet Gamers|
+|2|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|9|64.157.16.43|8080|United States|Francesville|Level 3|
-|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|181.197.130.218|80|Panama|David|Cable Onda|
+|9|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
+|10|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
 |11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.164.178|8743|Canada|Montreal|GloboTech Communications|
-|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|114.232.109.59|8089|China|Nanjing|Chinanet|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.169.186.87|3125|Indonesia|Lawang|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|14|72.10.164.178|32007|Canada|Montreal|GloboTech Communications|
+|15|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|20|18.132.249.107|8899|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
