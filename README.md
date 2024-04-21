@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|118.99.98.248|8080|Indonesia|Jakarta|Biznet Gamers|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|182.50.65.145|8080|Nepal|Biratnagar|RO-65 BroadLink|
-|8|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
-|9|138.197.92.54|10012|United States|Clifton|DigitalOcean, LLC|
-|10|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|72.10.164.178|8743|Canada|Montreal|GloboTech Communications|
-|14|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|15|18.132.249.107|8899|United Kingdom|London|Amazon Technologies Inc.|
-|16|67.43.236.20|19175|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|8743|Canada|Montreal|GloboTech Communications|
-|18|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|9|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|11|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|18.132.249.107|8899|United Kingdom|London|Amazon Technologies Inc.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|72.10.164.178|19029|Canada|Montreal|GloboTech Communications|
+|16|103.6.223.2|3128|China|Baoshan|China Unicom|
+|17|72.10.164.178|19029|Canada|Montreal|GloboTech Communications|
+|18|78.170.135.164|8080|Turkey|Istanbul|TurkTelecom|
+|19|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|20|114.232.109.59|8089|China|Nanjing|Chinanet|
 
 
 
