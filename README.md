@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|66.27.58.70|8080|United States|San Diego|Spectrum|
-|6|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
-|7|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|8|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|9|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|191.240.153.165|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|12|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
-|13|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|15|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|148.230.206.229|8080|Mexico|Chichiquila|Total Play Telecomunicaciones SA De CV|
-|19|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
-|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|5|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|6|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|7|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|72.10.160.171|12521|Canada|Montreal|GloboTech Communications|
+|10|138.121.161.121|8290|Argentina|Rosario|WICORP SA|
+|11|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|15|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|159.65.39.234|7732|United States|Clifton|DigitalOcean, LLC|
+|19|159.65.186.46|10014|United States|Clifton|DigitalOcean, LLC|
+|20|103.217.224.139|8040|Indonesia|Banyumas|PT Nesta Indo Media|
 
 
 
