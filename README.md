@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|1.32.59.217|47045|Malaysia|Cheras|TM TECHNOLOGY SERVICES SDN BHD|
-|10|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|4|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|10|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|15|103.104.214.239|3128|Pakistan|Lahore|Netze Telecom (Private) Limited|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|20|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
