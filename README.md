@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6987** proxies at the latest update. Usable proxies are below.
+> Scraper found **6997** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|187|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|656|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|186|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|667|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|291|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4893|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|146.190.53.175|32774|United States|Santa Clara|DigitalOcean, LLC|
-|11|103.8.68.48|3128|China|Shiyan|China Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|176.236.141.30|10001|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|8|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|154.73.28.193|8080|Libya|Tripoli|Rawafed|
 |12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|13|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|38.49.129.154|999|Mexico|San Felipe|Ientc S De RL De CV|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |15|67.43.236.20|18821|Canada|Montreal|GloboTech Communications|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|67.43.227.228|1971|Canada|Montreal|GloboTech Communications|
-|18|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|19|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|17|72.10.164.178|7303|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|72.10.164.178|7303|Canada|Montreal|GloboTech Communications|
+|20|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
 
 
 
