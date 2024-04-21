@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
-|4|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
-|5|72.10.160.170|26967|Canada|Montreal|GloboTech Communications|
-|6|148.101.47.190|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|7|67.43.228.252|22443|Canada|Montreal|GloboTech Communications|
-|8|190.108.12.117|8080|Uruguay|Montevideo|Tecnowind S.A.|
-|9|137.59.48.20|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|10|72.10.160.172|14363|Canada|Montreal|GloboTech Communications|
-|11|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|67.43.227.228|5385|Canada|Montreal|GloboTech Communications|
-|14|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|212.115.232.79|31280|Ukraine|Dnipro|ISP "Fregat"|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|19|67.43.228.253|1203|Canada|Montreal|GloboTech Communications|
-|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|7|72.10.160.170|26967|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.228|5385|Canada|Montreal|GloboTech Communications|
+|9|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|119.93.155.205|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|16|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|17|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|19|170.83.76.22|999|Venezuela|Caracas|Galanet Solution C.A.|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
