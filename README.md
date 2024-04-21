@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|72.10.164.178|15431|Canada|Montreal|GloboTech Communications|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.88.239.118|84|India|Hyderabad|Mana Communications|
-|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|159.65.186.46|10011|United States|Clifton|DigitalOcean, LLC|
-|19|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|20|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|145.40.101.105|9400|United States|Chicago|Packet Host, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|145.40.101.105|9400|United States|Chicago|Packet Host, Inc.|
+|16|145.40.101.105|9400|United States|Chicago|Packet Host, Inc.|
+|17|145.40.101.105|9400|United States|Chicago|Packet Host, Inc.|
+|18|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|19|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|20|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
 
 
 
