@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|3|161.53.195.173|3128|Croatia|Velika|Croatian Academic and Research Network|
-|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|5|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|71.14.23.121|8080|United States|Birmingham|Spectrum|
-|11|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|12|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|67.43.227.227|22107|Canada|Montreal|GloboTech Communications|
-|17|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|18|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
-|20|190.6.56.133|8080|Venezuela|Valencia|Net Uno, C.A.|
+|2|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|204.157.247.218|999|Dominican Republic|Santo Domingo Este|AGIS|
+|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|67.43.227.227|12879|Canada|Montreal|GloboTech Communications|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|8.210.8.157|19002|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|112.198.129.34|8082|Philippines|Nasugbu|Globe Telecom|
+|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|72.10.164.178|9323|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|9323|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
