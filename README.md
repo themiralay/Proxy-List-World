@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|203.150.113.62|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|7|72.10.160.174|13791|Canada|Montreal|GloboTech Communications|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
 |9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|67.43.227.227|13443|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|6243|Canada|Montreal|GloboTech Communications|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|72.10.164.178|6243|Canada|Montreal|GloboTech Communications|
-|16|167.172.238.6|10006|United States|Clifton|DigitalOcean, LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|103.105.55.51|8081|Indonesia|Malang|PT. Mega Artha Lintas Data|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|61.129.2.212|8080|China|Beijing|CHINANET|
+|13|72.10.160.174|13791|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|13443|Canada|Montreal|GloboTech Communications|
+|15|157.100.60.246|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|222.174.178.122|4999|China|Xintai|Chinanet|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|167.172.238.6|10009|United States|Clifton|DigitalOcean, LLC|
+|20|72.10.164.178|6243|Canada|Montreal|GloboTech Communications|
 
 
 
