@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|10|67.43.227.227|2003|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|67.43.227.227|2003|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|67.43.228.251|6765|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|72.10.160.171|1285|Canada|Montreal|GloboTech Communications|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|7|91.209.114.179|8080|Hungary|Siófok|MVM NET Zrt.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|11|67.43.227.227|23933|Canada|Montreal|GloboTech Communications|
+|12|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|13|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|67.43.227.227|23933|Canada|Montreal|GloboTech Communications|
+|17|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|18|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|20|202.162.213.182|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
 
 
 
