@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.185.162.194|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|7|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|10|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|11|72.10.160.90|25005|Canada|Montreal|GloboTech Communications|
-|12|103.181.168.218|8080|India|Madurai|Mrkr Communications Private Limited|
-|13|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|118.71.66.50|32650|Vietnam|Hanoi|FPT Telecom Company|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|72.10.164.178|24165|Canada|Montreal|GloboTech Communications|
+|6|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|94.130.181.59|32770|Germany|Bendorf|Hetzner Online GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|102.39.215.83|9090|South Africa|Brackenfell|Vox Telecom|
+|12|67.43.236.20|25249|Canada|Montreal|GloboTech Communications|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|190.128.201.235|3128|Paraguay|Luque|Telecel S.A.|
+|18|181.197.130.218|80|Panama|David|Cable Onda|
+|19|148.101.47.190|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|20|72.10.164.178|22681|Canada|Montreal|GloboTech Communications|
 
 
 
