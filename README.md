@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|186.96.101.75|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|103.179.253.202|8181|Indonesia|Mekarjaya|PT Pusaka Kreasi Mandiri|
-|6|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|138.121.161.121|8290|Argentina|Rosario|WICORP SA|
-|11|188.209.237.4|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|12|179.60.51.122|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|62.240.40.194|1974|Libya|Kambūt|LTT Network Backbone and POPs|
+|11|193.106.138.52|3128|Ukraine|Kyiv|Industrial Media Network LLC|
+|12|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
 |13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|168.194.171.16|999|Peru|Lima|FASTNET|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|117.69.233.84|8089|China|Rongcheng|Chinanet|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.228.253|3721|Canada|Montreal|GloboTech Communications|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|145.40.101.105|9443|United States|Chicago|Packet Host, Inc.|
+|14|139.167.54.114|8081|India|Hyderabad|Reliance Jio Infocomm Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|78.170.135.164|8080|Turkey|Istanbul|TurkTelecom|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|188.209.237.4|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
