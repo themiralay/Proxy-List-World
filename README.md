@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|195.154.172.161|3128|France|Paris|Online S.A.S.|
 |5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|8|103.87.169.150|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|9|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|10|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|11|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|16|119.93.155.205|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|210.61.216.63|60808|Taiwan|Banqiao|Chunghwa Telecom Co., Ltd.|
-|19|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
-|20|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|7|103.6.223.2|3128|China|Baoshan|China Unicom|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|114.67.96.47|45212|China|Chaowai|China Unicom|
+|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|14|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|15|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|17|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|18|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|19|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
+|20|103.87.228.187|8080|Indonesia|Lampung|ZITLINE|
 
 
 
