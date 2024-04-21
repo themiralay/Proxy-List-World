@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|161.53.195.173|80|Croatia|Velika|Croatian Academic and Research Network|
-|8|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|9|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|62.192.226.217|3128|Russia|Moscow|PJSC Rostelecom|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|10|161.53.195.173|3128|Croatia|Velika|Croatian Academic and Research Network|
 |11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|67.43.236.20|29263|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|3269|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|117.69.237.170|8089|China|Rongcheng|Chinanet|
-|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|19|103.6.223.2|3128|China|Baoshan|China Unicom|
-|20|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|72.10.164.178|21515|Canada|Montreal|GloboTech Communications|
+|14|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|67.43.236.20|29263|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|117.69.237.170|8089|China|Rongcheng|Chinanet|
+|19|72.10.164.178|21515|Canada|Montreal|GloboTech Communications|
+|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
