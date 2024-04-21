@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.53.175|32774|United States|Santa Clara|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|5|146.190.53.175|32774|United States|Santa Clara|DigitalOcean, LLC|
-|6|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|201.77.96.153|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|37.26.86.206|47464|Albania|Elbasan|ATU|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|103.8.68.48|3128|China|Shiyan|China Telecom|
-|14|139.180.163.141|80|Australia|Sydney|Choopa|
-|15|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|17|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|18|114.231.42.99|8089|China|Nanjing|Chinanet|
-|19|198.20.116.86|9000|The Netherlands|Amsterdam|SingleHop LLC|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.242.85.8|999|Colombia|Medellín|Level 3 Communications, Inc.|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|78.188.81.57|8080|Türkiye|Istanbul|TurkTelecom|
+|8|201.174.224.174|999|Mexico|Mexicali|Transtelco Inc|
+|9|67.43.227.227|25637|Canada|Montreal|GloboTech Communications|
+|10|139.180.163.141|80|Australia|Sydney|Choopa|
+|11|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|148.101.47.190|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|67.43.228.253|23133|Canada|Montreal|GloboTech Communications|
+|19|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
