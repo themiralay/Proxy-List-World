@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|106.51.76.128|3127|India|Bengaluru|Atria Convergence Technologies Pvt. Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|7|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|13|38.45.246.210|999|Mexico|Buenavista Tomatlan|Jorge Luis Torres Fernandez|
-|14|93.125.3.22|8080|Belarus|Minsk|TELECOMAT|
-|15|130.162.243.68|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|16|185.204.2.231|3128|Russia|Moscow|First Server Limited|
-|17|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|18|103.76.151.133|8181|Indonesia|South Tangerang|PT. Java Digital Nusantara|
-|19|67.43.228.253|14777|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|25473|Canada|Montreal|GloboTech Communications|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|7|93.125.3.22|8080|Belarus|Minsk|TELECOMAT|
+|8|27.54.71.231|8080|Australia|Pakenham|CNTC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|13|103.8.68.48|3128|China|Shiyan|China Telecom|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|16|103.172.42.53|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|17|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|18|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
+|19|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
 
 
 
