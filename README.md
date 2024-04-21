@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|106.51.76.128|3127|India|Bengaluru|Atria Convergence Technologies Pvt. Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|106.51.76.128|3127|India|Bengaluru|Atria Convergence Technologies Pvt. Ltd|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|121.236.236.33|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
-|10|180.94.83.122|8080|Afghanistan|Kabul|AFTEL in Kabul|
-|11|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|12|82.200.80.118|8080|Russia|Novosibirsk|ZSTTK|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|103.8.68.48|3128|China|Shiyan|China Telecom|
-|15|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|16|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|4|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|58.69.247.70|8083|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|13|222.109.151.80|1080|South Korea|Seoul|Korea Telecom|
+|14|103.6.223.2|3128|China|Baoshan|China Unicom|
+|15|103.8.68.48|3128|China|Shiyan|China Telecom|
+|16|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|17|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
 |18|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|103.183.63.14|83|Bangladesh|Dhaka|Speed Online|
-|20|67.43.227.228|33147|Canada|Montreal|GloboTech Communications|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
