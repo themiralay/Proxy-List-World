@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.169.186.87|3125|Indonesia|Lawang|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
-|6|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.169.186.87|3125|Indonesia|Lawang|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
-|16|67.43.236.20|10417|Canada|Montreal|GloboTech Communications|
-|17|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
-|18|111.225.152.78|8089|China|Zhoutou|China Telecom|
-|19|45.189.117.199|999|Peru|Lima|Fiber Digital S.R.L|
-|20|117.69.233.168|8089|China|Rongcheng|Chinanet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.185.162.194|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.31.235.82|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|7|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|10|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|11|72.10.160.90|25005|Canada|Montreal|GloboTech Communications|
+|12|103.181.168.218|8080|India|Madurai|Mrkr Communications Private Limited|
+|13|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|118.71.66.50|32650|Vietnam|Hanoi|FPT Telecom Company|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|72.10.164.178|24165|Canada|Montreal|GloboTech Communications|
 
 
 
