@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|118.99.98.248|8080|Indonesia|Jakarta|Biznet Gamers|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|8|159.65.186.46|10009|United States|Clifton|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|11|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|14|183.165.247.130|8089|China|Shenzhen|Chinanet|
-|15|67.43.236.20|3307|Canada|Montreal|GloboTech Communications|
-|16|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|17|103.6.223.2|3128|China|Baoshan|China Unicom|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|10|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|11|118.99.98.248|8080|Indonesia|Jakarta|Biznet Gamers|
+|12|179.60.235.251|8096|Argentina|Rosario|WICORP SA|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|201.71.2.49|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|15|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
+|16|67.43.236.20|3307|Canada|Montreal|GloboTech Communications|
+|17|18.132.249.107|8899|United Kingdom|London|Amazon Technologies Inc.|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
