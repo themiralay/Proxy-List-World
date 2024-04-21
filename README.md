@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|80.78.68.87|8080|Albania|Shkodër|ABCom Network|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|84.52.125.113|8082|Russia|St Petersburg|WestCall|
+|6|46.161.230.173|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |7|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|8|103.6.223.2|3128|China|Baoshan|China Unicom|
-|9|103.110.34.140|3125|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|10|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|12|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
-|13|103.8.68.48|3128|China|Shiyan|China Telecom|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|222.241.144.64|3128|China|Hengyang|Chinanet|
-|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|19|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
-|20|67.43.227.228|28069|Canada|Montreal|GloboTech Communications|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|185.206.32.218|8080|Kazakhstan|Almaty|Cloud Master LLC|
+|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
+|13|188.94.159.26|3128|Kazakhstan|Almaty|It-grad TOO|
+|14|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|15|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|67.43.227.228|28069|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|32477|Canada|Montreal|GloboTech Communications|
+|19|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
