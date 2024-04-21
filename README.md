@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
-|4|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|5|103.41.91.161|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|203.111.253.10|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|121.100.19.82|7088|Indonesia|Pamulang|NAP.Net.id - Network Access Point|
-|9|36.95.155.74|3126|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|103.6.223.2|3128|China|Baoshan|China Unicom|
-|15|72.10.164.178|24997|Canada|Montreal|GloboTech Communications|
-|16|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
-|17|67.43.236.20|4697|Canada|Montreal|GloboTech Communications|
-|18|124.106.45.64|8082|Philippines|Binangonan|Philippine Long Distance Telephone Co.|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|103.246.247.146|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|10|121.100.19.82|7088|Indonesia|Pamulang|NAP.Net.id - Network Access Point|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.236.20|3635|Canada|Montreal|GloboTech Communications|
+|13|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
+|14|72.10.164.178|27465|Canada|Montreal|GloboTech Communications|
+|15|190.108.12.117|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|16|179.96.204.239|8080|Brazil|São Miguel do Oeste|TechInfo Telecomunicações Ltda|
+|17|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|18|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
 
 
 
