@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|118.99.98.248|8080|Indonesia|Jakarta|Biznet Gamers|
-|7|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.130.82.46|8080|Indonesia|Bengkalis|PT Central Digital Network|
-|10|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|171.102.10.74|8080|Thailand|Din Daeng|True International Gateway Co., Ltd.|
-|12|207.230.8.66|999|Colombia|Bogotá|Cogent Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|103.8.68.48|3128|China|Shiyan|China Telecom|
-|19|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.186.254.218|2016|India|Visakhapatnam|Pioneer Elabs Ltd.|
+|5|134.35.231.144|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|181.209.78.76|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|8|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|72.10.160.90|13313|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|9281|Canada|Montreal|GloboTech Communications|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|204.199.120.61|999|Colombia|Pasto|Level 3 Communications, Inc.|
+|18|72.10.160.93|30237|Canada|Montreal|GloboTech Communications|
+|19|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
