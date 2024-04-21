@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|49.48.42.73|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|49.48.42.73|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|107.172.0.177|666|United States|Dallas|HostPapa|
-|11|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|12|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|72.10.164.178|32715|Canada|Montreal|GloboTech Communications|
 |15|103.6.223.2|3128|China|Baoshan|China Unicom|
-|16|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|17|134.35.1.45|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|18|72.10.164.178|26931|Canada|Montreal|GloboTech Communications|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|20|103.8.68.48|3128|China|Shiyan|China Telecom|
 
 
 
