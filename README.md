@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|204.157.251.225|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|10|195.138.94.169|41890|Ukraine|Odesa|TeNeT Networking Centre|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|72.10.160.90|6663|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|103.138.27.250|6000|Bangladesh|Lākshām|HelloTech Limited|
+|6|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|10|148.230.206.229|8080|Mexico|Chichiquila|Total Play Telecomunicaciones SA De CV|
+|11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|18|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|19|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|20|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
 
 
 
