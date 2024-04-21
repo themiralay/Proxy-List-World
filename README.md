@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|181.197.130.218|80|Panama|David|Cable Onda|
-|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|7|185.32.6.131|8070|Poland|Warsaw|AS Consulting Sp. z o. o.|
-|8|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.6.223.2|3128|China|Baoshan|China Unicom|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|179.60.235.251|8096|Argentina|Rosario|WICORP SA|
-|14|72.10.164.178|18023|Canada|Montreal|GloboTech Communications|
-|15|122.10.101.12|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
-|16|67.43.228.253|17383|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|103.8.68.48|3128|China|Shiyan|China Telecom|
-|19|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|3|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|115.147.20.176|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|11|72.10.164.178|1235|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|17383|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|67.43.227.227|28921|Canada|Montreal|GloboTech Communications|
+|16|103.76.151.133|8181|Indonesia|South Tangerang|PT. Java Digital Nusantara|
+|17|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|41.254.56.34|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|20|67.43.228.253|17383|Canada|Montreal|GloboTech Communications|
 
 
 
