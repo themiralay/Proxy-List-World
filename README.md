@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.99.98.248|8080|Indonesia|Jakarta|Biznet Gamers|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|118.99.98.248|8080|Indonesia|Jakarta|Biznet Gamers|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|181.209.78.76|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|121.236.236.33|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
-|11|67.43.227.227|32013|Canada|Montreal|GloboTech Communications|
-|12|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|14|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.35.225.166|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|103.160.207.163|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|8|103.155.196.65|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|9|181.209.78.76|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|10|67.43.227.227|1195|Canada|Montreal|GloboTech Communications|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|13|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|16|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|17|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|18|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|94.26.217.152|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
 
 
 
