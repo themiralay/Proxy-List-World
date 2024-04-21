@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|5|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|7|64.225.4.81|10002|United States|Clifton|DigitalOcean, LLC|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|4|103.167.68.77|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|5|119.92.236.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|67.43.227.228|22499|Canada|Montreal|GloboTech Communications|
-|11|165.22.36.164|10013|United States|Clifton|DigitalOcean, LLC|
-|12|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|16|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|121.227.178.64|8089|China|Nanjing|China Telecom|
-|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|167.172.238.6|10006|United States|Clifton|DigitalOcean, LLC|
+|14|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|67.43.227.228|22499|Canada|Montreal|GloboTech Communications|
+|19|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
