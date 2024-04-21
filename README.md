@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|2|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|3|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|12|103.8.68.48|3128|China|Shiyan|China Telecom|
-|13|72.10.164.178|11221|Canada|Montreal|GloboTech Communications|
+|9|124.105.21.141|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|138.197.92.54|10004|United States|Clifton|DigitalOcean, LLC|
+|12|72.10.164.178|14583|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|72.10.164.178|11221|Canada|Montreal|GloboTech Communications|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|84.254.0.86|32650|Greece|Athens|Tellas S.A|
-|18|13.80.177.101|8118|Netherlands|Amsterdam|Microsoft Corporation|
-|19|72.10.164.178|11221|Canada|Montreal|GloboTech Communications|
-|20|111.225.152.103|8089|China|Zhoutou|China Telecom|
+|15|72.10.164.178|14583|Canada|Montreal|GloboTech Communications|
+|16|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
+|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|19|45.236.44.94|8080|Peru|Lima|Optical Technologies S.A.C.|
+|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 
 
 
