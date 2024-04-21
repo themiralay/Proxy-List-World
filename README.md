@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|134.35.10.220|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|115.178.49.161|80|Indonesia|Pengasinan|NOC SIMAYA|
-|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|6|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|213.226.11.149|41878|Bulgaria|Plovdiv|Mobiltel EAD|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
 
 
 
