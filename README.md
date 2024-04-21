@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|7|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
-|8|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|103.8.68.48|3128|China|Shiyan|China Telecom|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|72.10.164.178|20283|Canada|Montreal|GloboTech Communications|
-|18|111.225.152.78|8089|China|Zhoutou|China Telecom|
-|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|89.58.48.220|10012|Germany|Nuremberg|netcup GmbH|
+|9|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|13|72.10.164.178|20283|Canada|Montreal|GloboTech Communications|
+|14|103.6.223.2|3128|China|Baoshan|China Unicom|
+|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|34.154.161.152|80|Italy|Milan|Google LLC|
+|20|186.96.15.70|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
