@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|181.197.130.218|80|Panama|David|Cable Onda|
-|3|180.191.16.254|8085|Philippines|Cabanatuan City|Globe Telecom|
-|4|103.6.223.2|3128|China|Baoshan|China Unicom|
-|5|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|6|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|72.10.164.178|1083|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|13347|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|1083|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|13347|Canada|Montreal|GloboTech Communications|
-|12|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|13|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|123.182.59.202|8089|China|Zhangjiakou|China Telecom|
-|16|72.10.160.90|23237|Canada|Montreal|GloboTech Communications|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
-|20|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|2|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|3|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|4|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|7|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|8|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|67.43.228.253|17383|Canada|Montreal|GloboTech Communications|
+|12|103.99.27.26|7777|Indonesia|South Tangerang|PT Lintas Network Solusi|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|190.61.41.163|999|Colombia|Turbo|Ufinet Panama S.A.|
+|16|72.10.164.178|18023|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|2005|Canada|Montreal|GloboTech Communications|
+|18|202.154.37.141|8080|Indonesia|Gresik|RADNET|
+|19|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
