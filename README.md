@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
-|7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|94.130.181.59|32770|Germany|Bendorf|Hetzner Online GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|102.39.215.83|9090|South Africa|Brackenfell|Vox Telecom|
-|12|67.43.236.20|25249|Canada|Montreal|GloboTech Communications|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|9|103.234.159.5|8080|India|Bengaluru|MWPL|
+|10|45.185.162.194|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|181.197.130.218|80|Panama|David|Cable Onda|
+|12|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|190.128.201.235|3128|Paraguay|Luque|Telecel S.A.|
-|18|181.197.130.218|80|Panama|David|Cable Onda|
-|19|148.101.47.190|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
-|20|72.10.164.178|22681|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|190.108.12.117|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|16|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|17|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
+|18|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|67.43.236.20|27325|Canada|Montreal|GloboTech Communications|
 
 
 
