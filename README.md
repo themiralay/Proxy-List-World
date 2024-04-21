@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|5|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|67.43.236.20|3307|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|3307|Canada|Montreal|GloboTech Communications|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|121.100.19.82|7088|Indonesia|Pamulang|NAP.Net.id - Network Access Point|
-|12|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|145.40.101.105|9443|United States|Chicago|Packet Host, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|145.40.101.105|9443|United States|Chicago|Packet Host, Inc.|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|20|122.185.198.242|7999|India|Gurugram|Bharti Airtel Limited|
+|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|10|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|67.43.227.227|18413|Canada|Montreal|GloboTech Communications|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.41.91.161|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|103.152.232.61|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|17|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
