@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|161.53.195.173|80|Croatia|Velika|Croatian Academic and Research Network|
-|4|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|161.53.195.173|80|Croatia|Velika|Croatian Academic and Research Network|
 |9|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
-|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|17|103.6.223.2|3128|China|Baoshan|China Unicom|
-|18|67.43.227.226|17819|Canada|Montreal|GloboTech Communications|
-|19|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|20|67.43.227.228|32303|Canada|Montreal|GloboTech Communications|
+|10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|12|103.152.232.36|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|13|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 
 
 
