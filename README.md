@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|122.144.6.66|3777|Indonesia|Depok|Maxindo|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|103.129.3.246|83|India|Bhubaneswar|S S Cablenet|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|12|72.10.164.178|14761|Canada|Montreal|GloboTech Communications|
-|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
-|16|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|17|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|18|72.10.160.174|30881|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|7|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|8|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|11|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|12|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|13|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|16|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|18|103.8.68.48|3128|China|Shiyan|China Telecom|
+|19|103.8.68.46|3128|China|Shiyan|China Telecom|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
