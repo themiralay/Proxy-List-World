@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|106.51.76.128|3127|India|Bengaluru|Atria Convergence Technologies Pvt. Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|222.109.151.80|1080|South Korea|Seoul|Korea Telecom|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|10|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|11|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|12|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
-|13|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
-|14|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|15|103.8.68.48|3128|China|Shiyan|China Telecom|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|72.10.160.92|7711|Canada|Montreal|GloboTech Communications|
-|19|165.16.31.19|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|20|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|5|201.174.224.174|999|Mexico|Mexicali|Transtelco Inc|
+|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|10|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|11|203.79.29.150|8080|Indonesia|Surabaya|PT Surya Global Teknologi|
+|12|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|13|181.197.130.218|80|Panama|David|Cable Onda|
+|14|72.10.160.92|7711|Canada|Montreal|GloboTech Communications|
+|15|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|181.57.131.122|8080|Colombia|Cartagena|Telmex Colombia S.A.|
+|17|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|18|64.225.8.132|10014|United States|Clifton|DigitalOcean, LLC|
+|19|200.59.184.121|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|20|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
 
 
 
