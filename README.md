@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|3|200.106.124.74|999|Peru|Tacna|Telefonica del Peru|
+|2|200.106.124.74|999|Peru|Tacna|Telefonica del Peru|
+|3|46.246.80.9|3128|Sweden|Stockholm|Portlane Network|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|6|134.35.4.187|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|174.108.200.2|8080|United States|Waxhaw|Road Runner|
 |10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |11|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|67.43.228.253|20339|Canada|Montreal|GloboTech Communications|
-|14|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|15|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|67.43.228.253|20339|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|1425|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
+|14|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
