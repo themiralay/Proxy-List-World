@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|190.110.34.243|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|13|72.10.164.178|5735|Canada|Montreal|GloboTech Communications|
-|14|121.236.236.192|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
-|15|72.10.164.178|5735|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|5735|Canada|Montreal|GloboTech Communications|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|7|121.236.236.192|8089|China|Shenzhen|Jiangsu Network of ChinaTelecom|
+|8|159.65.176.77|10011|United States|Clifton|DigitalOcean, LLC|
+|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|72.10.164.178|3269|Canada|Montreal|GloboTech Communications|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|36.67.208.62|80|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
+|14|14.170.154.193|19132|Vietnam|Thai Nguyen|VNPT-VNNIC|
+|15|103.179.246.30|8080|Pakistan|Multan|Orbit Networks Private Limited|
+|16|72.10.164.178|3269|Canada|Montreal|GloboTech Communications|
+|17|157.100.57.180|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|72.10.164.178|3269|Canada|Montreal|GloboTech Communications|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|159.65.176.77|10011|United States|Clifton|DigitalOcean, LLC|
 
 
 
