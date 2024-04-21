@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.53.195.173|80|Croatia|Velika|Croatian Academic and Research Network|
-|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
-|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|9|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|14|67.43.227.227|10211|Canada|Montreal|GloboTech Communications|
-|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|16|67.43.228.253|12819|Canada|Montreal|GloboTech Communications|
-|17|34.90.142.110|3128|Netherlands|Groningen|Google LLC|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|123.200.14.194|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|11|123.200.14.194|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|111.225.153.182|8089|China|Zhoutou|China Telecom|
+|15|161.53.195.173|3128|Croatia|Velika|Croatian Academic and Research Network|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|18|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|118.99.123.136|8080|Indonesia|Surabaya|BIZNET|
 
 
 
