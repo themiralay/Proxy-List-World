@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|103.203.175.99|84|India|Hyderabad|Softgaurd Powertronics|
-|12|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|14|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|15|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|16|128.95.53.237|80|United States|Seattle|University of Washington|
-|17|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|103.8.68.48|3128|China|Shiyan|China Telecom|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|107.172.0.177|666|United States|Dallas|HostPapa|
+|11|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|24.112.3.220|8080|United States|Durant|Vyve Broadband|
 
 
 
