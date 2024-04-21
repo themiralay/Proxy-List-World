@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|9|164.163.133.17|999|Ecuador|Wilfrido Loor Moreira|Ufinet Panama S.A.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|12|101.109.61.169|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|16|111.225.153.165|8089|China|Zhoutou|China Telecom|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|19|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|139.180.168.177|80|Australia|Sydney|Choopa|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|38.156.75.14|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|177.115.239.37|8080|Brazil|São Paulo|Vivo|
+|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
