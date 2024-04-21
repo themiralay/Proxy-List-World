@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|6|103.8.68.48|3128|China|Shiyan|China Telecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|10|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|12|67.43.228.253|2555|Canada|Montreal|GloboTech Communications|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|67.43.236.20|6805|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.160.90|6047|Canada|Montreal|GloboTech Communications|
-|18|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|19|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
-|20|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|6|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
+|7|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|119.93.155.205|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|103.87.228.187|8080|Indonesia|Lampung|ZITLINE|
+|14|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|16|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|178.212.53.17|41258|Poland|Sieniawa|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|19|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|20|67.43.228.253|2555|Canada|Montreal|GloboTech Communications|
 
 
 
