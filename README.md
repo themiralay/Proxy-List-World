@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|203.150.128.54|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|45.191.75.186|999|Colombia|Miranda|Global Raices|
-|7|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
-|8|72.10.160.90|1759|Canada|Montreal|GloboTech Communications|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|11|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|103.87.228.187|8080|Indonesia|Lampung|ZITLINE|
-|14|68.183.48.146|10003|United States|Clifton|DigitalOcean, LLC|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|17|103.8.68.48|3128|China|Shiyan|China Telecom|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|67.43.236.20|20863|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|1759|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|188.240.121.25|8080|Yemen|Ma'rib|AS30873 annoucement YemenNet|
+|7|216.176.187.99|8889|United States|Seattle|Wowrack.com|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|10|216.176.187.99|8889|United States|Seattle|Wowrack.com|
+|11|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|12|67.43.236.20|20863|Canada|Montreal|GloboTech Communications|
+|13|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|14|119.93.155.205|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|103.186.8.162|8080|Indonesia|Pelem Satu|PRISMA|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|103.8.68.48|3128|China|Shiyan|China Telecom|
 
 
 
