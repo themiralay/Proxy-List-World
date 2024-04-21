@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|6|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|24.106.221.230|53281|United States|Pine Knoll Shores|Spectrum|
-|8|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|9|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|64.225.8.132|10015|United States|Clifton|DigitalOcean, LLC|
-|13|132.145.188.157|11488|United States|Ashburn|Oracle Corporation|
-|14|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|72.10.164.178|20283|Canada|Montreal|GloboTech Communications|
-|17|190.108.12.117|8080|Uruguay|Montevideo|Tecnowind S.A.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|20|72.10.164.178|20283|Canada|Montreal|GloboTech Communications|
+|5|103.97.245.74|3128|India|Raipur|Paynet Digital Network Private Limited|
+|6|103.8.68.48|3128|China|Shiyan|China Telecom|
+|7|103.6.223.2|3128|China|Baoshan|China Unicom|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|15|132.145.188.157|11488|United States|Ashburn|Oracle Corporation|
+|16|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|17|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|18|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
