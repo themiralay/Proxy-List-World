@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.199.117.100|8080|Indonesia|Bumiayu|PT Hepra Teknologi Indonesia|
-|9|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.6.223.2|3128|China|Baoshan|China Unicom|
+|11|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
+|13|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
 |14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|16|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|17|72.10.164.178|19203|Canada|Montreal|GloboTech Communications|
-|18|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|19|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|72.10.164.178|19203|Canada|Montreal|GloboTech Communications|
+|17|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
+|20|72.10.164.178|19203|Canada|Montreal|GloboTech Communications|
 
 
 
