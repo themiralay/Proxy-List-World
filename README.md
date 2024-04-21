@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|4|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|8|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|2|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|6|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|7|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |12|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|67.43.228.250|2929|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.164.178|5947|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|103.156.15.35|1080|Indonesia|Tangerang|PT Lintas Jaringan Nusantara|
-|19|67.43.236.20|28341|Canada|Montreal|GloboTech Communications|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|67.43.236.20|28341|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|19155|Canada|Montreal|GloboTech Communications|
+|15|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.178.43.26|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
+|19|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
