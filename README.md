@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|2|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|148.101.179.182|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|13|103.8.68.48|3128|China|Shiyan|China Telecom|
-|14|89.58.48.220|10013|Germany|Nuremberg|netcup GmbH|
-|15|34.90.142.110|3128|Netherlands|Groningen|Google LLC|
-|16|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|159.65.176.77|10008|United States|Clifton|DigitalOcean, LLC|
-|19|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|20|72.10.160.90|32227|Canada|Montreal|GloboTech Communications|
+|6|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|89.58.48.220|10013|Germany|Nuremberg|netcup GmbH|
+|11|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|12|67.43.227.227|2037|Canada|Montreal|GloboTech Communications|
+|13|34.90.142.110|3128|Netherlands|Groningen|Google LLC|
+|14|58.11.14.135|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
 
 
 
