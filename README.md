@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|36.95.155.74|3126|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|103.141.51.210|1111|India|Karur|Sri Krishna Internet Services Private Limited|
-|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|16|67.43.227.227|32059|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|5109|Canada|Montreal|GloboTech Communications|
-|18|113.160.247.27|19132|Vietnam|Binh Son|VietNam Post and Telecom Corporation|
-|19|38.50.166.244|999|Dominican Republic|Santiago de los Caballeros|Cogent Communications|
+|5|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|9|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|16|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|17|103.141.51.210|1111|India|Karur|Sri Krishna Internet Services Private Limited|
+|18|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |20|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
 
 
