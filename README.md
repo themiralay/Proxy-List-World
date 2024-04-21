@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|38.156.75.130|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|103.143.8.122|8089|India|Mumbai|Juweriyah Networks Private Limited|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|10|103.8.68.48|3128|China|Shiyan|China Telecom|
-|11|103.19.58.179|8082|Indonesia|Madiun|BITSNET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.160.90|2343|Canada|Montreal|GloboTech Communications|
-|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|67.43.227.228|31675|Canada|Montreal|GloboTech Communications|
-|16|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|202.154.36.117|8080|Indonesia|Surabaya|RADNET-BDG|
+|5|72.10.160.90|2343|Canada|Montreal|GloboTech Communications|
+|6|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|7|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
+|8|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|11|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|62.240.40.194|1974|Libya|Kambūt|LTT Network Backbone and POPs|
+|13|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|67.43.227.228|31675|Canada|Montreal|GloboTech Communications|
+|17|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|18|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
