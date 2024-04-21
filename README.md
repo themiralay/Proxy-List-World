@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|6|146.190.53.175|32774|United States|Santa Clara|DigitalOcean, LLC|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|203.160.186.246|8080|Philippines|Makati City|Philippine Telelgraph & Telephone|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|115.147.20.176|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|102.67.101.242|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
-|14|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|16|27.158.204.42|8089|China|Zhangzhou|Chinanet|
-|17|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|5|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|27.158.204.42|8089|China|Zhangzhou|Chinanet|
+|8|138.197.16.249|10017|United States|Clifton|DigitalOcean, LLC|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|11|14.241.46.131|8080|Vietnam|Bac Ninh|VNPT|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
 
 
 
