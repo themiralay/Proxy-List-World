@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
-|11|223.247.46.37|8089|China|Rongcheng|Chinanet|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|194.67.113.86|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|14|67.43.228.252|15665|Canada|Montreal|GloboTech Communications|
-|15|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|72.10.164.178|11535|Canada|Montreal|GloboTech Communications|
-|17|114.106.171.182|8089|China|Rongcheng|Chinanet|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|185.206.32.218|8080|Kazakhstan|Almaty|Cloud Master LLC|
+|8|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|9|223.247.46.37|8089|China|Rongcheng|Chinanet|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|200.59.184.121|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
+|15|72.10.164.178|13177|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|67.43.228.252|15665|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|84.52.125.113|8082|Russia|St Petersburg|WestCall|
+|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 
 
 
