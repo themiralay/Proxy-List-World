@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|202.144.157.1|9009|Bhutan|Thimphu|Bhutan Telecom Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|112.78.164.28|8080|Indonesia|Jakarta|Biznet Networks|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|203.150.128.54|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|19|103.87.228.187|8080|Indonesia|Lampung|ZITLINE|
-|20|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|202.144.157.1|9009|Bhutan|Thimphu|Bhutan Telecom Ltd|
+|7|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|203.150.128.54|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|118.99.73.81|8080|Indonesia|Cipete Selatan|BIZNET|
+|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|38.156.73.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
