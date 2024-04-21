@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|6|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|114.106.146.121|8089|China|Rongcheng|Chinanet|
-|12|64.225.8.132|10013|United States|Clifton|DigitalOcean, LLC|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|72.10.164.178|11165|Canada|Montreal|GloboTech Communications|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|103.6.223.2|3128|China|Baoshan|China Unicom|
+|13|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|114.231.41.159|8089|China|Nanjing|Chinanet|
-|19|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 
 
 
