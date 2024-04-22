@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|103.84.235.162|8789|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|6|5.196.111.29|20170|France|Gravelines|OVH SAS|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|103.84.159.8|80|Bangladesh|Dhaka|Shahjalal University|
-|12|67.43.236.18|4999|Canada|Montreal|GloboTech Communications|
-|13|115.147.20.176|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|14|138.197.92.54|10016|United States|Clifton|DigitalOcean, LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|17|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|20|103.141.109.143|8181|Indonesia|Keputih|Data Buana Nusantara|
+|2|34.154.161.152|80|Italy|Milan|Google LLC|
+|3|5.9.153.179|60224|Germany|Kandern|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|6|134.35.61.172|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|200.106.236.142|3128|Honduras|Tegucigalpa|Metrored S.a. De C.V.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|5.196.111.29|20170|France|Gravelines|OVH SAS|
+|11|67.43.236.18|4999|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|5.9.153.179|60224|Germany|Kandern|Hetzner Online GmbH|
+|18|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 
 
 
