@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|190.61.47.78|9992|Colombia|Medellín|Ufinet Panama S.A.|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 |7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|67.43.236.20|11297|Canada|Montreal|GloboTech Communications|
-|11|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|12|103.18.205.246|8080|Australia|Melbourne|MD SHOHEL RANA|
-|13|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|17|67.43.227.227|28427|Canada|Montreal|GloboTech Communications|
-|18|103.174.238.131|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|67.43.236.20|11297|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
