@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|134.35.4.221|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|2|134.35.4.221|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|45.183.40.23|8080|Colombia|Contratación|TV AZTECA SUCURSAL COLOMBIA|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.236.20|25931|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|21499|Canada|Montreal|GloboTech Communications|
-|19|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
