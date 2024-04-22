@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|36.88.148.138|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|5|67.43.227.228|1077|Canada|Montreal|GloboTech Communications|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|67.43.236.20|9121|Canada|Montreal|GloboTech Communications|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|67.43.227.227|19031|Canada|Montreal|GloboTech Communications|
-|13|222.174.178.122|4999|China|Xintai|Chinanet|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|72.10.160.90|25215|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|200.116.199.179|6969|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
+|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
+|8|67.43.227.228|1077|Canada|Montreal|GloboTech Communications|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.227.227|20165|Canada|Montreal|GloboTech Communications|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|67.43.236.20|9121|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.164.178|29619|Canada|Montreal|GloboTech Communications|
-|18|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|20|80.66.81.37|4001|Russia|Moscow|BUQU.SU Solutions|
+|17|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|72.10.164.178|1893|Canada|Montreal|GloboTech Communications|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
