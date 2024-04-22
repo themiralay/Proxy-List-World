@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|116.12.44.25|9898|Indonesia|Jakarta|ADSNET|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|72.10.160.94|1095|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|32649|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|18067|Canada|Montreal|GloboTech Communications|
-|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|11|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|98.6.197.202|16099|United States|Mission|Spectrum|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|103.8.68.46|3128|China|Shiyan|China Telecom|
-|18|72.10.160.90|18067|Canada|Montreal|GloboTech Communications|
-|19|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|20|175.158.58.140|8081|Indonesia|Jakarta|CBNNAP|
+|3|103.194.172.186|8080|Indonesia|Bandung|MYNET|
+|4|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|8|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|181.209.102.237|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|72.10.160.94|1095|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|1737|Canada|Montreal|GloboTech Communications|
+|14|5.83.244.250|8080|Ireland|Roscommon|EURONA-BRISKNET|
+|15|72.10.160.90|21483|Canada|Montreal|GloboTech Communications|
+|16|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|185.169.183.28|8080|Türkiye|Reyhanlı|Veganet Teknolojileri ve Hizmetleri LTD STI|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
