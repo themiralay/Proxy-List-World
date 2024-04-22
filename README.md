@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|6|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|134.35.254.217|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|12|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
-|13|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|15|119.47.90.73|8181|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|200.59.184.121|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|18|67.43.227.227|8167|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|2|157.92.152.14|8080|Argentina|Monte Grande|Universidad Nacional de Buenos Aires|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|109.73.43.86|8080|Russia|Moscow|JSC Mastertel|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|67.43.227.227|23707|Canada|Montreal|GloboTech Communications|
+|15|103.148.192.82|9012|Indonesia|Bandung|PT. Akashia Thuba Jaya|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|67.43.227.226|21729|Canada|Montreal|GloboTech Communications|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|67.43.228.253|19545|Canada|Montreal|GloboTech Communications|
 
 
 
