@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|5|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|119.76.142.194|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|7|72.10.164.178|2747|Canada|Montreal|GloboTech Communications|
-|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|159.65.186.46|10001|United States|Clifton|DigitalOcean, LLC|
-|12|60.174.0.222|8089|China|Guangzhou|Chinanet|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|16|103.6.223.2|3128|China|Baoshan|China Unicom|
-|17|72.10.160.172|31345|Canada|Montreal|GloboTech Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.164.178|2747|Canada|Montreal|GloboTech Communications|
+|4|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|119.76.142.194|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|6|72.10.164.178|2747|Canada|Montreal|GloboTech Communications|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|60.174.0.222|8089|China|Guangzhou|Chinanet|
+|11|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|67.43.236.22|8557|Canada|Montreal|GloboTech Communications|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|72.10.164.178|2747|Canada|Montreal|GloboTech Communications|
+|15|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|16|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|89.58.48.220|10016|Germany|Nuremberg|netcup GmbH|
+|19|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
 
 
 
