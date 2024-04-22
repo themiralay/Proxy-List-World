@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |5|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|9|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|8|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|200.59.184.121|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|12|212.39.74.207|8080|Bulgaria|Pleven|Bulgarian Telecommunications Company Plc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|18|67.43.236.20|24839|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|20181|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19913|Canada|Montreal|GloboTech Communications|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
