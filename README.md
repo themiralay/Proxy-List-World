@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|72.10.164.178|13153|Canada|Montreal|GloboTech Communications|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|72.10.164.178|13153|Canada|Montreal|GloboTech Communications|
+|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|13|67.43.227.228|13077|Canada|Montreal|GloboTech Communications|
 |14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|72.10.164.178|7091|Canada|Montreal|GloboTech Communications|
-|16|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|103.110.10.132|8181|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|72.10.160.92|16981|Canada|Montreal|GloboTech Communications|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|202.164.209.69|5020|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
+|18|101.255.118.10|3127|Indonesia|Bekasi|PT Remala Abadi|
+|19|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|14.140.210.242|32650|India|Ghaziabad|Tata Communications Limited|
 
 
 
