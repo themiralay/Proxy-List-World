@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|134.35.0.4|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|38.158.202.121|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|1|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|4|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|27.147.157.77|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|209.14.119.220|999|Colombia|Neiva|AGIS|
-|13|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|222.174.178.122|4999|China|Xintai|Chinanet|
 |18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|111.225.152.193|8089|China|Zhoutou|China Telecom|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|103.240.100.189|8080|India|Hoskote|MICROSENSE|
 
 
 
