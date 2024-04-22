@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|13|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|15|152.32.68.171|65535|Philippines|Calamba|Converge ICT Solution Inc|
-|16|185.85.161.214|8080|Russia|Mednogorsk|OTK LLC|
+|5|182.253.233.132|8080|Indonesia|Jakarta|BIZNET|
+|6|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
+|7|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|8|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|16|103.180.245.169|8080|Bangladesh|Dhaka|UKH BD Ltd|
 |17|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|67.43.236.20|6331|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|20627|Canada|Montreal|GloboTech Communications|
+|19|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|20|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
