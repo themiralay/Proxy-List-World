@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|119.76.142.194|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|3|49.48.40.238|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.164.112.123|10001|Indonesia|Jakarta Pusat|SOLUSINET|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|159.65.186.46|10011|United States|Clifton|DigitalOcean, LLC|
-|10|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|121.52.156.146|8080|Pakistan|Islamabad|HEC|
-|12|72.10.164.178|1093|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|8135|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|30805|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|1093|Canada|Montreal|GloboTech Communications|
-|16|103.178.194.122|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|17|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|103.228.119.77|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|95.0.168.62|1981|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
+|13|119.76.142.194|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|14|103.247.21.234|8080|Indonesia|Bekasi|PT wifian Solution|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|170.80.242.78|999|Mexico|Juan Aldama|TV CABLE DEL GUADIANA S.A DE C.V.|
+|17|82.223.222.8|3128|Spain|Barcelona|arsys.es|
 |18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|67.43.236.20|3805|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|68.183.48.146|10004|United States|Clifton|DigitalOcean, LLC|
+|20|72.10.164.178|1093|Canada|Montreal|GloboTech Communications|
 
 
 
