@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|109.111.157.28|8080|Russia|Kaliningrad|TIS-DIALOG|
-|5|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|190.109.168.196|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|72.10.164.178|16401|Canada|Montreal|GloboTech Communications|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|1|170.83.76.22|999|Venezuela|Caracas|Galanet Solution C.A.|
+|2|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|72.10.164.178|24647|Canada|Montreal|GloboTech Communications|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |11|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|12|67.43.228.253|12541|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|1205|Canada|Montreal|GloboTech Communications|
-|14|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
-|15|72.10.160.173|13241|Canada|Montreal|GloboTech Communications|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|38.158.202.162|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|16|103.167.171.43|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|17|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
+|18|72.10.160.90|1205|Canada|Montreal|GloboTech Communications|
+|19|77.37.244.119|8080|Russia|Moscow|NCNET|
+|20|202.74.244.139|5020|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
