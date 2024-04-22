@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|4|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|182.253.233.132|8080|Indonesia|Jakarta|BIZNET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|3|182.253.233.132|8080|Indonesia|Jakarta|BIZNET|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |8|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|72.10.164.178|29617|Canada|Montreal|GloboTech Communications|
+|9|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|14.143.130.210|1111|India|Mumbai|Tata Communications Limited|
+|11|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |13|67.43.236.18|1753|Canada|Montreal|GloboTech Communications|
 |14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|41.218.86.118|83|Zambia|Lusaka|Paratus Telecommunications Limited|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|67.43.228.253|28093|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|20|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|15|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|154.73.29.129|8080|Libya|Tripoli|Rawafed|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|20|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 
 
 
