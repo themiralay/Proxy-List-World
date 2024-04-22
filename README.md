@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|6|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|103.253.127.202|8080|Indonesia|Jombang|PT Media Akses Telematika|
-|16|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|58.69.137.62|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|4|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|188.190.40.44|8080|Ukraine|Kyiv Oblast|Lanet Network Ltd|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|186.180.64.187|999|Colombia|Cúcuta|Colombia Móvil|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|14|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|103.53.78.26|8080|Indonesia|Surabaya|INTI|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
