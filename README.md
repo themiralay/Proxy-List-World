@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|9|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|203.190.46.83|8080|Indonesia|Semarang|PT Jaring Lintas Utara|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|72.128.133.154|16099|United States|Hutto|Charter Communications|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|96.84.177.212|3128|United States|Atlanta|Comcast Cable Communications, LLC|
+|12|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|183.240.208.63|8080|China|Shenzhen|China Mobile Communications Corporation|
-|18|67.43.227.228|1151|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|16|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|67.43.227.227|32999|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
