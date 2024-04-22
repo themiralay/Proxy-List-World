@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|45.183.40.23|8080|Colombia|Contratación|TV AZTECA SUCURSAL COLOMBIA|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|72.10.164.178|22883|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|22883|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|2589|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|22883|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|67.43.228.251|15081|Canada|Montreal|GloboTech Communications|
-|14|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|72.10.164.178|22883|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|2589|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|2547|Canada|Montreal|GloboTech Communications|
-|19|69.75.140.157|8080|United States|Pomona|Spectrum|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.75.140.157|8080|United States|Pomona|Spectrum|
+|5|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|6|72.10.160.90|13169|Canada|Montreal|GloboTech Communications|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|181.65.138.244|8080|Peru|Andahuaylas|Telefonica del Peru S.A.A.|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|15|190.90.39.78|999|Colombia|Arauca|InterNexa Global Network|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|181.197.130.218|80|Panama|David|Cable Onda|
+|18|103.24.213.195|8080|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|19|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|20|67.43.236.20|8019|Canada|Montreal|GloboTech Communications|
 
 
 
