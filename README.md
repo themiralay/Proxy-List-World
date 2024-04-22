@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|3|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|4|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|9|151.22.181.241|8080|Italy|Gioia del Colle|INFOSTRADA|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |11|72.10.164.178|10813|Canada|Montreal|GloboTech Communications|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|67.43.228.253|28633|Canada|Montreal|GloboTech Communications|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|64.225.4.81|10016|United States|Clifton|DigitalOcean, LLC|
-|18|72.10.164.178|10813|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|3587|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|10813|Canada|Montreal|GloboTech Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|15|103.160.150.251|8080|Indonesia|Samarinda|PT. LINTASMAYA MULTI MEDIA|
+|16|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|17|67.43.228.253|7859|Canada|Montreal|GloboTech Communications|
+|18|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|19|72.10.164.178|10813|Canada|Montreal|GloboTech Communications|
+|20|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
 
 
 
