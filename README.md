@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|72.10.160.170|1691|Canada|Montreal|GloboTech Communications|
-|12|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|13|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
-|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|18|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|19|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|6|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
+|7|203.210.85.215|3128|Indonesia|Bandung|Infrastruktur STARNET|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|74.62.179.122|8080|United States|Los Angeles|Charter Communications Inc|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|46.30.43.101|8118|The Netherlands|Amsterdam|EUROBYTE|
+|16|213.244.91.179|8080|Palestinian Territory|Gaza|PALTEL (Palestine Telecommunications Co.)|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|67.43.227.227|15029|Canada|Montreal|GloboTech Communications|
+|19|103.167.171.43|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
 |20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
