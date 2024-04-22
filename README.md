@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |2|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
-|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|19|207.138.39.145|999|United States|Santa Barbara|Galanet Solution C.A.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|19|67.43.228.253|27129|Canada|Montreal|GloboTech Communications|
+|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 
 
 
