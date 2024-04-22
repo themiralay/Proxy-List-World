@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |4|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|67.43.236.20|2059|Canada|Montreal|GloboTech Communications|
-|11|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|103.167.170.6|3125|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|19|67.43.236.18|6067|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|14|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|78.170.135.164|8080|Turkey|Istanbul|TurkTelecom|
+|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
 
 
 
