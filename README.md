@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|6|103.171.31.175|8080|Indonesia|Pengarengan|MORATELINDONAP|
-|7|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
-|11|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
-|12|67.43.227.228|17949|Canada|Montreal|GloboTech Communications|
-|13|103.152.232.58|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
-|20|213.221.46.10|3128|Russia|Moscow|EDN Sovintel|
+|5|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
+|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|13|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|14|67.43.227.228|17949|Canada|Montreal|GloboTech Communications|
+|15|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|18|38.49.159.74|999|Mexico|El Pueblito|Ientc S De RL De CV|
+|19|113.160.154.23|8080|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
