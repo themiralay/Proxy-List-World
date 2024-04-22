@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|5|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|80.66.81.37|4001|Russia|Moscow|BUQU.SU Solutions|
-|8|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|119.47.90.73|8181|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.164.178|10611|Canada|Montreal|GloboTech Communications|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|7|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|10|80.66.81.37|4000|Russia|Moscow|BUQU.SU Solutions|
+|11|38.49.159.74|999|Mexico|El Pueblito|Ientc S De RL De CV|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|43.243.140.27|8181|Indonesia|Pisangan|CEPATNET|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
