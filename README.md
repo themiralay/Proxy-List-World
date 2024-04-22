@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|6|72.10.164.178|3213|Canada|Montreal|GloboTech Communications|
-|7|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|72.10.160.170|5447|Canada|Montreal|GloboTech Communications|
-|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
-|17|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|18|67.43.227.227|24173|Canada|Montreal|GloboTech Communications|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|186.201.63.83|3128|Brazil|São Paulo|Vivo|
+|1|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|3|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|14|67.43.227.227|3877|Canada|Montreal|GloboTech Communications|
+|15|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|72.10.160.170|5447|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|10253|Canada|Montreal|GloboTech Communications|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
