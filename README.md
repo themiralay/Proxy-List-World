@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|2|203.150.128.14|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|203.150.128.14|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |7|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |10|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|103.26.108.254|84|India|Sivakasi|Niss Networks|
-|15|181.78.11.219|999|Colombia|Valledupar|IFX Networks Argentina S.R.L|
-|16|67.43.227.227|5205|Canada|Montreal|GloboTech Communications|
-|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|18|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|103.234.159.5|8080|India|Bengaluru|MWPL|
-|20|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|67.43.227.227|32633|Canada|Montreal|GloboTech Communications|
+|16|181.65.138.244|8080|Peru|Andahuaylas|Telefonica del Peru S.A.A.|
+|17|181.197.130.218|80|Panama|David|Cable Onda|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|20|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
 
 
 
