@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |4|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|96.84.177.212|3128|United States|Atlanta|Comcast Cable Communications, LLC|
 |7|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |8|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|9|96.84.177.212|3128|United States|Atlanta|Comcast Cable Communications, LLC|
 |10|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|72.10.160.90|9943|Canada|Montreal|GloboTech Communications|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|72.10.160.94|24849|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|3229|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|12|72.10.164.178|3271|Canada|Montreal|GloboTech Communications|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|67.43.227.228|24067|Canada|Montreal|GloboTech Communications|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.164.178|3271|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
