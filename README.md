@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|6|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|8|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|190.85.122.27|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|12|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|8|103.154.92.74|8080|Indonesia|Depok|PT Mora Telematika Indonesia|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 |14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|114.106.136.136|8089|China|Rongcheng|Chinanet|
-|16|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
-|17|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|157.10.156.100|1080|Indonesia|Enrekang|PT Singki Media Telekomunikasi|
-|19|27.147.157.77|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|103.26.108.254|84|India|Sivakasi|Niss Networks|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
