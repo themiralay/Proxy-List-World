@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.253.88.242|999|Dominican Republic|Jarabacoa|Cogent Communications|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.105.55.51|8081|Indonesia|Malang|PT. Mega Artha Lintas Data|
-|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|181.78.11.218|999|Colombia|Valledupar|IFX Networks Argentina S.R.L|
-|10|72.10.164.178|16715|Canada|Montreal|GloboTech Communications|
-|11|101.109.56.180|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|12|103.55.63.90|8080|India|Delhi|Ani Broadband Service Pvt Ltd|
-|13|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
-|14|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
-|15|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|64.225.4.81|10012|United States|Clifton|DigitalOcean, LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|181.209.102.237|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|20|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|188.240.124.18|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|201.91.82.155|3128|Brazil|Campinas|Vivo|
+|17|67.43.236.22|27173|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|159.65.186.46|10013|United States|Clifton|DigitalOcean, LLC|
+|20|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
