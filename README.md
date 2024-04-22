@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
-|4|105.19.63.217|9812|South Africa|Cape Town|SEACOM Limited|
-|5|103.70.147.233|8080|India|Mathura|Elxire Data Services Pvt. Ltd.|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|207.230.8.71|999|Colombia|Bogotá|Cogent Communications|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|72.10.164.178|5145|Canada|Montreal|GloboTech Communications|
+|10|200.111.232.94|8080|Chile|Santiago|Entel Chile S.A.|
 |11|181.197.130.218|80|Panama|David|Cable Onda|
-|12|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|13|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|16|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|138.84.48.141|80|Colombia|Bogota|SpaceX Starlink|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|181.209.96.156|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|16|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|17|102.212.30.22|8080|Kenya|Nairobi|Hanif Telecom Limited|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|118.99.73.81|8080|Indonesia|Cipete Selatan|BIZNET|
+|20|180.180.218.250|8080|Thailand|Wang Thonglang|TOT Public Company Limited|
 
 
 
