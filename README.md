@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|9|67.43.236.20|9929|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|1639|Canada|Montreal|GloboTech Communications|
+|5|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|6|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|10|67.43.236.20|9929|Canada|Montreal|GloboTech Communications|
 |11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|67.43.236.20|9929|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|27945|Canada|Montreal|GloboTech Communications|
-|14|103.6.223.2|3128|China|Baoshan|China Unicom|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|67.43.227.228|25301|Canada|Montreal|GloboTech Communications|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|67.43.227.227|26659|Canada|Montreal|GloboTech Communications|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|67.43.236.20|9929|Canada|Montreal|GloboTech Communications|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
