@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |8|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|16|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|72.10.160.90|21083|Canada|Montreal|GloboTech Communications|
+|9|134.35.4.221|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|10|119.76.142.231|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|36.88.111.98|55443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|67.43.227.228|32813|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|72.10.160.90|21083|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 
 
 
