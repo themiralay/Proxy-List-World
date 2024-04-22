@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|67.43.228.253|7427|Canada|Montreal|GloboTech Communications|
-|13|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
-|14|67.43.227.227|22297|Canada|Montreal|GloboTech Communications|
-|15|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
-|16|103.6.223.2|3128|China|Baoshan|China Unicom|
-|17|72.10.160.170|15747|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|20|67.43.227.227|22297|Canada|Montreal|GloboTech Communications|
+|2|134.35.0.78|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|3|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|72.10.160.170|14433|Canada|Montreal|GloboTech Communications|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|67.43.228.253|7427|Canada|Montreal|GloboTech Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|36.91.68.148|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|15|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|167.250.181.133|999|Ecuador|La Mana|Ufinet Panama S.A.|
+|18|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|19|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
