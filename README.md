@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|6|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|7|186.215.196.50|3128|Brazil|Recife|Vivo|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|12|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
-|13|45.236.107.122|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|16|80.66.112.2|31280|Spain|La Zenia|Servicios Digitales Codinet S.L.|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|1.2.252.65|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
-|20|147.161.200.255|9480|Japan|Tokyo|Zscaler, Inc.|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|45.160.15.254|999|Chile|Santiago|Servicio De Telecomunicaciones Vemos MAS Ltda.|
+|14|186.215.196.50|3128|Brazil|Recife|Vivo|
+|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|72.10.164.178|21811|Canada|Montreal|GloboTech Communications|
+|18|192.248.95.1|3128|Sri Lanka|Dedunupitiya|Lanka Education and Research Network|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
