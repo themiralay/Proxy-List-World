@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|223.215.177.191|8089|China|Shenzhen|Chinanet|
+|3|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|7|103.125.138.204|8080|Bangladesh|Dhaka|Rupali Bank Limited|
+|8|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
 |9|72.10.160.90|17347|Canada|Montreal|GloboTech Communications|
-|10|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
-|11|67.43.236.20|28571|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|193.106.138.52|3128|Ukraine|Kyiv|Industrial Media Network LLC|
-|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|190.120.249.60|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|20|188.132.222.41|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|67.43.236.20|28571|Canada|Montreal|GloboTech Communications|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|72.10.160.90|17347|Canada|Montreal|GloboTech Communications|
+|13|38.156.235.113|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|103.155.62.163|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|82.223.222.8|3128|Spain|Barcelona|arsys.es|
 
 
 
