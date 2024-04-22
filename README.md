@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|185.198.72.98|3128|Türkiye|Istanbul|DGN TEKNOLOJI A.S.|
+|4|182.253.116.44|8080|Indonesia|Surabaya|BIZNET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|67.43.227.227|1939|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|103.8.68.48|3128|China|Shiyan|China Telecom|
-|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|19|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|20|72.10.164.178|10361|Canada|Montreal|GloboTech Communications|
+|9|185.198.72.98|3128|Türkiye|Istanbul|DGN TEKNOLOJI A.S.|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|67.43.227.227|1939|Canada|Montreal|GloboTech Communications|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
+|16|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|72.10.164.178|10361|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|20|185.198.72.98|3128|Türkiye|Istanbul|DGN TEKNOLOJI A.S.|
 
 
 
