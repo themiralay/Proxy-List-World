@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|139.59.129.114|3128|Germany|Frankfurt am Main|DIGITALOCEAN|
-|3|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|101.109.56.180|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |8|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
 |9|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|11|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|14|67.43.236.20|13061|Canada|Montreal|GloboTech Communications|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|137.59.49.134|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|17|45.238.58.1|999|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|20|177.234.194.157|999|Ecuador|Buena Fe|Ufinet Panama S.A.|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|67.43.236.20|32229|Canada|Montreal|GloboTech Communications|
+|13|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
+|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
+|17|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
