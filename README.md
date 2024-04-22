@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
-|6|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|11|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
-|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|18|103.8.68.48|3128|China|Shiyan|China Telecom|
-|19|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|20|181.197.130.218|80|Panama|David|Cable Onda|
+|5|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
+|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|7|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|8|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
+|12|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|201.222.83.146|999|Bolivia|Warnes|Cotas Ltda.|
+|15|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|16|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|68.183.48.146|10000|United States|Clifton|DigitalOcean, LLC|
+|19|72.10.160.90|18891|Canada|Montreal|GloboTech Communications|
+|20|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
 
 
 
