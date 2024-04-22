@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|6|183.165.226.4|8089|China|Shenzhen|Chinanet|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|72.10.164.178|32739|Canada|Montreal|GloboTech Communications|
-|9|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|10|67.43.228.253|28691|Canada|Montreal|GloboTech Communications|
-|11|196.251.223.54|8104|South Africa|Johannesburg|Info-Gro (PTY) Ltd|
-|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|15|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
-|19|67.43.227.227|20089|Canada|Montreal|GloboTech Communications|
-|20|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|6|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
+|7|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|8|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|9|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|10|200.45.73.115|3577|Argentina|Palermo|Telecom Argentina S.A.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|72.10.164.178|32739|Canada|Montreal|GloboTech Communications|
+|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|67.43.228.252|19497|Canada|Montreal|GloboTech Communications|
+|20|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
 
 
 
