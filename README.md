@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|185.198.72.98|3128|Türkiye|Istanbul|DGN TEKNOLOJI A.S.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|15|72.10.164.178|13897|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|13897|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.252|10089|Canada|Montreal|GloboTech Communications|
-|18|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.160.90|15207|Canada|Montreal|GloboTech Communications|
-|20|103.154.77.64|83|Indonesia|Yogyakarta|T2NET|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|112.78.47.187|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
+|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|165.16.59.226|8080|Libya|Tripoli|Aljeel Aljadeed Technology|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
