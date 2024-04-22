@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|113.160.166.196|6000|Vietnam|Thai Nguyen|VietNam Post and Telecom Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|72.10.160.90|11607|Canada|Montreal|GloboTech Communications|
-|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|222.216.37.138|808|China|Lilancun|Chinanet|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|64.225.8.132|10015|United States|Clifton|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|166.111.176.6|9999|China|Haidian|China Education and Research Network Center|
 
 
 
