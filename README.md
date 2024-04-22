@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|117.70.48.231|8089|China|Rongcheng|Chinanet|
+|7|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
 |8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|9|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|67.43.227.227|21047|Canada|Montreal|GloboTech Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|72.10.164.178|24153|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
-|17|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|18|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
-|19|67.43.236.20|21839|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|21839|Canada|Montreal|GloboTech Communications|
+|9|117.70.48.231|8089|China|Rongcheng|Chinanet|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|67.43.227.227|21551|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.133.223.20|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|15|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|222.127.50.56|8082|Philippines|Lahug|INNOVE|
+|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 
 
 
