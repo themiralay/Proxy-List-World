@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
 |3|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|6|201.77.108.72|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|5|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|10|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|190.85.122.27|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
-|17|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|18|38.156.233.75|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|19|190.220.1.173|56974|Argentina|Buenos Aires|AMX Argentina S.A.|
-|20|103.182.213.13|8080|Bangladesh|Tongi|Rapid Network|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|67.43.228.253|23471|Canada|Montreal|GloboTech Communications|
+|12|103.182.213.13|8080|Bangladesh|Tongi|Rapid Network|
+|13|38.156.233.75|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|14|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|222.127.50.56|8082|Philippines|Lahug|INNOVE|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|1.10.141.45|8080|Thailand|Pak Kret|TOT Public Company Limited|
+|18|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|19|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|20|64.225.8.132|10004|United States|Clifton|DigitalOcean, LLC|
 
 
 
