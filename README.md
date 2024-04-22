@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|101.109.56.244|8080|Thailand|Bang Lamung|TOT Public Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|185.198.72.98|3128|Türkiye|Istanbul|DGN TEKNOLOJI A.S.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
 |14|185.198.72.98|3128|Türkiye|Istanbul|DGN TEKNOLOJI A.S.|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|18|67.43.228.250|11925|Canada|Montreal|GloboTech Communications|
-|19|103.141.109.143|8181|Indonesia|Keputih|Data Buana Nusantara|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.227.227|29919|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|20|117.102.76.254|8080|Indonesia|Jakarta|Biznet Networks|
 
 
 
