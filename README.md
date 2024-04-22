@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|5|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 |6|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|67.43.227.228|32637|Canada|Montreal|GloboTech Communications|
-|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|15|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|67.43.227.227|22325|Canada|Montreal|GloboTech Communications|
-|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|103.68.3.195|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
+|14|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|67.43.227.227|1285|Canada|Montreal|GloboTech Communications|
+|20|138.197.16.249|10012|United States|Clifton|DigitalOcean, LLC|
 
 
 
