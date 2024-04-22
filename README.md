@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.191.115.114|83|India|Bānka|Xpress Fiber Private Limited|
+|5|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
-|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|11|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|12|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|72.10.160.90|20993|Canada|Montreal|GloboTech Communications|
-|15|200.24.154.218|999|Ecuador|Manta|Ufinet Panama S.A.|
-|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|9|103.203.175.102|84|India|Hyderabad|Softgaurd Powertronics|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|103.213.116.6|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|12|171.102.10.74|8080|Thailand|Din Daeng|True International Gateway Co., Ltd.|
+|13|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|14|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|15|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|16|72.10.160.90|21483|Canada|Montreal|GloboTech Communications|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|103.105.76.49|8080|Indonesia|Bojonegoro|GARUDA|
+|18|72.10.164.178|7171|Canada|Montreal|GloboTech Communications|
+|19|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
 |20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
