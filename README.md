@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|5|103.6.223.2|3128|China|Baoshan|China Unicom|
-|6|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
-|12|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|13|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|14|72.10.164.178|20923|Canada|Montreal|GloboTech Communications|
-|15|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|16|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
-|17|67.43.227.227|30637|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|20923|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|49.48.42.73|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
+|10|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|67.43.236.20|19661|Canada|Montreal|GloboTech Communications|
+|13|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|45.183.40.23|8080|Colombia|Contratación|TV AZTECA SUCURSAL COLOMBIA|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|18|72.10.164.178|4175|Canada|Montreal|GloboTech Communications|
+|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|72.10.164.178|4175|Canada|Montreal|GloboTech Communications|
 
 
 
