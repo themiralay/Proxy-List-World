@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|7|103.159.194.151|8082|Indonesia|Rembang|PT Giga Digital Nusantara|
-|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|9|110.39.42.211|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|10|67.43.227.228|13317|Canada|Montreal|GloboTech Communications|
-|11|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
-|12|103.184.54.3|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|13|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|121.195.170.225|1024|China|Haidian|CERNET|
-|15|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
-|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|67.43.228.253|32227|Canada|Montreal|GloboTech Communications|
-|19|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|20|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|5|103.167.171.43|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|6|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|13|181.233.90.70|999|Venezuela|Cabimas|Colnetwork C.A.|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|16|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
+|17|67.43.227.228|13317|Canada|Montreal|GloboTech Communications|
+|18|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
+|19|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|20|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
 
 
 
