@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|103.189.116.107|8080|Indonesia|Wonosobo|PT Callysta Total Solusindo|
 |8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
-|10|64.225.4.81|10012|United States|Clifton|DigitalOcean, LLC|
-|11|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|12|72.10.164.178|26059|Canada|Montreal|GloboTech Communications|
-|13|103.173.230.88|8080|Indonesia|Tasikmalaya|PT Jaringan Internet Banten|
-|14|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
-|15|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|11|72.10.164.178|26059|Canada|Montreal|GloboTech Communications|
+|12|64.225.4.81|10012|United States|Clifton|DigitalOcean, LLC|
+|13|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|14|138.84.48.141|80|Colombia|Bogota|SpaceX Starlink|
+|15|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
