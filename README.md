@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|8|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|11|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|67.43.228.251|4773|Canada|Montreal|GloboTech Communications|
-|14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|20|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|67.43.228.251|13217|Canada|Montreal|GloboTech Communications|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|67.43.228.251|13217|Canada|Montreal|GloboTech Communications|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
