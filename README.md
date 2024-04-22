@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|109.200.180.10|8080|Yemen|Dhamār|Public Telecommunication Corporation|
-|7|103.207.1.82|8080|India|Chennai|Sri Vari Network Private Limited|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|90.188.53.6|8080|Russia|Ulan-Ude|JSC "Sibirtelecom" Buryat branch|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|17|222.174.178.122|4999|China|Xintai|Chinanet|
-|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|20|201.54.176.13|8080|Brazil|Icó|Lucas De Souza Silva|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|6|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|7|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|198.244.149.182|37615|United Kingdom|London|OVH SAS|
+|12|72.10.164.178|1369|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|1369|Canada|Montreal|GloboTech Communications|
+|14|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|15|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|16|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|18|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
