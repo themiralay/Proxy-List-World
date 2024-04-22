@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|139.59.129.114|3128|Germany|Frankfurt am Main|DIGITALOCEAN|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|6|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|103.152.232.42|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|9|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|10|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|3|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
+|6|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|179.49.113.230|999|Honduras|Tegucigalpa|Asociacion De Servicio De Internet S. De RL|
+|9|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|41.205.24.238|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|103.172.42.53|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|15|103.8.68.48|3128|China|Shiyan|China Telecom|
-|16|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|17|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|18|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|138.197.92.54|10003|United States|Clifton|DigitalOcean, LLC|
+|12|103.6.223.2|3128|China|Baoshan|China Unicom|
+|13|190.80.188.91|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A|
+|14|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|203.150.166.170|8080|Thailand|Trang|Internet Thailand Company Ltd.|
+|17|89.58.48.220|10011|Germany|Nuremberg|netcup GmbH|
+|18|201.91.248.67|20183|Brazil|São Carlos|Vivo|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|72.10.164.178|29411|Canada|Montreal|GloboTech Communications|
 
 
 
