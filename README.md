@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|6|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
-|7|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|8|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|9|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|10|200.45.73.115|3577|Argentina|Palermo|Telecom Argentina S.A.|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
+|6|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
 |12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|14|72.10.164.178|32739|Canada|Montreal|GloboTech Communications|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|67.43.228.252|19497|Canada|Montreal|GloboTech Communications|
-|20|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
+|13|159.65.176.77|10001|United States|Clifton|DigitalOcean, LLC|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
+|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|18|103.8.68.48|3128|China|Shiyan|China Telecom|
+|19|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
+|20|181.197.130.218|80|Panama|David|Cable Onda|
 
 
 
