@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|12|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|13|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|72.10.164.178|21461|Canada|Montreal|GloboTech Communications|
-|15|159.65.176.77|10013|United States|Clifton|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|18|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|7|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|177.70.72.103|20183|Brazil|Ijuí|RazaoInfo Internet Ltda|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
