@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|182.253.170.57|8080|Indonesia|Jakarta|BIZNET|
-|5|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|6|103.173.230.88|8080|Indonesia|Tasikmalaya|PT Jaringan Internet Banten|
-|7|103.203.175.102|84|India|Hyderabad|Softgaurd Powertronics|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|15|67.43.228.253|32823|Canada|Montreal|GloboTech Communications|
-|16|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|72.10.160.173|21913|Canada|Montreal|GloboTech Communications|
-|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|146.190.53.175|32776|United States|Santa Clara|DigitalOcean, LLC|
+|19|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|20|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
 
 
 
