@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|46.30.43.101|8118|The Netherlands|Amsterdam|EUROBYTE|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|72.10.164.178|19067|Canada|Montreal|GloboTech Communications|
-|4|95.167.29.50|8080|Russia|St Petersburg|PJSC Rostelecom|
-|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|6|72.10.160.91|31937|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|19067|Canada|Montreal|GloboTech Communications|
-|8|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|9|72.10.160.90|30313|Canada|Montreal|GloboTech Communications|
-|10|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|67.43.227.227|3877|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|3|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|72.10.160.91|23669|Canada|Montreal|GloboTech Communications|
+|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|72.10.164.178|10253|Canada|Montreal|GloboTech Communications|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|67.43.227.227|3877|Canada|Montreal|GloboTech Communications|
+|16|82.223.222.8|3128|Spain|Barcelona|arsys.es|
 |17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|165.22.36.164|10007|United States|Clifton|DigitalOcean, LLC|
-|19|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|72.10.164.178|10253|Canada|Montreal|GloboTech Communications|
 
 
 
