@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|134.35.0.78|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|5|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 |6|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|185.85.161.214|8080|Russia|Mednogorsk|OTK LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|121.101.135.46|8089|Indonesia|Yogyakarta|PT SELARAS CITRA TERABIT|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|182.253.233.132|8080|Indonesia|Jakarta|BIZNET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|103.84.159.8|80|Bangladesh|Dhaka|Shahjalal University|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |13|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|72.10.160.170|14433|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|10901|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|13643|Canada|Montreal|GloboTech Communications|
-|18|89.58.48.220|10009|Germany|Nuremberg|netcup GmbH|
-|19|134.35.0.78|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|20|103.84.159.8|80|Bangladesh|Dhaka|Shahjalal University|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|72.10.160.90|27167|Canada|Montreal|GloboTech Communications|
+|18|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|19|67.43.227.227|10877|Canada|Montreal|GloboTech Communications|
+|20|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
 
 
 
