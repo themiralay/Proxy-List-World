@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |3|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |4|139.59.129.114|3128|Germany|Frankfurt am Main|DIGITALOCEAN|
-|5|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|154.0.156.102|8080|Tanzania|Arusha|Habari Node PLC Dar|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|101.109.56.180|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|13|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
-|14|72.10.160.90|21249|Canada|Montreal|GloboTech Communications|
-|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|179.136.248.67|3128|Brazil|Divinópolis|Claro S.A.|
-|17|193.30.13.18|999|Ecuador|Lomas de Sargentillo|Eliana Vanessa Morocho Oña|
-|18|72.10.164.178|25465|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|38.253.88.242|999|Dominican Republic|Jarabacoa|Cogent Communications|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|14|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|89.58.48.220|10011|Germany|Nuremberg|netcup GmbH|
+|17|45.119.113.62|83|India|Hyderabad|Netrun Technologies PVT LTD|
+|18|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|19|72.10.164.178|25465|Canada|Montreal|GloboTech Communications|
+|20|82.223.222.8|3128|Spain|Barcelona|arsys.es|
 
 
 
