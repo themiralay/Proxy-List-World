@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|3|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|6|36.91.20.5|8080|Indonesia|Kartini|PT. Telekomunikasi Indonesia|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|8|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
 |14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.236.20|10145|Canada|Montreal|GloboTech Communications|
-|18|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
-|19|103.199.109.154|8080|Bangladesh|Paltan|Bijoy Online Ltd|
-|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|189.201.191.75|999|Mexico|Jesus Maria|IP Matrix, S.A. de C.V.|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 
 
 
