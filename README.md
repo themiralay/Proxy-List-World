@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
-|5|36.64.195.242|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|103.83.80.67|8080|India|Indore|Syntego Technologies India Private Limited|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|72.10.160.90|4337|Canada|Montreal|GloboTech Communications|
-|13|185.185.168.112|8080|Finland|Helsinki|Local Loop Oy|
-|14|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
-|15|213.244.91.179|8080|Palestinian Territory|Gaza|PALTEL (Palestine Telecommunications Co.)|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|72.10.164.178|3533|Canada|Montreal|GloboTech Communications|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|12|38.49.159.74|999|Mexico|El Pueblito|Ientc S De RL De CV|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|80.66.81.37|4000|Russia|Moscow|BUQU.SU Solutions|
+|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|16|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|17|212.39.74.207|8080|Bulgaria|Pleven|Bulgarian Telecommunications Company Plc.|
+|18|67.43.228.253|16799|Canada|Montreal|GloboTech Communications|
+|19|103.156.248.55|8080|Indonesia|Pekanbaru|Trans Media Telekomunikasi|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
