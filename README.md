@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|46.35.79.176|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
-|12|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|41.193.81.7|32650|South Africa|Johannesburg|Vox Telecom Ltd|
-|15|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|16|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|7|113.197.109.35|8080|Indonesia|Jakarta|ICN|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|10|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|46.35.79.176|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|67.43.236.20|10391|Canada|Montreal|GloboTech Communications|
+|16|77.242.22.225|8080|Albania|Tirana|Abissnet ISP|
+|17|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
 |18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|45.183.40.23|8080|Colombia|Contratación|TV AZTECA SUCURSAL COLOMBIA|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|50.236.203.15|8080|United States|Indianapolis|Comcast Cable Communications, LLC|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
