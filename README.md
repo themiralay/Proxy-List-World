@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|5|72.10.164.178|33113|Canada|Montreal|GloboTech Communications|
-|6|103.8.68.48|3128|China|Shiyan|China Telecom|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|11|67.43.236.20|23071|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|10007|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|14289|Canada|Montreal|GloboTech Communications|
-|14|64.225.4.81|10012|United States|Clifton|DigitalOcean, LLC|
-|15|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|16|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|1.20.200.154|8081|Thailand|Bangkok|TOT Public Company Limited|
-|18|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|20|72.10.160.174|13819|Canada|Montreal|GloboTech Communications|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|72.10.164.178|26059|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|203.202.252.149|1200|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|72.10.160.90|14289|Canada|Montreal|GloboTech Communications|
 
 
 
