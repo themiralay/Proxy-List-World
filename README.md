@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|67.43.227.227|1531|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|14147|Canada|Montreal|GloboTech Communications|
-|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|6|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|72.10.164.178|24597|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|72.10.160.90|7597|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14147|Canada|Montreal|GloboTech Communications|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|17|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|20|41.254.53.70|1976|Libya|Tripoli|LTT Network Backbone and POPs|
 
 
 
