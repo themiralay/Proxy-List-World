@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|2|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|70.69.134.83|4001|Canada|Chilliwack|Shaw Communications Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
-|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|11|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|8|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|46.52.192.171|3128|Russia|Moscow|Krasnoyarsk|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|200.59.184.121|999|Venezuela|Valera|TotalCom Venezuela C.A.|
 |13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|14|159.65.186.46|10007|United States|Clifton|DigitalOcean, LLC|
-|15|72.10.160.93|31679|Canada|Montreal|GloboTech Communications|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.160.170|9141|Canada|Montreal|GloboTech Communications|
-|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|15|34.90.142.110|3128|Netherlands|Groningen|Google LLC|
+|16|59.92.211.63|3128|India|Belgaum|BSNL Internet|
+|17|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|18|177.11.190.84|8080|Brazil|Franca|Multpontos Telecomunicações Ltda - ME|
+|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|20|105.113.2.85|8080|Nigeria|Lagos|Airtel Networks Limited|
 
 
 
