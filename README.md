@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|110.78.149.125|8080|Thailand|Bangkok|CAT-BB|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|115.236.55.186|10100|China|Hangzhou|Chinanet|
+|4|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|5|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|9|72.10.164.178|32445|Canada|Montreal|GloboTech Communications|
-|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|11|72.10.164.178|32445|Canada|Montreal|GloboTech Communications|
-|12|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|103.6.223.2|3128|China|Baoshan|China Unicom|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|9|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|200.59.184.121|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|11|185.19.4.22|3128|Ukraine|Kyiv|Triolan|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|19|67.43.236.20|31099|Canada|Montreal|GloboTech Communications|
-|20|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|222.216.37.138|808|China|Lilancun|Chinanet|
+|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|19|138.84.48.141|80|Colombia|Bogota|SpaceX Starlink|
+|20|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
 
 
 
