@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|101.109.56.180|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|7|210.61.216.63|60808|Taiwan|Banqiao|Chunghwa Telecom Co., Ltd.|
-|8|138.197.92.54|10017|United States|Clifton|DigitalOcean, LLC|
-|9|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
-|10|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|67.43.236.20|4009|Canada|Montreal|GloboTech Communications|
-|14|103.6.223.2|3128|China|Baoshan|China Unicom|
-|15|72.10.164.178|32245|Canada|Montreal|GloboTech Communications|
-|16|27.147.131.122|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|67.43.236.20|4009|Canada|Montreal|GloboTech Communications|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|5|182.253.115.130|8080|Indonesia|Salatiga|BIZNET|
+|6|188.240.124.18|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|9|27.147.131.122|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|103.69.106.88|8080|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|11|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|121.101.131.67|1111|Indonesia|Yogyakarta|PT SELARAS CITRA TERABIT|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|159.65.186.46|10016|United States|Clifton|DigitalOcean, LLC|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|20|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
