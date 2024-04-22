@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|6|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|7|110.78.149.125|8080|Thailand|Bangkok|CAT-BB|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|12|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|18|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|200.59.184.124|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|9|67.43.227.227|1911|Canada|Montreal|GloboTech Communications|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|147.161.200.255|9480|Japan|Tokyo|Zscaler, Inc.|
 
 
 
