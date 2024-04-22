@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|7|103.169.254.185|2068|Indonesia|Sidoarjo|PT Master Star Network|
+|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 |9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|36.88.148.138|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|16|103.107.84.124|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|45.71.200.175|999|Ecuador|Atuntaqui|Negocios Y Telefonia Nedetel S.A|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|187.157.243.254|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
