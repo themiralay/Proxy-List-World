@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|96.84.177.212|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|96.84.177.212|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|67.43.236.20|2417|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|8291|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|30189|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|15|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|19|179.1.192.46|999|Colombia|Ibagué|InterNexa Global Network|
-|20|67.43.236.20|2417|Canada|Montreal|GloboTech Communications|
+|5|177.93.36.151|999|Colombia|Pasto|TV AZTECA SUCURSAL COLOMBIA|
+|6|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|72.10.164.178|28599|Canada|Montreal|GloboTech Communications|
+|12|181.78.19.252|999|Colombia|Barrio San Luis|IFX Networks Argentina S.R.L|
+|13|72.10.164.178|28599|Canada|Montreal|GloboTech Communications|
+|14|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|67.43.227.226|30189|Canada|Montreal|GloboTech Communications|
+|17|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|18|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|89.58.48.220|10009|Germany|Nuremberg|netcup GmbH|
 
 
 
