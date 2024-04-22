@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|67.79.51.210|16099|United States|Pharr|Spectrum|
-|14|72.10.160.174|30457|Canada|Montreal|GloboTech Communications|
-|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|16|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|72.10.164.178|6935|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|13|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|67.43.227.227|6383|Canada|Montreal|GloboTech Communications|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
