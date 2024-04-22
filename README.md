@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|7|103.189.116.107|8080|Indonesia|Wonosobo|PT Callysta Total Solusindo|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|9|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|67.43.228.250|23843|Canada|Montreal|GloboTech Communications|
-|14|80.234.104.229|3128|Russia|Samara|Commerce Network|
-|15|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
-|16|67.43.227.228|8191|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|26789|Canada|Montreal|GloboTech Communications|
-|18|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
-|19|188.190.40.44|8080|Ukraine|Kyiv Oblast|Lanet Network Ltd|
-|20|117.70.49.252|8089|China|Rongcheng|Chinanet|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|72.10.160.90|10179|Canada|Montreal|GloboTech Communications|
+|16|66.211.155.34|8080|United States|Townsend|FirstLight Fiber|
+|17|72.10.164.178|26343|Canada|Montreal|GloboTech Communications|
+|18|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 
 
 
