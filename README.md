@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|157.92.152.14|8080|Argentina|Monte Grande|Universidad Nacional de Buenos Aires|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |6|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |8|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|182.253.170.57|8080|Indonesia|Jakarta|BIZNET|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.227.226|6755|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|19913|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|67.43.228.253|9409|Canada|Montreal|GloboTech Communications|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|74.62.179.122|8080|United States|Los Angeles|Charter Communications Inc|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|18|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.164.178|19913|Canada|Montreal|GloboTech Communications|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
