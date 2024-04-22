@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 |6|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|72.10.164.178|27579|Canada|Montreal|GloboTech Communications|
-|9|111.225.152.107|8089|China|Zhoutou|China Telecom|
+|7|72.10.164.178|6823|Canada|Montreal|GloboTech Communications|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|72.10.164.178|6823|Canada|Montreal|GloboTech Communications|
 |10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|72.10.164.178|27579|Canada|Montreal|GloboTech Communications|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|16|68.183.48.146|10013|United States|Clifton|DigitalOcean, LLC|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|114.232.109.23|8089|China|Nanjing|Chinanet|
-|19|200.59.184.121|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|20|91.214.31.136|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|11|72.10.164.178|6823|Canada|Montreal|GloboTech Communications|
+|12|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|13|67.43.227.228|25301|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|20|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
 
 
 
