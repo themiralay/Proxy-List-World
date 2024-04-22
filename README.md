@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|3|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|72.10.164.178|8837|Canada|Montreal|GloboTech Communications|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|11|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
-|12|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|72.10.164.178|8837|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|72.10.160.90|2243|Canada|Montreal|GloboTech Communications|
-|19|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|159.65.186.46|10011|United States|Clifton|DigitalOcean, LLC|
+|8|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|72.10.164.178|2863|Canada|Montreal|GloboTech Communications|
+|11|134.35.181.67|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|12|177.234.240.124|1993|Ecuador|Gualaquiza|Ufinet Panama S.A.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|67.43.227.227|1531|Canada|Montreal|GloboTech Communications|
+|20|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
 
 
 
