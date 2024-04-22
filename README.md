@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|9|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
-|10|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
 |12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|14|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|187.189.175.136|999|Mexico|San Pedro|Total Play Telecomunicaciones SA De CV|
-|16|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|19|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|103.111.207.138|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|15|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.173|26401|Canada|Montreal|GloboTech Communications|
+|18|200.59.184.121|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|72.10.164.178|23659|Canada|Montreal|GloboTech Communications|
 
 
 
