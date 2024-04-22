@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|6|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|7|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.8.68.48|3128|China|Shiyan|China Telecom|
-|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|11|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|67.43.227.227|8167|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|8167|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|8167|Canada|Montreal|GloboTech Communications|
-|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|18|72.10.160.170|12453|Canada|Montreal|GloboTech Communications|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
+|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|6|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|74.62.179.122|8080|United States|Los Angeles|Charter Communications Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|67.43.236.20|23415|Canada|Montreal|GloboTech Communications|
+|11|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|80.65.28.57|30962|Russia|Krasnoyarsk|Orion Telecom LLC|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|203.150.128.56|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 
 
 
