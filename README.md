@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|67.43.228.253|7893|Canada|Montreal|GloboTech Communications|
-|7|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|67.43.228.253|7893|Canada|Montreal|GloboTech Communications|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|72.10.160.90|17799|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|67.43.228.253|7893|Canada|Montreal|GloboTech Communications|
-|15|119.47.90.73|8181|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|182.253.233.132|8080|Indonesia|Jakarta|BIZNET|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|67.43.228.253|4309|Canada|Montreal|GloboTech Communications|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|72.10.160.90|21311|Canada|Montreal|GloboTech Communications|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|103.152.232.45|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|189.203.181.34|8080|Mexico|Ciudad Nezahualcoyotl|Total Play Telecomunicaciones SA De CV|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
-|18|72.10.164.178|13593|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|13593|Canada|Montreal|GloboTech Communications|
-|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|47.76.163.115|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|182.253.26.196|8080|Indonesia|Jakarta Pusat|BIZNET|
+|20|72.10.160.90|21311|Canada|Montreal|GloboTech Communications|
 
 
 
