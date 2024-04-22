@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|182.253.233.132|8080|Indonesia|Jakarta|BIZNET|
-|5|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|36.88.111.98|55443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|14|12.133.53.17|83|United States|Beachwood|AT&T Services, Inc.|
-|15|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|16|103.156.75.41|8181|Indonesia|Denpasar|PT Trika Global Media|
-|17|157.100.57.180|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|186.201.63.83|3128|Brazil|São Paulo|Vivo|
-|19|200.111.232.94|8080|Chile|Santiago|Entel Chile S.A.|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|3|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|12|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|103.160.206.197|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|20|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 
 
 
