@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|5|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|177.93.60.70|999|Colombia|Medellín|TV AZTECA SUCURSAL COLOMBIA|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 |12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|202.169.51.46|8080|Indonesia|Jakarta Pusat|Biznet - PSN-NAP|
-|14|103.105.76.249|8080|Indonesia|Bojonegoro|GARUDA|
-|15|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|16|177.136.125.209|8080|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|17|67.43.228.253|29629|Canada|Montreal|GloboTech Communications|
-|18|118.99.119.133|8080|Indonesia|Bandar Lampung|BIZNET|
-|19|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|148.101.179.182|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|17|117.4.50.142|32650|Vietnam|Ha Long|VIETTEL|
+|18|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|170.238.112.71|8080|Brazil|Placas|Marlon Lima Gomes - ME|
+|20|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
 
 
 
