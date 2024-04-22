@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|5|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|13|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|202.144.157.1|9009|Bhutan|Thimphu|Bhutan Telecom Ltd|
+|7|70.69.134.83|4001|Canada|Chilliwack|Shaw Communications Inc.|
+|8|45.4.201.32|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|165.22.36.164|10018|United States|Clifton|DigitalOcean, LLC|
 |14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|165.22.36.164|10010|United States|Clifton|DigitalOcean, LLC|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|159.192.138.170|8080|Thailand|Bangkok|CAT-BB|
 
 
 
