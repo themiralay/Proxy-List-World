@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|117.4.50.142|32650|Vietnam|Ha Long|VIETTEL|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|103.152.232.60|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|116.68.172.170|8080|Indonesia|Jakarta||
+|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 |12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|13|180.123.80.90|8089|China|Xuzhou|Chinanet|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|114.106.136.203|8089|China|Rongcheng|Chinanet|
-|16|103.165.155.195|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|17|72.10.164.178|29761|Canada|Montreal|GloboTech Communications|
-|18|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|19|67.43.228.253|11957|Canada|Montreal|GloboTech Communications|
-|20|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|114.106.136.203|8089|China|Rongcheng|Chinanet|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|72.10.164.178|29761|Canada|Montreal|GloboTech Communications|
+|17|103.59.44.75|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|18|103.191.115.114|83|India|Bānka|Xpress Fiber Private Limited|
+|19|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|20|72.10.160.90|8325|Canada|Montreal|GloboTech Communications|
 
 
 
