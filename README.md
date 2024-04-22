@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|5|103.111.207.138|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|6|67.43.227.227|22429|Canada|Montreal|GloboTech Communications|
+|2|203.202.253.108|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|3|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|4|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |7|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 |8|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|11|113.23.183.154|8989|Malaysia|Subang Jaya|Extreme Broadband|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|72.10.164.178|13139|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|18923|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|10465|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|13139|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|13|8.242.85.8|999|Colombia|Medellín|Level 3 Communications, Inc.|
+|14|72.10.164.178|5811|Canada|Montreal|GloboTech Communications|
+|15|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|18|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|19|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|20|177.93.59.42|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
