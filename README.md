@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|7|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|8|103.68.3.195|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|72.10.160.93|2261|Canada|Montreal|GloboTech Communications|
 |9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|200.59.184.123|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|67.43.236.20|9121|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|72.10.160.93|2261|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|20801|Canada|Montreal|GloboTech Communications|
-|18|185.105.118.72|80|Finland|Helsinki|I-servers LTD|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|15|103.154.77.64|83|Indonesia|Yogyakarta|T2NET|
+|16|67.43.236.20|9121|Canada|Montreal|GloboTech Communications|
+|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|18|94.102.228.101|32650|Montenegro|Podgorica|One Crna Gora DOO|
+|19|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
