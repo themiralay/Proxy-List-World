@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 |5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|121.101.134.214|1111|Indonesia|Yogyakarta|PT SELARAS CITRA TERABIT|
-|9|103.171.31.175|8080|Indonesia|Pengarengan|MORATELINDONAP|
+|8|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |10|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|13|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|14|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|157.10.156.100|1080|Indonesia|Enrekang|PT Singki Media Telekomunikasi|
-|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|18|67.43.228.251|6785|Canada|Montreal|GloboTech Communications|
-|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|146.120.73.210|8080|Russia|St Petersburg|Unet Communication LLC|
+|12|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|67.43.236.20|20301|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.173|2683|Canada|Montreal|GloboTech Communications|
+|19|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|20|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 
 
 
