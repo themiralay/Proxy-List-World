@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|182.253.170.57|8080|Indonesia|Jakarta|BIZNET|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|64.225.4.81|10012|United States|Clifton|DigitalOcean, LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|115.74.106.46|4003|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|15|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|16|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|20|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|72.10.160.174|13819|Canada|Montreal|GloboTech Communications|
+|11|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|12|72.10.160.173|21913|Canada|Montreal|GloboTech Communications|
+|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|64.225.4.81|10012|United States|Clifton|DigitalOcean, LLC|
+|16|201.77.128.158|8080|Brazil|Machado|Axtelecom Ltda|
+|17|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|18|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|19|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|20|82.223.222.8|3128|Spain|Barcelona|arsys.es|
 
 
 
