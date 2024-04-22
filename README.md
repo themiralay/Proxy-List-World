@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|2|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|82.223.222.8|3128|Spain|Barcelona|arsys.es|
 |4|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|103.8.68.48|3128|China|Shiyan|China Telecom|
-|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|9|181.197.130.218|80|Panama|David|Cable Onda|
-|10|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|11|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.160.90|13457|Canada|Montreal|GloboTech Communications|
-|14|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|7|45.178.133.76|999|Chile|Renca|Mundonet S.p.A|
+|8|138.84.48.141|80|Colombia|Bogota|SpaceX Starlink|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|138.197.92.54|10005|United States|Clifton|DigitalOcean, LLC|
 |16|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|17|114.106.134.131|8089|China|Guangzhou|Chinanet|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|20|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
