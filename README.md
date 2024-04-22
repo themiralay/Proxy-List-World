@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|67.43.236.18|10003|Canada|Montreal|GloboTech Communications|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
+|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|67.43.236.18|10003|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|67.43.228.252|10089|Canada|Montreal|GloboTech Communications|
+|15|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|16|103.141.109.143|8181|Indonesia|Keputih|Data Buana Nusantara|
 |17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|185.198.72.98|3128|Türkiye|Istanbul|DGN TEKNOLOJI A.S.|
+|18|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
