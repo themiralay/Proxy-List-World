@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|64.225.4.81|10014|United States|Clifton|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 |9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|103.8.68.46|3128|China|Shiyan|China Telecom|
-|13|200.59.184.125|999|Venezuela|Valera|TotalCom Venezuela C.A.|
-|14|67.43.228.253|16389|Canada|Montreal|GloboTech Communications|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|154.26.135.123|3128|Singapore|Singapore|Cogent Communications|
-|18|72.10.160.90|19173|Canada|Montreal|GloboTech Communications|
-|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|24.152.58.22|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|15|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|200.59.184.120|999|Venezuela|Valera|TotalCom Venezuela C.A.|
+|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 
 
 
