@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|12|103.154.120.147|8080|Indonesia|Jakarta|MORATELINDONAP|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
-|16|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|72.10.160.90|14781|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|31359|Canada|Montreal|GloboTech Communications|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|72.10.160.90|22059|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|17|139.255.74.124|8080|Indonesia|Jakarta|PT. LINKNET|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|72.10.164.178|1369|Canada|Montreal|GloboTech Communications|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
