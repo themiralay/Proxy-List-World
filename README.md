@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.92.48.103|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|138.118.106.121|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|9|159.65.176.77|10016|United States|Clifton|DigitalOcean, LLC|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|43.243.140.58|10001|Indonesia|Pisangan|CEPATNET|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|72.10.164.178|25295|Canada|Montreal|GloboTech Communications|
-|14|201.77.108.72|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|15|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|16|190.186.1.121|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|17|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|19|190.120.249.60|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|20|72.10.160.174|7667|Canada|Montreal|GloboTech Communications|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|8|201.77.108.72|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
+|12|200.174.198.37|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|190.220.1.173|56974|Argentina|Buenos Aires|AMX Argentina S.A.|
+|14|138.197.16.249|10016|United States|Clifton|DigitalOcean, LLC|
+|15|186.125.218.145|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|16|159.65.176.77|10016|United States|Clifton|DigitalOcean, LLC|
+|17|222.216.37.138|808|China|Lilancun|Chinanet|
+|18|1.10.141.45|8080|Thailand|Pak Kret|TOT Public Company Limited|
+|19|172.104.189.60|8080|Singapore|Singapore|Akamai Technologies|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
