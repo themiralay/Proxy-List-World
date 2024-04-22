@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|101.109.56.244|8080|Thailand|Bang Lamung|TOT Public Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|5|185.198.72.98|3128|Türkiye|Istanbul|DGN TEKNOLOJI A.S.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|185.198.72.98|3128|Türkiye|Istanbul|DGN TEKNOLOJI A.S.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|114.245.111.48|34811|China|Guangzhou|China Unicom Beijing Province Network|
-|9|72.10.160.173|8863|Canada|Montreal|GloboTech Communications|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.228.252|10089|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|3407|Canada|Montreal|GloboTech Communications|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|67.43.236.20|13263|Canada|Montreal|GloboTech Communications|
+|9|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|103.75.52.186|8080|Indonesia|Tangerang|PT Quantum Tera Network|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|19|67.43.236.20|4325|Canada|Montreal|GloboTech Communications|
-|20|185.198.72.98|3128|Türkiye|Istanbul|DGN TEKNOLOJI A.S.|
+|18|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|19|177.240.4.125|999|Mexico|Ciudad General Teran|Mega Cable, S.A. de C.V.|
+|20|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
