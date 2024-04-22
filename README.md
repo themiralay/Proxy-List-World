@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|37.24.165.222|3128|Germany|Frankfurt am Main|Vodafone|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|146.120.73.210|8080|Russia|St Petersburg|Unet Communication LLC|
+|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|60.174.0.11|8089|China|Guangzhou|Chinanet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|60.174.0.11|8089|China|Guangzhou|Chinanet|
-|11|67.43.236.20|11783|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|3895|Canada|Montreal|GloboTech Communications|
-|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|18|67.43.227.227|3895|Canada|Montreal|GloboTech Communications|
-|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|9|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|10|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|14|170.83.76.22|999|Venezuela|Caracas|Galanet Solution C.A.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|217.26.191.75|999|Venezuela|Maracay|Corporacion Digitel C.A.|
+|17|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|18|103.207.1.82|8080|India|Chennai|Sri Vari Network Private Limited|
+|19|103.174.108.42|3128|India|Kanpur|Entire Cable And Broadband Opc Private Limited|
+|20|82.223.222.8|3128|Spain|Barcelona|arsys.es|
 
 
 
