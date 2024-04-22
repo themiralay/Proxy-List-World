@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|72.10.164.178|10243|Canada|Montreal|GloboTech Communications|
-|5|72.10.160.90|2125|Canada|Montreal|GloboTech Communications|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|72.10.164.178|24277|Canada|Montreal|GloboTech Communications|
+|6|72.10.160.90|3295|Canada|Montreal|GloboTech Communications|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |8|181.197.130.218|80|Panama|David|Cable Onda|
 |9|67.43.227.227|30637|Canada|Montreal|GloboTech Communications|
-|10|103.6.223.2|3128|China|Baoshan|China Unicom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|72.10.164.178|10243|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|6761|Canada|Montreal|GloboTech Communications|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|82.223.222.8|3128|Spain|Barcelona|arsys.es|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|138.84.48.141|80|Colombia|Bogota|SpaceX Starlink|
+|18|67.43.236.20|18277|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 
 
 
