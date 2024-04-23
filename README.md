@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|5|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|103.178.42.10|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|7|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
-|8|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|9|188.168.24.222|81|Russia|Irkutsk|TTK-Retail|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|103.159.196.81|8080|Indonesia|Serang|PT Andalan Dinamika Informatika|
-|12|67.43.227.227|19103|Canada|Montreal|GloboTech Communications|
-|13|103.130.82.46|8080|Indonesia|Bengkalis|PT Central Digital Network|
-|14|103.159.96.131|3125|Indonesia|Malang|MYRISE|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|182.16.171.42|43188|Indonesia|Menteng|PT iForte Global Internet|
-|17|72.10.164.178|31033|Canada|Montreal|GloboTech Communications|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|67.43.236.22|8557|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|7|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|67.43.227.227|19103|Canada|Montreal|GloboTech Communications|
+|10|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|72.10.164.178|11203|Canada|Montreal|GloboTech Communications|
+|12|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|13|64.225.8.132|10005|United States|Clifton|DigitalOcean, LLC|
+|14|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|159.65.176.77|10005|United States|Clifton|DigitalOcean, LLC|
+|18|103.158.27.88|1212|Indonesia|Magelang|PT Madina Solusi Indonesia|
+|19|103.173.230.108|8080|Indonesia|Tasikmalaya|PT Jaringan Internet Banten|
+|20|103.51.205.98|8080|Indonesia|Semarang|Lintas Data Prima, PT|
 
 
 
