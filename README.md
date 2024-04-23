@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|4|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|67.43.228.251|19989|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|72.10.160.174|12315|Canada|Montreal|GloboTech Communications|
-|15|103.159.90.14|83|India|Bhagwāngola|Pegasuswave Private Limited|
-|16|72.10.160.90|18891|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|101.251.204.174|8080|United States|Los Angeles|IDC, China Telecommunications Corporation|
-|19|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|67.43.228.251|27585|Canada|Montreal|GloboTech Communications|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|14|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|72.10.160.174|12315|Canada|Montreal|GloboTech Communications|
+|19|103.48.68.28|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
 
 
 
