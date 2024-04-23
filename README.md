@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.247.122.166|8080|Indonesia|Semarang|PT Media Sarana Data|
-|10|89.58.48.220|10009|Germany|Nuremberg|netcup GmbH|
-|11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|103.158.27.88|1212|Indonesia|Magelang|PT Madina Solusi Indonesia|
-|15|72.10.164.178|18681|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|18|132.255.50.126|3128|Brazil|Macapá|R & B Serviços de Telecomunicações Ltda.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|103.158.27.88|1212|Indonesia|Magelang|PT Madina Solusi Indonesia|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|103.156.17.63|8080|Indonesia|Indramayu|RSTNET|
+|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|72.10.164.178|32137|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|202.154.189.189|8080|Indonesia|Batam|PT SOLNET INDONESIA|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
