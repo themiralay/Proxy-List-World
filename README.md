@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|75.119.128.220|1234|Germany|Düsseldorf|Contabo GmbH|
-|5|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|75.119.128.220|1234|Germany|Düsseldorf|Contabo GmbH|
-|11|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|147.139.140.74|80|Indonesia|Jakarta|Alibaba.com LLC|
-|14|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
-|17|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|18|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|19|103.152.232.53|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|20|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|75.119.128.220|1234|Germany|Düsseldorf|Contabo GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|122.144.6.66|3777|Indonesia|Depok|Maxindo|
+|7|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|9|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|75.119.128.220|1234|Germany|Düsseldorf|Contabo GmbH|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
+|18|103.48.68.28|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|147.139.140.74|80|Indonesia|Jakarta|Alibaba.com LLC|
+|20|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
