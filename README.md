@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
-|3|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
-|7|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|181.204.172.172|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|9|72.10.160.91|31319|Canada|Montreal|GloboTech Communications|
-|10|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|16|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|17|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|67.43.236.20|4795|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|4019|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
+|5|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
+|6|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|8|187.73.102.70|9292|Brazil|Tailândia|Celante Servicos De Telecomunicacoes Ltda - EPP|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|103.88.239.38|84|India|Hyderabad|Mana Communications|
+|14|67.43.236.20|4795|Canada|Montreal|GloboTech Communications|
+|15|222.127.75.23|8085|Philippines|Lahug|INNOVE|
+|16|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|17|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|72.10.164.178|4019|Canada|Montreal|GloboTech Communications|
+|19|45.236.107.86|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
 
 
 
