@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|7|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
+|6|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|134.35.161.254|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 |9|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|159.65.176.77|10012|United States|Clifton|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|14|134.35.161.254|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|103.8.68.48|3128|China|Shiyan|China Telecom|
-|19|148.0.1.43|8080|Dominican Republic|Nacional|Compañía Dominicana de Teléfonos S. A.|
-|20|67.43.228.251|15463|Canada|Montreal|GloboTech Communications|
+|10|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
+|12|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|18|72.10.164.178|9507|Canada|Montreal|GloboTech Communications|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
 
 
 
