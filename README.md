@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.35.0.44|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|3|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
-|4|181.209.72.171|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|13|85.239.234.94|3184|United States|Seattle|Casablanca INT fraction|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|17|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|67.43.227.227|25265|Canada|Montreal|GloboTech Communications|
-|19|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|20|72.10.164.178|1519|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|134.35.0.44|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|181.209.72.171|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|7|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|14|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
