@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|7|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|72.10.164.178|29789|Canada|Montreal|GloboTech Communications|
-|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|72.10.160.172|8937|Canada|Montreal|GloboTech Communications|
-|11|103.8.68.48|3128|China|Shiyan|China Telecom|
-|12|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|103.153.35.87|3127|Indonesia|Subang|JMExpress|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|19|67.43.227.226|27367|Canada|Montreal|GloboTech Communications|
-|20|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|36.66.177.26|8080|Indonesia|Pedalangan|PT. Telekomunikasi Indonesia|
+|10|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|67.43.227.227|13155|Canada|Montreal|GloboTech Communications|
+|13|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|72.10.164.178|24341|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|17|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
