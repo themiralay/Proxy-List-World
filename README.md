@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|194.117.230.230|3128|Romania|Bucharest|Mondo-Byte SRL|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|72.10.164.178|5133|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|24805|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|172.232.115.138|8080|India|Chennai|Akamai Technologies, Inc.|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.228.253|20345|Canada|Montreal|GloboTech Communications|
+|13|119.93.148.191|8080|Philippines|Tigbauan|Philippine Long Distance Telephone Co.|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|67.43.228.254|24805|Canada|Montreal|GloboTech Communications|
+|16|103.234.159.5|8080|India|Bengaluru|MWPL|
 |17|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|67.43.236.20|12523|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|5133|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|12523|Canada|Montreal|GloboTech Communications|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
