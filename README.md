@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|5|78.158.171.135|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|103.147.84.9|8080|Indonesia|Tangerang|PT DATA PRIMA SOLUSINDO|
-|10|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|181.197.130.218|80|Panama|David|Cable Onda|
-|20|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|9|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|10|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|123.112.214.51|9000|China|Beijing|China Unicom Beijing Province Network|
+|18|72.10.164.178|13729|Canada|Montreal|GloboTech Communications|
+|19|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
