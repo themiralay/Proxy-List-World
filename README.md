@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|5|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.232.115.138|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|9|8.243.126.230|999|Peru|Ventanilla|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
-|10|103.179.246.30|8080|Pakistan|Multan|Orbit Networks Private Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|159.65.176.77|10015|United States|Clifton|DigitalOcean, LLC|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|123.200.18.155|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|9|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|12|202.40.185.146|8080|Bangladesh|Dhaka|Ranks ITT|
+|13|103.74.229.133|8080|Bangladesh|Dhaka|Windstream Communication Ltd|
+|14|46.35.91.252|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|172.232.115.138|8080|India|Chennai|Akamai Technologies, Inc.|
 |16|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|72.10.160.170|7069|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.164.178|21627|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|103.26.110.209|84|India|Tirunelveli|Niss Networks|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|159.65.176.77|10015|United States|Clifton|DigitalOcean, LLC|
 
 
 
