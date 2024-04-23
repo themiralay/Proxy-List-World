@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|190.144.80.122|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|9|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.236.20|25907|Canada|Montreal|GloboTech Communications|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|16|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|17|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|18|172.232.115.138|8080|India|Chennai|Akamai Technologies, Inc.|
-|19|46.35.91.252|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|172.232.115.138|8080|India|Chennai|Akamai Technologies, Inc.|
+|7|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|123.200.18.155|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|14|67.43.236.20|25907|Canada|Montreal|GloboTech Communications|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|113.160.247.27|19132|Vietnam|Binh Son|VietNam Post and Telecom Corporation|
+|17|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|172.232.115.138|8080|India|Chennai|Akamai Technologies, Inc.|
+|20|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 
 
 
