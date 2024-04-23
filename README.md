@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|202.162.213.178|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|8|102.68.128.211|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
-|16|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|18|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
-|19|72.10.160.170|5603|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|21421|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|178.130.108.224|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|72.10.164.178|5133|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.250|6865|Canada|Montreal|GloboTech Communications|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|103.111.207.138|32650|Indonesia|Jakarta|PT Cyberindo Aditama|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|213.244.91.179|8080|Palestinian Territory|Gaza|PALTEL (Palestine Telecommunications Co.)|
+|16|67.43.236.20|9399|Canada|Montreal|GloboTech Communications|
+|17|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
+|18|103.131.237.2|8080|Indonesia|Dumai|PT. DUMAI MANDIRI NET|
+|19|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|159.65.176.77|10016|United States|Clifton|DigitalOcean, LLC|
 
 
 
