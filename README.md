@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
 |9|165.22.36.164|10003|United States|Clifton|DigitalOcean, LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
+|12|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
 |13|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|138.84.48.141|80|Colombia|Bogota|SpaceX Starlink|
+|16|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|17|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|72.10.160.90|31869|Canada|Montreal|GloboTech Communications|
 
 
 
