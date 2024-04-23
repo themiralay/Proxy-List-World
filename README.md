@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
+|4|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|103.182.112.11|1234|India|Mumbai|Ruhi Infotech|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|72.10.164.178|1117|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|5247|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|1117|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|152.170.208.188|8080|Argentina|Buenos Aires|Telecom Argentina S.A|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|103.76.151.90|8090|Indonesia|Klatakan|PT. Java Digital Nusantara|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|67.43.228.251|26423|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|20|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
