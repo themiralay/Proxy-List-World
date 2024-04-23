@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|2|134.35.15.26|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|119.76.142.211|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|5|185.139.94.70|8080|Germany|Ravensburg|Norbert Herter trading as Regionetz.net|
-|6|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
-|7|134.35.15.26|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|6|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|67.43.236.20|21783|Canada|Montreal|GloboTech Communications|
 |9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
-|13|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|72.10.164.178|24483|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|72.10.164.178|24483|Canada|Montreal|GloboTech Communications|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|20|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|10|72.10.160.171|3033|Canada|Montreal|GloboTech Communications|
+|11|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|72.10.164.178|7333|Canada|Montreal|GloboTech Communications|
+|16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|17|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|103.153.35.87|3127|Indonesia|Subang|JMExpress|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|64.225.8.132|10001|United States|Clifton|DigitalOcean, LLC|
 
 
 
