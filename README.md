@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|36.90.92.90|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
-|7|72.10.160.90|5733|Canada|Montreal|GloboTech Communications|
-|8|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|13|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|103.8.68.48|3128|China|Shiyan|China Telecom|
-|15|72.10.160.90|5733|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|19|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|72.10.160.90|5733|Canada|Montreal|GloboTech Communications|
+|6|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|7|103.182.112.11|1234|India|Mumbai|Ruhi Infotech|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|91.150.189.122|30389|Poland|Rzeszów|Skyware Sp. z o.o.|
+|10|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|103.1.51.23|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|103.153.63.137|3125|Indonesia|Rejoagung Satu|IMEDIANET|
+|18|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|19|177.115.239.37|8080|Brazil|São Paulo|Vivo|
+|20|72.10.160.90|5733|Canada|Montreal|GloboTech Communications|
 
 
 
