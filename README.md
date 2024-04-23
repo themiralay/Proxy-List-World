@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.228.167.6|8080|India|Delhi|FAB FIVE NETWORK PRIVATE LIMITED|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|67.43.227.227|17661|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.35.0.44|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
+|6|203.192.217.6|8080|India|Mumbai|Entire In2Cable|
 |7|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|8|95.158.179.216|32799|Bulgaria|Veliko Tarnovo|Videosat 21 Vek OOD|
-|9|101.255.164.134|8080|Indonesia|Bekasi|PT Remala Abadi|
-|10|27.147.217.102|80|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|70.90.138.109|8080|United States|Southfield|Comcast Cable Communications, LLC|
-|12|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|138.2.150.47|42157|Germany|Frankfurt am Main|Oracle Corporation|
-|15|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|203.150.128.93|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|9|67.43.228.253|8451|Canada|Montreal|GloboTech Communications|
+|10|181.232.190.220|999|Dominican Republic|Guerra|Jarm Telecomunicaciones SRL|
+|11|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|185.202.165.1|53281|Spain|Monda|AVATEL TELECOM, SA|
+|17|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
 |18|197.98.201.122|10810|South Africa|Johannesburg|Dimension Data|
-|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|20|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|103.8.68.48|3128|China|Shiyan|China Telecom|
+|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
 
 
 
