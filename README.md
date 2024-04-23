@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.200.14.194|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|103.206.253.165|8080|Indonesia|Jakarta|Server Farm2 Jakarta|
+|5|119.235.219.50|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
+|6|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
 |7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 |8|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|103.179.182.159|8888|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|11|190.128.201.235|3128|Paraguay|Luque|Telecel S.A.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|20|72.10.164.178|8603|Canada|Montreal|GloboTech Communications|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|12|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|15|72.10.164.178|27587|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|67.43.236.20|33271|Canada|Montreal|GloboTech Communications|
+|20|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
