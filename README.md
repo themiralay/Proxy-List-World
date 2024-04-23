@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|3|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
 |4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|7|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|8|67.43.228.253|22799|Canada|Montreal|GloboTech Communications|
-|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|10|72.10.160.170|10497|Canada|Montreal|GloboTech Communications|
-|11|59.98.151.201|8080|India|Alwar|BSNL Internet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|103.48.68.28|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
-|16|172.232.115.138|8080|India|Chennai|Akamai Technologies, Inc.|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|67.43.228.253|22799|Canada|Montreal|GloboTech Communications|
-|19|197.232.10.202|41890|Kenya|Busia|Jamii Telecommunications Limited|
-|20|103.152.232.123|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|5|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|10|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|67.43.228.253|22799|Canada|Montreal|GloboTech Communications|
+|15|103.143.168.98|82|India|Hyderabad|Aspt Networks Pvt Ltd|
+|16|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|17|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|172.232.115.138|8080|India|Chennai|Akamai Technologies, Inc.|
+|19|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
+|20|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
