@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.154.161.152|80|Italy|Milan|Google LLC|
+|2|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|75.119.128.220|1234|Germany|Düsseldorf|Contabo GmbH|
-|5|116.58.232.93|8080|Thailand|Bangkok Noi|CAT Telecom Public Company Limited|
-|6|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|75.119.128.220|1234|Germany|Düsseldorf|Contabo GmbH|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|103.191.196.108|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|67.43.227.227|7307|Canada|Montreal|GloboTech Communications|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|34.154.161.152|80|Italy|Milan|Google LLC|
-|15|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|18|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|64.225.4.81|10016|United States|Clifton|DigitalOcean, LLC|
+|4|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|75.119.128.220|1234|Germany|Düsseldorf|Contabo GmbH|
+|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|9|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|75.119.128.220|1234|Germany|Düsseldorf|Contabo GmbH|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|16|103.164.214.122|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|17|67.43.227.227|7307|Canada|Montreal|GloboTech Communications|
+|18|103.26.110.125|84|India|Tirunelveli|Niss Networks|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.8.68.48|3128|China|Shiyan|China Telecom|
 
 
 
