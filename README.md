@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|1.20.200.154|8081|Thailand|Bangkok|TOT Public Company Limited|
-|3|64.225.4.81|10011|United States|Clifton|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|6|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|159.65.186.46|10001|United States|Clifton|DigitalOcean, LLC|
-|10|157.10.156.100|1080|Indonesia|Enrekang|PT Singki Media Telekomunikasi|
-|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|14|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|15|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|17|103.8.68.48|3128|China|Shiyan|China Telecom|
-|18|103.78.96.146|80|Indonesia|Jakarta|MORATELINDO|
-|19|67.43.227.226|23937|Canada|Montreal|GloboTech Communications|
-|20|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|2|116.58.232.117|8080|Thailand|Bangkok Noi|CAT Telecom Public Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|122.144.6.66|3777|Indonesia|Depok|Maxindo|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
+|8|45.174.79.232|999|Mexico|Miguel Ahumada|Raul Duarte Urita|
+|9|103.152.232.58|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|103.26.129.18|8080|Indonesia|Demak|PT Panglima Kamayo Media|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|103.156.70.38|8084|Indonesia|Banyuwangi|PT Indo Access Semesta|
+|14|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
+|15|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|103.78.96.146|80|Indonesia|Jakarta|MORATELINDO|
+|17|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|18|103.8.68.48|3128|China|Shiyan|China Telecom|
+|19|103.75.52.186|8080|Indonesia|Tangerang|PT Quantum Tera Network|
+|20|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
 
 
 
