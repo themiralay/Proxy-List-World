@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|4|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|211.51.126.134|3128|South Korea|Uijeongbu-si|KORNET|
-|8|78.158.171.135|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|78.158.171.135|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |9|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.227.227|28317|Canada|Montreal|GloboTech Communications|
-|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|72.10.164.178|31943|Canada|Montreal|GloboTech Communications|
-|19|148.0.1.43|8080|Dominican Republic|Nacional|Compañía Dominicana de Teléfonos S. A.|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|195.175.29.38|9090|Turkey|Adana|Turk Telekomunikasyon A.S|
+|14|205.196.184.69|50704|United States|Houston|Phonoscope|
+|15|84.244.119.36|23500|Czechia|Chroustov|BlueTone-CRa|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|20|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
 
 
 
