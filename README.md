@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 |10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|103.8.68.48|3128|China|Shiyan|China Telecom|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|86.125.149.142|8080|Romania|Timișoara|RCS & RDS|
 |17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|18|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
-|19|67.43.228.253|13863|Canada|Montreal|GloboTech Communications|
-|20|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|19|72.10.164.178|6343|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
