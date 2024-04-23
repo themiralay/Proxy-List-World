@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
-|11|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|18|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|19|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|4|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
