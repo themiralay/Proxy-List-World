@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
-|8|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|123.108.92.70|8082|Pakistan|Faisalabad|A.A Networks PVT Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|131.117.164.6|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.160.184.236|6588|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|7|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
 |11|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|17|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
-|18|185.202.165.1|53281|Spain|Monda|AVATEL TELECOM, SA|
-|19|181.57.131.122|8080|Colombia|Cartagena|Telmex Colombia S.A.|
-|20|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|15|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|123.112.214.51|9000|China|Beijing|China Unicom Beijing Province Network|
+|18|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|19|138.84.48.141|80|Colombia|Bogota|SpaceX Starlink|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
