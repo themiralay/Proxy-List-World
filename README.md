@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|113.160.247.27|19132|Vietnam|Binh Son|VietNam Post and Telecom Corporation|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|112.78.150.133|8080|Indonesia|Jakarta|Biznet Networks|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
-|13|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|14|159.65.186.46|10013|United States|Clifton|DigitalOcean, LLC|
-|15|68.183.48.146|10013|United States|Clifton|DigitalOcean, LLC|
-|16|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.228.253|2457|Canada|Montreal|GloboTech Communications|
-|19|138.197.16.249|10013|United States|Clifton|DigitalOcean, LLC|
-|20|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|4|202.180.20.66|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
+|11|103.76.108.30|8080|Indonesia|Lumajang|PT Mahawira Nusantara Grup|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|171.102.10.74|8080|Thailand|Din Daeng|True International Gateway Co., Ltd.|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|46.161.196.222|9812|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|18|190.61.46.227|999|Colombia|Chimá|Ufinet Panama S.A.|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
 
 
 
