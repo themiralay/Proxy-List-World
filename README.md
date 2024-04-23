@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.32.67.107|65535|Philippines|San Mateo|Converge ICT Solution Inc|
-|4|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|18|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|3|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|89.58.48.220|10013|Germany|Nuremberg|netcup GmbH|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|46.35.90.151|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|19|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
