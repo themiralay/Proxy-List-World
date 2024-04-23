@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|78.158.171.135|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|103.36.10.234|7777|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|181.197.130.218|80|Panama|David|Cable Onda|
-|17|80.65.28.57|30962|Russia|Krasnoyarsk|Orion Telecom LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|181.197.130.218|80|Panama|David|Cable Onda|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|17|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
