@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|46.35.91.252|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|9|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|14|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|72.10.164.178|1411|Canada|Montreal|GloboTech Communications|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|171.102.10.74|8080|Thailand|Din Daeng|True International Gateway Co., Ltd.|
+|4|103.156.17.63|8080|Indonesia|Indramayu|RSTNET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|112.78.150.133|8080|Indonesia|Jakarta|Biznet Networks|
+|10|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|13|46.35.91.252|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|14|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|15|172.232.115.138|8080|India|Chennai|Akamai Technologies, Inc.|
+|16|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
+|17|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|72.10.164.178|21627|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
