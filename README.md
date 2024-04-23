@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|178.130.108.184|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
-|9|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
-|10|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|222.127.220.86|8082|Philippines|Quezon City|GLBB|
+|6|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|10|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |11|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|16|72.10.164.178|10951|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|66.223.176.201|8080|United States|Fairbanks|General Communication|
-|19|67.43.236.20|9497|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|20321|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|16|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|103.48.69.105|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|181.209.111.82|999|Argentina|Villa de Soto|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
