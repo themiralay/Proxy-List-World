@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|103.105.125.94|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|67.43.227.227|2397|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.172|18681|Canada|Montreal|GloboTech Communications|
-|16|75.119.128.220|1234|Germany|Düsseldorf|Contabo GmbH|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
-|19|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|4|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|5|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|67.43.227.227|27699|Canada|Montreal|GloboTech Communications|
+|10|75.119.128.220|1234|Germany|Düsseldorf|Contabo GmbH|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|15|72.10.164.178|1737|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
