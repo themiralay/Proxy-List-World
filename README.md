@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|103.172.42.113|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|6|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|11|122.144.6.66|3777|Indonesia|Depok|Maxindo|
-|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
+|5|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|101.109.119.24|8080|Thailand|Bangkok|TOT Public Company Limited|
-|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|16|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
