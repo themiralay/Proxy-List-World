@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|7|172.232.115.161|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|5|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|8|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|67.43.227.227|18641|Canada|Montreal|GloboTech Communications|
-|13|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|179.136.248.67|3128|Brazil|Divinópolis|Claro S.A.|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|138.97.119.10|8080|Brazil|Nova Iguaçu|NC BRASIL TELECOM E SERVICOS LTDA- ME|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|13|67.43.227.227|16033|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|103.28.114.157|66|Indonesia|Bantul|PT Lintas Data Prima|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|52.179.80.83|8080|United States|Boydton|Microsoft Corporation|
 |20|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
