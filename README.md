@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|67.43.236.18|33189|Canada|Montreal|GloboTech Communications|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
-|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.228.253|22799|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11793|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|36.133.52.194|8888|China|Shenzhen|China Mobile|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|72.10.164.178|11793|Canada|Montreal|GloboTech Communications|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|67.43.228.253|22799|Canada|Montreal|GloboTech Communications|
+|12|103.143.168.98|82|India|Hyderabad|Aspt Networks Pvt Ltd|
+|13|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|154.73.29.129|8080|Libya|Tripoli|Rawafed|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|17|181.197.130.218|80|Panama|David|Cable Onda|
+|18|103.47.175.161|83|India|Srīnagar|Precious netcom pvt ltd|
+|19|27.147.217.102|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
