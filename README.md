@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|134.35.220.65|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.8.68.48|3128|China|Shiyan|China Telecom|
-|10|67.43.236.20|3357|Canada|Montreal|GloboTech Communications|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|134.35.220.65|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|11|112.30.155.83|12792|China|Shenzhen|China Mobile|
 |12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|13|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|14|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|15|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|72.10.164.178|7543|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7543|Canada|Montreal|GloboTech Communications|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|67.43.236.20|10577|Canada|Montreal|GloboTech Communications|
+|15|85.254.16.2|5522|Latvia|Riga|ITMgroup|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|103.8.68.48|3128|China|Shiyan|China Telecom|
+|18|72.10.164.178|11815|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|4519|Canada|Montreal|GloboTech Communications|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
