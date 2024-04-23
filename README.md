@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|109.201.233.219|8080|Ukraine|Dnipro|Limited Liability Company "KYIVSKI TELEKOMUNIKATSIYNI MEREZHI"|
-|14|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|15|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|67.43.227.227|12867|Canada|Montreal|GloboTech Communications|
-|17|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
-|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|6|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
+|11|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|12|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|13|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|82.223.222.8|3128|Spain|Barcelona|arsys.es|
+|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|20|115.127.114.209|5020|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
