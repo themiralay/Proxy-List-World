@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|5|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|6|67.43.236.20|32137|Canada|Montreal|GloboTech Communications|
-|7|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|103.75.52.186|8080|Indonesia|Tangerang|PT Quantum Tera Network|
-|10|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|180.191.23.9|8082|Philippines|Cabanatuan City|Globe Telecom|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.167.69.90|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|72.10.160.90|20271|Canada|Montreal|GloboTech Communications|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|103.160.184.236|6588|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|6|131.117.164.6|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|165.22.36.164|10003|United States|Clifton|DigitalOcean, LLC|
+|15|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|72.10.160.90|4773|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 
 
 
