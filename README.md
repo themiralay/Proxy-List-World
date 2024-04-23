@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|9|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 |12|72.10.164.178|7499|Canada|Montreal|GloboTech Communications|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|89.58.48.220|10011|Germany|Nuremberg|netcup GmbH|
-|16|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|17|72.10.164.178|7499|Canada|Montreal|GloboTech Communications|
-|18|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.236.20|28793|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|72.10.164.178|7499|Canada|Montreal|GloboTech Communications|
+|15|89.58.48.220|10012|Germany|Nuremberg|netcup GmbH|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|97.76.251.138|8080|United States|Largo|Spectrum|
+|18|67.43.236.20|3307|Canada|Montreal|GloboTech Communications|
+|19|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
+|20|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
