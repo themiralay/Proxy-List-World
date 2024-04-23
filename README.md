@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|14|78.158.171.135|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|15|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|115.187.31.178|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|8|115.187.31.178|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|103.169.133.34|8080|Indonesia|Karawang|PT Alfa Omega Interkoneksi|
+|11|180.211.161.110|8080|Bangladesh|Tāngāil|Bangladesh Telegraph & Telephone Board|
+|12|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|15|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|67.43.227.227|20985|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.164.178|25939|Canada|Montreal|GloboTech Communications|
 
 
 
