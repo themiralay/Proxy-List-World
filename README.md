@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|118.179.121.114|5020|Bangladesh|Khanbaniara|Dhakacom Limited|
+|3|222.127.50.56|8082|Philippines|Lahug|INNOVE|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|103.172.42.113|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|9|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
-|10|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|5.202.104.22|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|14|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|15|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|16|192.248.95.1|3128|Sri Lanka|Dedunupitiya|Lanka Education and Research Network|
-|17|138.118.200.49|999|Venezuela|San Francisco|Iguana Network Services C.A.|
-|18|103.8.68.48|3128|China|Shiyan|China Telecom|
-|19|72.10.164.178|26595|Canada|Montreal|GloboTech Communications|
-|20|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|105.112.135.165|8080|Nigeria|Lagos|Airtel Networks Limited|
+|7|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|122.144.6.66|3777|Indonesia|Depok|Maxindo|
+|11|103.178.194.122|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|12|181.209.98.194|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|13|67.43.227.227|20823|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|179.96.204.239|8080|Brazil|São Miguel do Oeste|TechInfo Telecomunicações Ltda|
+|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|17|201.170.22.174|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
+|18|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|19|201.91.82.155|3128|Brazil|Campinas|Vivo|
+|20|192.248.95.1|3128|Sri Lanka|Dedunupitiya|Lanka Education and Research Network|
 
 
 
