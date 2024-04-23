@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.150.128.13|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
-|8|67.43.236.20|20489|Canada|Montreal|GloboTech Communications|
-|9|101.255.164.134|8080|Indonesia|Bekasi|PT Remala Abadi|
-|10|172.232.115.161|8080|India|Chennai|Akamai Technologies, Inc.|
-|11|72.10.164.178|15827|Canada|Montreal|GloboTech Communications|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|103.158.27.88|1212|Indonesia|Magelang|PT Madina Solusi Indonesia|
-|14|72.10.160.90|23927|Canada|Montreal|GloboTech Communications|
-|15|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|103.6.223.2|3128|China|Baoshan|China Unicom|
-|18|67.43.228.253|2457|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|20489|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|216.39.249.210|3128|United States|New York|GTHost|
+|11|67.43.236.20|20489|Canada|Montreal|GloboTech Communications|
+|12|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|67.43.236.20|20489|Canada|Montreal|GloboTech Communications|
+|15|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|86.125.149.142|8080|Romania|Timișoara|RCS & RDS|
+|19|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|20|202.142.158.114|8080|Pakistan|Karachi|Gerrys Information Technology (PVT) Ltd|
 
 
 
