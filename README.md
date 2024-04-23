@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|3|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|5|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|181.197.130.218|80|Panama|David|Cable Onda|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|72.10.164.178|26391|Canada|Montreal|GloboTech Communications|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|80.65.28.57|30962|Russia|Krasnoyarsk|Orion Telecom LLC|
-|15|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|18|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|45.188.164.3|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|20|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
 
 
 
