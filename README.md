@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|14.97.32.152|80|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|6|72.10.164.178|32323|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|32323|Canada|Montreal|GloboTech Communications|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|67.43.236.20|4385|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|14679|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|32323|Canada|Montreal|GloboTech Communications|
-|12|109.205.126.6|8080|Latvia|Riga|Kronospan Riga SIA|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|154.73.28.161|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|17|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|67.43.228.250|14679|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|72.10.164.178|6537|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|21633|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|6537|Canada|Montreal|GloboTech Communications|
+|13|165.255.244.220|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|16|64.157.16.43|8080|United States|Francesville|Level 3|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|181.115.69.118|999|Honduras|Tegucigalpa|Telgua|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
