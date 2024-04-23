@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|6|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|11|64.225.8.132|10014|United States|Clifton|DigitalOcean, LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.160.90|7079|Canada|Montreal|GloboTech Communications|
-|14|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|15|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|72.10.164.178|3303|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|2315|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|17371|Canada|Montreal|GloboTech Communications|
-|20|178.130.108.224|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|72.10.160.90|7363|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|72.10.164.178|2155|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|2315|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|134.35.248.91|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|103.8.68.48|3128|China|Shiyan|China Telecom|
+|20|68.183.48.146|10006|United States|Clifton|DigitalOcean, LLC|
 
 
 
