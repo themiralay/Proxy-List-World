@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|36.95.84.151|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|67.43.236.20|17369|Canada|Montreal|GloboTech Communications|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.160.171|17033|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|13837|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|9501|Canada|Montreal|GloboTech Communications|
-|16|89.58.48.220|10008|Germany|Nuremberg|netcup GmbH|
-|17|67.43.236.22|7973|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|17369|Canada|Montreal|GloboTech Communications|
-|19|195.225.142.169|8080|Romania|Târnăveni|TV Adler-Trading SRL|
-|20|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|2|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|119.76.142.211|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|15|67.43.236.20|5017|Canada|Montreal|GloboTech Communications|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|67.43.236.20|5017|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|20|72.10.160.171|17033|Canada|Montreal|GloboTech Communications|
 
 
 
