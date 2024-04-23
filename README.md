@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.106.112.87|8080|Indonesia|Bandar Lampung|SMSNET|
+|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 |7|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|9|72.10.164.178|29789|Canada|Montreal|GloboTech Communications|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|67.43.227.226|27367|Canada|Montreal|GloboTech Communications|
-|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|103.152.232.42|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|18|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|8|72.10.164.178|29789|Canada|Montreal|GloboTech Communications|
+|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|72.10.160.172|8937|Canada|Montreal|GloboTech Communications|
+|11|103.8.68.48|3128|China|Shiyan|China Telecom|
+|12|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|103.153.35.87|3127|Indonesia|Subang|JMExpress|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|19|67.43.227.226|27367|Canada|Montreal|GloboTech Communications|
+|20|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
