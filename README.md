@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|102.221.224.153|8080|Libya|Benghazi|SmartLink IT and Networking|
-|7|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
-|11|103.87.169.173|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|12|72.10.164.178|10877|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|24083|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|64.225.4.81|10007|United States|Clifton|DigitalOcean, LLC|
-|16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|17|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
-|18|222.174.178.122|4999|China|Xintai|Chinanet|
-|19|86.125.149.142|8080|Romania|Timișoara|RCS & RDS|
-|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|2|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
+|5|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
+|8|103.156.96.12|1080|Indonesia|Wonorejo|PT Karya Panca Telekomunikasi|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|103.78.96.146|8181|Indonesia|Jakarta|MORATELINDO|
+|11|213.246.24.143|8080|Yemen|Sanaa|AS30873 YemenNet|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|45.122.228.10|8899|Australia|Eldorado|NETPTYLTD|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|20|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
