@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|203.150.128.13|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|6|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|72.10.164.178|13793|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|13793|Canada|Montreal|GloboTech Communications|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|16|62.201.217.194|8080|Iraq|Kelar|BAG|
-|17|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|7|115.187.31.178|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|8|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|12|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|138.197.92.54|10002|United States|Clifton|DigitalOcean, LLC|
+|16|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|72.10.164.178|13793|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
