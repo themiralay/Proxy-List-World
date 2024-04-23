@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6610** proxies at the latest update. Usable proxies are below.
+> Scraper found **6598** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|91|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|526|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|514|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|273|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4762|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|119.76.142.211|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|2|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|103.68.214.90|1234|Indonesia|Tangerang|PT Media Grasi Internet|
-|7|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|72.10.160.172|16679|Canada|Montreal|GloboTech Communications|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|67.43.228.254|32857|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|12643|Canada|Montreal|GloboTech Communications|
-|19|103.88.239.178|84|India|Hyderabad|Mana Communications|
-|20|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|4|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|103.8.68.48|3128|China|Shiyan|China Telecom|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|8|114.106.173.67|8089|China|Rongcheng|Chinanet|
+|9|72.10.160.90|7973|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.227|13837|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|72.10.164.178|8451|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|8451|Canada|Montreal|GloboTech Communications|
+|14|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
+|15|72.10.160.172|1393|Canada|Montreal|GloboTech Communications|
+|16|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|67.43.236.20|5017|Canada|Montreal|GloboTech Communications|
+|18|177.93.50.163|999|Colombia|El Castillo|TV AZTECA SUCURSAL COLOMBIA|
+|19|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|20|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
 
 
 
