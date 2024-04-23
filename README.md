@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|9|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|11|72.10.160.171|25905|Canada|Montreal|GloboTech Communications|
-|12|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|72.10.164.178|1107|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1107|Canada|Montreal|GloboTech Communications|
-|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|18|172.232.115.138|8080|India|Chennai|Akamai Technologies, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|13|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|201.168.199.7|999|Mexico|Trinidad Garcia de la Cadena|Marcatel Com, S.A. de C.V.|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|72.10.164.178|1107|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|20|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
 
 
 
