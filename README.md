@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|50.231.0.43|4481|United States|Houston|Comcast Cable Communications, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.16.248.222|8080|Bangladesh|Dhaka|Cyberspace Technologies Ltd.|
-|5|222.127.50.56|8082|Philippines|Lahug|INNOVE|
-|6|195.178.56.37|8080|Serbia|Novi Sad|TELEKOM SRBIJA a.d.|
-|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|72.10.160.94|10325|Canada|Montreal|GloboTech Communications|
-|12|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|1|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|2|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|3|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|4|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|118.173.109.204|8080|Thailand|Bang Kruai|TOT Public Company Limited|
+|9|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|102.33.102.218|8080|South Africa|Johannesburg|Metrofibre Networx|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
 |13|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
-|14|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|15|72.10.164.178|21663|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|69.160.223.65|8181|United States|Elwood|Swayzee Telephone Company, Inc.|
-|19|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|190.120.249.180|999|Venezuela|Caracas|CORPORACION FIBEX TELECOM, C.A.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|17|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.164.178|24009|Canada|Montreal|GloboTech Communications|
+|20|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
 
 
 
