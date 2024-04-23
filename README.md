@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|125.26.224.153|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|86.125.149.142|8080|Romania|Timișoara|RCS & RDS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|201.222.83.146|999|Bolivia|Warnes|Cotas Ltda.|
-|10|201.170.22.174|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
+|8|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|134.35.0.44|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|15|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|16|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|17|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|18|72.10.164.178|2977|Canada|Montreal|GloboTech Communications|
-|19|159.65.186.46|10011|United States|Clifton|DigitalOcean, LLC|
-|20|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|12|134.35.0.44|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|13|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|15|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|16|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|213.171.35.66|18000|Russia|Moscow|JSC Comcor|
+|18|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|19|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
+|20|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
