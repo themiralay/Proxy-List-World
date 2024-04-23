@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.87.169.155|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|201.170.22.174|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
+|7|95.158.179.216|32799|Bulgaria|Veliko Tarnovo|Videosat 21 Vek OOD|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|134.35.0.44|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|10|67.43.228.250|8525|Canada|Montreal|GloboTech Communications|
-|11|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|12|72.10.160.94|3277|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|103.80.230.21|8080|Indonesia|Medan|DNSOLUSINDO|
+|9|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|203.150.128.93|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|41.254.53.70|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|15|67.43.228.250|8525|Canada|Montreal|GloboTech Communications|
 |16|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
-|18|103.165.64.53|83|India|Seoni Chhapara|Navyug Networks Info Private Limited|
-|19|67.43.236.20|25551|Canada|Montreal|GloboTech Communications|
-|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
+|20|134.35.0.44|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 
 
 
