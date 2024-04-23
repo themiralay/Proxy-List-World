@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|5|61.7.170.130|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|8|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|2|103.147.247.126|8181|Indonesia|Tangerang|PLBNET|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.42|18080|United States|Kansas City|WholeSale Internet|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|103.160.184.236|6588|Indonesia|Pacitan|PT Trisari Data Indonusa|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
-|13|72.10.164.178|22325|Canada|Montreal|GloboTech Communications|
-|14|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|15|72.10.164.178|22325|Canada|Montreal|GloboTech Communications|
-|16|60.174.0.229|8089|China|Guangzhou|Chinanet|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|11|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|72.10.164.178|3211|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|72.10.164.178|3211|Canada|Montreal|GloboTech Communications|
+|18|181.197.130.218|80|Panama|David|Cable Onda|
+|19|181.197.130.218|80|Panama|David|Cable Onda|
 |20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
