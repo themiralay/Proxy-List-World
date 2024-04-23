@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
 |7|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|179.125.51.54|27234|Brazil|Rio de Janeiro|Via Link Telecomunicacoes|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |14|72.10.160.90|7079|Canada|Montreal|GloboTech Communications|
-|15|89.58.48.220|10016|Germany|Nuremberg|netcup GmbH|
-|16|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|107.148.103.253|58394|Japan|Koto-ku|PEG TECH INC|
+|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|18|192.203.0.190|999|Puerto Rico|Fajardo|Boom NET|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|178.130.108.224|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
 
 
 
