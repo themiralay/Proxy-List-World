@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|3|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|11|125.26.183.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|181.197.130.218|80|Panama|David|Cable Onda|
-|14|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|15|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|16|121.101.134.214|1111|Indonesia|Yogyakarta|PT SELARAS CITRA TERABIT|
-|17|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|18|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|19|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|20|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|138.94.76.86|8080|Brazil|Santa Rosa|BrPhonia Provedor Ip Ltda|
+|5|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|103.154.77.64|83|Indonesia|Yogyakarta|T2NET|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|13|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
+|14|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
+|15|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|45.6.224.254|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|18|67.43.228.253|29961|Canada|Montreal|GloboTech Communications|
+|19|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
+|20|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
