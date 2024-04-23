@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|4|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
-|5|179.60.51.122|999|Ecuador|Nueva Loja|Expertservi S.A.|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|3|182.253.195.114|3128|Indonesia|Palembang|BIZNET|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|103.126.28.14|2525|Indonesia|Jakarta|PT Integra Kreasitama Solusindo|
 |8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|72.10.160.170|1701|Canada|Montreal|GloboTech Communications|
-|10|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|209.45.5.145|999|Peru|Lima|Red Cientifica Peruana|
-|13|67.43.227.227|3267|Canada|Montreal|GloboTech Communications|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|16|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|179.125.51.54|27234|Brazil|Rio de Janeiro|Via Link Telecomunicacoes|
-|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|19|67.43.236.20|4795|Canada|Montreal|GloboTech Communications|
-|20|201.170.22.174|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
+|9|109.230.72.236|8080|Iran|Kīsh|Boomerang Rayaneh|
+|10|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|206.62.64.34|8080|Brazil|Cascavel|AGIS|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.164.214.122|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|14|103.88.239.38|84|India|Hyderabad|Mana Communications|
+|15|201.170.22.174|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
+|16|67.43.227.227|13315|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
+|19|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
