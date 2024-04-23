@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|12|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |13|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.160.90|16897|Canada|Montreal|GloboTech Communications|
-|16|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|17|67.43.227.227|17371|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|18|67.43.236.20|9569|Canada|Montreal|GloboTech Communications|
+|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
