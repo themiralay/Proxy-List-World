@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|6|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|115.178.49.181|8080|Indonesia|Pengasinan|NOC SIMAYA|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|72.10.164.178|17249|Canada|Montreal|GloboTech Communications|
-|15|222.216.37.138|808|China|Lilancun|Chinanet|
-|16|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|103.159.196.81|8080|Indonesia|Serang|PT Andalan Dinamika Informatika|
+|12|67.43.236.20|25215|Canada|Montreal|GloboTech Communications|
+|13|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|72.10.164.178|12225|Canada|Montreal|GloboTech Communications|
+|16|177.93.50.106|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|80.87.217.6|8080|Slovakia|Dolný Kubín|DSI DATA, a. s.|
+|19|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
