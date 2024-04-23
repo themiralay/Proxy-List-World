@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |5|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|128.199.116.34|4444|Singapore|Singapore|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.232.91.229|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|189.232.91.229|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|72.10.160.90|23883|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|165.22.36.164|10003|United States|Clifton|DigitalOcean, LLC|
+|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|165.22.36.164|10003|United States|Clifton|DigitalOcean, LLC|
+|12|72.10.160.90|23883|Canada|Montreal|GloboTech Communications|
+|13|103.163.13.159|8090|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|181.209.116.20|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|89.58.48.220|10013|Germany|Nuremberg|netcup GmbH|
+|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|88.255.185.245|8080|Türkiye|Adapazarı|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
