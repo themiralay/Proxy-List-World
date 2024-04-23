@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6492** proxies at the latest update. Usable proxies are below.
+> Scraper found **6481** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|88|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|423|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|412|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|254|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4769|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|205.196.184.69|50704|United States|Houston|Phonoscope|
-|6|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|7|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|8|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
-|10|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|103.25.210.102|33317|Indonesia|Purwokerto|TRANSDATA|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|103.255.145.62|84|India|Hyderabad|Pioneer Elabs Ltd|
-|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|85.254.16.2|5522|Latvia|Riga|ITMgroup|
+|5|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|67.43.236.20|8329|Canada|Montreal|GloboTech Communications|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|45.188.164.3|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|12|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|13|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|103.6.223.2|3128|China|Baoshan|China Unicom|
+|17|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
