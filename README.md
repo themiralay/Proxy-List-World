@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|4|45.188.164.3|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|5|181.197.130.218|80|Panama|David|Cable Onda|
-|6|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|7|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|195.201.202.32|40093|Germany|Gunzenhausen|Hetzner Online GmbH|
-|11|172.232.115.161|8080|India|Chennai|Akamai Technologies, Inc.|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|15|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|179.60.129.195|8080|Brazil|Goiânia|MP INFORMATICA LTDA|
-|19|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|205.196.184.69|50704|United States|Houston|Phonoscope|
+|6|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|7|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|8|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|10|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|103.25.210.102|33317|Indonesia|Purwokerto|TRANSDATA|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|16|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|103.255.145.62|84|India|Hyderabad|Pioneer Elabs Ltd|
 |20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
 
 
