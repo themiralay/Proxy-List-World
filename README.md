@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|46.35.91.252|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|46.35.91.252|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|12|72.10.164.178|1411|Canada|Montreal|GloboTech Communications|
-|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|14|67.43.228.253|24575|Canada|Montreal|GloboTech Communications|
-|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|16|103.8.68.48|3128|China|Shiyan|China Telecom|
-|17|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|18|201.168.199.7|999|Mexico|Trinidad Garcia de la Cadena|Marcatel Com, S.A. de C.V.|
-|19|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|20|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|7|201.168.199.7|999|Mexico|Trinidad Garcia de la Cadena|Marcatel Com, S.A. de C.V.|
+|8|103.151.74.82|8080|Bangladesh|Dhaka|Md Kamrul Islam|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|165.16.27.43|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|103.124.137.150|20|Indonesia|Jakarta|Global Media Data Prima|
 
 
 
