@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|81.161.121.114|8080|Russia|Prokopyevsk|ELECTRON-SERVICE|
-|7|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|68.183.48.146|10013|United States|Clifton|DigitalOcean, LLC|
-|11|72.10.164.178|2727|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|30613|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|11263|Canada|Montreal|GloboTech Communications|
-|14|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|8.243.126.230|999|Peru|Ventanilla|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|9|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|10|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|67.43.236.20|11263|Canada|Montreal|GloboTech Communications|
+|12|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|13|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|72.10.164.178|2727|Canada|Montreal|GloboTech Communications|
 |15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |16|72.10.164.178|2727|Canada|Montreal|GloboTech Communications|
 |17|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|19|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
-|20|159.65.186.46|10017|United States|Clifton|DigitalOcean, LLC|
+|18|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|138.197.16.249|10013|United States|Clifton|DigitalOcean, LLC|
+|20|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
 
 
 
