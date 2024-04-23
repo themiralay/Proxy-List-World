@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
-|10|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|4|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|9|202.12.80.6|82|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |13|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|114.106.135.236|8089|China|Guangzhou|Chinanet|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
+|16|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|20|70.113.250.186|16099|United States|San Antonio|Spectrum|
 
 
 
