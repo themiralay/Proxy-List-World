@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|7|67.43.236.20|2783|Canada|Montreal|GloboTech Communications|
-|8|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
+|6|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|8|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|72.10.164.178|14793|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.160.90|29817|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|29817|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.6.223.2|3128|China|Baoshan|China Unicom|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |14|67.43.236.20|2783|Canada|Montreal|GloboTech Communications|
-|15|61.129.2.212|8080|China|Beijing|CHINANET|
-|16|72.10.160.174|3417|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|72.10.164.178|14793|Canada|Montreal|GloboTech Communications|
+|16|203.190.46.83|8080|Indonesia|Semarang|PT Jaring Lintas Utara|
+|17|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|18|103.8.68.48|3128|China|Shiyan|China Telecom|
+|19|124.158.182.34|7654|Indonesia|Jakarta|PT Jala Lintas Media|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
