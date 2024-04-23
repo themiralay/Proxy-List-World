@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.86.82.194|8080|Türkiye|Bursa|Veganet Teknolojileri ve Hizmetleri LTD STI|
-|4|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|69.160.223.129|8181|United States|Elwood|Swayzee Telephone Company, Inc.|
-|8|37.26.86.206|47464|Albania|Elbasan|ATU|
-|9|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|17|119.76.142.211|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|18|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
+|6|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|188.240.126.67|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|10|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|11|213.21.6.180|8080|Russia|St Petersburg|Global Network Management Inc|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|67.43.236.20|22307|Canada|Montreal|GloboTech Communications|
+|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|178.130.68.29|8080|Yemen|Dhamār|Yemen-net-bb-pool 178|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
