@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|59.90.196.30|8080|India|Hyderabad|BSNL Internet|
-|9|138.197.92.54|10001|United States|Clifton|DigitalOcean, LLC|
-|10|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|103.165.234.46|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|12|67.43.236.22|12085|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|26251|Canada|Montreal|GloboTech Communications|
-|14|107.172.0.177|666|United States|Dallas|HostPapa|
-|15|177.234.192.231|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|101.255.165.130|1111|Indonesia|Bekasi|PT Remala Abadi|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|72.10.160.90|1063|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|26251|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|22759|Canada|Montreal|GloboTech Communications|
+|9|37.26.86.206|47464|Albania|Elbasan|ATU|
+|10|67.43.236.22|12085|Canada|Montreal|GloboTech Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|203.253.142.176|8080|South Korea|Yuseong|KISTI|
+|16|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|17|103.109.57.250|8889|Bangladesh|Dhaka|Skynet Chowmuhani|
+|18|103.182.213.13|8080|Bangladesh|Tongi|Rapid Network|
+|19|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
