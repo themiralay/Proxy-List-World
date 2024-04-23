@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |7|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|10|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |11|72.10.164.178|1121|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|103.107.84.177|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|16|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|186.201.63.83|3128|Brazil|São Paulo|Vivo|
-|18|67.43.236.20|10267|Canada|Montreal|GloboTech Communications|
-|19|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|20|105.112.140.218|8080|Nigeria|Lagos|Airtel Networks Limited|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|103.51.205.98|8080|Indonesia|Semarang|Lintas Data Prima, PT|
+|17|85.254.16.2|5522|Latvia|Riga|ITMgroup|
+|18|144.91.77.153|3128|Germany|Nuremberg|Contabo GmbH|
+|19|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|20|89.58.48.220|10012|Germany|Nuremberg|netcup GmbH|
 
 
 
