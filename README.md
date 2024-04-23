@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|125.26.224.153|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|46.246.6.16|3128|Sweden|Stockholm|Portlane Network|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|86.125.149.142|8080|Romania|Timișoara|RCS & RDS|
+|4|46.246.6.16|3128|Sweden|Stockholm|Portlane Network|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|12|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|72.10.164.178|10553|Canada|Montreal|GloboTech Communications|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|67.43.227.227|15859|Canada|Montreal|GloboTech Communications|
-|16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|19|80.65.28.57|30962|Russia|Krasnoyarsk|Orion Telecom LLC|
-|20|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|138.197.92.54|10011|United States|Clifton|DigitalOcean, LLC|
+|10|67.43.236.20|1319|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|84.247.146.121|10012|Singapore|Singapore|Contabo GmbH|
+|15|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|16|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|77.247.95.69|8989|Albania|Fier|Teleco Eighth|
+|18|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
