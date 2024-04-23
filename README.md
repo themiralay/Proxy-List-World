@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.58.232.117|8080|Thailand|Bangkok Noi|CAT Telecom Public Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|72.10.164.178|20889|Canada|Montreal|GloboTech Communications|
-|12|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|13|95.165.163.188|60103|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|14|103.191.115.114|82|India|Bānka|Xpress Fiber Private Limited|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|1.20.169.211|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|178.212.48.80|8080|Poland|Międzyrzecz|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|7|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
+|8|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|72.10.164.178|1995|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|159.65.176.77|10017|United States|Clifton|DigitalOcean, LLC|
+|13|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|14|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|18|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
 |19|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 |20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
