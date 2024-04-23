@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|8|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|9|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|38.9.56.70|8080|India|Chennai|Cogent Communications|
+|8|125.209.88.46|8080|Pakistan|Karachi|Multinet 125-88/24|
+|9|184.73.74.6|8080|United States|Ashburn|Amazon.com|
 |10|47.243.5.192|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|12|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|16|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|89.58.48.220|10017|Germany|Nuremberg|netcup GmbH|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|89.58.48.220|10017|Germany|Nuremberg|netcup GmbH|
+|17|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|18|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|19|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|20|67.43.227.227|14043|Canada|Montreal|GloboTech Communications|
 
 
 
