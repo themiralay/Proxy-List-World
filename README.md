@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.35.234.21|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|3|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|203.150.128.13|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|13|67.43.228.254|24491|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|31751|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|181.209.102.237|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|51.250.107.5|3128|Russia|Moscow|Yandex.Cloud LLC|
-|19|67.79.51.210|16099|United States|Pharr|Spectrum|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|86.125.149.142|8080|Romania|Timișoara|RCS & RDS|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|7|72.10.164.178|31751|Canada|Montreal|GloboTech Communications|
+|8|43.228.167.6|8080|India|Delhi|FAB FIVE NETWORK PRIVATE LIMITED|
+|9|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|10|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|167.71.102.182|8080|United States|Clifton|DigitalOcean, LLC|
+|16|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|67.43.236.20|15867|Canada|Montreal|GloboTech Communications|
+|19|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|20|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
 
 
 
