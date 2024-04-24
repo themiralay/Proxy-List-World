@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|8|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
 |9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|10|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|11|72.10.164.178|8907|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|8907|Canada|Montreal|GloboTech Communications|
-|13|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|14|213.244.91.179|8080|Palestinian Territory|Gaza|PALTEL (Palestine Telecommunications Co.)|
-|15|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|16|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|17|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|18|67.43.236.20|24843|Canada|Montreal|GloboTech Communications|
-|19|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|20|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|200.108.190.38|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|16|72.10.164.178|23873|Canada|Montreal|GloboTech Communications|
+|17|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|18|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
+|19|197.251.209.34|83|Ghana|Tema|Vodafone Ghana|
+|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
