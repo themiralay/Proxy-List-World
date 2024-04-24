@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
 |5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|103.105.55.170|8085|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
-|7|38.7.109.253|8080|Mexico|Tuxtla Gutiérrez|Grupo Convergente Arzola|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|45.181.123.97|999|Chile|Santiago|Interpit Telecomunicaciones Ltda|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|13|116.58.232.238|8080|Thailand|Bangkok Noi|CAT Telecom Public Company Limited|
-|14|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|45.235.16.121|27234|Brazil|Ortigueira|Acessoline Telecom|
-|18|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
-|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|20|103.8.68.48|3128|China|Shiyan|China Telecom|
+|6|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|7|147.28.155.21|10054|United States|Dallas|Packet Host, Inc.|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|67.43.228.253|2229|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|1183|Canada|Montreal|GloboTech Communications|
+|11|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|17|165.22.36.164|10000|United States|Clifton|DigitalOcean, LLC|
+|18|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
+|19|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|20|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
 
 
 
