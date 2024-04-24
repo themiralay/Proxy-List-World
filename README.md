@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|203.79.29.150|8080|Indonesia|Surabaya|PT Surya Global Teknologi|
-|5|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |7|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
-|8|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|138.197.16.249|10011|United States|Clifton|DigitalOcean, LLC|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|138.197.16.249|10011|United States|Clifton|DigitalOcean, LLC|
-|13|72.10.164.178|27407|Canada|Montreal|GloboTech Communications|
-|14|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|15|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
-|16|103.203.173.154|84|India|Hyderabad|Softgaurd Powertronics|
-|17|67.43.236.20|8061|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|20795|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|19335|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|147.75.34.85|10009|The Netherlands|Amsterdam|Equinix Services|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|138.197.16.249|10013|United States|Clifton|DigitalOcean, LLC|
+|15|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|16|72.10.164.178|27407|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|20795|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.173|19335|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
 
 
 
