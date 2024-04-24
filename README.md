@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|159.65.176.77|10017|United States|Clifton|DigitalOcean, LLC|
-|7|159.65.176.77|10017|United States|Clifton|DigitalOcean, LLC|
+|4|134.35.22.109|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|5|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|10|64.225.4.81|10016|United States|Clifton|DigitalOcean, LLC|
-|11|64.225.8.132|10010|United States|Clifton|DigitalOcean, LLC|
+|9|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|11|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
 |12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|185.73.103.23|3128|Czechia|Ostrov|ISP Alliance a.s.|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
+|13|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|134.35.0.200|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |18|67.43.227.228|26487|Canada|Montreal|GloboTech Communications|
-|19|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|20|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|34.23.14.17|3128|United States|North Charleston|Google LLC|
 
 
 
