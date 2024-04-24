@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|7|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |8|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|13|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|10|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|165.22.36.164|10018|United States|Clifton|DigitalOcean, LLC|
 |14|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
 |17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
 
 
 
