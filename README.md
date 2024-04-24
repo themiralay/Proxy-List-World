@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|34.23.14.17|3128|United States|North Charleston|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|4|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|186.125.218.180|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|10|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|11|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|12|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
-|13|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|14|67.43.227.228|16501|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|17|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|116.58.232.238|8080|Thailand|Bangkok Noi|CAT Telecom Public Company Limited|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.88.238.225|84|India|Hyderabad|Mana Communications|
+|10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|179.1.192.2|999|Colombia|Ibagué|InterNexa Global Network|
+|12|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|13|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|14|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|15|146.196.110.13|3888|Indonesia|Sidoarjo|PT Maxindo Mitra Solusi|
+|16|170.80.242.98|999|Mexico|Sombrerete|TV CABLE DEL GUADIANA S.A DE C.V.|
+|17|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|67.43.236.20|24843|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|24843|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
