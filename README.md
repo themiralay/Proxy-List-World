@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|36.50.253.66|8080|Indonesia|Singosari|PT Capoeng Digital Nusantara|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.232.107.237|8080|India|Chennai|Akamai Technologies, Inc.|
 |4|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|5|103.75.52.186|8080|Indonesia|Tangerang|PT Quantum Tera Network|
-|6|181.115.93.74|999|Honduras|Santa Cruz de Yojoa|Telgua|
-|7|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|103.164.213.78|8088|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|7|38.49.159.74|999|Mexico|El Pueblito|Ientc S De RL De CV|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|13|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|16|138.197.16.249|10010|United States|Clifton|DigitalOcean, LLC|
-|17|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
-|18|72.10.164.178|19543|Canada|Montreal|GloboTech Communications|
-|19|64.225.8.132|10001|United States|Clifton|DigitalOcean, LLC|
-|20|222.174.178.122|4999|China|Xintai|Chinanet|
+|11|72.10.164.178|4551|Canada|Montreal|GloboTech Communications|
+|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|14|181.119.67.130|999|Colombia|Florida|IFX Networks Argentina S.R.L|
+|15|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|67.43.228.253|15085|Canada|Montreal|GloboTech Communications|
+|20|49.49.141.249|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 
 
 
