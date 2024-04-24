@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|38.253.88.24|999|Dominican Republic|Jarabacoa|Cogent Communications|
-|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|11|72.10.164.178|23271|Canada|Montreal|GloboTech Communications|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|64.225.8.132|10018|United States|Clifton|DigitalOcean, LLC|
-|14|124.83.35.42|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|72.10.164.178|23271|Canada|Montreal|GloboTech Communications|
-|17|145.40.73.104|10001|Singapore|Singapore|Packet Host, Inc.|
+|2|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|222.127.135.164|8082|Philippines|Cebu City|Globe Telecom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|72.10.164.178|12579|Canada|Montreal|GloboTech Communications|
+|15|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|17|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|20|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|19|202.40.185.146|8080|Bangladesh|Dhaka|Ranks ITT|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
