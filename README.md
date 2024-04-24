@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|3|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|168.126.74.132|80|South Korea|Dongjak-gu|Korea Telecom|
-|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|138.197.120.142|3128|United States|Clifton|DigitalOcean, LLC|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|103.8.68.48|3128|China|Shiyan|China Telecom|
-|14|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
-|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|67.43.227.227|13015|Canada|Montreal|GloboTech Communications|
+|7|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|138.197.16.249|10005|United States|Clifton|DigitalOcean, LLC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|168.126.74.132|80|South Korea|Dongjak-gu|Korea Telecom|
+|16|134.19.254.2|21231|Georgia|Tbilisi|GPON|
+|17|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
+|20|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
 
 
 
