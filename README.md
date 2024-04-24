@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|3|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|58.69.247.70|8083|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|9|64.76.43.115|999|Mexico|Mexico City|Level 3|
+|10|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|115.223.11.212|50000|China|Wenzhou|China Telecom|
 |15|67.43.236.20|13623|Canada|Montreal|GloboTech Communications|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|68.183.48.146|10003|United States|Clifton|DigitalOcean, LLC|
-|19|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
-|20|72.10.164.178|33137|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|181.197.130.218|80|Panama|David|Cable Onda|
 
 
 
