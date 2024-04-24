@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|5|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|41.205.24.97|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.8.68.48|3128|China|Shiyan|China Telecom|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
-|15|165.22.36.164|10004|United States|Clifton|DigitalOcean, LLC|
-|16|103.10.71.81|80|Indonesia|Situsaeur|PT Wadma Berkah Sedaya|
-|17|200.76.42.194|999|Mexico|Ciudad de Villa de Alvarez|Alestra, S. de R.L. de C.V.|
-|18|67.43.227.228|20741|Canada|Montreal|GloboTech Communications|
-|19|103.227.252.102|8080|Indonesia|Jakarta|PT Raja Mitra Informatika|
-|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|14|67.43.227.228|20741|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|28747|Canada|Montreal|GloboTech Communications|
+|16|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|138.255.207.169|32926|Brazil|Rio do Sul|CIT INFORMATICA|
+|20|83.171.90.83|8080|Russia|Moscow|PJSC Rostelecom|
 
 
 
