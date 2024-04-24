@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|171.6.73.211|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|190.60.36.77|8080|Colombia|Corozal|IFX NETWORKS COLOMBIA|
-|7|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|203.190.44.197|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|20|72.10.164.178|31799|Canada|Montreal|GloboTech Communications|
+|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|152.32.64.43|8095|Philippines|San Mateo|Converge ICT Solution Inc|
+|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|9|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
+|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|15|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|16|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|103.169.254.185|2068|Indonesia|Sidoarjo|PT Master Star Network|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
