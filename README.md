@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.68.3.195|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
-|9|145.40.73.104|10000|Singapore|Singapore|Packet Host, Inc.|
-|10|103.127.106.245|8085|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|147.28.155.20|10013|United States|Dallas|Packet Host, Inc.|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|134.35.23.18|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|15|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|16|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|72.10.164.178|31133|Canada|Montreal|GloboTech Communications|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|103.180.122.201|1080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|14|45.185.162.194|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
+|16|138.0.141.46|8080|Brazil|São Paulo|F.B. BABETO ME|
+|17|85.113.55.123|8080|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|72.10.164.178|31133|Canada|Montreal|GloboTech Communications|
 |20|72.10.164.178|31133|Canada|Montreal|GloboTech Communications|
 
 
