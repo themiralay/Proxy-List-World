@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
+|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.68.214.19|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|17|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|19|89.58.48.220|10012|Germany|Nuremberg|netcup GmbH|
-|20|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|138.197.16.249|10012|United States|Clifton|DigitalOcean, LLC|
+|16|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|17|67.43.236.21|22115|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
