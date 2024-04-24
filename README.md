@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|10|203.79.29.246|1111|Indonesia|Surabaya|PT Surya Global Teknologi|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|103.182.112.11|5000|India|Mumbai|Ruhi Infotech|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|17|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|18|72.10.160.173|32827|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|2105|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|5401|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|8|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|212.252.66.209|8080|Turkey|Kuşcuburun|HEPONLINEELEKTRONIK|
+|11|203.150.128.210|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|183.182.103.2|8080|Laos|Vientiane|Star Telecom|
+|15|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|72.10.164.178|21435|Canada|Montreal|GloboTech Communications|
+|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|19|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
