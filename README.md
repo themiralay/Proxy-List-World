@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|6|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|2|145.40.73.107|10013|Singapore|Singapore|Packet Host, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|38.156.23.230|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|72.10.164.178|22159|Canada|Montreal|GloboTech Communications|
-|11|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|12|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
 |13|67.43.227.227|3205|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
-|16|72.10.160.90|14699|Canada|Montreal|GloboTech Communications|
-|17|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
-|18|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|19|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
+|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|17|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|18|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|19|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
 |20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
