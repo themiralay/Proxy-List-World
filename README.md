@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|4|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|5|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|201.91.82.155|3128|Brazil|Campinas|Vivo|
-|8|186.201.63.83|3128|Brazil|São Paulo|Vivo|
-|9|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|12|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
-|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|14|101.255.158.42|8080|Indonesia|Bekasi|PT Remala Abadi|
-|15|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
-|16|187.72.112.37|8080|Brazil|Vila Velha|ALGAR TELECOM S/A|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|103.35.108.190|5020|Bangladesh|Dhaka|Ranks ITT|
-|19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.75.52.186|8080|Indonesia|Tangerang|PT Quantum Tera Network|
+|5|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|202.144.157.1|9009|Bhutan|Thimphu|Bhutan Telecom Ltd|
+|8|45.188.164.47|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|11|167.71.102.182|8080|United States|Clifton|DigitalOcean, LLC|
+|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|103.8.68.48|3128|China|Shiyan|China Telecom|
+|16|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|18|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
