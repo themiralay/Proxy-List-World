@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|180.180.118.150|8080|Thailand|Pluak Daeng|TOT Public Company Limited|
-|2|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|7|139.178.67.131|10011|United States|Parsippany|PACKET-HOST|
-|8|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|10|98.6.197.202|16099|United States|Mission|Spectrum|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|9|191.97.96.86|8080|Argentina|General Roca|Vision NET|
+|10|139.178.67.131|10011|United States|Parsippany|PACKET-HOST|
+|11|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|12|103.170.115.180|8080|Indonesia|Bengkalis|PT Mega Data Akses|
 |13|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 |14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|67.43.227.227|26377|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|26377|Canada|Montreal|GloboTech Communications|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |17|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|18|45.224.247.102|80|Brazil|Fortaleza|Upix Networks|
-|19|103.35.110.94|5020|Bangladesh|Dhaka|Ranks ITT|
+|18|67.43.228.253|11335|Canada|Montreal|GloboTech Communications|
+|19|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
 |20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
