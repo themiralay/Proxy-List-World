@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|89.58.48.220|10009|Germany|Nuremberg|netcup GmbH|
-|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|8|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|9|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
-|15|72.10.160.173|25901|Canada|Montreal|GloboTech Communications|
-|16|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|17|159.65.186.46|10004|United States|Clifton|DigitalOcean, LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|20|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
+|5|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|7|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|10|72.10.160.173|25901|Canada|Montreal|GloboTech Communications|
+|11|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
+|12|92.247.2.26|21231|Bulgaria|Kilifarevo|A1 Bulgaria EAD|
+|13|67.43.227.227|1063|Canada|Montreal|GloboTech Communications|
+|14|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|19|72.10.160.91|2017|Canada|Montreal|GloboTech Communications|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
