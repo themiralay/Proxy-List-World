@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|77.41.146.44|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|103.190.171.137|8080|Indonesia|Jakarta|WMS|
+|4|77.41.146.44|8080|Russia|Moscow|OJSC Vimpelcom HQ|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|7|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
-|9|145.40.73.107|10013|Singapore|Singapore|Packet Host, Inc.|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|103.230.81.135|8080|Indonesia|Banten|PT. Pandeglang Akses Semesta|
-|16|72.10.160.90|14739|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.236.20|4071|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|31971|Canada|Montreal|GloboTech Communications|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
+|10|145.40.73.107|10013|Singapore|Singapore|Packet Host, Inc.|
+|11|179.125.51.54|27234|Brazil|Rio de Janeiro|Via Link Telecomunicacoes|
+|12|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|147.28.145.212|10003|United States|Ashburn|Packet Host, Inc.|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|19|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
