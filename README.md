@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
-|9|72.10.164.178|31331|Canada|Montreal|GloboTech Communications|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|12|103.8.68.48|3128|China|Shiyan|China Telecom|
-|13|186.125.218.145|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|14|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|15|67.43.228.253|17347|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|190.109.168.217|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|18|103.159.96.131|3125|Indonesia|Malang|MYRISE|
-|19|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
-|20|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|38.183.152.34|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|7|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|8|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|72.10.164.178|22645|Canada|Montreal|GloboTech Communications|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|20|191.242.111.195|8080|Brazil|Rio de Janeiro|V W INTERNET|
 
 
 
