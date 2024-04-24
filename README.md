@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|77.41.146.44|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|5|103.154.139.130|8080|Indonesia|Jakarta|MORATELINDONAP|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|186.215.196.50|3128|Brazil|Recife|Vivo|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.10.164.178|16509|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|21701|Canada|Montreal|GloboTech Communications|
-|12|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|77.41.146.44|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|72.10.164.178|32501|Canada|Montreal|GloboTech Communications|
+|9|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
+|11|67.43.236.20|9085|Canada|Montreal|GloboTech Communications|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|201.91.82.155|3128|Brazil|Campinas|Vivo|
 |17|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|20|177.234.212.190|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
