@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6604** proxies at the latest update. Usable proxies are below.
+> Scraper found **6611** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|88|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|466|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|473|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|287|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4805|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
-|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|147.28.145.212|10003|United States|Ashburn|Packet Host, Inc.|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|138.197.16.249|10012|United States|Clifton|DigitalOcean, LLC|
-|16|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
-|17|67.43.236.21|22115|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
+|14|67.43.236.20|17027|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|16|139.178.67.131|10013|United States|Parsippany|PACKET-HOST|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|19|72.10.160.170|13419|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
