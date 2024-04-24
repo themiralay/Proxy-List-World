@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.26.129.27|8080|Indonesia|Demak|PT Panglima Kamayo Media|
+|6|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.99.22.26|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|72.10.160.90|8311|Canada|Montreal|GloboTech Communications|
-|10|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|11|67.43.236.20|10281|Canada|Montreal|GloboTech Communications|
-|12|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|10|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|67.43.236.20|10281|Canada|Montreal|GloboTech Communications|
 |13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |14|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|72.10.164.178|14343|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|27.54.117.88|8089|Indonesia|Denpasar|Indonesia Network Information Center|
+|15|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|16|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|20|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
 
 
 
