@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|5|134.35.16.248|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|67.43.228.253|26021|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|136.226.230.121|10007|India|New Delhi|ZSCALER, INC.|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|5|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|134.35.16.248|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|72.10.160.90|7201|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|136.226.230.116|9401|India|New Delhi|ZSCALER, INC.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|72.10.164.178|27769|Canada|Montreal|GloboTech Communications|
+|17|136.226.230.116|9401|India|New Delhi|ZSCALER, INC.|
+|18|136.226.230.121|10007|India|New Delhi|ZSCALER, INC.|
+|19|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |20|136.226.230.116|9401|India|New Delhi|ZSCALER, INC.|
 
 
