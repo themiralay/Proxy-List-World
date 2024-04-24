@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|67.43.228.253|2313|Canada|Montreal|GloboTech Communications|
-|6|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|178.207.11.148|3129|Russia|Al'met'yevsk|TATTELECOM|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|123.25.15.209|9812|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|187.189.175.136|999|Mexico|San Pedro|Total Play Telecomunicaciones SA De CV|
-|14|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|15|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
-|16|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|3|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|67.43.228.253|2313|Canada|Montreal|GloboTech Communications|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|103.26.108.254|84|India|Sivakasi|Niss Networks|
+|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|17|1.2.252.65|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|159.65.176.77|10014|United States|Clifton|DigitalOcean, LLC|
 |19|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|20|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|20|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
 
 
 
