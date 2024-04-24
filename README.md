@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.169.254.185|2068|Indonesia|Sidoarjo|PT Master Star Network|
-|5|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|9|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|14|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
-|20|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|6|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|103.106.193.5|53281|India|Rewāri|Elyzium Consulting|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|190.60.36.77|8080|Colombia|Corozal|IFX NETWORKS COLOMBIA|
+|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|20|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
 
 
 
