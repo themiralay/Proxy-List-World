@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|172.104.187.58|3128|Singapore|Singapore|Akamai Technologies|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|78.137.66.236|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|15|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|16|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|181.78.74.62|999|Colombia|Bucaramanga|IFX Networks Argentina S.R.L|
-|19|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|20|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|172.104.187.58|3128|Singapore|Singapore|Akamai Technologies|
+|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|11|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|78.137.66.236|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.128.133.154|16099|United States|Hutto|Charter Communications|
+|17|66.70.225.202|8050|Brazil|Mairi|OVH Hosting|
+|18|72.10.164.178|18739|Canada|Montreal|GloboTech Communications|
+|19|79.111.15.125|8080|Russia|Moscow|PJSC MegaFon|
+|20|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
 
 
 
