@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 |2|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|4|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.8.68.48|3128|China|Shiyan|China Telecom|
-|7|103.75.52.186|8080|Indonesia|Tangerang|PT Quantum Tera Network|
-|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|101.255.158.42|8080|Indonesia|Bekasi|PT Remala Abadi|
-|18|103.75.52.186|8080|Indonesia|Tangerang|PT Quantum Tera Network|
-|19|138.197.92.54|10004|United States|Clifton|DigitalOcean, LLC|
-|20|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
+|3|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|103.186.254.218|2016|India|Visakhapatnam|Pioneer Elabs Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
+|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|10|103.35.108.190|5020|Bangladesh|Dhaka|Ranks ITT|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|112.30.155.83|12792|China|Shenzhen|China Mobile|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
+|17|201.91.82.155|3128|Brazil|Campinas|Vivo|
+|18|165.16.6.153|1981|Libya|Benghazi|Aljeel Aljadeed Technology|
+|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
