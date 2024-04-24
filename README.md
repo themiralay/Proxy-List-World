@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|145.40.73.104|10012|Singapore|Singapore|Packet Host, Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|139.178.67.134|10003|United States|Parsippany|PACKET-HOST|
-|6|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|7|103.87.169.189|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|43.243.140.58|10001|Indonesia|Pisangan|CEPATNET|
-|13|67.43.227.226|11011|Canada|Montreal|GloboTech Communications|
-|14|102.39.156.37|8080|South Africa|Cape Town|Vox Telecom|
-|15|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
-|16|103.169.198.214|8080|Indonesia|Palembang|PT. GLOBAL INAYAH ELEKTRINDO|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|19|67.43.236.20|15867|Canada|Montreal|GloboTech Communications|
-|20|46.10.229.243|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|3|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|147.28.155.20|10013|United States|Dallas|Packet Host, Inc.|
+|9|103.169.198.214|8080|Indonesia|Palembang|PT. GLOBAL INAYAH ELEKTRINDO|
+|10|103.8.164.16|1111|India|Mumbai|Microscan Computers Private Limited|
+|11|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|17|147.28.155.20|10013|United States|Dallas|Packet Host, Inc.|
+|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|19|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|20|82.222.11.212|8080|Türkiye|Gaziantep|Superonline Iletisim Hizmetleri A.S.|
 
 
 
