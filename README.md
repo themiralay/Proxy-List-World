@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|10|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|4|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|8|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|72.10.164.178|29001|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|25119|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|29001|Canada|Montreal|GloboTech Communications|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
-|17|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|159.65.176.77|10014|United States|Clifton|DigitalOcean, LLC|
+|12|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
+|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|16|72.10.160.90|2911|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|29001|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |19|67.43.227.227|25119|Canada|Montreal|GloboTech Communications|
-|20|181.197.130.218|80|Panama|David|Cable Onda|
+|20|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
