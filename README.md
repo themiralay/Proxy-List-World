@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|67.43.236.20|4601|Canada|Montreal|GloboTech Communications|
-|11|61.244.131.154|8118|Hong Kong|Fanling|Hong Kong Broadband Network Ltd|
-|12|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|17|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|18|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|72.10.164.178|27479|Canada|Montreal|GloboTech Communications|
+|4|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
+|5|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|103.152.232.128|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|8|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|12|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
+|16|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
 
 
 
