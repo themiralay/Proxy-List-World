@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.58.232.238|8080|Thailand|Bangkok Noi|CAT Telecom Public Company Limited|
-|2|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
 |6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|103.153.136.93|8080|Indonesia|Gorontalo|PT Andalas Global Network|
-|8|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|9|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
-|13|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|103.115.29.65|8080|Indonesia|Depok|HSPNET|
-|20|72.10.164.178|9213|Canada|Montreal|GloboTech Communications|
+|7|116.58.232.238|8080|Thailand|Bangkok Noi|CAT Telecom Public Company Limited|
+|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|9|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|10|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|11|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|38.156.233.142|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|17|64.225.4.81|10004|United States|Clifton|DigitalOcean, LLC|
+|18|103.8.68.46|3128|China|Shiyan|China Telecom|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
