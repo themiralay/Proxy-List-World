@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|145.40.73.104|10001|Singapore|Singapore|Packet Host, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.10.22.234|8080|Mongolia|Ulan Bator|Kewiko LLC|
-|7|147.28.155.20|10013|United States|Dallas|Packet Host, Inc.|
-|8|139.178.67.134|10003|United States|Parsippany|PACKET-HOST|
-|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|10|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|109.73.43.86|8080|Russia|Moscow|JSC Mastertel|
-|14|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|15|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|16|190.94.212.221|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
-|18|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|72.10.160.174|26263|Canada|Montreal|GloboTech Communications|
-|20|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|177.93.51.212|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|109.73.43.86|8080|Russia|Moscow|JSC Mastertel|
+|10|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
+|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|14|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|15|72.10.160.174|26263|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|67.43.227.227|12879|Canada|Montreal|GloboTech Communications|
+|20|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
 
 
 
