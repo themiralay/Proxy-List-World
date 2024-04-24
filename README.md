@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|34.93.100.112|3128|India|Mumbai|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|103.8.68.48|3128|China|Shiyan|China Telecom|
-|7|138.197.16.249|10011|United States|Clifton|DigitalOcean, LLC|
-|8|198.244.149.182|37615|United Kingdom|London|OVH SAS|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|113.53.61.217|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 |10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|72.10.164.178|12045|Canada|Montreal|GloboTech Communications|
-|15|107.172.0.177|666|United States|Dallas|HostPapa|
-|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|17|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|203.160.186.246|8080|Philippines|Makati City|Philippine Telelgraph & Telephone|
-|20|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
+|14|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|72.10.164.178|24637|Canada|Montreal|GloboTech Communications|
+|16|118.99.73.81|8080|Indonesia|Cipete Selatan|BIZNET|
+|17|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|18|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|38.183.152.34|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|20|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
