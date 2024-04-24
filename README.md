@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|147.28.145.212|10003|United States|Ashburn|Packet Host, Inc.|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
-|14|67.43.236.20|17027|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|139.178.67.131|10013|United States|Parsippany|PACKET-HOST|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|19|72.10.160.170|13419|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|45.250.215.8|8080|India|Delhi|Geocity Network Solutions PVT LTD|
+|11|200.39.120.45|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|12|181.197.130.218|80|Panama|David|Cable Onda|
+|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|14|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|15|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|103.152.232.111|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
 
 
 
