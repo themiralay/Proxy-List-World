@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|113.160.155.121|19132|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
-|3|131.100.48.97|999|Colombia|Neiva|Fibernet TV SAS|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|203.150.113.58|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|77.41.146.49|8080|Russia|Moscow|OJSC Vimpelcom HQ|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|211.51.126.134|3128|South Korea|Uijeongbu-si|KORNET|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|11|134.35.144.37|8080|Yemen|Dhamār|Public Telecommunication Corporation|
-|12|65.20.154.62|28080|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|13|203.150.113.58|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|14|134.35.234.164|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|72.10.164.178|15025|Canada|Montreal|GloboTech Communications|
-|17|38.252.135.1|999|Dominican Republic|Las Terrenas|CV HOTSPOT, S.R.L.|
-|18|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|67.43.227.227|30173|Canada|Montreal|GloboTech Communications|
-|20|180.191.59.3|8082|Philippines|Cabanatuan City|Globe Telecom|
+|6|211.51.126.134|3128|South Korea|Uijeongbu-si|KORNET|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.164.178|21461|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.22|13613|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|30173|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|16|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|17|78.137.66.236|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|19|91.214.31.136|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|20|134.35.144.37|8080|Yemen|Dhamār|Public Telecommunication Corporation|
 
 
 
