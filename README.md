@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|103.179.139.81|1111|Indonesia|Bekasi|PT. Fiber Networks Indonesia|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|146.196.110.13|3888|Indonesia|Sidoarjo|PT Maxindo Mitra Solusi|
-|8|103.99.27.26|7777|Indonesia|South Tangerang|PT Lintas Network Solusi|
-|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|10|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|11|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|18|72.10.160.90|31147|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|5|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|6|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
+|8|118.99.73.186|8080|Indonesia|Cipete Selatan|BIZNET|
+|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|12|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|64.225.4.81|10005|United States|Clifton|DigitalOcean, LLC|
+|15|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|72.10.164.178|15187|Canada|Montreal|GloboTech Communications|
+|17|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
+|18|136.226.230.98|10993|India|New Delhi|ZSCALER, INC.|
+|19|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|20|36.91.148.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
