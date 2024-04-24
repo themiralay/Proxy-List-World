@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|5|147.28.155.21|10054|United States|Dallas|Packet Host, Inc.|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|172.232.115.161|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|6|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|147.28.145.213|443|United States|Ashburn|Packet Host, Inc.|
 |9|147.28.155.21|10054|United States|Dallas|Packet Host, Inc.|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|147.75.92.251|10007|Japan|Koto-ku|Packet Host, Inc.|
-|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|13|147.28.155.21|10054|United States|Dallas|Packet Host, Inc.|
-|14|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|15|222.174.178.122|4999|China|Xintai|Chinanet|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|67.43.236.18|18569|Canada|Montreal|GloboTech Communications|
-|19|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|147.28.155.21|10054|United States|Dallas|Packet Host, Inc.|
+|13|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|18|203.190.44.197|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|147.28.155.21|10054|United States|Dallas|Packet Host, Inc.|
 
 
 
