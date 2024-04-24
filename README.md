@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|147.28.155.23|10017|United States|Dallas|Packet Host, Inc.|
-|6|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
-|7|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|200.108.190.110|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|4|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|147.28.155.23|10017|United States|Dallas|Packet Host, Inc.|
+|7|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
+|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|147.28.155.23|10017|United States|Dallas|Packet Host, Inc.|
 |11|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
-|12|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|13|147.28.155.23|10017|United States|Dallas|Packet Host, Inc.|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.152.232.53|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|17|103.4.117.153|5020|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|16|147.75.34.86|10007|The Netherlands|Amsterdam|Equinix Services|
+|17|89.58.48.220|10010|Germany|Nuremberg|netcup GmbH|
+|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |20|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
 
 
