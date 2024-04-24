@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|147.75.34.85|10009|The Netherlands|Amsterdam|Equinix Services|
+|3|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|147.75.92.251|9401|Japan|Koto-ku|Packet Host, Inc.|
-|6|86.109.3.28|10001|United States|Chicago|Packet Host, Inc.|
-|7|147.28.145.212|10003|United States|Ashburn|Packet Host, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.6.223.2|3128|China|Baoshan|China Unicom|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|13|138.197.16.249|10013|United States|Clifton|DigitalOcean, LLC|
-|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|159.65.186.46|10008|United States|Clifton|DigitalOcean, LLC|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|72.10.164.178|13003|Canada|Montreal|GloboTech Communications|
-|20|222.241.144.64|3128|China|Hengyang|Chinanet|
+|5|216.39.249.210|3128|United States|New York|GTHost|
+|6|147.75.92.251|9401|Japan|Koto-ku|Packet Host, Inc.|
+|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|8|147.28.155.20|9400|United States|Dallas|Packet Host, Inc.|
+|9|147.28.145.212|10003|United States|Ashburn|Packet Host, Inc.|
+|10|222.241.144.64|3128|China|Hengyang|Chinanet|
+|11|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|16|5.34.46.94|8080|Kazakhstan|Almaty|2Day Telecom LLP|
+|17|216.39.249.210|3128|United States|New York|GTHost|
+|18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
