@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|103.36.8.55|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|147.28.155.21|10054|United States|Dallas|Packet Host, Inc.|
-|8|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|9|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|165.16.27.36|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|72.10.164.178|16945|Canada|Montreal|GloboTech Communications|
-|17|103.111.118.65|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|18|72.10.160.170|19955|Canada|Montreal|GloboTech Communications|
-|19|181.197.130.218|80|Panama|David|Cable Onda|
-|20|181.209.122.74|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|8|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.26.110.110|84|India|Tirunelveli|Niss Networks|
+|11|147.28.155.21|10007|United States|Dallas|Packet Host, Inc.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|177.93.50.106|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|16|72.10.160.170|19955|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|18|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
