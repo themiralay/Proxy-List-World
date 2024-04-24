@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|5|147.28.155.20|10013|United States|Dallas|Packet Host, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
-|11|147.28.155.20|10013|United States|Dallas|Packet Host, Inc.|
-|12|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|204.157.247.218|999|Dominican Republic|Santo Domingo Este|AGIS|
-|20|134.35.246.32|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|103.173.230.108|8080|Indonesia|Tasikmalaya|PT Jaringan Internet Banten|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|147.28.155.20|9400|United States|Dallas|Packet Host, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.8.68.48|3128|China|Shiyan|China Telecom|
+|10|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|11|177.93.51.213|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|103.230.81.135|8080|Indonesia|Banten|PT. Pandeglang Akses Semesta|
+|15|103.16.118.78|8080|Indonesia|Madiun|CV Trustnet Media|
+|16|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|17|222.74.73.202|42055|China|Hechi|Chinanet|
+|18|201.91.82.155|3128|Brazil|Campinas|Vivo|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
 
 
 
