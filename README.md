@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|116.50.174.219|8080|Philippines|Manila|Eastern Telecommunications Philippines, Inc.|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|103.152.232.60|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|172.232.115.161|8080|India|Chennai|Akamai Technologies, Inc.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|13|64.225.4.81|10016|United States|Clifton|DigitalOcean, LLC|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|67.43.236.20|29791|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.227.227|8791|Canada|Montreal|GloboTech Communications|
-|18|185.19.4.22|3128|Ukraine|Kyiv|Triolan|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|4|103.169.254.185|2068|Indonesia|Sidoarjo|PT Master Star Network|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
+|7|64.225.4.81|10016|United States|Clifton|DigitalOcean, LLC|
+|8|67.43.236.20|6987|Canada|Montreal|GloboTech Communications|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|202.154.18.18|1212|Indonesia|Lamongan|DIGITNET|
+|14|201.91.82.155|3128|Brazil|Campinas|Vivo|
+|15|181.233.62.0|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
+|16|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 
 
 
