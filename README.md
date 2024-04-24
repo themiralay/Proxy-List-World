@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|11|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|12|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|165.22.36.164|10000|United States|Clifton|DigitalOcean, LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|8|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|10|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 |14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|16|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|212.115.232.79|31280|Ukraine|Dnipro|ISP "Fregat"|
-|20|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|19|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|20|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 
 
 
