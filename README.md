@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|222.109.151.80|1080|South Korea|Seoul|Korea Telecom|
-|3|181.197.130.218|80|Panama|David|Cable Onda|
-|4|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|72.10.160.90|13017|Canada|Montreal|GloboTech Communications|
-|15|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|16|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
-|17|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
+|2|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.50.76.98|443|India|Mumbai|Jetway Broadband|
+|6|222.109.151.80|1080|South Korea|Seoul|Korea Telecom|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|134.19.254.2|21231|Georgia|Tbilisi|GPON|
+|13|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|14|45.189.118.92|999|Peru|Lima|Fiber Digital S.R.L|
+|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|16|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |18|201.91.82.155|3128|Brazil|Campinas|Vivo|
-|19|103.156.16.182|1111|Indonesia|Indramayu|RSTNET|
-|20|172.232.115.138|8080|India|Chennai|Akamai Technologies, Inc.|
+|19|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|20|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
