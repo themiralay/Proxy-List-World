@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|5|103.217.224.201|8080|Indonesia|Banyumas|PT Nesta Indo Media|
-|6|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|7|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|12|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|72.10.164.178|10217|Canada|Montreal|GloboTech Communications|
-|15|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|16|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|17|201.91.82.155|3128|Brazil|Campinas|Vivo|
-|18|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|20|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|1|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|2|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|64.225.4.81|10005|United States|Clifton|DigitalOcean, LLC|
+|8|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|10|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|12|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|201.91.82.155|3128|Brazil|Campinas|Vivo|
+|15|223.215.176.93|8089|China|Shenzhen|Chinanet|
+|16|167.250.181.133|999|Ecuador|La Mana|Ufinet Panama S.A.|
+|17|67.43.236.20|20345|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|20345|Canada|Montreal|GloboTech Communications|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
