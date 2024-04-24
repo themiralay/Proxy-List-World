@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 |4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|201.91.82.155|3128|Brazil|Campinas|Vivo|
-|6|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|202.144.157.1|9009|Bhutan|Thimphu|Bhutan Telecom Ltd|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|18|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|9|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|103.35.108.190|5020|Bangladesh|Dhaka|Ranks ITT|
+|12|179.43.93.198|8080|Peru|Horacio Zeballos Gamez|MEDIA COMMERCE PERÚ S.A.C|
+|13|201.91.82.155|3128|Brazil|Campinas|Vivo|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.242.107.146|8080|Indonesia|Kudus|PT Lintas Jaringan Nusantara|
+|17|103.182.112.11|8000|India|Mumbai|Ruhi Infotech|
+|18|72.10.164.178|24735|Canada|Montreal|GloboTech Communications|
 |19|45.178.133.75|999|Chile|Renca|Mundonet S.p.A|
-|20|67.43.236.20|15305|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
