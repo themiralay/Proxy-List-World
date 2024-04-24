@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|183.165.244.137|8089|China|Shenzhen|Chinanet|
-|9|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|10|182.253.45.103|8080|Indonesia|Tangerang|BIZNET|
-|11|67.43.236.20|4881|Canada|Montreal|GloboTech Communications|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|67.43.228.253|9027|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|72.10.164.178|23271|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|67.43.236.20|4881|Canada|Montreal|GloboTech Communications|
-|19|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|20|103.191.115.114|83|India|Bānka|Xpress Fiber Private Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|202.169.51.46|8080|Indonesia|Jakarta Pusat|Biznet - PSN-NAP|
+|3|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|11|119.92.236.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|72.10.164.178|23271|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
 
 
 
