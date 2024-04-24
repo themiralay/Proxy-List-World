@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|15|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|16|80.78.65.230|8080|Albania|Tirana|ABCom|
-|17|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|20|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|177.234.244.49|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|6|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|7|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|9|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|10|89.135.59.65|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|13|201.91.82.155|3128|Brazil|Campinas|Vivo|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|16|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
+|17|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
