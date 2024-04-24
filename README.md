@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5516** proxies at the latest update. Usable proxies are below.
+> Scraper found **5522** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|92|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|567|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|573|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|365|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3534|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|3|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|4|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
-|5|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
 |7|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|12|72.10.164.178|29481|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|29481|Canada|Montreal|GloboTech Communications|
-|14|89.58.48.220|10004|Germany|Nuremberg|netcup GmbH|
-|15|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|16|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|17|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
-|18|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
-|19|159.65.176.77|10009|United States|Clifton|DigitalOcean, LLC|
-|20|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|12|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|14|186.123.26.79|8080|Argentina|Lanús|Techtel LMDS Comunicaciones Interactivas S.A.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|119.82.242.200|8080|Indonesia|Surabaya|Indonesia Network Information Center|
+|17|103.143.168.78|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|18|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|154.83.14.137|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
 
 
 
