@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.190.171.137|8080|Indonesia|Jakarta|WMS|
-|5|147.75.92.244|10001|Japan|Koto-ku|Packet Host, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.152.232.39|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|67.43.228.253|6851|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|3711|Canada|Montreal|GloboTech Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|72.10.164.178|24931|Canada|Montreal|GloboTech Communications|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|67.43.227.227|24521|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|18727|Canada|Montreal|GloboTech Communications|
-|16|94.154.152.109|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
-|17|72.10.160.90|16813|Canada|Montreal|GloboTech Communications|
-|18|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|19|177.234.194.157|999|Ecuador|Buena Fe|Ufinet Panama S.A.|
-|20|67.43.236.20|18727|Canada|Montreal|GloboTech Communications|
+|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|67.43.228.253|27211|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|78.170.135.164|8080|Turkey|Istanbul|TurkTelecom|
+|15|67.43.227.227|26253|Canada|Montreal|GloboTech Communications|
+|16|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|72.10.160.170|3711|Canada|Montreal|GloboTech Communications|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
