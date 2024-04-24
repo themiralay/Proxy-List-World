@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|1|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |2|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|3|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|6|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
+|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|8|72.10.160.173|8035|Canada|Montreal|GloboTech Communications|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|72.10.160.173|8035|Canada|Montreal|GloboTech Communications|
-|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|67.43.227.227|3137|Canada|Montreal|GloboTech Communications|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|89.58.48.220|10005|Germany|Nuremberg|netcup GmbH|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|181.197.130.218|80|Panama|David|Cable Onda|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
+|15|181.74.83.25|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|18|103.122.66.240|1080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|19|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|20|67.43.236.20|29817|Canada|Montreal|GloboTech Communications|
 
 
 
