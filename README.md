@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|72.10.164.178|22467|Canada|Montreal|GloboTech Communications|
-|6|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|8|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|9|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|12|67.43.236.20|22147|Canada|Montreal|GloboTech Communications|
+|2|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|72.10.164.178|13091|Canada|Montreal|GloboTech Communications|
+|11|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|12|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.164.178|22467|Canada|Montreal|GloboTech Communications|
-|15|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
-|16|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|67.43.227.227|18805|Canada|Montreal|GloboTech Communications|
-|19|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|20|102.220.127.140|8080|South Africa|Thohoyandou|Mpu Communications (Pty) Ltd|
+|14|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|15|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|16|72.10.164.178|13091|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|1307|Canada|Montreal|GloboTech Communications|
+|18|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|19|72.10.160.90|3211|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|1307|Canada|Montreal|GloboTech Communications|
 
 
 
