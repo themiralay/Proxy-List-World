@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
-|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|147.75.34.85|10009|The Netherlands|Amsterdam|Equinix Services|
-|9|34.93.100.112|3128|India|Mumbai|Google LLC|
-|10|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
-|11|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|13|131.100.48.233|999|Colombia|Neiva|Fibernet TV SAS|
-|14|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|16|147.28.155.20|9400|United States|Dallas|Packet Host, Inc.|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|185.204.2.231|3128|Russia|Moscow|First Server Limited|
-|20|67.43.227.228|10425|Canada|Montreal|GloboTech Communications|
+|3|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|34.93.100.112|3128|India|Mumbai|Google LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
+|9|49.48.134.216|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|10|103.5.232.148|8080|Bangladesh|Chittagong|Chittagong Online Limited|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|147.28.155.20|9400|United States|Dallas|Packet Host, Inc.|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|15|5.34.46.94|8080|Kazakhstan|Almaty|2Day Telecom LLP|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|115.127.65.67|8080|Bangladesh|Dhaka|BRACNet Limited|
+|18|147.75.92.251|9401|Japan|Koto-ku|Packet Host, Inc.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
