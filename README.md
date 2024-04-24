@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|139.178.67.134|10003|United States|Parsippany|PACKET-HOST|
-|5|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|6|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|8|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|72.10.164.178|17361|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|23183|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|3211|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|23183|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.164.178|17361|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|17361|Canada|Montreal|GloboTech Communications|
-|20|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.218.25.245|8080|Bangladesh|Dhaka|Carnival Internet|
+|5|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|8|145.40.73.104|10001|Singapore|Singapore|Packet Host, Inc.|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|72.10.164.178|4183|Canada|Montreal|GloboTech Communications|
+|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|103.10.71.81|80|Indonesia|Situsaeur|PT Wadma Berkah Sedaya|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|113.160.182.236|19132|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
+|18|67.43.236.20|6935|Canada|Montreal|GloboTech Communications|
+|19|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|20|72.10.160.90|4897|Canada|Montreal|GloboTech Communications|
 
 
 
