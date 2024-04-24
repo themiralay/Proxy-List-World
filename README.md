@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|147.28.155.23|10017|United States|Dallas|Packet Host, Inc.|
-|3|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
-|4|203.150.128.127|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|103.153.62.203|3125|Indonesia|Jakarta|IMEDIANET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|147.28.155.23|10017|United States|Dallas|Packet Host, Inc.|
-|12|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
-|14|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|5.83.248.1|8080|Ireland|Roscommon|EURONA-BRISKNET|
-|19|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|20|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|3|103.171.31.175|8080|Indonesia|Pengarengan|MORATELINDONAP|
+|4|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|147.28.155.23|10017|United States|Dallas|Packet Host, Inc.|
+|10|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
+|11|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|12|38.188.203.9|8080|India|Bengaluru|Opto Communications Private Limited|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|103.8.68.48|3128|China|Shiyan|China Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|203.150.128.127|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|18|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|19|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
