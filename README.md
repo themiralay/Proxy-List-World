@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|4|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|7|77.242.22.225|8080|Albania|Tirana|Abissnet ISP|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|182.53.50.2|3128|Thailand|Ban Mai Khao|TOT Public Company Limited|
-|12|190.90.39.78|999|Colombia|Arauca|InterNexa Global Network|
-|13|103.164.117.186|3128|Indonesia|Jakarta Pusat|SOLUSINET|
-|14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|17|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|147.75.122.245|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|110.139.128.232|3127|Indonesia|Banjarmasin|PT. TELKOM INDONESIA|
+|15|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|16|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|19|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|20|103.164.117.186|3128|Indonesia|Jakarta Pusat|SOLUSINET|
 
 
 
