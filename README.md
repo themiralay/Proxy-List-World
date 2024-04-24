@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|3|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|72.10.164.178|13837|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|13837|Canada|Montreal|GloboTech Communications|
 |9|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|12|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|67.43.228.253|3255|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|157.15.116.1|8080|Indonesia|Medan|PT Trias Infra Sarana|
-|18|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|72.10.164.178|20017|Canada|Montreal|GloboTech Communications|
-|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
+|13|72.10.164.178|13837|Canada|Montreal|GloboTech Communications|
+|14|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
+|15|67.43.228.253|18451|Canada|Montreal|GloboTech Communications|
+|16|186.215.196.50|3128|Brazil|Recife|Vivo|
+|17|66.211.155.34|8080|United States|Townsend|FirstLight Fiber|
+|18|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|202.62.67.209|53281|India|Visakhapatnam|CityOnline Services|
+|20|206.62.64.34|8080|Brazil|Cascavel|AGIS|
 
 
 
