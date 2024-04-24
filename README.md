@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|7|172.232.115.138|8080|India|Chennai|Akamai Technologies, Inc.|
+|6|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|64.225.8.132|10011|United States|Clifton|DigitalOcean, LLC|
-|10|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|11|67.43.228.253|16355|Canada|Montreal|GloboTech Communications|
-|12|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
-|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|103.8.68.46|3128|China|Shiyan|China Telecom|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|103.48.68.28|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|94.154.152.109|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
-|20|116.50.174.219|8080|Philippines|Manila|Eastern Telecommunications Philippines, Inc.|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|103.8.68.46|3128|China|Shiyan|China Telecom|
+|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|13|67.43.228.253|9101|Canada|Montreal|GloboTech Communications|
+|14|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|15|222.174.178.122|4999|China|Xintai|Chinanet|
+|16|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|17|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|18|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
+|19|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|20|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
 
 
 
