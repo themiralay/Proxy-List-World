@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|34.93.100.112|3128|India|Mumbai|Google LLC|
-|4|157.20.218.31|8080|Indonesia|Wonosobo|SINSUNETWORK|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|10|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|11|111.13.14.189|3128|China|Shenzhen|China Mobile communications corporation|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|8|204.157.247.218|999|Dominican Republic|Santo Domingo Este|AGIS|
+|9|134.35.216.14|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|10|111.13.14.189|3128|China|Shenzhen|China Mobile communications corporation|
+|11|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
 |12|34.93.100.112|3128|India|Mumbai|Google LLC|
-|13|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|14|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|15|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|72.10.164.178|24637|Canada|Montreal|GloboTech Communications|
+|15|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
 |16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|223.215.176.8|8089|China|Shenzhen|Chinanet|
-|18|72.10.164.178|24637|Canada|Montreal|GloboTech Communications|
-|19|103.6.223.2|3128|China|Baoshan|China Unicom|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|103.218.25.245|8080|Bangladesh|Dhaka|Carnival Internet|
+|18|45.173.6.102|8080|Colombia|Bogotá|Columbus Networks Colombia|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
 
 
 
