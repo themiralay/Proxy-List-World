@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.178.67.131|10011|United States|Parsippany|PACKET-HOST|
-|2|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|93.159.247.109|3128|Russia|Krasnoyarsk|Axioma, LLC|
-|5|103.170.115.180|8080|Indonesia|Bengkalis|PT Mega Data Akses|
-|6|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|11|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|67.43.228.254|24491|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|21213|Canada|Montreal|GloboTech Communications|
-|14|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|15|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|1|180.180.118.150|8080|Thailand|Pluak Daeng|TOT Public Company Limited|
+|2|139.178.67.131|10011|United States|Parsippany|PACKET-HOST|
+|3|112.197.3.200|8080|Vietnam|Ho Chi Minh City|SCTV|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.189.118.92|999|Peru|Lima|Fiber Digital S.R.L|
+|6|103.162.16.47|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|7|103.110.36.65|83|India|Lucknow|Bytel Tranet Private Limited|
+|8|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|10|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|11|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|12|177.234.244.49|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|13|101.255.166.26|8080|Indonesia|Bekasi|PT Remala Abadi|
+|14|67.43.228.254|24491|Canada|Montreal|GloboTech Communications|
+|15|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
 |16|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
 |17|72.10.160.170|33147|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|24527|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|67.43.236.18|20749|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|20749|Canada|Montreal|GloboTech Communications|
+|19|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|20|103.182.112.11|1234|India|Mumbai|Ruhi Infotech|
 
 
 
