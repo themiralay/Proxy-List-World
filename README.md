@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.58.232.238|8080|Thailand|Bangkok Noi|CAT Telecom Public Company Limited|
-|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|1|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|2|116.58.232.238|8080|Thailand|Bangkok Noi|CAT Telecom Public Company Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|5|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
-|14|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|15|72.10.164.178|9187|Canada|Montreal|GloboTech Communications|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|147.28.145.212|443|United States|Ashburn|Packet Host, Inc.|
-|19|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|20|134.35.0.200|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|10|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|179.1.192.2|999|Colombia|Ibagué|InterNexa Global Network|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|16|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|134.35.0.200|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|19|72.10.164.178|11577|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
