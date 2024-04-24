@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|9|177.234.244.49|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|10|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|72.10.160.92|10081|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
-|20|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|1|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|10|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
+|11|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|12|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
+|13|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|16|43.228.167.6|8080|India|Delhi|FAB FIVE NETWORK PRIVATE LIMITED|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|19|168.0.239.224|8787|Brazil|Sao Sebastiao do Passe|VOANET Telecomunicações Ltda.|
+|20|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
 
 
 
