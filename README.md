@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|5|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.26.129.27|8080|Indonesia|Demak|PT Panglima Kamayo Media|
-|7|27.54.117.88|8089|Indonesia|Denpasar|Indonesia Network Information Center|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|64.225.8.132|10001|United States|Clifton|DigitalOcean, LLC|
-|14|115.147.20.176|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|15|72.10.160.171|17435|Canada|Montreal|GloboTech Communications|
+|2|134.35.0.200|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|3|134.35.22.109|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|11|115.147.20.176|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|12|103.186.212.59|8080|Indonesia|Banyuwangi|LAROS|
+|13|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
 |16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|200.24.136.44|999|Ecuador|Quito|Negocios Y Telefonia Nedetel S.A|
-|18|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|118.173.109.204|8080|Thailand|Bang Kruai|TOT Public Company Limited|
+|20|103.8.68.46|3128|China|Shiyan|China Telecom|
 
 
 
