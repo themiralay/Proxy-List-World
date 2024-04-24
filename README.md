@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|200.13.47.165|8080|Argentina|San Jorge|Trynet S.R.L.|
-|9|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|10|167.250.181.133|999|Ecuador|La Mana|Ufinet Panama S.A.|
+|7|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |11|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|12|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|145.40.73.104|10001|Singapore|Singapore|Packet Host, Inc.|
-|14|67.43.227.227|21071|Canada|Montreal|GloboTech Communications|
-|15|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|16|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|18|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
-|19|67.43.227.227|21071|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2521|Canada|Montreal|GloboTech Communications|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|67.43.227.227|21071|Canada|Montreal|GloboTech Communications|
+|14|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|15|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|67.43.227.227|21071|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|13247|Canada|Montreal|GloboTech Communications|
+|19|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
+|20|67.43.236.20|31359|Canada|Montreal|GloboTech Communications|
 
 
 
