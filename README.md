@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|182.253.62.204|8080|Indonesia|Jakarta|BIZNET|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|5|103.142.241.165|8085|Indonesia|Jember|Multi Teknologi Telematika|
-|6|145.40.73.104|9400|Singapore|Singapore|Packet Host, Inc.|
-|7|138.197.92.54|10016|United States|Clifton|DigitalOcean, LLC|
-|8|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|190.144.238.66|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|10|36.88.111.98|55443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|67.43.227.227|10863|Canada|Montreal|GloboTech Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|145.40.73.104|9400|Singapore|Singapore|Packet Host, Inc.|
+|5|190.94.212.249|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|6|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|8|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|9|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|15|138.197.92.54|10016|United States|Clifton|DigitalOcean, LLC|
+|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|138.84.51.64|80|Colombia|Bogota|SpaceX Starlink|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |20|72.10.160.90|19761|Canada|Montreal|GloboTech Communications|
 
 
