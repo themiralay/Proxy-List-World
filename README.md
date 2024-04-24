@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|6|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|103.186.254.218|2016|India|Visakhapatnam|Pioneer Elabs Ltd.|
-|13|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
-|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|15|112.30.155.83|12792|China|Shenzhen|China Mobile|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|159.65.176.77|10010|United States|Clifton|DigitalOcean, LLC|
-|20|72.10.164.178|4815|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|12|103.93.216.58|8080|Pakistan|Karachi|Rising Cable Net (Pvt) Ltd|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|18|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|19|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
