@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|145.40.73.104|10001|Singapore|Singapore|Packet Host, Inc.|
-|5|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|68.183.48.146|10013|United States|Clifton|DigitalOcean, LLC|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|72.10.160.90|4503|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
+|13|67.43.227.227|19695|Canada|Montreal|GloboTech Communications|
+|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 |15|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|72.10.164.178|9067|Canada|Montreal|GloboTech Communications|
-|17|139.178.67.134|10003|United States|Parsippany|PACKET-HOST|
-|18|1.1.230.106|8080|Thailand|Nakhon Ratchasima|TOT Public Company Limited|
-|19|103.160.184.222|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
-|20|67.43.227.227|19695|Canada|Montreal|GloboTech Communications|
+|16|68.183.48.146|10013|United States|Clifton|DigitalOcean, LLC|
+|17|1.1.230.106|8080|Thailand|Nakhon Ratchasima|TOT Public Company Limited|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|72.10.164.178|18943|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
