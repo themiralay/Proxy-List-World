@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|12|203.210.86.45|1080|Indonesia|Bandung|Infrastruktur STARNET|
-|13|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|14|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|16|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|67.43.236.18|3449|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|38.156.233.76|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|12|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|13|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
+|14|103.48.68.28|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|17|67.43.236.18|3449|Canada|Montreal|GloboTech Communications|
+|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|64.225.8.132|10000|United States|Clifton|DigitalOcean, LLC|
+|20|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
 
 
 
