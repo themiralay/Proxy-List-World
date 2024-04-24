@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
 |3|203.150.113.58|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|134.35.191.25|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|16|64.225.8.132|10001|United States|Clifton|DigitalOcean, LLC|
-|17|170.238.112.71|8080|Brazil|Placas|Marlon Lima Gomes - ME|
-|18|103.217.213.125|32650|India|Guntur|E Net Entertainment Pvt Ltd|
-|19|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|20|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|13|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|14|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|77.41.146.49|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|18|67.43.227.228|33261|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|3319|Canada|Montreal|GloboTech Communications|
+|20|68.183.48.146|10016|United States|Clifton|DigitalOcean, LLC|
 
 
 
