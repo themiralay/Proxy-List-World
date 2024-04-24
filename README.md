@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|6|103.155.196.114|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|145.40.73.104|10000|Singapore|Singapore|Packet Host, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|139.178.67.133|10005|United States|Parsippany|PACKET-HOST|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|34.93.100.112|3128|India|Mumbai|Google LLC|
-|13|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|72.10.164.178|1707|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|3059|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|68.183.48.146|10003|United States|Clifton|DigitalOcean, LLC|
+|4|38.183.152.34|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|6|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|7|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|8|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|10|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|11|139.178.67.133|80|United States|Parsippany|PACKET-HOST|
+|12|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|67.43.228.252|4387|Canada|Montreal|GloboTech Communications|
+|14|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|18|72.10.164.178|22113|Canada|Montreal|GloboTech Communications|
+|19|34.93.100.112|3128|India|Mumbai|Google LLC|
+|20|202.40.179.34|9090|Bangladesh|Dhaka|Ranks ITT|
 
 
 
