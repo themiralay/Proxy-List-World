@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 |5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|11|103.67.90.25|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
+|12|1.1.230.106|8080|Thailand|Nakhon Ratchasima|TOT Public Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|197.232.10.202|41890|Kenya|Busia|Jamii Telecommunications Limited|
 |15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.182.112.11|1234|India|Mumbai|Ruhi Infotech|
-|20|138.197.16.249|10011|United States|Clifton|DigitalOcean, LLC|
+|16|177.234.251.187|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|17|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|18|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|43.252.144.72|8080|Indonesia|Jakarta|PT Asia Teknologi Solusi|
 
 
 
