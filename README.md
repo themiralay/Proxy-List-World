@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|134.35.16.248|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|8|134.35.185.50|8080|Yemen|Al Bayda|Public Telecommunication Corporation|
-|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|10|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
-|11|72.10.164.178|1433|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|18|67.43.236.20|5061|Canada|Montreal|GloboTech Communications|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|38.56.70.75|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|9|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
+|10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|11|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|147.28.145.212|10003|United States|Ashburn|Packet Host, Inc.|
+|13|139.178.66.227|10008|United States|Parsippany|PACKET-HOST|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
