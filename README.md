@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
-|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|12|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|14|186.123.26.79|8080|Argentina|Lanús|Techtel LMDS Comunicaciones Interactivas S.A.|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|119.82.242.200|8080|Indonesia|Surabaya|Indonesia Network Information Center|
-|17|103.143.168.78|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|18|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|154.83.14.137|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|5|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|6|36.94.60.26|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|7|103.203.175.33|84|India|Hyderabad|Softgaurd Powertronics|
+|8|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|10|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|11|218.202.193.12|3129|China|Shenzhen|China Mobile communications corporation|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|15|154.83.14.137|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|5.196.111.29|20170|France|Gravelines|OVH SAS|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|206.42.28.150|8800|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
