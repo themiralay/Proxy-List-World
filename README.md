@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|7|115.178.49.181|8080|Indonesia|Pengasinan|NOC SIMAYA|
-|8|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|9|103.227.252.102|8080|Indonesia|Jakarta|PT Raja Mitra Informatika|
-|10|190.61.47.75|9992|Colombia|Medellín|Ufinet Panama S.A.|
-|11|72.10.164.178|29707|Canada|Montreal|GloboTech Communications|
-|12|177.234.244.49|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.236.20|5143|Canada|Montreal|GloboTech Communications|
-|15|103.153.246.61|8080|Indonesia|Depok|PRIMAHOME|
-|16|203.150.172.151|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|17|72.10.164.178|29707|Canada|Montreal|GloboTech Communications|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
-|20|72.10.160.90|9693|Canada|Montreal|GloboTech Communications|
+|4|180.191.23.9|8082|Philippines|Cabanatuan City|Globe Telecom|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|8|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|9|182.253.172.159|8080|Indonesia|Jakarta|Biznet Metronet|
+|10|159.65.176.77|10003|United States|Clifton|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|201.170.22.174|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
+|17|72.10.164.178|21129|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.161.30.1|83|India|Eluru|Venkata Sai Internet Pvt Ltd|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
