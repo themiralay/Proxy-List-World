@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.35.7.74|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|4|188.132.146.101|8080|Türkiye|Antakya|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|8|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|103.155.198.53|8181|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|72.10.160.90|3211|Canada|Montreal|GloboTech Communications|
-|15|5.196.111.29|20170|France|Gravelines|OVH SAS|
-|16|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|20|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|8|200.24.154.218|999|Ecuador|Manta|Ufinet Panama S.A.|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|190.26.255.28|999|Colombia|Bogotá|ETB - Colombia|
+|11|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|134.35.7.74|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|103.8.68.48|3128|China|Shiyan|China Telecom|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|181.197.130.218|80|Panama|David|Cable Onda|
+|18|43.134.224.102|8090|Singapore|Singapore|Aceville Pte.ltd|
+|19|67.43.228.253|14309|Canada|Montreal|GloboTech Communications|
+|20|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
