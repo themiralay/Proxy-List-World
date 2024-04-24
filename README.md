@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|82.114.185.193|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|6|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
 |7|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|8|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|13|114.106.135.62|8089|China|Guangzhou|Chinanet|
-|14|145.40.73.104|10001|Singapore|Singapore|Packet Host, Inc.|
+|8|200.39.120.44|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|9|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|198.244.149.182|37615|United Kingdom|London|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|145.40.73.104|10001|Singapore|Singapore|Packet Host, Inc.|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |15|145.40.73.104|10001|Singapore|Singapore|Packet Host, Inc.|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|65.109.239.59|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|145.40.73.104|10001|Singapore|Singapore|Packet Host, Inc.|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|68.183.48.146|10003|United States|Clifton|DigitalOcean, LLC|
+|18|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|114.106.135.62|8089|China|Guangzhou|Chinanet|
 
 
 
