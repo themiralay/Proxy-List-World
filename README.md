@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|7|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|103.169.254.186|8061|Indonesia|Sidoarjo|PT Master Star Network|
 |9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|68.183.48.146|10015|United States|Clifton|DigitalOcean, LLC|
-|12|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|12|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 |13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|72.10.160.91|2017|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|13863|Canada|Montreal|GloboTech Communications|
-|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|15|91.185.38.105|7050|Russia|Moscow|JSC "ER-Telecom Holding"|
+|16|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|17|222.174.178.122|4999|China|Xintai|Chinanet|
+|18|67.43.227.228|13863|Canada|Montreal|GloboTech Communications|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|72.10.160.91|2017|Canada|Montreal|GloboTech Communications|
 
 
 
