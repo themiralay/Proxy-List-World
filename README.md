@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|8|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|9|181.78.77.229|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|10|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|11|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|12|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|72.10.160.172|1235|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
-|19|67.43.227.227|1181|Canada|Montreal|GloboTech Communications|
-|20|103.153.63.137|3125|Indonesia|Rejoagung Satu|IMEDIANET|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|103.105.55.170|8085|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
+|7|38.7.109.253|8080|Mexico|Tuxtla Gutiérrez|Grupo Convergente Arzola|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|45.181.123.97|999|Chile|Santiago|Interpit Telecomunicaciones Ltda|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|13|116.58.232.238|8080|Thailand|Bangkok Noi|CAT Telecom Public Company Limited|
+|14|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|17|45.235.16.121|27234|Brazil|Ortigueira|Acessoline Telecom|
+|18|64.225.4.81|10000|United States|Clifton|DigitalOcean, LLC|
+|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|20|103.8.68.48|3128|China|Shiyan|China Telecom|
 
 
 
