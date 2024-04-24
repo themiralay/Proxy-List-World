@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |6|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|103.162.63.121|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|13|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|14|201.91.82.155|3128|Brazil|Campinas|Vivo|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|103.160.205.86|8080|Indonesia|Mataram|PRIME|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|72.10.160.173|23139|Canada|Montreal|GloboTech Communications|
-|18|202.138.239.130|1212|Indonesia|Bandung|PT Melvar Lintasnusa|
-|19|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
-|20|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|16|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|17|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
 
 
 
