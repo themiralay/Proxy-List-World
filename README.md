@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.212.38.220|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.217.224.201|8080|Indonesia|Banyumas|PT Nesta Indo Media|
-|6|144.6.87.2|8080|Australia|Melbourne|Aussie Broadband|
+|5|145.40.73.104|10001|Singapore|Singapore|Packet Host, Inc.|
+|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|8|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|11|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|213.244.91.179|8080|Palestinian Territory|Gaza|PALTEL (Palestine Telecommunications Co.)|
-|14|72.10.160.90|11521|Canada|Montreal|GloboTech Communications|
-|15|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|67.43.228.253|3747|Canada|Montreal|GloboTech Communications|
-|18|198.244.149.182|37615|United Kingdom|London|OVH SAS|
-|19|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|12|49.0.32.48|8000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|13|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|14|123.200.18.155|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|38.49.159.74|999|Mexico|El Pueblito|Ientc S De RL De CV|
+|17|103.217.224.27|8085|Indonesia|Banyumas|PT Nesta Indo Media|
+|18|72.10.164.178|3797|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
 
 
 
