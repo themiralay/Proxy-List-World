@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|222.109.151.80|1080|South Korea|Seoul|Korea Telecom|
-|3|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|5|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
-|6|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|7|95.0.206.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|8|103.147.84.9|8080|Indonesia|Tangerang|PT DATA PRIMA SOLUSINDO|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|72.10.160.170|33147|Canada|Montreal|GloboTech Communications|
+|2|139.178.67.131|10011|United States|Parsippany|PACKET-HOST|
+|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|222.109.151.80|1080|South Korea|Seoul|Korea Telecom|
+|5|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|9|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|10|72.10.160.170|33147|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |12|114.103.88.128|8089|China|Shenzhen|Chinanet|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|15|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|17|72.10.164.178|23969|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|21159|Canada|Montreal|GloboTech Communications|
-|19|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
-|20|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|13|72.10.164.178|1487|Canada|Montreal|GloboTech Communications|
+|14|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|67.43.228.253|21159|Canada|Montreal|GloboTech Communications|
+|18|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|201.91.82.155|3128|Brazil|Campinas|Vivo|
 
 
 
