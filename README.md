@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|147.28.145.212|10003|United States|Ashburn|Packet Host, Inc.|
-|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
-|9|147.28.145.212|10003|United States|Ashburn|Packet Host, Inc.|
-|10|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|165.22.36.164|10000|United States|Clifton|DigitalOcean, LLC|
-|13|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|19|72.10.160.90|1359|Canada|Montreal|GloboTech Communications|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|147.75.34.85|10009|The Netherlands|Amsterdam|Equinix Services|
+|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|7|103.199.214.154|8080|India|Ambāla|RailTel Corporation|
+|8|103.172.23.82|8080|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|72.10.160.173|32211|Canada|Montreal|GloboTech Communications|
+|17|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 
 
 
