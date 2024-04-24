@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|3|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
-|7|147.28.155.21|10054|United States|Dallas|Packet Host, Inc.|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|67.43.228.253|2229|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|1183|Canada|Montreal|GloboTech Communications|
-|11|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|17|165.22.36.164|10000|United States|Clifton|DigitalOcean, LLC|
-|18|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
-|19|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|20|89.58.48.220|10000|Germany|Nuremberg|netcup GmbH|
+|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|8|74.208.124.254|3128|United States|Philadelphia|IONOS SE|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|45.181.123.97|999|Chile|Santiago|Interpit Telecomunicaciones Ltda|
+|12|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|13|147.28.155.21|10054|United States|Dallas|Packet Host, Inc.|
+|14|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
+|16|67.43.228.253|2229|Canada|Montreal|GloboTech Communications|
+|17|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|18|159.65.176.77|10000|United States|Clifton|DigitalOcean, LLC|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|67.43.236.20|1183|Canada|Montreal|GloboTech Communications|
 
 
 
