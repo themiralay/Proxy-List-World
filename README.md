@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|6|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|7|147.28.155.21|10054|United States|Dallas|Packet Host, Inc.|
-|8|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|9|72.10.160.92|18789|Canada|Montreal|GloboTech Communications|
-|10|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|14|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|15|103.26.108.254|84|India|Sivakasi|Niss Networks|
-|16|67.43.227.228|10231|Canada|Montreal|GloboTech Communications|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|72.10.164.178|15187|Canada|Montreal|GloboTech Communications|
+|4|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|147.28.155.21|10054|United States|Dallas|Packet Host, Inc.|
+|10|138.197.16.249|10001|United States|Clifton|DigitalOcean, LLC|
+|11|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
+|12|190.186.1.121|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|180.180.118.150|8080|Thailand|Pluak Daeng|TOT Public Company Limited|
+|15|72.10.164.178|15187|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.92|18789|Canada|Montreal|GloboTech Communications|
+|17|146.196.40.146|8888|Indonesia|Sembang Ilon|UNINA|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |19|147.28.155.21|10054|United States|Dallas|Packet Host, Inc.|
-|20|67.43.228.253|2229|Canada|Montreal|GloboTech Communications|
+|20|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
 
 
 
