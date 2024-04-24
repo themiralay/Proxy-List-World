@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|5|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|145.40.73.104|9400|Singapore|Singapore|Packet Host, Inc.|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
-|14|222.127.75.23|8085|Philippines|Lahug|INNOVE|
-|15|67.43.236.20|6025|Canada|Montreal|GloboTech Communications|
-|16|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|17|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|18|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|19|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|20|181.209.111.148|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|201.77.108.130|999|Mexico|Valle de Allende|Nidix Networks S.a. De C.V.|
+|10|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|14|67.43.236.20|10383|Canada|Montreal|GloboTech Communications|
+|15|145.40.73.104|9400|Singapore|Singapore|Packet Host, Inc.|
+|16|45.5.117.76|999|Guatemala|Guatemala City|Infinitum S.A.|
+|17|103.138.185.1|83|India|Rāwatbhāta|Mahrth Internet Service Private Limited|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|142.93.196.242|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|190.119.68.141|999|Peru|Lima|America Movil Peru S.A.C.|
 
 
 
