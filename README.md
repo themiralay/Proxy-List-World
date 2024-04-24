@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|5|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 |7|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|8|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|10|118.97.30.42|8099|Indonesia|Magelang|Telekomunikasi Indonesia|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|72.10.164.178|27507|Canada|Montreal|GloboTech Communications|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|19|136.226.230.108|10101|India|New Delhi|ZSCALER, INC.|
-|20|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|147.28.155.23|10017|United States|Dallas|Packet Host, Inc.|
+|9|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
+|10|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|14|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|17|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|18|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
