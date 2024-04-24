@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|103.124.198.118|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|4|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|7|147.28.155.23|10017|United States|Dallas|Packet Host, Inc.|
 |8|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|9|190.61.47.78|9992|Colombia|Medellín|Ufinet Panama S.A.|
-|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|167.250.99.22|8080|Brazil|Juazeiro do Norte|Provedor Cariri Conect|
-|14|136.226.230.108|10101|India|New Delhi|ZSCALER, INC.|
-|15|136.226.230.108|10101|India|New Delhi|ZSCALER, INC.|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|103.157.59.75|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|18|67.43.227.227|11875|Canada|Montreal|GloboTech Communications|
-|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|9|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
+|10|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|17|136.226.230.108|10089|India|New Delhi|ZSCALER, INC.|
+|18|136.226.230.108|10089|India|New Delhi|ZSCALER, INC.|
+|19|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|20|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
