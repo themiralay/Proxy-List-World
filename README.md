@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |3|147.75.92.251|9401|Japan|Koto-ku|Packet Host, Inc.|
-|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|147.75.34.86|9401|The Netherlands|Amsterdam|Equinix Services|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|7|147.75.92.248|10001|Japan|Koto-ku|Packet Host, Inc.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|10|49.49.141.249|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 |11|147.28.145.212|10003|United States|Ashburn|Packet Host, Inc.|
-|12|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|13|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|67.43.227.228|6207|Canada|Montreal|GloboTech Communications|
-|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|17|60.174.0.207|8089|China|Guangzhou|Chinanet|
-|18|147.28.145.212|10003|United States|Ashburn|Packet Host, Inc.|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|16|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|154.73.28.157|8080|Libya|Tripoli|Rawafed|
+|18|103.199.214.154|8080|India|Ambāla|RailTel Corporation|
+|19|106.51.80.132|8080|India|Bengaluru|Atria Convergence Technologies Pvt. Ltd|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
