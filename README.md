@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.155.121|19132|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
-|4|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|134.35.191.25|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
-|11|72.10.164.178|16513|Canada|Montreal|GloboTech Communications|
+|2|114.141.51.51|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|131.100.48.97|999|Colombia|Neiva|Fibernet TV SAS|
+|6|103.164.116.172|8080|Indonesia|Jakarta Pusat|SOLUSINET|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|72.10.164.178|16513|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|15|67.43.236.20|3319|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|23733|Canada|Montreal|GloboTech Communications|
-|17|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
-|18|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|19|72.10.164.178|16513|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|186.125.218.146|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|14|67.43.236.20|2745|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|16|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|17|134.35.191.25|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|20|72.10.164.178|16513|Canada|Montreal|GloboTech Communications|
 
 
 
