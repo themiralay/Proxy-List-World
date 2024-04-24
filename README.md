@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5473** proxies at the latest update. Usable proxies are below.
+> Scraper found **5463** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|92|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|537|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|527|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|352|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3534|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|134.35.23.18|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|9|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|67.43.227.227|22843|Canada|Montreal|GloboTech Communications|
-|11|181.29.205.47|8085|Argentina|Buenos Aires|Telecom Argentina S.A|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|14|67.43.227.228|20979|Canada|Montreal|GloboTech Communications|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|103.156.70.70|8090|Indonesia|Banyuwangi|PT Indo Access Semesta|
-|20|165.22.36.164|10005|United States|Clifton|DigitalOcean, LLC|
+|2|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|3|189.240.60.169|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|103.143.168.78|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|7|134.35.23.18|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|103.135.14.176|8181|Indonesia|Malang|Dinas Komunikasi dan Informatika Kota Malang|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|170.83.76.22|999|Venezuela|Caracas|Galanet Solution C.A.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|20|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
 
 
 
