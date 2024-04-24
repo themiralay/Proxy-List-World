@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|6|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|10|67.43.227.228|31157|Canada|Montreal|GloboTech Communications|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|202.12.80.11|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
-|15|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|179.60.129.195|8080|Brazil|Goiânia|MP INFORMATICA LTDA|
-|18|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|19|67.43.227.227|13015|Canada|Montreal|GloboTech Communications|
-|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|1|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|4|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|5|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|11|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|12|103.186.254.218|2016|India|Visakhapatnam|Pioneer Elabs Ltd.|
+|13|159.65.176.77|10002|United States|Clifton|DigitalOcean, LLC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|72.10.160.90|9891|Canada|Montreal|GloboTech Communications|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
