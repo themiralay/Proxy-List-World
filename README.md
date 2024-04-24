@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 |4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
-|8|67.43.227.227|1957|Canada|Montreal|GloboTech Communications|
-|9|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
-|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|13|67.43.227.227|1957|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|2269|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|17|113.160.241.196|19132|Vietnam|Ninh Binh|VietNam Post and Telecom Corporation|
-|18|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
-|19|103.112.149.41|8080|Bangladesh|Khulna|Royalnet|
-|20|159.65.176.77|10017|United States|Clifton|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|7|147.75.92.251|10007|Japan|Koto-ku|Packet Host, Inc.|
+|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|9|67.43.227.227|1957|Canada|Montreal|GloboTech Communications|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|147.28.155.23|10086|United States|Dallas|Packet Host, Inc.|
+|14|103.8.68.46|3128|China|Shiyan|China Telecom|
+|15|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
+|18|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|222.216.37.138|808|China|Lilancun|Chinanet|
 
 
 
