@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|145.40.73.104|9400|Singapore|Singapore|Packet Host, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|11|145.40.73.104|9400|Singapore|Singapore|Packet Host, Inc.|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|181.198.1.82|999|Ecuador|Guayaquil|Telconet S.A|
-|15|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|16|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|17|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|18|145.40.73.104|9400|Singapore|Singapore|Packet Host, Inc.|
-|19|145.40.73.104|9400|Singapore|Singapore|Packet Host, Inc.|
-|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|3|200.13.47.165|8080|Argentina|San Jorge|Trynet S.R.L.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|145.40.73.104|9400|Singapore|Singapore|Packet Host, Inc.|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|11|159.65.186.46|10005|United States|Clifton|DigitalOcean, LLC|
+|12|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|13|138.197.16.249|10006|United States|Clifton|DigitalOcean, LLC|
+|14|72.10.164.178|2929|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|103.156.141.87|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|19|116.202.102.255|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
