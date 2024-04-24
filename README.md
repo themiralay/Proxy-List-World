@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|5|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|9|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|12|113.250.189.4|3128|China|Chongqing|Chongqing Telecom|
-|13|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
+|8|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|167.71.102.182|8080|United States|Clifton|DigitalOcean, LLC|
+|11|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|14|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
 |15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|67.43.228.253|27129|Canada|Montreal|GloboTech Communications|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|167.71.102.182|8080|United States|Clifton|DigitalOcean, LLC|
 |18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.164.178|14525|Canada|Montreal|GloboTech Communications|
+|19|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|20|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
