@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.58.232.238|8080|Thailand|Bangkok Noi|CAT Telecom Public Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|134.35.0.200|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|134.35.42.126|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|7|145.40.73.107|10013|Singapore|Singapore|Packet Host, Inc.|
-|8|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|9|45.235.16.121|27234|Brazil|Ortigueira|Acessoline Telecom|
-|10|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
-|11|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|15|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|5|134.35.0.200|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|134.35.22.109|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|10|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|11|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|12|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|13|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|64.225.8.132|10014|United States|Clifton|DigitalOcean, LLC|
+|15|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
 |16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|64.225.4.81|10016|United States|Clifton|DigitalOcean, LLC|
-|19|72.10.164.178|11409|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|23573|Canada|Montreal|GloboTech Communications|
+|17|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|18|147.28.155.21|10003|United States|Dallas|Packet Host, Inc.|
+|19|159.65.176.77|10004|United States|Clifton|DigitalOcean, LLC|
+|20|72.10.164.178|32129|Canada|Montreal|GloboTech Communications|
 
 
 
