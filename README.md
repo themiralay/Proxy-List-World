@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|2|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|7|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|10|112.198.130.51|8082|Philippines|Nasugbu|Globe Telecom|
-|11|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|12|161.49.176.173|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|16|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
-|17|67.43.227.227|13347|Canada|Montreal|GloboTech Communications|
-|18|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|19|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
-|20|181.197.130.218|80|Panama|David|Cable Onda|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|7|189.240.60.166|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|10|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|11|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|12|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|13|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|14|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|15|67.43.227.227|22393|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|12561|Canada|Montreal|GloboTech Communications|
+|17|181.197.130.218|80|Panama|David|Cable Onda|
+|18|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|72.10.160.171|31571|Canada|Montreal|GloboTech Communications|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
