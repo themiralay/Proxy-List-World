@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|139.178.67.134|10003|United States|Parsippany|PACKET-HOST|
-|3|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|134.35.244.103|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|147.28.155.20|10013|United States|Dallas|Packet Host, Inc.|
+|3|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|147.28.155.20|10013|United States|Dallas|Packet Host, Inc.|
+|6|139.178.67.134|10003|United States|Parsippany|PACKET-HOST|
 |7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.137.111.231|8086|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
-|10|170.83.76.22|999|Venezuela|Caracas|Galanet Solution C.A.|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|138.0.141.46|8080|Brazil|São Paulo|F.B. BABETO ME|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|72.10.160.93|31723|Canada|Montreal|GloboTech Communications|
-|15|159.65.186.46|10002|United States|Clifton|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
-|18|45.173.231.155|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|19|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|20|181.197.130.218|80|Panama|David|Cable Onda|
+|8|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|45.173.231.155|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|134.35.244.103|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|14|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|103.68.3.195|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
+|17|72.10.160.93|31723|Canada|Montreal|GloboTech Communications|
+|18|147.28.155.20|10013|United States|Dallas|Packet Host, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|189.240.60.171|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
 
 
 
