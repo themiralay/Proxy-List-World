@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
-|3|149.50.235.44|8080|Turkey|Istanbul|Cogent Communications|
-|4|36.50.253.66|8080|Indonesia|Singosari|PT Capoeng Digital Nusantara|
-|5|118.99.96.170|8080|Indonesia|Jakarta|Biznet Networks|
+|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|3|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|5.202.104.22|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|45.225.207.186|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|15|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|16|201.91.82.155|3128|Brazil|Campinas|Vivo|
-|17|138.197.92.54|10013|United States|Clifton|DigitalOcean, LLC|
-|18|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
-|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|167.71.88.162|8080|United States|Clifton|DigitalOcean, LLC|
+|8|189.240.60.168|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|12|103.203.175.102|84|India|Hyderabad|Softgaurd Powertronics|
+|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|189.240.60.163|9090|Mexico|Benito Juarez|Uninet S.A. de C.V.|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|19|114.8.140.114|3128|Indonesia|Gambir|PT. INDOSAT Tbk|
+|20|67.43.236.20|5851|Canada|Montreal|GloboTech Communications|
 
 
 
