@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|72.10.160.91|10371|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|8525|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|5797|Canada|Montreal|GloboTech Communications|
-|10|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|89.58.48.220|10007|Germany|Nuremberg|netcup GmbH|
-|18|72.10.164.178|32003|Canada|Montreal|GloboTech Communications|
-|19|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|171.6.146.77|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|14|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|103.172.70.153|2022|Indonesia|Karangampel|AZNET|
+|16|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|138.197.92.54|10017|United States|Clifton|DigitalOcean, LLC|
+|18|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|19|72.10.160.90|2393|Canada|Montreal|GloboTech Communications|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
