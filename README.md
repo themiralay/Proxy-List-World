@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.23.14.17|3128|United States|North Charleston|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.147.84.9|8080|Indonesia|Tangerang|PT DATA PRIMA SOLUSINDO|
-|8|8.242.176.39|999|Colombia|Santiago de Cali|CTL Colombia|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|11|64.225.4.81|10019|United States|Clifton|DigitalOcean, LLC|
-|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|72.10.164.178|26861|Canada|Montreal|GloboTech Communications|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
-|18|177.115.239.37|8080|Brazil|São Paulo|Vivo|
-|19|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|20|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|7|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|8|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|9|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|10|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|64.225.4.81|10019|United States|Clifton|DigitalOcean, LLC|
+|15|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|16|103.147.84.9|8080|Indonesia|Tangerang|PT DATA PRIMA SOLUSINDO|
+|17|67.43.236.20|14357|Canada|Montreal|GloboTech Communications|
+|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|72.10.164.178|26861|Canada|Montreal|GloboTech Communications|
 
 
 
