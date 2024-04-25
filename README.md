@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|115.77.75.118|4006|Vietnam|Ho Chi Minh City|Viettel Group|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|185.82.99.197|9092|Lebanon|Tripoli|NET 360 S.A.R.L|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.159.196.145|1080|Indonesia|Serang|PT Andalan Dinamika Informatika|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
-|11|64.225.8.132|10010|United States|Clifton|DigitalOcean, LLC|
-|12|138.197.16.249|10012|United States|Clifton|DigitalOcean, LLC|
-|13|72.10.164.178|27189|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|27189|Canada|Montreal|GloboTech Communications|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|138.197.16.249|10012|United States|Clifton|DigitalOcean, LLC|
-|17|203.190.44.200|1111|Indonesia|Temanggung|PT Jaring Lintas Utara|
-|18|80.72.68.247|8082|Bulgaria|Sofia|CoresNET Ltd|
-|19|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|124.106.150.231|8282|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|7|38.7.106.118|999|Dominican Republic|Santo Domingo|KW SERVICES RD, S.R.L.|
+|8|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|9|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
+|15|72.10.164.178|27189|Canada|Montreal|GloboTech Communications|
+|16|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
+|17|179.1.85.202|999|Colombia|Ipiales|Internexa S.a. E.S.P|
+|18|207.230.8.97|999|Colombia|Bogotá|Cogent Communications|
+|19|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|20|64.225.8.132|10010|United States|Clifton|DigitalOcean, LLC|
 
 
 
