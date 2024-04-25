@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|4|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|5|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
 |8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|103.169.130.37|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|183.87.160.62|84|India|Mumbai|JPR Digital Pvt Ltd|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|16|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|152.42.244.76|3128|Canada|Montreal|DigitalOcean|
-|20|190.211.172.178|999|Chile|Las Condes|InterNexa Global Network|
+|9|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|10|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|11|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|13|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.164.178|33061|Canada|Montreal|GloboTech Communications|
+|16|152.42.244.76|3128|Canada|Montreal|DigitalOcean|
+|17|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|18|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|19|209.97.149.157|3128|United States|Clifton|DigitalOcean, LLC|
+|20|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
