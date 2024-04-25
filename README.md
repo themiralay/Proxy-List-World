@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |3|182.52.131.206|8080|Thailand|Ban Talat Bueng|TOT Public Company Limited|
-|4|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|7|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.182.112.11|5000|India|Mumbai|Ruhi Infotech|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|72.10.164.178|18205|Canada|Montreal|GloboTech Communications|
-|11|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|13|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|14|103.156.75.41|8181|Indonesia|Denpasar|PT Trika Global Media|
-|15|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|103.169.254.39|8090|Indonesia|Sidoarjo|PT Master Star Network|
-|18|159.65.186.46|10006|United States|Clifton|DigitalOcean, LLC|
-|19|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|6|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|10|72.10.164.178|13411|Canada|Montreal|GloboTech Communications|
+|11|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|12|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|14|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|17|45.190.187.123|999|Honduras|Ciudad Choluteca|Ufinet Panama S.A.|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|20|112.78.134.132|7777|Indonesia|Jakarta|Biznet Networks|
 
 
 
