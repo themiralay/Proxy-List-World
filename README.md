@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|134.35.23.14|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|3|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.141.109.157|8080|Indonesia|Keputih|Data Buana Nusantara|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|103.171.245.14|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|15|103.28.114.157|66|Indonesia|Bantul|PT Lintas Data Prima|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|103.187.113.165|3125|Indonesia|Tubanan|PT Adi Solusindo Teknologi|
-|18|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
-|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|5|183.88.241.167|8080|Thailand|Sattahip|Triple T Broadband Public Company Limited|
+|6|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|67.43.227.227|19411|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|17|103.156.70.38|8084|Indonesia|Banyuwangi|PT Indo Access Semesta|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
 
 
 
