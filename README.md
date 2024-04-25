@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 |7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
 |9|182.253.172.139|8080|Indonesia|Jakarta|Biznet Metronet|
-|10|103.156.248.55|8080|Indonesia|Pekanbaru|Trans Media Telekomunikasi|
-|11|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
-|12|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|10|158.69.7.48|8050|Canada|Montreal|OVH SAS|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|64.225.4.81|10012|United States|Clifton|DigitalOcean, LLC|
-|18|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|19|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
-|20|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|14|103.147.84.9|8080|Indonesia|Tangerang|PT DATA PRIMA SOLUSINDO|
+|15|103.169.254.39|8090|Indonesia|Sidoarjo|PT Master Star Network|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|77.92.245.34|8080|Georgia|Tbilisi|JSC "Silknet"|
+|18|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
