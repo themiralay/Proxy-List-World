@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|38.156.73.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|45.236.44.94|8080|Peru|Lima|Optical Technologies S.A.C.|
-|7|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|8|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|13|198.244.149.182|37615|United Kingdom|London|OVH SAS|
-|14|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|16|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|17|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|19|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
-|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|11|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|12|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|72.10.164.178|31339|Canada|Montreal|GloboTech Communications|
+|19|119.47.90.25|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|20|145.40.68.148|10017|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
