@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|185.200.37.106|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|64.225.8.132|10006|United States|Clifton|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|10|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|11|67.43.236.20|5405|Canada|Montreal|GloboTech Communications|
-|12|222.174.178.122|4999|China|Xintai|Chinanet|
-|13|72.10.160.90|25239|Canada|Montreal|GloboTech Communications|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|189.203.181.34|8080|Mexico|Ciudad Nezahualcoyotl|Total Play Telecomunicaciones SA De CV|
-|17|138.197.16.249|10015|United States|Clifton|DigitalOcean, LLC|
-|18|206.62.64.34|8080|Brazil|Cascavel|AGIS|
-|19|200.25.64.248|999|Colombia|Medellín|Osnet SAS|
-|20|181.39.35.99|999|Ecuador|Quito|Telconet S.A|
+|4|103.172.42.113|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|5|138.197.92.54|10006|United States|Clifton|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|67.43.227.227|27571|Canada|Montreal|GloboTech Communications|
+|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|14|24.106.221.230|53281|United States|Pine Knoll Shores|Spectrum|
+|15|222.174.178.122|4999|China|Xintai|Chinanet|
+|16|72.10.160.90|25239|Canada|Montreal|GloboTech Communications|
+|17|58.32.15.188|8090|China|Shanghai|CHINANET-SH|
+|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
 
 
 
