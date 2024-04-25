@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|49.48.127.28|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|77.46.138.233|8080|Serbia|Preševo|TELEKOM-SRBIJA|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|67.43.236.20|33153|Canada|Montreal|GloboTech Communications|
-|14|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|16|103.184.180.30|8080|Indonesia|Magetan|Lintas Data Prima, PT|
-|17|72.10.164.178|27881|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|20|67.43.227.227|8147|Canada|Montreal|GloboTech Communications|
+|8|200.116.198.222|9812|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
+|9|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|10|38.252.135.1|999|Dominican Republic|Las Terrenas|CV HOTSPOT, S.R.L.|
+|11|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|12|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|72.10.164.178|5365|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|33153|Canada|Montreal|GloboTech Communications|
+|16|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|17|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|20|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
