@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|2|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|5|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
-|9|201.174.224.174|999|Mexico|Mexicali|Transtelco Inc|
-|10|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
-|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
-|14|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|15|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|20|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|6|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.101.216.2|8080|Indonesia|Pekan Bahapal|PT Duta Trans Nusantara Network|
+|10|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|11|103.25.210.102|33317|Indonesia|Purwokerto|TRANSDATA|
+|12|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|13|103.247.216.70|8080|Indonesia|Katulampa|PT. Parsaoran Global Datatrans|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|200.106.124.74|999|Peru|Tacna|Telefonica del Peru|
+|16|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|17|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|18|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
+|19|191.179.216.84|8080|Brazil|Caruaru|Claro NXT Telecomunicacoes Ltda|
+|20|64.225.4.81|10019|United States|Clifton|DigitalOcean, LLC|
 
 
 
