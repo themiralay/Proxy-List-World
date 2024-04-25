@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|2|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|138.204.20.160|8080|Brazil|Camocim|FONTNET ME|
-|8|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|8|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|9|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|72.10.164.178|13263|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|5.196.111.29|20170|France|Gravelines|OVH SAS|
-|14|206.62.64.34|8080|Brazil|Cascavel|AGIS|
-|15|67.43.236.20|24451|Canada|Montreal|GloboTech Communications|
-|16|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|181.46.243.155|3128|Argentina|Villa Ballester|Telecentro S.A.|
-|19|103.145.14.56|8080|Indonesia|Cirebon|PT Pembangunan Sarana Telematika|
-|20|103.8.68.48|3128|China|Shiyan|China Telecom|
+|11|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|12|103.153.134.22|8080|Indonesia|Tangerang|WMINET|
+|13|103.84.177.211|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|103.156.14.18|8080|Indonesia|Pondok Bambu|PT Lintas Jaringan Nusantara|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|19|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.164.178|13319|Canada|Montreal|GloboTech Communications|
 
 
 
