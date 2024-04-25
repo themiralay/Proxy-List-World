@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
+|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|7|103.87.169.198|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|177.229.210.66|8080|Mexico|Cuetzalan|Mega Cable, S.A. de C.V.|
-|10|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|209.14.119.198|999|Colombia|Neiva|AGIS|
-|16|72.10.160.172|20339|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|22107|Canada|Montreal|GloboTech Communications|
-|18|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|72.10.164.178|22107|Canada|Montreal|GloboTech Communications|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|8|119.110.71.161|63123|Indonesia|Tangerang|Maxindo|
+|9|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|14|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
