@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.53.60.106|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
-|9|207.230.8.97|999|Colombia|Bogotá|Cogent Communications|
-|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
-|13|183.165.224.237|8089|China|Shenzhen|Chinanet|
+|5|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
+|6|185.82.99.197|9092|Lebanon|Tripoli|NET 360 S.A.R.L|
+|7|95.158.179.216|32799|Bulgaria|Veliko Tarnovo|Videosat 21 Vek OOD|
+|8|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|9|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|10|116.12.44.25|9898|Indonesia|Jakarta|ADSNET|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|103.158.27.88|1212|Indonesia|Magelang|PT Madina Solusi Indonesia|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|16|72.10.160.90|24971|Canada|Montreal|GloboTech Communications|
-|17|159.65.186.46|10011|United States|Clifton|DigitalOcean, LLC|
-|18|72.10.164.178|27189|Canada|Montreal|GloboTech Communications|
-|19|64.225.8.132|10019|United States|Clifton|DigitalOcean, LLC|
-|20|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|15|72.10.160.90|14609|Canada|Montreal|GloboTech Communications|
+|16|149.86.140.130|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|17|64.225.8.132|10008|United States|Clifton|DigitalOcean, LLC|
+|18|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|19|72.10.164.178|8965|Canada|Montreal|GloboTech Communications|
+|20|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
 
 
 
