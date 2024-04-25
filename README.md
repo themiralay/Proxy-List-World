@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|8|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|9|121.200.48.58|8080|India|Coimbatore|WLSNET|
 |10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|102.221.224.153|8080|Libya|Benghazi|SmartLink IT and Networking|
+|12|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|16|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|18|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
 
 
 
