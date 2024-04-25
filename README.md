@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|163.172.74.17|3128|France|Paris|Online S.A.S.|
-|5|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|4|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|5|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
 |6|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|7|103.162.54.147|8080|Indonesia|Bandung|PT Pratama Asia Globalindo|
-|8|103.234.159.5|8080|India|Bengaluru|MWPL|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
 |10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|223.204.95.122|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|15|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|16|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|17|45.184.152.145|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|18|194.67.104.76|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.87.169.158|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|11|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|13|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|14|139.178.66.227|10003|United States|Parsippany|PACKET-HOST|
+|15|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|19|72.10.164.178|20427|Canada|Montreal|GloboTech Communications|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
