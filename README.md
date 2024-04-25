@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|38.252.209.12|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
-|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|9|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|67.43.236.20|15905|Canada|Montreal|GloboTech Communications|
 |11|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|67.43.227.227|17473|Canada|Montreal|GloboTech Communications|
-|14|103.186.8.162|8080|Indonesia|Pelem Satu|PRISMA|
-|15|67.43.236.20|27149|Canada|Montreal|GloboTech Communications|
-|16|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|20|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|12|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|13|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|15|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|139.178.66.227|10003|United States|Parsippany|PACKET-HOST|
+|18|67.43.227.227|17473|Canada|Montreal|GloboTech Communications|
+|19|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|20|72.10.160.174|28601|Canada|Montreal|GloboTech Communications|
 
 
 
