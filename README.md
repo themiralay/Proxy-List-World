@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|138.197.92.54|10017|United States|Clifton|DigitalOcean, LLC|
-|3|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
-|4|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|138.197.92.54|10017|United States|Clifton|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.204.95.122|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|8|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|10|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
-|11|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|14|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
-|16|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|17|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|19|194.67.104.76|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|20|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|1|138.197.92.54|10017|United States|Clifton|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|9|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
+|10|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|11|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|15|181.115.69.118|999|Honduras|Tegucigalpa|Telgua|
+|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|17|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|18|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|113.28.254.77|8080|Hong Kong|Central|PCCW IMSBiz|
 
 
 
