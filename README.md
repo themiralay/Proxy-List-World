@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|9|134.35.234.165|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
 |10|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|61.7.174.27|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|122.10.101.12|3128|Hong Kong|Mong Kok|ANYUN INTERNET TECHNOLOGY (HK) CO., LIMITED|
-|19|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|138.197.92.54|10004|United States|Clifton|DigitalOcean, LLC|
+|18|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |20|72.10.164.178|23271|Canada|Montreal|GloboTech Communications|
 
 
