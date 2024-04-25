@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.186.99|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|134.236.103.7|8080|Thailand|Bang Lamung|CAT-BB|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|160.248.186.99|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |14|182.160.100.65|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|103.172.35.13|8080|Indonesia|Temanggung|PT Lintas Jaringan Nusantara|
+|15|134.236.103.7|8080|Thailand|Bang Lamung|CAT-BB|
 |16|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|38.242.199.175|3168|Germany|Düsseldorf|Contabo GmbH|
-|18|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|19|163.172.189.221|3128|France|Vitry-sur-Seine|Online S.A.S.|
-|20|103.137.45.132|16445|India|Pūrna|Wsnl Broadband Private Limited|
+|17|72.10.160.91|29537|Canada|Montreal|GloboTech Communications|
+|18|49.48.182.137|8080|Thailand|Sam Ngao|Triple T Broadband Public Company Limited|
+|19|145.40.68.148|10003|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
 
 
 
