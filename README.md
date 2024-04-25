@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|119.110.71.161|63123|Indonesia|Tangerang|Maxindo|
-|3|103.122.66.166|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|103.159.46.45|83|India|Ahmedabad|King Netsol Private Limited|
-|7|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
+|4|173.212.216.227|8118|Germany|Nuremberg|Contabo GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.35.222.180|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|103.26.110.125|84|India|Tirunelveli|Niss Networks|
+|8|103.119.96.195|8080|Cambodia|Phnom Penh|Mega Truenet Communication Co., Ltd.|
+|9|103.122.66.166|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |12|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
-|15|72.10.160.171|5387|Canada|Montreal|GloboTech Communications|
-|16|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|17|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|18|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|19|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|20|72.10.160.92|6551|Canada|Montreal|GloboTech Communications|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|17|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|18|72.10.160.171|5387|Canada|Montreal|GloboTech Communications|
+|19|201.170.22.174|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
+|20|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 
 
 
