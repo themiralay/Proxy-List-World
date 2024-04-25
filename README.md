@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.186.99|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
 |4|145.40.73.109|10011|Singapore|Singapore|Packet Host, Inc.|
-|5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|103.172.35.13|8080|Indonesia|Temanggung|PT Lintas Jaringan Nusantara|
+|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|138.197.16.249|10004|United States|Clifton|DigitalOcean, LLC|
-|10|145.40.68.148|10017|The Netherlands|Amsterdam|Packet Host, Inc.|
-|11|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
-|12|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
+|9|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|10|171.6.178.177|8080|Thailand|Nonthaburi|Triple T Broadband Public Company Limited|
+|11|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|12|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.158.253.187|8027|Indonesia|Brebes|Rapid Network|
-|15|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|14|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|15|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
 |16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|64.225.4.81|10013|United States|Clifton|DigitalOcean, LLC|
-|19|159.65.186.46|10000|United States|Clifton|DigitalOcean, LLC|
-|20|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|19|72.10.160.90|23573|Canada|Montreal|GloboTech Communications|
+|20|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 
 
 
