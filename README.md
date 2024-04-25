@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|87.239.168.52|3128|Poland|Bieruń|SBLinternet.pl|
-|8|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|9|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|103.101.231.219|8080|Indonesia|Jakarta|Biznet Networks|
-|13|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|14|72.10.160.91|4175|Canada|Montreal|GloboTech Communications|
-|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|72.10.160.90|17085|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|13211|Canada|Montreal|GloboTech Communications|
-|19|151.22.181.241|8080|Italy|Gioia del Colle|INFOSTRADA|
-|20|200.24.138.204|999|Ecuador|Quito|Ufinet Panama S.A.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|190.90.39.253|999|Colombia|Cúcuta|InterNexa Global Network|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|7|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|182.16.187.212|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|12|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|13|119.47.90.25|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|14|103.101.231.219|8080|Indonesia|Jakarta|Biznet Networks|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|18|87.239.168.52|3128|Poland|Bieruń|SBLinternet.pl|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
 
 
 
