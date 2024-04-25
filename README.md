@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|113.53.60.106|8080|Thailand|Bangkok|TOT Public Company Limited|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|137.59.49.134|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|7|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|10|72.10.160.170|13303|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|17141|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|185.82.99.197|9092|Lebanon|Tripoli|NET 360 S.A.R.L|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|221.219.102.153|9000|China|Beijing|China Unicom Beijing Province Network|
-|17|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|18|8.242.85.8|999|Colombia|Medellín|Level 3 Communications, Inc.|
-|19|72.10.164.178|18929|Canada|Montreal|GloboTech Communications|
-|20|103.68.3.195|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
+|3|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|4|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|72.10.160.90|14609|Canada|Montreal|GloboTech Communications|
+|11|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|103.8.68.48|3128|China|Shiyan|China Telecom|
+|14|45.229.10.98|8402|Brazil|Rondonópolis|Meganet Telecon Ltda|
+|15|72.10.164.178|27189|Canada|Montreal|GloboTech Communications|
+|16|8.242.85.8|999|Colombia|Medellín|Level 3 Communications, Inc.|
+|17|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|18|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|19|185.82.99.197|9092|Lebanon|Tripoli|NET 360 S.A.R.L|
+|20|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
