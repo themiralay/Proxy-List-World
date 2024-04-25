@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|2|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
+|1|103.101.229.220|8080|Indonesia|Jakarta|Biznet Networks|
+|2|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|7|138.197.92.54|10000|United States|Clifton|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|89.58.48.220|10003|Germany|Nuremberg|netcup GmbH|
-|10|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|175.106.10.226|51630|Indonesia|Jakarta|Quantum Dist POP GC|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|67.43.227.227|27361|Canada|Montreal|GloboTech Communications|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|202.138.240.9|1212|Indonesia|Bandung|PT Melvar Lintasnusa|
-|20|64.225.8.132|10007|United States|Clifton|DigitalOcean, LLC|
+|4|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|65.109.239.59|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|121.101.134.214|1111|Indonesia|Yogyakarta|PT SELARAS CITRA TERABIT|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|13|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
+|14|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|15|217.21.148.70|8080|Albania|Vlorë|Nisatel LTD|
+|16|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 
 
 
