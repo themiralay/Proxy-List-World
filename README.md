@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|103.159.194.149|8081|Indonesia|Rembang|PT Giga Digital Nusantara|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|182.253.109.83|8080|Indonesia|Semarang|Biznet Metronet|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|182.253.109.83|8080|Indonesia|Semarang|Biznet Metronet|
+|5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|11|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|12|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|13|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|222.241.144.64|3128|China|Hengyang|Chinanet|
-|17|103.167.68.77|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|18|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|152.42.244.50|3128|Canada|Montreal|DigitalOcean|
-|20|67.43.236.20|15857|Canada|Montreal|GloboTech Communications|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|9|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|10|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|152.42.244.50|3128|Canada|Montreal|DigitalOcean|
+|15|67.43.236.20|15857|Canada|Montreal|GloboTech Communications|
+|16|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|18|67.43.236.20|15857|Canada|Montreal|GloboTech Communications|
+|19|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|20|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
 
 
 
