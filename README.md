@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
 |5|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|7|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|8|45.4.201.251|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|9|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|14|171.6.213.250|8080|Thailand|Pathum Thani|Triple T Broadband Public Company Limited|
-|15|49.151.94.29|8181|Philippines|Alaminos|Philippine Long Distance Telephone Co.|
-|16|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|178.165.42.166|3128|Ukraine|Kharkiv|Maxnet Ltd|
-|19|177.93.40.1|999|Colombia|Espinal|TV AZTECA SUCURSAL COLOMBIA|
-|20|103.173.230.104|8080|Indonesia|Tasikmalaya|PT Jaringan Internet Banten|
+|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|7|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|8|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|9|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|139.178.66.227|10008|United States|Parsippany|PACKET-HOST|
+|12|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|194.67.104.76|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|177.234.247.209|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
+|16|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|17|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|18|45.4.201.251|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|20|34.23.14.17|3128|United States|North Charleston|Google LLC|
 
 
 
