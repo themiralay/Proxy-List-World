@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|2|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|24.152.49.229|999|Dominican Republic|Santo Domingo|Lightwave S.R.L|
 |3|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|24.152.49.229|999|Dominican Republic|Santo Domingo|Lightwave S.R.L|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|7|134.35.10.99|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|10|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|11|103.247.21.98|8080|Indonesia|Bekasi|PT wifian Solution|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|16|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|18|64.225.8.132|10013|United States|Clifton|DigitalOcean, LLC|
-|19|187.73.188.35|8080|Brazil|Campos do Jordao|Gwg telco telecomunicaçoes eireli|
-|20|67.43.227.227|5905|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|181.78.11.219|999|Colombia|Valledupar|IFX Networks Argentina S.R.L|
+|10|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|11|88.255.168.4|8080|Turkey|Reyhanlı|Turk Telekomunikasyon Anonim Sirketi|
+|12|92.253.235.170|8082|Russia|Podolsk|Best Line Ltd.|
+|13|103.228.246.130|6060|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|14|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|15|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|16|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|17|134.35.10.99|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
 
 
 
