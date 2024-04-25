@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|190.119.68.141|999|Peru|Lima|America Movil Peru S.A.C.|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|67.43.227.227|27571|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|23191|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|8019|Canada|Montreal|GloboTech Communications|
-|12|154.83.14.137|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
-|13|103.141.109.219|8080|Indonesia|Keputih|Data Buana Nusantara|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|17|72.10.164.178|28839|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|28725|Canada|Montreal|GloboTech Communications|
-|19|5.196.111.29|20600|France|Gravelines|OVH SAS|
-|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|4|64.225.8.132|10004|United States|Clifton|DigitalOcean, LLC|
+|5|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|131.117.167.56|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|8|103.172.42.113|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|9|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|10|103.172.70.138|9191|Indonesia|Karangampel|AZNET|
+|11|64.225.8.132|10004|United States|Clifton|DigitalOcean, LLC|
+|12|182.253.115.131|8080|Indonesia|Salatiga|BIZNET|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
+|16|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|17|103.141.109.219|8080|Indonesia|Keputih|Data Buana Nusantara|
+|18|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
 
 
 
