@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|101.109.152.165|8080|Thailand|Pattaya|TOT Public Company Limited|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|203.150.128.245|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.84.177.26|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|12|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|14|209.97.149.157|3128|United States|Clifton|DigitalOcean, LLC|
-|15|72.10.160.91|15485|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|19|67.43.227.226|15593|Canada|Montreal|GloboTech Communications|
-|20|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|4|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|209.97.149.157|3128|United States|Clifton|DigitalOcean, LLC|
+|13|145.40.73.102|10086|Singapore|Singapore|Packet Host, Inc.|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|72.10.160.91|3277|Canada|Montreal|GloboTech Communications|
+|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|72.10.160.170|1595|Canada|Montreal|GloboTech Communications|
 
 
 
