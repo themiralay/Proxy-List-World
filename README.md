@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|6|103.195.65.209|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
-|11|72.10.160.90|17085|Canada|Montreal|GloboTech Communications|
-|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|13|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|72.10.164.178|19725|Canada|Montreal|GloboTech Communications|
-|18|201.77.108.72|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|19|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|20|67.43.236.21|15183|Canada|Montreal|GloboTech Communications|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.184.54.3|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|12|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|13|72.10.160.90|17085|Canada|Montreal|GloboTech Communications|
+|14|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|16|87.239.168.52|3128|Poland|Bieruń|SBLinternet.pl|
+|17|67.43.236.21|15183|Canada|Montreal|GloboTech Communications|
+|18|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
