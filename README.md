@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|67.43.228.251|9843|Canada|Montreal|GloboTech Communications|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|7|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|9|103.8.68.48|3128|China|Shiyan|China Telecom|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|186.125.218.170|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|200.70.56.203|3128|Argentina|Jose C. Paz|Telefonica de Argentina|
-|17|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
-|18|72.10.160.170|23565|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|28573|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|6|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|13|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
+|14|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|38.252.135.1|999|Dominican Republic|Las Terrenas|CV HOTSPOT, S.R.L.|
 
 
 
