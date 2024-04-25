@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|10|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|11|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|158.69.7.48|8050|Canada|Montreal|OVH SAS|
-|14|190.61.80.93|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|15|165.16.31.19|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|16|177.234.247.209|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
-|17|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
-|18|173.212.213.133|3128|Germany|Nuremberg|Contabo GmbH|
-|19|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|103.8.68.46|3128|China|Shiyan|China Telecom|
+|3|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|4|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|103.154.77.204|8080|Indonesia|Yogyakarta|T2NET|
+|9|185.200.37.121|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|145.40.101.105|9443|United States|Chicago|Packet Host, Inc.|
+|12|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|15|67.43.227.227|8087|Canada|Montreal|GloboTech Communications|
+|16|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|17|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|92.207.253.226|38157|United Kingdom|Oakhill|Gamma Telecom Holdings Ltd|
+|19|103.8.68.48|3128|China|Shiyan|China Telecom|
+|20|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
 
 
 
