@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|119.110.71.161|63123|Indonesia|Tangerang|Maxindo|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|134.35.222.180|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|3|202.5.40.21|5020|Bangladesh|Chittagong|BBTS-NEW|
+|4|124.83.51.94|8082|Philippines|Mandaue City|Philippine Long Distance Telephone Co.|
+|5|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
 |6|138.197.92.54|10011|United States|Clifton|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|67.43.236.20|30739|Canada|Montreal|GloboTech Communications|
-|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|10|72.10.160.90|29105|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|30739|Canada|Montreal|GloboTech Communications|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|72.10.160.170|13869|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|29105|Canada|Montreal|GloboTech Communications|
-|15|103.8.68.48|3128|China|Shiyan|China Telecom|
-|16|72.10.160.93|25709|Canada|Montreal|GloboTech Communications|
-|17|172.232.115.161|8080|India|Chennai|Akamai Technologies, Inc.|
-|18|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|19|103.31.133.14|8080|Indonesia|Kebon Melati|PT Arthatama Adhiprima Persada|
-|20|165.22.36.164|10009|United States|Clifton|DigitalOcean, LLC|
+|7|67.43.236.20|30739|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.49.89.219|8082|Philippines|Las Pinas|Converge ICT Solution Inc|
+|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|128.95.53.237|80|United States|Seattle|University of Washington|
+|12|72.10.160.170|28187|Canada|Montreal|GloboTech Communications|
+|13|172.232.115.138|8080|India|Chennai|Akamai Technologies, Inc.|
+|14|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|16|68.183.48.146|10009|United States|Clifton|DigitalOcean, LLC|
+|17|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|18|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|19|67.43.228.253|16799|Canada|Montreal|GloboTech Communications|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
