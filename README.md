@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|134.35.12.22|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|223.204.95.122|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|189.173.126.46|999|Mexico|Union de Credito Agricola de Hermosillo|UNINET|
-|16|103.156.248.45|8080|Indonesia|Pekanbaru|Trans Media Telekomunikasi|
-|17|45.4.201.251|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|18|72.10.164.178|30665|Canada|Montreal|GloboTech Communications|
-|19|163.172.74.17|3128|France|Paris|Online S.A.S.|
-|20|67.43.236.21|13055|Canada|Montreal|GloboTech Communications|
+|1|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|6|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|7|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|8|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|194.67.104.76|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|120.28.216.126|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|15|177.234.247.209|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
+|16|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|17|8.242.154.36|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|18|103.164.160.22|8080|Bangladesh|Feni|Genfive Technology|
+|19|171.6.16.88|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|20|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
 
 
 
