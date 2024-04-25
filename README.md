@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|46.253.143.144|3128|Russia|Moscow|ZTV CORP LLC|
-|9|145.40.68.148|10007|The Netherlands|Amsterdam|Packet Host, Inc.|
-|10|103.184.180.30|8080|Indonesia|Magetan|Lintas Data Prima, PT|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|14|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
-|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|16|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
-|17|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|18|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|19|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|145.40.68.148|10007|The Netherlands|Amsterdam|Packet Host, Inc.|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
