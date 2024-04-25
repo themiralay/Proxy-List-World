@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|138.197.92.54|10017|United States|Clifton|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|138.197.92.54|10017|United States|Clifton|DigitalOcean, LLC|
-|9|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|10|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|13|192.203.0.190|999|Puerto Rico|Fajardo|Boom NET|
-|14|138.197.92.54|10017|United States|Clifton|DigitalOcean, LLC|
-|15|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
-|19|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|103.135.7.110|63123|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|8|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|9|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|10|139.178.66.227|443|United States|Parsippany|PACKET-HOST|
+|11|38.45.247.98|999|Mexico|Buenavista Tomatlan|Jorge Luis Torres Fernandez|
+|12|80.78.68.87|8080|Albania|Shkodër|ABCom Network|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|15|103.163.244.4|83|India|Panipat|Infolink System|
+|16|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|190.83.15.241|999|Ecuador|Zamora|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
 
 
 
