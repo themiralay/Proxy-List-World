@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |3|103.87.169.160|32650|India|Jaipur|Tejays Industries Pvt Ltd|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|16|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|17|72.10.160.170|2501|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|1893|Canada|Montreal|GloboTech Communications|
-|19|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|38.54.32.181|8080|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|12|72.10.160.170|2501|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|1893|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|8467|Canada|Montreal|GloboTech Communications|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|67.43.227.227|28607|Canada|Montreal|GloboTech Communications|
+|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 
 
 
