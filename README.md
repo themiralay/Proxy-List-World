@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|139.178.66.227|10008|United States|Parsippany|PACKET-HOST|
-|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|12|66.27.58.70|8080|United States|San Diego|Spectrum|
-|13|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|14|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|139.178.66.227|10003|United States|Parsippany|PACKET-HOST|
+|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|201.91.82.155|3128|Brazil|Campinas|Vivo|
+|12|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
 |15|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
-|16|201.91.82.155|3128|Brazil|Campinas|Vivo|
-|17|124.158.153.218|8180|Indonesia|Surabaya|PT iForte Global Internet|
-|18|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|152.231.87.11|999|Chile|Las Condes|Entel Chile S.A.|
+|16|223.204.95.122|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|17|139.178.66.228|10009|United States|Parsippany|PACKET-HOST|
+|18|103.180.245.169|8080|Bangladesh|Dhaka|UKH BD Ltd|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
