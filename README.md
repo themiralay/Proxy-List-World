@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|5|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |8|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|139.178.66.227|443|United States|Parsippany|PACKET-HOST|
-|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|14|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|15|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|16|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|17|165.22.36.164|10016|United States|Clifton|DigitalOcean, LLC|
-|18|67.43.236.20|30031|Canada|Montreal|GloboTech Communications|
+|9|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|12|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|165.22.36.164|10016|United States|Clifton|DigitalOcean, LLC|
+|14|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|17|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |19|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
 
 
 
