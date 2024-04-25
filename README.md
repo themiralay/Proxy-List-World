@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.253.137.139|8080|Indonesia|Surakarta|BIZNET|
-|2|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|2|182.253.137.139|8080|Indonesia|Surakarta|BIZNET|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|34.23.14.17|3128|United States|North Charleston|Google LLC|
 |6|134.35.10.99|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|9|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
 |11|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|13|185.139.94.70|8080|Germany|Ravensburg|Norbert Herter trading as Regionetz.net|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|16|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|17|182.52.131.206|8080|Thailand|Ban Talat Bueng|TOT Public Company Limited|
-|18|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|19|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|13|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|14|103.143.169.210|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|17|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|18|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 
 
 
