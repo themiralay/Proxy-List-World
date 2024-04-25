@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|145.40.73.109|10011|Singapore|Singapore|Packet Host, Inc.|
+|2|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|149.86.146.130|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|8|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
-|9|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
-|10|45.188.125.7|999|Mexico|Comalcalco|Digy Networks S.A De C.V.|
-|11|182.160.100.65|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|152.231.87.11|999|Chile|Las Condes|Entel Chile S.A.|
-|13|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|67.43.228.250|29581|Canada|Montreal|GloboTech Communications|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|163.172.74.17|3128|France|Paris|Online S.A.S.|
-|19|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|20|204.199.125.94|999|Colombia|Bogotá|CTL Colombia|
+|6|149.86.146.130|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|7|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|8|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
+|10|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
+|11|204.199.125.94|999|Colombia|Bogotá|CTL Colombia|
+|12|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|14|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
+|18|67.43.228.250|29581|Canada|Montreal|GloboTech Communications|
+|19|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
