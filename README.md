@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|5|177.93.43.252|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|6|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|7|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
-|14|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
-|15|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|163.172.74.17|3128|France|Paris|Online S.A.S.|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|67.43.227.226|21839|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|10345|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|10|103.118.127.218|6969|Indonesia|Jakarta Pusat|Tele|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|14|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|15|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|16|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|18|72.10.164.178|18319|Canada|Montreal|GloboTech Communications|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
