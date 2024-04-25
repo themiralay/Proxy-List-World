@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.23.14.17|3128|United States|North Charleston|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |6|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|7|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 |9|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|10|177.115.239.37|8080|Brazil|São Paulo|Vivo|
-|11|45.229.58.33|999|Panama|La Chorrera|GEEK NETWORKS, S.A|
-|12|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|13|67.43.228.253|31735|Canada|Montreal|GloboTech Communications|
-|14|64.225.4.81|10019|United States|Clifton|DigitalOcean, LLC|
-|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|16|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|17|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|18|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|201.174.38.160|999|Mexico|Ejido Meoqui|Transtelco Inc|
+|10|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|12|67.43.228.253|23319|Canada|Montreal|GloboTech Communications|
+|13|103.50.4.133|82|India|Hodal|Elxire IT Solution|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|16|103.148.49.243|8080|Indonesia|Pontianak|BCMEDIA|
+|17|120.28.195.250|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|18|103.134.223.139|8181|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|19|160.119.126.97|8080|Nigeria|Abuja|Dotmac Technologies Limited|
+|20|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
 
 
 
