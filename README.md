@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|165.16.31.19|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|12|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
-|15|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|9|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.164.178|2887|Canada|Montreal|GloboTech Communications|
 |16|67.43.236.22|25359|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|2887|Canada|Montreal|GloboTech Communications|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|67.43.228.253|16259|Canada|Montreal|GloboTech Communications|
+|17|45.160.15.254|999|Chile|Santiago|Servicio De Telecomunicaciones Vemos MAS Ltda.|
+|18|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
+|19|45.233.67.226|999|Mexico|Tapachula|Conectividad Y Tecnologia S.A.|
 |20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
