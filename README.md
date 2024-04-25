@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.186.99|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
 |5|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|103.172.35.13|8080|Indonesia|Temanggung|PT Lintas Jaringan Nusantara|
-|10|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
-|15|103.172.42.199|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|16|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
+|6|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
+|10|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|11|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|12|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|13|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
+|14|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |17|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.236.20|22127|Canada|Montreal|GloboTech Communications|
-|19|103.8.68.48|3128|China|Shiyan|China Telecom|
-|20|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
+|18|182.160.100.65|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|20|134.19.254.2|21231|Georgia|Tbilisi|GPON|
 
 
 
