@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.35.223.14|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|10|189.195.139.178|999|Mexico|Pénjamo|Mega Cable, S.A. de C.V.|
-|11|103.46.11.74|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|67.43.227.230|26027|Canada|Montreal|GloboTech Communications|
-|14|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|15|181.78.194.75|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|67.43.227.227|9631|Canada|Montreal|GloboTech Communications|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
+|6|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|7|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|8|134.35.223.14|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|67.43.227.230|26027|Canada|Montreal|GloboTech Communications|
+|12|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|16|103.139.126.230|8083|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|17|103.76.151.133|8181|Indonesia|South Tangerang|PT. Java Digital Nusantara|
+|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|152.231.87.11|999|Chile|Las Condes|Entel Chile S.A.|
 
 
 
