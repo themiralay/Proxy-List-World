@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|6|212.174.79.165|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
-|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|67.43.236.21|15183|Canada|Montreal|GloboTech Communications|
-|13|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|14|72.10.160.91|20311|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|29625|Canada|Montreal|GloboTech Communications|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|103.8.68.48|3128|China|Shiyan|China Telecom|
-|18|194.67.104.76|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|19|72.10.160.90|14449|Canada|Montreal|GloboTech Communications|
-|20|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|183.88.241.167|8080|Thailand|Sattahip|Triple T Broadband Public Company Limited|
+|8|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|10|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|11|103.160.184.236|6588|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|12|139.178.66.227|10008|United States|Parsippany|PACKET-HOST|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|15|72.10.160.91|20311|Canada|Montreal|GloboTech Communications|
+|16|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
