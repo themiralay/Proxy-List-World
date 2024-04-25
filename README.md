@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|5|185.200.37.106|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|67.43.236.20|21939|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|25239|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|22345|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|159.65.186.46|10013|United States|Clifton|DigitalOcean, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|165.22.36.164|10018|United States|Clifton|DigitalOcean, LLC|
-|18|72.10.160.90|25239|Canada|Montreal|GloboTech Communications|
-|19|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|20|159.65.186.46|10013|United States|Clifton|DigitalOcean, LLC|
+|3|185.200.37.106|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|45.238.58.1|999|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|165.22.36.164|10018|United States|Clifton|DigitalOcean, LLC|
+|12|67.43.227.227|3335|Canada|Montreal|GloboTech Communications|
+|13|45.191.75.186|999|Colombia|Miranda|Global Raices|
+|14|72.10.160.171|26129|Canada|Montreal|GloboTech Communications|
+|15|177.115.239.37|8080|Brazil|São Paulo|Vivo|
+|16|70.69.134.83|4001|Canada|Chilliwack|Shaw Communications Inc.|
+|17|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
+|18|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|19|222.174.178.122|4999|China|Xintai|Chinanet|
+|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
 
 
 
