@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|3|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|67.43.236.20|17097|Canada|Montreal|GloboTech Communications|
-|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|12|103.6.223.2|3128|China|Baoshan|China Unicom|
-|13|103.189.123.194|8080|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
-|14|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|67.43.228.252|9443|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|17097|Canada|Montreal|GloboTech Communications|
-|20|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|5|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|8|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|12|67.43.236.20|17097|Canada|Montreal|GloboTech Communications|
+|13|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|67.43.228.252|3729|Canada|Montreal|GloboTech Communications|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
+|18|67.43.228.253|13775|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
 
 
 
