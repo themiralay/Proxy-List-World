@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|67.43.227.226|32965|Canada|Montreal|GloboTech Communications|
-|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|8|159.65.186.46|10010|United States|Clifton|DigitalOcean, LLC|
-|9|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|10|121.195.170.225|1024|China|Haidian|CERNET|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|67.43.227.227|2567|Canada|Montreal|GloboTech Communications|
-|14|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|72.10.164.178|32809|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|32809|Canada|Montreal|GloboTech Communications|
-|17|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|18|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|103.247.23.197|8080|Indonesia|Bekasi|PT wifian Solution|
-|20|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|89.58.48.220|10017|Germany|Nuremberg|netcup GmbH|
+|10|72.10.164.178|18763|Canada|Montreal|GloboTech Communications|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|67.43.227.227|2495|Canada|Montreal|GloboTech Communications|
+|13|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|103.26.108.254|84|India|Sivakasi|Niss Networks|
+|15|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|18|179.96.204.239|8080|Brazil|São Miguel do Oeste|TechInfo Telecomunicações Ltda|
+|19|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
