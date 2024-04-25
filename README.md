@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|10|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.164.178|26595|Canada|Montreal|GloboTech Communications|
-|17|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
-|18|181.78.194.75|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|72.10.164.178|26595|Canada|Montreal|GloboTech Communications|
+|12|175.100.91.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|173.212.213.133|3128|Germany|Nuremberg|Contabo GmbH|
+|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|15|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|16|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|17|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|19|103.40.11.141|3128|Singapore|Singapore|HONG KONG Megalayer Technology Co., Limited|
+|20|201.91.82.155|3128|Brazil|Campinas|Vivo|
 
 
 
