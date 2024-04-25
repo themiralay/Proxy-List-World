@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|145.40.68.148|10009|The Netherlands|Amsterdam|Packet Host, Inc.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|200.69.71.138|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
-|8|182.160.100.65|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|138.197.16.249|10000|United States|Clifton|DigitalOcean, LLC|
+|1|145.40.73.109|10011|Singapore|Singapore|Packet Host, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|182.160.100.65|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|5|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|152.231.87.11|999|Chile|Las Condes|Entel Chile S.A.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|38.242.199.175|3168|Germany|Düsseldorf|Contabo GmbH|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 |17|72.10.160.173|6241|Canada|Montreal|GloboTech Communications|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|72.10.160.90|1041|Canada|Montreal|GloboTech Communications|
+|20|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
 
 
 
