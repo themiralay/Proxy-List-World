@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|5|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|6|103.182.112.11|1234|India|Mumbai|Ruhi Infotech|
-|7|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|8|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|9|137.184.123.71|3131|United States|Santa Clara|DigitalOcean, LLC|
-|10|103.8.68.48|3128|China|Shiyan|China Telecom|
-|11|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|12|64.225.8.132|10003|United States|Clifton|DigitalOcean, LLC|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|138.197.16.249|10007|United States|Clifton|DigitalOcean, LLC|
-|17|64.225.4.81|10001|United States|Clifton|DigitalOcean, LLC|
-|18|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
-|19|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.156.75.41|8181|Indonesia|Denpasar|PT Trika Global Media|
+|6|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|8|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|138.197.16.249|10013|United States|Clifton|DigitalOcean, LLC|
+|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|103.169.254.39|8090|Indonesia|Sidoarjo|PT Master Star Network|
+|13|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|15|67.43.236.20|5967|Canada|Montreal|GloboTech Communications|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|103.26.108.254|84|India|Sivakasi|Niss Networks|
+|18|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
 
 
 
