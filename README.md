@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.186.99|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|83.136.106.26|8888|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
-|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|12|103.172.35.13|8080|Indonesia|Temanggung|PT Lintas Jaringan Nusantara|
-|13|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|16|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
-|17|103.68.3.195|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
-|18|67.43.236.20|22851|Canada|Montreal|GloboTech Communications|
-|19|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|20|138.197.16.249|10002|United States|Clifton|DigitalOcean, LLC|
+|3|83.136.106.26|8888|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|186.24.9.114|999|Venezuela|Caracas|TELEFONICA VENEZOLANA, C.A.|
+|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
+|9|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|10|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|14|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
+|15|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
+|16|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|18|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|19|67.43.236.20|22851|Canada|Montreal|GloboTech Communications|
+|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 
 
 
