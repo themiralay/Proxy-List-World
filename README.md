@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|6|211.20.17.194|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|9|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|10|61.7.174.27|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
-|11|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|211.20.17.194|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|61.7.174.27|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |13|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|138.197.92.54|10004|United States|Clifton|DigitalOcean, LLC|
-|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|181.197.130.218|80|Panama|David|Cable Onda|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 
 
 
