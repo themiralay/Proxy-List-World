@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|138.197.92.54|10011|United States|Clifton|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|192.158.15.201|60684|Canada|Toronto|Ontario Inc.|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|103.48.68.28|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|18|72.10.164.178|24667|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|103.51.206.82|8080|Indonesia|Arjawinangun|PT Milenial Inti Telekomunikasi|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|15|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
+|16|158.69.7.48|8050|Canada|Montreal|OVH SAS|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|103.105.55.76|3125|Indonesia|Malang|PT. Mega Artha Lintas Data|
+|19|70.90.138.109|8080|United States|Southfield|Comcast Cable Communications, LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
