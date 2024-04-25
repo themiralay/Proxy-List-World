@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|3|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|203.150.128.245|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|8|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|101.109.152.165|8080|Thailand|Pattaya|TOT Public Company Limited|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|14|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.90|21447|Canada|Montreal|GloboTech Communications|
-|18|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|19|222.124.202.144|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|20|72.10.160.90|21447|Canada|Montreal|GloboTech Communications|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|74.208.29.124|3128|United States|Philadelphia|IONOS SE|
+|12|134.35.186.156|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|13|74.208.29.124|3128|United States|Philadelphia|IONOS SE|
+|14|203.150.128.245|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|18|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|36.92.162.218|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|20|134.35.77.3|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 
 
 
