@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|211.20.17.194|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|61.7.174.27|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
-|10|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|11|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|185.228.1.247|3128|United States|Los Angeles|QuadraNet Enterprises LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.160.170|9141|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|23069|Canada|Montreal|GloboTech Communications|
-|18|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|72.10.164.178|23069|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|9|178.251.111.20|8080|Ukraine|Dubov”yazivka|Dataline LLC|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.160.170|9141|Canada|Montreal|GloboTech Communications|
+|13|185.228.1.247|3128|United States|Los Angeles|QuadraNet Enterprises LLC|
+|14|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|15|72.10.164.178|24489|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|1043|Canada|Montreal|GloboTech Communications|
+|17|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
+|18|72.10.164.178|24489|Canada|Montreal|GloboTech Communications|
+|19|145.40.68.148|10009|The Netherlands|Amsterdam|Packet Host, Inc.|
 |20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
