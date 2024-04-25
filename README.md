@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.152.49.229|999|Dominican Republic|Santo Domingo|Lightwave S.R.L|
-|2|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.147.247.126|8181|Indonesia|Tangerang|PLBNET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
-|8|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|10|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|2|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|24.152.49.229|999|Dominican Republic|Santo Domingo|Lightwave S.R.L|
+|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.35.10.99|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.115.242.192|8080|Bangladesh|Dohār|Md. Rashed Mollah|
+|12|103.83.179.78|2016|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
 |13|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|14|109.195.23.223|34031|Russia|Saratov|JSC "ER-Telecom Holding"|
-|15|138.197.92.54|10009|United States|Clifton|DigitalOcean, LLC|
-|16|72.10.164.178|23543|Canada|Montreal|GloboTech Communications|
-|17|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|18|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|20|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|14|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|15|109.195.23.223|34031|Russia|Saratov|JSC "ER-Telecom Holding"|
+|16|182.253.137.139|8080|Indonesia|Surakarta|BIZNET|
+|17|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|187.73.188.35|8080|Brazil|Campos do Jordao|Gwg telco telecomunicaçoes eireli|
+|19|69.160.223.129|8181|United States|Elwood|Swayzee Telephone Company, Inc.|
+|20|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
 
 
 
