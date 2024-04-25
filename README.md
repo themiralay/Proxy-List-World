@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|145.40.73.109|10011|Singapore|Singapore|Packet Host, Inc.|
-|12|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|203.202.252.149|1200|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|67.43.227.227|23095|Canada|Montreal|GloboTech Communications|
-|17|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.164.178|13145|Canada|Montreal|GloboTech Communications|
-|19|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
-|20|114.106.146.121|8089|China|Rongcheng|Chinanet|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|10|103.152.232.124|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|11|182.53.148.254|8080|Thailand|Uttaradit|TOT Public Company Limited|
+|12|223.247.46.20|8089|China|Rongcheng|Chinanet|
+|13|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
+|15|72.10.164.178|13145|Canada|Montreal|GloboTech Communications|
+|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|103.186.8.162|8080|Indonesia|Pelem Satu|PRISMA|
+|19|103.84.177.26|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|20|179.96.204.239|8080|Brazil|São Miguel do Oeste|TechInfo Telecomunicações Ltda|
 
 
 
