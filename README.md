@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|7|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
-|8|103.147.247.126|8181|Indonesia|Tangerang|PLBNET|
-|9|103.159.194.151|8082|Indonesia|Rembang|PT Giga Digital Nusantara|
-|10|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|70.90.138.109|8080|United States|Southfield|Comcast Cable Communications, LLC|
-|12|187.73.188.35|8080|Brazil|Campos do Jordao|Gwg telco telecomunicaçoes eireli|
-|13|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|64.225.8.132|10019|United States|Clifton|DigitalOcean, LLC|
-|18|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|129.205.106.42|8080|Nigeria|Benin City|Globacom Limited|
+|5|103.158.27.88|1212|Indonesia|Magelang|PT Madina Solusi Indonesia|
+|6|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|8|182.253.137.139|8080|Indonesia|Surakarta|BIZNET|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
+|13|103.115.242.192|8080|Bangladesh|Dohār|Md. Rashed Mollah|
+|14|64.225.8.132|10019|United States|Clifton|DigitalOcean, LLC|
+|15|134.35.10.99|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|16|24.152.49.229|999|Dominican Republic|Santo Domingo|Lightwave S.R.L|
+|17|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
+|18|103.5.108.129|8085|New Zealand|Hastings|Engage Technology Limited|
+|19|67.43.227.227|20381|Canada|Montreal|GloboTech Communications|
+|20|34.23.14.17|3128|United States|North Charleston|Google LLC|
 
 
 
