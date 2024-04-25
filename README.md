@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|6|64.225.4.81|10009|United States|Clifton|DigitalOcean, LLC|
 |7|185.200.37.106|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|72.10.164.178|23737|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|23737|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|13|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
-|14|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|15|67.43.228.254|27835|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|23737|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.160.90|1443|Canada|Montreal|GloboTech Communications|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|103.80.230.21|8080|Indonesia|Medan|DNSOLUSINDO|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|36.95.84.151|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|203.111.253.10|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|103.8.68.48|3128|China|Shiyan|China Telecom|
+|13|72.10.164.178|23737|Canada|Montreal|GloboTech Communications|
+|14|24.106.221.230|53281|United States|Pine Knoll Shores|Spectrum|
+|15|165.22.36.164|10011|United States|Clifton|DigitalOcean, LLC|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|186.150.207.207|8080|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|18|72.10.160.91|31141|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|1443|Canada|Montreal|GloboTech Communications|
+|20|109.175.9.203|8080|Bosnia and Herzegovina|Živinice|BH Telecom d.d. Sarajevo|
 
 
 
