@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
+|5|177.93.43.252|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|101.109.96.88|8080|Thailand|Pattaya|TOT Public Company Limited|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |8|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|9|177.136.85.113|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |11|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|12|101.255.52.163|8080|Indonesia|Tangerang|PT Remala Abadi|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
