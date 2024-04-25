@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |8|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
-|9|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|158.69.7.48|8050|Canada|Montreal|OVH SAS|
-|14|67.43.227.227|29893|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|19725|Canada|Montreal|GloboTech Communications|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|160.155.16.204|8080|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|19|67.43.228.251|24719|Canada|Montreal|GloboTech Communications|
-|20|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|103.101.231.219|8080|Indonesia|Jakarta|Biznet Networks|
+|12|72.10.164.178|29001|Canada|Montreal|GloboTech Communications|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|17|72.10.164.178|29001|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|26377|Canada|Montreal|GloboTech Communications|
+|19|103.159.194.149|8081|Indonesia|Rembang|PT Giga Digital Nusantara|
+|20|103.24.124.94|83|India|Hyderabad|Pioneer Elabs Ltd.|
 
 
 
