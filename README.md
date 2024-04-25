@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6278** proxies at the latest update. Usable proxies are below.
+> Scraper found **6279** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -24,7 +24,7 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
-|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|✅|
+|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|1|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|61.7.174.27|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|10|50.235.247.114|8085|United States|Rincon|Comcast Cable Communications, LLC|
-|11|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|134.35.215.44|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|34.154.161.152|80|Italy|Milan|Google LLC|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|152.231.87.11|999|Chile|Las Condes|Entel Chile S.A.|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|72.10.164.178|23069|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23069|Canada|Montreal|GloboTech Communications|
+|2|61.7.174.27|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|6|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|10|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|72.10.164.178|19555|Canada|Montreal|GloboTech Communications|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|18|161.49.218.139|10101|Philippines|Pasig|Converge Information and Communications Technology Solutions|
+|19|37.255.228.1|3128|Iran|Isfahan|Iran Telecommunication Company PJS|
+|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 
 
 
