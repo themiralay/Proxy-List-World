@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|4|217.64.149.146|8118|Sweden|Stockholm|OVPN|
-|5|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|9|103.152.232.46|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|12|72.10.164.178|11567|Canada|Montreal|GloboTech Communications|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|5|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 |13|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|14|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|17|103.159.194.97|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
-|18|41.205.24.64|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|19|45.71.200.175|999|Ecuador|Atuntaqui|Negocios Y Telefonia Nedetel S.A|
-|20|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|14|168.0.239.224|8787|Brazil|Sao Sebastiao do Passe|VOANET Telecomunicações Ltda.|
+|15|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|16|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|17|72.10.164.178|12659|Canada|Montreal|GloboTech Communications|
+|18|103.154.77.204|8080|Indonesia|Yogyakarta|T2NET|
+|19|103.8.68.48|3128|China|Shiyan|China Telecom|
+|20|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 
 
 
