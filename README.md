@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.159.196.145|1080|Indonesia|Serang|PT Andalan Dinamika Informatika|
-|7|8.208.113.118|80|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|181.46.243.155|3128|Argentina|Villa Ballester|Telecentro S.A.|
+|7|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
 |8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|121.101.134.214|1111|Indonesia|Yogyakarta|PT SELARAS CITRA TERABIT|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|14|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|15|138.197.16.249|10015|United States|Clifton|DigitalOcean, LLC|
-|16|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|17|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|138.197.92.54|10011|United States|Clifton|DigitalOcean, LLC|
-|20|121.101.131.142|8181|Indonesia|Yogyakarta|PT SELARAS CITRA TERABIT|
+|9|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|103.41.250.111|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|12|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
+|13|103.109.57.250|8889|Bangladesh|Dhaka|Skynet Chowmuhani|
+|14|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
+|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|17|138.197.92.54|10011|United States|Clifton|DigitalOcean, LLC|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|103.51.206.82|8080|Indonesia|Arjawinangun|PT Milenial Inti Telekomunikasi|
+|20|201.71.3.22|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
 
 
 
