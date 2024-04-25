@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|163.172.74.17|3128|France|Paris|Online S.A.S.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|9|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|10|139.178.66.227|10003|United States|Parsippany|PACKET-HOST|
-|11|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|8|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|9|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|34.23.14.17|3128|United States|North Charleston|Google LLC|
 |12|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.236.20|1095|Canada|Montreal|GloboTech Communications|
-|19|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
-|20|185.208.102.156|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|13|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|14|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|15|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|17|67.43.236.20|9523|Canada|Montreal|GloboTech Communications|
+|18|103.52.17.69|1234|Indonesia|Jakarta Pusat|PT Inti Bangun Sejahtera, tbk|
+|19|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
