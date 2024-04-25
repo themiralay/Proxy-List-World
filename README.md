@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|10|103.118.127.218|6969|Indonesia|Jakarta Pusat|Tele|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|14|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
-|15|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|16|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|18|72.10.164.178|18319|Canada|Montreal|GloboTech Communications|
-|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
+|7|103.227.252.102|8080|Indonesia|Jakarta|PT Raja Mitra Informatika|
+|8|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|9|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|145.40.73.109|10011|Singapore|Singapore|Packet Host, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|72.10.164.178|29367|Canada|Montreal|GloboTech Communications|
+|19|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|20|152.231.87.11|999|Chile|Las Condes|Entel Chile S.A.|
 
 
 
