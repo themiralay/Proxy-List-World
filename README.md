@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|138.197.92.54|10016|United States|Clifton|DigitalOcean, LLC|
-|7|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
-|8|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|9|103.154.139.47|8080|Indonesia|Jakarta|MORATELINDONAP|
-|10|193.106.138.52|3128|Ukraine|Kyiv|Industrial Media Network LLC|
-|11|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|67.43.236.20|12045|Canada|Montreal|GloboTech Communications|
-|18|206.62.64.34|8080|Brazil|Cascavel|AGIS|
-|19|138.197.92.54|10016|United States|Clifton|DigitalOcean, LLC|
-|20|38.49.159.74|999|Mexico|El Pueblito|Ientc S De RL De CV|
+|5|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|6|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|72.10.164.178|21889|Canada|Montreal|GloboTech Communications|
+|12|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|103.129.3.246|83|India|Bhubaneswar|S S Cablenet|
+|14|103.172.70.191|8181|Indonesia|Kumendung Satu|AZNET|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|103.105.76.249|8080|Indonesia|Bojonegoro|GARUDA|
+|18|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|19|202.57.25.110|8080|Indonesia|Semarang|announced of WINET|
+|20|185.14.233.40|8080|Czechia|Říčany|INTERCONNECT s.r.o.|
 
 
 
