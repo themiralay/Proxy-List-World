@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6769** proxies at the latest update. Usable proxies are below.
+> Scraper found **6768** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|94|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|529|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|528|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|297|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4891|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|185.200.37.106|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|7|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|115.77.75.118|4006|Vietnam|Ho Chi Minh City|Viettel Group|
-|11|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|12|138.197.92.54|10008|United States|Clifton|DigitalOcean, LLC|
-|13|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|14|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|17|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|67.43.228.250|26705|Canada|Montreal|GloboTech Communications|
-|20|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|185.200.37.106|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|72.10.164.178|23737|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|23737|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|13|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
+|14|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|15|67.43.228.254|27835|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|23737|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|72.10.160.90|1443|Canada|Montreal|GloboTech Communications|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|103.80.230.21|8080|Indonesia|Medan|DNSOLUSINDO|
 
 
 
