@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|61.7.174.27|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
 |3|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|13|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|138.197.16.249|10011|United States|Clifton|DigitalOcean, LLC|
-|16|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|72.10.164.178|15281|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|15281|Canada|Montreal|GloboTech Communications|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|10|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|72.10.164.178|23271|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|23271|Canada|Montreal|GloboTech Communications|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|67.43.227.227|1043|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|23271|Canada|Montreal|GloboTech Communications|
+|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
