@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |3|101.109.152.165|8080|Thailand|Pattaya|TOT Public Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|103.53.170.199|3128|Vietnam|Đống Đa|VCIC|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|64.76.43.120|999|Mexico|Mexico City|Level 3|
-|15|203.150.128.245|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|64.76.43.120|999|Mexico|Mexico City|Level 3|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |18|67.43.228.253|1893|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|19|72.10.160.170|2501|Canada|Montreal|GloboTech Communications|
+|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
