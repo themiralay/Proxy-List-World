@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
-|6|163.172.74.17|3128|France|Paris|Online S.A.S.|
-|7|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|9|101.109.122.149|8080|Thailand|Nakhon Nayok|TOT Public Company Limited|
-|10|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|12|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|13|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|103.169.254.39|8090|Indonesia|Sidoarjo|PT Master Star Network|
-|17|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|138.197.16.249|10014|United States|Clifton|DigitalOcean, LLC|
-|20|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|190.83.15.241|999|Ecuador|Zamora|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|4|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|5|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|6|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|10|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|11|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|12|103.19.59.148|1982|Indonesia|Madiun|BITSNET|
+|13|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|14|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|15|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|177.234.247.209|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
+|19|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|20|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
 
 
 
