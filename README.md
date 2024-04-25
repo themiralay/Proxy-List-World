@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|154.120.245.154|8080|Zimbabwe|Harare|Maintainer Liquid Telecommunications Operations Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|45.236.44.94|8080|Peru|Lima|Optical Technologies S.A.C.|
 |8|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|103.159.66.61|8080|India|Ghaziabad|Home Broadband Services LLP|
-|11|95.0.168.62|1976|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|15|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|11|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|16|103.145.149.36|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|17|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |18|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|20|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
 
 
 
