@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|182.53.252.153|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|8|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|9|202.55.134.227|3128|Vietnam|Hanoi|Vietserver Services Technology Company Limited|
-|10|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|67.43.236.20|25975|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|72.10.164.178|8041|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|7695|Canada|Montreal|GloboTech Communications|
-|15|87.239.168.52|3128|Poland|Bieruń|SBLinternet.pl|
-|16|67.43.228.253|1531|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|8041|Canada|Montreal|GloboTech Communications|
-|18|103.189.250.67|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|19|67.43.228.253|1531|Canada|Montreal|GloboTech Communications|
-|20|200.70.56.203|3128|Argentina|Jose C. Paz|Telefonica de Argentina|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|5|171.6.26.58|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|13|103.8.68.48|3128|China|Shiyan|China Telecom|
+|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|15|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|72.10.164.178|1467|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
