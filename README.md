@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|61.7.174.27|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
-|8|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|7|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|8|145.40.68.148|10017|The Netherlands|Amsterdam|Packet Host, Inc.|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|143.198.2.3|3128|United States|Clifton|DigitalOcean, LLC|
+|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
 |13|67.43.227.227|9315|Canada|Montreal|GloboTech Communications|
-|14|143.198.2.3|3128|United States|Clifton|DigitalOcean, LLC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|72.10.164.178|17383|Canada|Montreal|GloboTech Communications|
+|14|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
+|16|72.10.164.178|30249|Canada|Montreal|GloboTech Communications|
+|17|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
 |18|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|19|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|20|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
+|19|64.225.4.81|10003|United States|Clifton|DigitalOcean, LLC|
+|20|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
 
 
 
