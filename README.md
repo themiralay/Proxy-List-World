@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.49.41.132|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|134.35.12.22|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|78.158.171.185|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|1|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|171.6.169.193|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|3|139.59.86.89|3128|India|Bengaluru|DIGITALOCEAN|
+|4|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|6|49.49.41.132|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|103.156.15.101|1111|Indonesia|Pondok Bambu|PT Lintas Jaringan Nusantara|
-|12|209.97.149.157|3128|United States|Clifton|DigitalOcean, LLC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|119.123.246.1|9000|China|Shenzhen|Chinanet|
-|16|103.184.56.125|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|17|139.144.120.184|8118|Singapore|Singapore|Akamai Technologies, Inc.|
-|18|171.6.213.250|8080|Thailand|Pathum Thani|Triple T Broadband Public Company Limited|
-|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|20|72.10.160.92|11175|Canada|Montreal|GloboTech Communications|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|95.73.214.26|8080|Russia|Moscow|CTC|
+|11|189.151.139.119|999|Mexico|Nogales|UNINET|
+|12|134.35.12.22|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|152.42.244.50|3128|Canada|Montreal|DigitalOcean|
+|18|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|189.173.126.46|999|Mexico|Union de Credito Agricola de Hermosillo|UNINET|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
