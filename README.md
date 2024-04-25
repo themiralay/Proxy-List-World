@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|180.191.14.74|8080|Philippines|Cabanatuan City|Globe Telecom|
+|6|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|9|89.58.48.220|10017|Germany|Nuremberg|netcup GmbH|
-|10|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|16|67.43.236.20|5595|Canada|Montreal|GloboTech Communications|
-|17|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|18|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|19|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|20|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|8|43.228.167.6|8080|India|Delhi|FAB FIVE NETWORK PRIVATE LIMITED|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|11|222.127.185.23|8082|Philippines|Cabanatuan City|Globe Telecom Inc.|
+|12|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|14|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|15|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
+|16|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|17|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|67.43.227.227|2079|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|2079|Canada|Montreal|GloboTech Communications|
 
 
 
