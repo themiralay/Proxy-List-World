@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|79.121.102.227|8080|Hungary|Budapest|Magyar Telekom plc.|
-|9|69.160.223.65|8181|United States|Elwood|Swayzee Telephone Company, Inc.|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|110.78.186.63|8080|Thailand|Chachoengsao|CAT-BB|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|20|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|8|103.152.232.52|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|9|179.32.62.127|999|Colombia|Medellín|Colombia Telecomunicaciones S.a. ESP|
+|10|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|13|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
