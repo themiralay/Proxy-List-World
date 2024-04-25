@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
 |2|160.248.186.99|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|83.136.106.26|8888|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|103.152.232.111|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
-|8|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|11|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
-|13|103.172.35.13|8080|Indonesia|Temanggung|PT Lintas Jaringan Nusantara|
-|14|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|15|67.43.227.227|7277|Canada|Montreal|GloboTech Communications|
-|16|194.67.104.76|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|17|67.43.236.20|22851|Canada|Montreal|GloboTech Communications|
-|18|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|19|152.231.87.11|999|Chile|Las Condes|Entel Chile S.A.|
-|20|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|9|45.188.125.7|999|Mexico|Comalcalco|Digy Networks S.A De C.V.|
+|10|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|186.125.218.188|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|13|170.78.115.209|999|Chile|El Quisco|SOCIEDAD CONSULTORES EN INFORMATICA VARGAS Y COMPAÑIA LIMITADA|
+|14|36.66.171.215|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|152.231.87.11|999|Chile|Las Condes|Entel Chile S.A.|
 
 
 
