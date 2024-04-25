@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.231.223.252|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|7|179.60.53.16|999|Ecuador|Los Lojas|Stealth Telecom del Ecuador|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|2|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|7|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|8|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
 |9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|15|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|134.35.23.14|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|12|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|13|194.67.104.76|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
+|16|181.197.130.218|80|Panama|David|Cable Onda|
+|17|67.43.227.227|28817|Canada|Montreal|GloboTech Communications|
+|18|103.203.172.185|84|India|Hyderabad|Softgaurd Powertronics|
+|19|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
+|20|103.88.239.38|84|India|Hyderabad|Mana Communications|
 
 
 
