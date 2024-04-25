@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|139.180.168.177|80|Australia|Sydney|Choopa|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|15|103.87.169.168|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|16|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|17|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|18|72.10.164.178|23361|Canada|Montreal|GloboTech Communications|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|4|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|6|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|7|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|45.233.67.226|999|Mexico|Tapachula|Conectividad Y Tecnologia S.A.|
+|13|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|14|103.8.68.46|3128|China|Shiyan|China Telecom|
+|15|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
+|16|157.100.63.69|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
