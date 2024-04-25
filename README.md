@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|83.136.106.26|8888|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|188.132.166.214|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|16|186.96.15.70|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|46.219.80.142|57401|Ukraine|Kyiv|o3 core|
+|7|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|18|103.8.68.48|3128|China|Shiyan|China Telecom|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |20|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
 
 
