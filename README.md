@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|112.78.163.226|8080|Indonesia|Jakarta|Biznet Networks|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|12|67.43.227.227|17521|Canada|Montreal|GloboTech Communications|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|72.10.160.90|19571|Canada|Montreal|GloboTech Communications|
-|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|103.169.254.185|2068|Indonesia|Sidoarjo|PT Master Star Network|
-|18|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.102.87.66|8080|Indonesia|Jakarta Pusat|Biznet Networks|
+|5|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|6|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
+|9|103.8.68.48|3128|China|Shiyan|China Telecom|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|103.111.118.75|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
+|12|72.10.164.178|14171|Canada|Montreal|GloboTech Communications|
+|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|14|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|15|72.10.160.90|19571|Canada|Montreal|GloboTech Communications|
+|16|113.28.254.77|8080|Hong Kong|Central|PCCW IMSBiz|
+|17|67.43.227.228|29205|Canada|Montreal|GloboTech Communications|
+|18|113.160.247.27|19132|Vietnam|Binh Son|VietNam Post and Telecom Corporation|
+|19|64.225.4.81|10006|United States|Clifton|DigitalOcean, LLC|
+|20|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
 
 
 
