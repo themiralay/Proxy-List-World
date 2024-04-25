@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|3|177.93.16.66|8080|Costa Rica|San José|Telecable Economico S.A|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|207.230.8.69|999|Colombia|Bogotá|Cogent Communications|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|122.3.121.231|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|15|67.43.228.253|2793|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|8087|Canada|Montreal|GloboTech Communications|
-|17|202.55.134.227|3128|Vietnam|Hanoi|Vietserver Services Technology Company Limited|
-|18|200.94.96.174|999|Mexico|Benito Juarez|Alestra, S. de R.L. de C.V.|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|67.43.227.227|8087|Canada|Montreal|GloboTech Communications|
+|10|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|152.231.87.11|999|Chile|Las Condes|Entel Chile S.A.|
+|15|103.160.205.86|8080|Indonesia|Mataram|PRIME|
+|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|190.121.42.24|999|Chile|Valdivia|Telefonica del Sur S.A.|
+|18|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|67.43.228.253|28181|Canada|Montreal|GloboTech Communications|
+|20|221.217.50.102|9000|China|Beijing|China Unicom Beijing Province Network|
 
 
 
