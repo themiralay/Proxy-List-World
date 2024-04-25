@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|182.253.109.83|8080|Indonesia|Semarang|Biznet Metronet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|115.178.49.181|8080|Indonesia|Pengasinan|NOC SIMAYA|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|103.8.68.48|3128|China|Shiyan|China Telecom|
-|16|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|17|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|161.49.218.139|10101|Philippines|Pasig|Converge Information and Communications Technology Solutions|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|5|182.253.109.83|8080|Indonesia|Semarang|Biznet Metronet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|11|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|17|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|18|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|19|103.8.68.48|3128|China|Shiyan|China Telecom|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
