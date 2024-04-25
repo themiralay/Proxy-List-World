@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|11|64.225.4.81|10019|United States|Clifton|DigitalOcean, LLC|
-|12|103.152.232.123|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|14|103.25.210.102|33317|Indonesia|Purwokerto|TRANSDATA|
-|15|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|16|205.233.79.78|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|17|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|67.43.236.20|14357|Canada|Montreal|GloboTech Communications|
-|19|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|165.22.36.164|10009|United States|Clifton|DigitalOcean, LLC|
+|9|45.70.236.150|999|Ecuador|Vinces|Ufinet Panama S.A.|
+|10|103.180.119.38|999|Indonesia|Lamongan|PT Persada Data Multimedia|
+|11|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|165.22.36.164|10009|United States|Clifton|DigitalOcean, LLC|
+|14|203.253.142.176|8080|South Korea|Yuseong|KISTI|
+|15|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|18|172.232.107.20|8080|India|Chennai|Akamai Technologies, Inc.|
+|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 
 
 
