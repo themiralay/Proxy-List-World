@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|7|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|190.239.220.121|999|Peru|Lima|Telefonica del Peru S.A.A.|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|12|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|6|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
+|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|10|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|72.10.160.170|3657|Canada|Montreal|GloboTech Communications|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|72.10.164.178|4107|Canada|Montreal|GloboTech Communications|
-|17|139.178.66.227|10003|United States|Parsippany|PACKET-HOST|
-|18|72.10.164.178|4107|Canada|Montreal|GloboTech Communications|
-|19|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|17|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
+|20|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
