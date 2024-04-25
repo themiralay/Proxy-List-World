@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -24,7 +24,7 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
-|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|✅|
+|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.53.60.106|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|148.230.168.198|999|Mexico|Guadalajara|Total Play Telecomunicaciones SA De CV|
-|6|58.147.190.110|8080|Indonesia|Bogor|PT. Transhybrid Communication|
-|7|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|8|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
-|9|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|181.212.161.3|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|12|64.225.8.132|10009|United States|Clifton|DigitalOcean, LLC|
-|13|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
-|14|103.153.40.38|8080|Indonesia|Bekasi|Persada Nayaka Infotama|
-|15|138.197.16.249|10015|United States|Clifton|DigitalOcean, LLC|
-|16|64.225.4.81|10017|United States|Clifton|DigitalOcean, LLC|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
-|19|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|72.10.160.90|14399|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|174.108.200.2|8080|United States|Waxhaw|Road Runner|
+|5|103.172.172.50|8080|Indonesia|Batam|PT Skynet Indonesia Madani|
+|6|101.255.166.2|8080|Indonesia|Bekasi|PT Remala Abadi|
+|7|185.82.99.197|9092|Lebanon|Tripoli|NET 360 S.A.R.L|
+|8|181.212.161.3|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|138.197.92.54|10010|United States|Clifton|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.164.178|13319|Canada|Montreal|GloboTech Communications|
+|13|103.158.27.88|1212|Indonesia|Magelang|PT Madina Solusi Indonesia|
+|14|72.10.160.90|14399|Canada|Montreal|GloboTech Communications|
+|15|181.197.130.218|80|Panama|David|Cable Onda|
+|16|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
+|17|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|18|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|19|138.204.20.160|8080|Brazil|Camocim|FONTNET ME|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
