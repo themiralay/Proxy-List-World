@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|34.23.14.17|3128|United States|North Charleston|Google LLC|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|101.109.96.88|8080|Thailand|Pattaya|TOT Public Company Limited|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|103.227.252.102|8080|Indonesia|Jakarta|PT Raja Mitra Informatika|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |11|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|145.40.68.148|10007|The Netherlands|Amsterdam|Packet Host, Inc.|
-|13|182.253.162.18|8080|Indonesia|Kebomas|BIZNET|
+|12|145.40.68.148|10017|The Netherlands|Amsterdam|Packet Host, Inc.|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 |14|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|103.49.200.50|80|Bangladesh|Dhaka|SOL-BD|
-|17|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
-|18|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|101.109.96.88|8080|Thailand|Pattaya|TOT Public Company Limited|
-|20|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
+|15|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
+|16|103.76.150.32|8080|Indonesia|Citeureup|PT. Java Digital Nusantara|
+|17|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
 
 
 
