@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.122.66.166|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|7|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|3|67.43.236.18|14535|Canada|Montreal|GloboTech Communications|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|6|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|7|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|165.22.36.164|10002|United States|Clifton|DigitalOcean, LLC|
+|10|138.197.16.249|10011|United States|Clifton|DigitalOcean, LLC|
 |11|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|12|67.43.236.20|26297|Canada|Montreal|GloboTech Communications|
 |13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|72.10.160.92|6551|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|23351|Canada|Montreal|GloboTech Communications|
-|16|134.35.222.180|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|177.229.210.66|8080|Mexico|Cuetzalan|Mega Cable, S.A. de C.V.|
-|20|103.156.17.137|8181|Indonesia|Indramayu|RSTNET|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|186.148.175.118|999|Colombia|San Martin|TV AZTECA SUCURSAL COLOMBIA|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|103.83.178.46|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|18|213.244.91.179|8080|Palestinian Territory|Gaza|PALTEL (Palestine Telecommunications Co.)|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|64.225.4.81|10014|United States|Clifton|DigitalOcean, LLC|
 
 
 
