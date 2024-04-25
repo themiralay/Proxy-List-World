@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|181.119.106.106|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|6|103.180.245.169|8080|Bangladesh|Dhaka|UKH BD Ltd|
-|7|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|103.6.223.2|3128|China|Baoshan|China Unicom|
-|10|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|11|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
-|12|103.26.110.125|84|India|Tirunelveli|Niss Networks|
-|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|14|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|15|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|16|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
-|17|183.165.244.228|8089|China|Shenzhen|Chinanet|
-|18|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|14|183.165.244.228|8089|China|Shenzhen|Chinanet|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|103.114.97.98|8999|Bangladesh|Comilla|Skynet Chowmuhani|
+|17|67.43.236.20|3289|Canada|Montreal|GloboTech Communications|
+|18|45.235.16.121|27234|Brazil|Ortigueira|Acessoline Telecom|
+|19|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
