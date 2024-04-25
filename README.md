@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|134.35.23.14|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|134.35.194.163|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|103.172.70.153|2022|Indonesia|Karangampel|AZNET|
+|8|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|12|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|194.67.104.76|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|19|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|10|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|11|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|16|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|17|194.67.104.76|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|18|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |20|67.43.236.20|8289|Canada|Montreal|GloboTech Communications|
 
 
