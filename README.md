@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 |10|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|12|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|13|67.43.236.20|24193|Canada|Montreal|GloboTech Communications|
-|14|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
-|15|103.158.27.88|1212|Indonesia|Magelang|PT Madina Solusi Indonesia|
-|16|72.10.160.90|29115|Canada|Montreal|GloboTech Communications|
-|17|177.43.72.250|3128|Brazil|Brasília|Vivo|
-|18|72.10.164.178|18951|Canada|Montreal|GloboTech Communications|
-|19|114.103.81.44|8089|China|Shenzhen|Chinanet|
-|20|148.251.16.138|80|Germany|Falkenstein|Hetzner Online GmbH|
+|11|103.8.68.48|3128|China|Shiyan|China Telecom|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|72.10.164.178|18951|Canada|Montreal|GloboTech Communications|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|18|103.204.20.21|8080|India|Tanuku|CityOnline Services Ltd|
+|19|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
