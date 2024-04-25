@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|8|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|10|103.184.56.125|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|11|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
-|12|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|5|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|6|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
+|7|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|194.67.104.76|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|177.234.247.209|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
+|11|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|12|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
 |13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|14|103.162.54.147|8080|Indonesia|Bandung|PT Pratama Asia Globalindo|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|18|101.109.224.30|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|177.234.247.209|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
-|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|103.156.248.45|8080|Indonesia|Pekanbaru|Trans Media Telekomunikasi|
+|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
