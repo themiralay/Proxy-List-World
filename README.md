@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|223.204.95.122|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|3|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|4|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |5|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|9|101.109.122.149|8080|Thailand|Nakhon Nayok|TOT Public Company Limited|
+|6|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|7|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|8|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
 |10|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|11|161.34.36.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|194.67.104.76|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|16|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|19|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
-|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|139.178.66.227|10003|United States|Parsippany|PACKET-HOST|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|16|172.233.154.222|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|17|103.162.54.147|8080|Indonesia|Bandung|PT Pratama Asia Globalindo|
+|18|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|19|45.4.201.251|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|20|185.208.102.156|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 
 
 
