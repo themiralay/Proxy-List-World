@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |6|103.87.169.160|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|103.189.123.194|8080|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|49.48.44.201|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|16|38.156.73.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|60.174.0.12|8089|China|Guangzhou|Chinanet|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|67.43.227.227|7983|Canada|Montreal|GloboTech Communications|
+|19|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
+|20|67.43.227.227|7983|Canada|Montreal|GloboTech Communications|
 
 
 
