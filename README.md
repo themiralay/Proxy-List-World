@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|8|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|14|72.10.164.178|12105|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|12105|Canada|Montreal|GloboTech Communications|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.164.178|12105|Canada|Montreal|GloboTech Communications|
+|7|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|202.154.36.117|8080|Indonesia|Surabaya|RADNET-BDG|
+|10|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|11|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|13|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|15|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|37.195.166.140|80|Russia|Novosibirsk|Novotelecom Ltd.|
+|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|20|45.233.67.226|999|Mexico|Tapachula|Conectividad Y Tecnologia S.A.|
 
 
 
