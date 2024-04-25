@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.237.26.109|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|51.79.207.228|3128|Singapore|Singapore|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 |7|103.84.159.8|80|Bangladesh|Dhaka|Shahjalal University|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|72.10.160.170|20205|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|14251|Canada|Montreal|GloboTech Communications|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|10|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|103.84.159.8|80|Bangladesh|Dhaka|Shahjalal University|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|18|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|19|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|119.76.142.181|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
 
 
 
