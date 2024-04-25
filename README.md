@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|119.47.90.25|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|11|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|12|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|16|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|103.76.151.133|8181|Indonesia|South Tangerang|PT. Java Digital Nusantara|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|15|67.43.236.20|3635|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|67.43.228.254|2827|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|15605|Canada|Montreal|GloboTech Communications|
+|19|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
