@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|37.195.166.140|80|Russia|Novosibirsk|Novotelecom Ltd.|
-|9|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|10|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
-|12|67.43.236.22|17715|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|3059|Canada|Montreal|GloboTech Communications|
-|14|114.103.81.1|8089|China|Shenzhen|Chinanet|
-|15|72.10.160.173|12629|Canada|Montreal|GloboTech Communications|
-|16|200.71.237.238|23500|Argentina|Gobernador Crespo|Telecom Argentina S.A.|
-|17|201.217.246.212|8080|Argentina|Colonia Elisa|Ecom Chaco S.A.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|9|114.103.81.1|8089|China|Shenzhen|Chinanet|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|12|190.61.103.117|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|13|67.43.236.22|17715|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|29207|Canada|Montreal|GloboTech Communications|
+|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|16|67.43.236.20|27767|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |18|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|19|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
+|20|103.48.68.28|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
