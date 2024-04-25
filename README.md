@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|49.49.41.132|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|78.158.171.185|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|5|134.35.12.22|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|78.158.171.185|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|4|134.35.12.22|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|171.6.169.193|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
-|13|103.156.248.45|8080|Indonesia|Pekanbaru|Trans Media Telekomunikasi|
-|14|95.73.214.26|8080|Russia|Moscow|CTC|
-|15|189.203.181.34|8080|Mexico|Ciudad Nezahualcoyotl|Total Play Telecomunicaciones SA De CV|
-|16|72.10.160.90|14857|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|24971|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.94|13527|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|19275|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|12045|Canada|Montreal|GloboTech Communications|
+|9|171.6.169.193|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|10|95.73.214.26|8080|Russia|Moscow|CTC|
+|11|182.253.176.84|8080|Indonesia|Jakarta|BIZNET|
+|12|72.10.160.90|23005|Canada|Montreal|GloboTech Communications|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|72.10.160.90|23005|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|19275|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.94|13527|Canada|Montreal|GloboTech Communications|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|72.10.164.178|24971|Canada|Montreal|GloboTech Communications|
+|19|190.239.220.121|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|20|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
 
 
 
