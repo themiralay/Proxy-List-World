@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|103.178.194.122|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|68.183.48.146|10007|United States|Clifton|DigitalOcean, LLC|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|67.43.227.227|21829|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|21829|Canada|Montreal|GloboTech Communications|
-|11|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|12|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|110.39.42.211|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|14|67.43.227.227|21829|Canada|Montreal|GloboTech Communications|
-|15|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|9|67.43.227.227|26851|Canada|Montreal|GloboTech Communications|
+|10|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|11|180.191.14.38|8080|Philippines|Cabanatuan City|Globe Telecom|
+|12|145.40.68.148|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|13|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|72.10.164.178|13599|Canada|Montreal|GloboTech Communications|
+|15|47.184.179.147|3128|United States|Garland|Frontier Communications Solutions|
 |16|145.40.90.211|10005|United States|Santa Clara|Packet Host, Inc.|
-|17|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|20|103.8.68.46|3128|China|Shiyan|China Telecom|
 
 
 
