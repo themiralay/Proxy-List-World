@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|124.106.116.34|1337|Philippines|Baras|Philippine Long Distance Telephone Co.|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|103.117.194.69|8080|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
+|5|103.149.194.222|32650|India|New Delhi|Kavya Internet Services Pvt Ltd|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|9|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|103.172.42.53|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|103.149.194.222|32650|India|New Delhi|Kavya Internet Services Pvt Ltd|
-|13|186.125.218.162|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|15|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|187.72.132.170|3128|Brazil|São Paulo|ALGAR TELECOM S/A|
-|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|11|121.200.48.58|8080|India|Coimbatore|WLSNET|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|15|38.252.135.1|999|Dominican Republic|Las Terrenas|CV HOTSPOT, S.R.L.|
+|16|103.35.110.94|5020|Bangladesh|Dhaka|Ranks ITT|
+|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|18|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|103.8.68.48|3128|China|Shiyan|China Telecom|
 
 
 
