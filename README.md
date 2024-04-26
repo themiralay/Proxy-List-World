@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|124.158.153.218|8180|Indonesia|Surabaya|PT iForte Global Internet|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|67.43.236.20|28981|Canada|Montreal|GloboTech Communications|
-|13|103.8.68.48|3128|China|Shiyan|China Telecom|
-|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|72.10.164.178|5789|Canada|Montreal|GloboTech Communications|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|79.106.33.26|8079|Albania|Tirana|ONE ALBANIA SH.A.|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|38.156.235.36|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|15|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|16|186.125.218.170|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|17|115.127.79.18|8090|Bangladesh|Dhaka|BRACNet Limited|
 |18|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|72.10.164.178|5789|Canada|Montreal|GloboTech Communications|
-|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|103.8.68.48|3128|China|Shiyan|China Telecom|
 
 
 
