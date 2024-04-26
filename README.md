@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|112.198.129.34|8082|Philippines|Nasugbu|Globe Telecom|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|87.126.65.11|1388|Bulgaria|Kazanlak|Vivacom Bulgaria EAD|
-|14|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|15|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|4|95.163.230.147|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|13|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 |16|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|20|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
