@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|7|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|8|95.163.230.147|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|7|95.163.230.147|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |9|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |12|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|103.181.168.213|8080|India|Madurai|Mrkr Communications Private Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|17|103.8.68.48|3128|China|Shiyan|China Telecom|
+|18|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
 |19|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |20|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
