@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|196.196.64.98|3128|Germany|Berlin|Orion Network Limited|
-|4|104.248.156.105|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
+|3|104.248.156.105|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|196.196.64.98|3128|Germany|Berlin|Orion Network Limited|
+|5|103.155.199.151|8080|Indonesia|Sukabumi|PT Lintas Jaringan Nusantara|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
 |10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|158.101.126.210|80|United States|Ashburn|Oracle Corporation|
-|14|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|18|67.43.236.20|16043|Canada|Montreal|GloboTech Communications|
-|19|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.228.253|13613|Canada|Montreal|GloboTech Communications|
+|11|103.5.232.148|8080|Bangladesh|Chittagong|Chittagong Online Limited|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|79.111.15.125|8080|Russia|Moscow|PJSC MegaFon|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|158.101.126.210|80|United States|Ashburn|Oracle Corporation|
+|17|92.207.253.226|38157|United Kingdom|Oakhill|Gamma Telecom Holdings Ltd|
+|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
