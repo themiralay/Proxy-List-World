@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|1|67.43.227.230|19243|Canada|Montreal|GloboTech Communications|
+|2|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
+|3|178.213.24.233|8080|Russia|Khasavyurt|DAGNET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|9|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|10|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|67.43.227.230|19243|Canada|Montreal|GloboTech Communications|
-|13|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|201.91.82.155|3128|Brazil|Campinas|Vivo|
-|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
-|18|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|20|121.195.170.225|1024|China|Haidian|CERNET|
+|6|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|201.91.82.155|3128|Brazil|Campinas|Vivo|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|14|24.112.3.220|8080|United States|Durant|Vyve Broadband|
+|15|121.195.170.225|1024|China|Haidian|CERNET|
+|16|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|17|182.253.62.204|8080|Indonesia|Jakarta|BIZNET|
+|18|103.148.39.26|82|India|Bengaluru|Broadway Communication Pvt Ltd|
+|19|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|20|45.181.123.97|999|Chile|Santiago|Interpit Telecomunicaciones Ltda|
 
 
 
