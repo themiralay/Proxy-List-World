@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
-|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|206.62.64.34|8080|Brazil|Cascavel|AGIS|
+|9|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|10|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
+|14|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
+|15|103.88.239.38|84|India|Hyderabad|Mana Communications|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
+|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
