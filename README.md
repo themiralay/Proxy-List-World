@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
+|1|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|3|103.140.188.105|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|4|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|6|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
-|9|158.69.7.48|8050|Canada|Montreal|OVH SAS|
-|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|11|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|15|72.10.164.178|13011|Canada|Montreal|GloboTech Communications|
-|16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|17|72.10.160.170|19367|Canada|Montreal|GloboTech Communications|
+|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|178.212.49.30|41258|Poland|Międzyrzecz|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|6|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|13|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|14|72.10.160.170|19367|Canada|Montreal|GloboTech Communications|
+|15|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|16|67.43.228.253|16677|Canada|Montreal|GloboTech Communications|
+|17|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
 |18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|19|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
 
 
 
