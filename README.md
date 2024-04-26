@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|45.189.118.196|999|Peru|Lima|Fiber Digital S.R.L|
-|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|6|103.171.165.93|8080|Indonesia|Jakarta|MYREPUBLIC|
-|7|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|8|103.26.110.202|84|India|Tirunelveli|Niss Networks|
-|9|167.250.181.133|999|Ecuador|La Mana|Ufinet Panama S.A.|
-|10|212.112.120.252|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|11|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|190.61.61.210|999|Colombia|Neiva|Ufinet Panama S.A.|
-|15|188.125.167.66|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|2|45.189.118.196|999|Peru|Lima|Fiber Digital S.R.L|
+|3|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
+|4|117.102.103.146|9890|Indonesia|Jakarta|BIZNET|
+|5|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
+|6|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.162.63.162|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|10|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
+|11|24.112.3.220|8080|United States|Durant|Vyve Broadband|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|41.209.60.70|8080|Kenya|Nairobi|MTN Business Kenya|
+|14|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|15|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
 |16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|41.209.60.70|8080|Kenya|Nairobi|MTN Business Kenya|
-|18|103.179.253.202|8181|Indonesia|Mekarjaya|PT Pusaka Kreasi Mandiri|
-|19|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|17|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
+|18|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|38.252.135.1|999|Dominican Republic|Las Terrenas|CV HOTSPOT, S.R.L.|
+|20|119.47.90.25|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
 
 
 
