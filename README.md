@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|147.75.34.93|9443|The Netherlands|Amsterdam|Equinix Services|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
-|14|103.191.115.238|83|India|Bānka|Xpress Fiber Private Limited|
-|15|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|67.43.228.253|21571|Canada|Montreal|GloboTech Communications|
-|18|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|103.78.113.15|8080|Indonesia|Jakarta|MORATELINDO|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|8|147.75.34.93|9443|The Netherlands|Amsterdam|Equinix Services|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|12|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|13|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|67.43.236.20|8843|Canada|Montreal|GloboTech Communications|
+|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
