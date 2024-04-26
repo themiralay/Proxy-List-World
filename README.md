@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|103.169.130.17|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|12|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|13|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|14|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|16|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|17|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|18|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|9|189.195.139.178|999|Mexico|Pénjamo|Mega Cable, S.A. de C.V.|
+|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|11|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|17|119.47.90.25|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|41.254.53.70|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
