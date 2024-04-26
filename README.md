@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|186.125.218.161|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|6|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|7|103.24.213.124|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|8|36.88.148.138|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|67.43.228.251|17067|Canada|Montreal|GloboTech Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|154.64.219.2|8888|United States|Jacksonville|OSNET Wireless|
+|13|138.121.15.229|999|Colombia|Turbaná|Liberty Networks De Colombia|
+|14|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |17|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|18|72.10.160.93|4419|Canada|Montreal|GloboTech Communications|
-|19|103.154.139.130|8080|Indonesia|Jakarta|MORATELINDONAP|
-|20|67.43.228.251|17067|Canada|Montreal|GloboTech Communications|
+|18|179.96.204.239|8080|Brazil|São Miguel do Oeste|TechInfo Telecomunicações Ltda|
+|19|103.162.62.111|8181|Indonesia|Pugeran Maguwoharjo|PT Ring Media Nusantara|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
