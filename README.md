@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6244** proxies at the latest update. Usable proxies are below.
+> Scraper found **6245** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|169|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|170|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|439|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|214|✅|
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |8|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|222.174.178.122|4999|China|Xintai|Chinanet|
+|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
 |15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|17|72.10.164.178|7871|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|16137|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|21133|Canada|Montreal|GloboTech Communications|
+|16|103.168.164.94|83|India|Pune|Ssicon Systems Private Limited|
+|17|91.227.66.139|8080|Poland|Starachowice|Klikom.net Sp.z o.o|
+|18|72.10.164.178|16999|Canada|Montreal|GloboTech Communications|
+|19|103.203.172.185|84|India|Hyderabad|Softgaurd Powertronics|
 |20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
