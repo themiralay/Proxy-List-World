@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|8|202.144.157.1|9009|Bhutan|Thimphu|Bhutan Telecom Ltd|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|17|43.243.140.58|10001|Indonesia|Pisangan|CEPATNET|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|184.73.74.6|8080|United States|Ashburn|Amazon.com|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|16|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |18|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
