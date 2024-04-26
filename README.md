@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|2|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|10|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|103.159.194.149|8081|Indonesia|Rembang|PT Giga Digital Nusantara|
-|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|16|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
-|17|203.210.85.215|3128|Indonesia|Bandung|Infrastruktur STARNET|
-|18|103.6.223.2|3128|China|Baoshan|China Unicom|
-|19|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.182.213.13|8080|Bangladesh|Tongi|Rapid Network|
+|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|17|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|18|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 
 
 
