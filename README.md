@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|11|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|72.10.160.93|11089|Canada|Montreal|GloboTech Communications|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|10|5.202.95.171|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|11|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|13|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 
 
 
