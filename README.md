@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|190.120.249.180|999|Venezuela|Caracas|CORPORACION FIBEX TELECOM, C.A.|
-|10|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|103.19.59.148|1982|Indonesia|Madiun|BITSNET|
-|13|187.19.200.217|8090|Brazil|Petrópolis|Brisanet Servicos De Telecomunicacoes S.A|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|103.103.89.85|8090|Bangladesh|Chittagong|Easy|
-|17|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
-|18|119.47.90.25|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|19|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|103.109.125.155|5555|Indonesia|Medan|PT. PANCA DUTA UTAMA|
+|7|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|177.73.136.29|8080|Brazil|Jaraguá do Sul|UNIFIQUE TELECOMUNICACOES S/A|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|14|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|16|67.43.228.254|27635|Canada|Montreal|GloboTech Communications|
+|17|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
 
 
 
