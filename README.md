@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
+|2|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 |9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|10|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|15|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|16|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|158.101.126.210|80|United States|Ashburn|Oracle Corporation|
+|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
