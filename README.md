@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|67.43.228.250|18681|Canada|Montreal|GloboTech Communications|
-|11|119.47.90.25|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|14|49.81.168.175|8089|China|Nanjing|Chinanet|
-|15|181.78.194.75|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|67.43.228.253|13775|Canada|Montreal|GloboTech Communications|
-|17|37.27.28.35|8888|Finland|Helsinki|Hetzner Online GmbH|
-|18|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|19|40.127.8.243|80|South Africa|Johannesburg|Microsoft Corporation|
-|20|72.10.164.178|29207|Canada|Montreal|GloboTech Communications|
+|7|202.154.36.117|8080|Indonesia|Surabaya|RADNET-BDG|
+|8|178.250.189.192|8118|Germany|Falkenstein|Mdcloud LTD|
+|9|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|10|222.119.186.81|3128|South Korea|Busan|Korea Telecom|
+|11|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|103.76.108.30|8080|Indonesia|Lumajang|PT Mahawira Nusantara Grup|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|19|1.4.214.178|8080|Thailand|Nong Chok|TOT Public Company Limited|
+|20|189.203.181.34|8080|Mexico|Ciudad Nezahualcoyotl|Total Play Telecomunicaciones SA De CV|
 
 
 
