@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|7|202.6.234.52|51234|Indonesia|Surabaya|PADINET - Padi Internet|
 |8|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|9|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|92.253.235.170|8082|Russia|Podolsk|Best Line Ltd.|
-|15|177.234.211.79|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|16|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|103.48.68.28|83|India|Hyderabad|Country Online Services PVT LTD|
-|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|14|189.193.254.98|8080|Mexico|Ixtlahuaca|Mega Cable, S.A. de C.V.|
+|15|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|18|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
