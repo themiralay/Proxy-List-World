@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|2|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.8.68.48|3128|China|Shiyan|China Telecom|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|13|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
-|14|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|15|72.10.160.170|21807|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|21807|Canada|Montreal|GloboTech Communications|
-|17|103.8.68.46|3128|China|Shiyan|China Telecom|
-|18|103.88.90.70|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|19|72.10.164.178|30547|Canada|Montreal|GloboTech Communications|
-|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|12|72.10.160.170|21807|Canada|Montreal|GloboTech Communications|
+|13|103.8.68.48|3128|China|Shiyan|China Telecom|
+|14|72.10.160.170|21807|Canada|Montreal|GloboTech Communications|
+|15|182.253.176.84|8080|Indonesia|Jakarta|BIZNET|
+|16|72.10.164.178|9319|Canada|Montreal|GloboTech Communications|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
 
 
 
