@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|202.138.239.254|1212|Indonesia|Bandung|PT Melvar Lintasnusa|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |8|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
+|12|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|45.189.118.196|999|Peru|Lima|Fiber Digital S.R.L|
-|16|92.253.235.170|8082|Russia|Podolsk|Best Line Ltd.|
-|17|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
-|20|67.43.227.227|28373|Canada|Montreal|GloboTech Communications|
+|14|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|161.49.215.28|10101|Philippines|Angeles City|Converge Information and Communications Technology Solutions|
+|17|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
+|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|45.189.118.196|999|Peru|Lima|Fiber Digital S.R.L|
 
 
 
