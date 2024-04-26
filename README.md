@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|9|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|10|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|103.156.15.179|8080|Indonesia|Pondok Bambu|PT Lintas Jaringan Nusantara|
+|10|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|14|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |15|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |16|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|18|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|103.19.59.148|1982|Indonesia|Madiun|BITSNET|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|20|195.133.44.200|3128|Germany|Frankfurt am Main|DE-RUVDS|
 
 
 
