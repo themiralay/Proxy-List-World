@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |6|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|9|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|72.10.160.174|1553|Canada|Montreal|GloboTech Communications|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
-|19|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|20|67.43.227.228|23353|Canada|Montreal|GloboTech Communications|
+|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|10|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
