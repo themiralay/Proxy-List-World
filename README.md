@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|45.167.93.235|999|Mexico|Teabo|Lantointernet SA De CV|
-|7|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|103.48.69.105|83|India|Hyderabad|Country Online Services PVT LTD|
+|5|103.153.35.86|8080|Indonesia|Subang|JMExpress|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|27.147.217.102|80|Bangladesh|Dhaka|Link3 Technologies Limited|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.152.232.39|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|10|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|11|103.195.65.209|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|182.253.45.103|8080|Indonesia|Tangerang|BIZNET|
-|14|41.33.203.115|1982|Egypt|Cairo|TE Data|
-|15|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
-|16|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|17|187.102.216.201|999|Argentina|Montecarlo|Cretton Lisandro Maximiliano|
-|18|103.246.247.146|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|19|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|190.210.131.48|8080|Argentina|Buenos Aires|NSS S.A.|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|185.67.95.91|8080|Russia|St Petersburg|ru.elitel|
+|14|66.54.106.56|8104|United States|Greenwood|Mobile Communications, LLC|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|103.152.232.39|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|103.48.68.28|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
