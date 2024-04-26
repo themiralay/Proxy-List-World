@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|205.164.84.250|8591|Brazil|Buritis|AGIS|
-|8|103.162.16.47|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|9|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|10|103.8.68.48|3128|China|Shiyan|China Telecom|
-|11|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|103.69.90.57|8081|India|Kukatpally|Allied IT Infrastructure and Services PVT LTD|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|185.200.37.246|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|103.174.238.113|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
+|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|13|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|14|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|15|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|16|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
