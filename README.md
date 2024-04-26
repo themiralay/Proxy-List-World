@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|13.73.194.134|3128|Australia|The Rocks|Microsoft Corporation|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|72.10.160.174|30457|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|32493|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.164.178|32493|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|5473|Canada|Montreal|GloboTech Communications|
-|18|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|20|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|72.10.160.174|30457|Canada|Montreal|GloboTech Communications|
+|16|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|17|72.10.164.178|32493|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|32493|Canada|Montreal|GloboTech Communications|
+|19|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
