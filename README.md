@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|77.52.187.54|8080|Ukraine|Cherkasy|UMC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|187.17.232.6|8089|Brazil|Valinhos|Lantec Comunicacao Multimidia Ltda|
-|9|103.8.68.48|3128|China|Shiyan|China Telecom|
-|10|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|67.43.236.20|1119|Canada|Montreal|GloboTech Communications|
-|12|122.54.105.109|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|118.172.239.231|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|14|67.43.227.228|10441|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|8|124.158.153.218|8180|Indonesia|Surabaya|PT iForte Global Internet|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|11|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|201.71.3.56|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|103.234.159.5|8080|India|Bengaluru|MWPL|
 |18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|20|50.231.0.43|4481|United States|Houston|Comcast Cable Communications, LLC|
+|19|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 
 
 
