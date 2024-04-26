@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -44,20 +44,20 @@ Click the file format that you want and copy the URL.
 |3|104.248.156.105|8888|Singapore|Singapore|DigitalOcean, LLC|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|196.196.64.98|3128|Germany|Berlin|Orion Network Limited|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|182.253.109.83|8080|Indonesia|Semarang|Biznet Metronet|
-|17|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|19|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|196.196.64.98|3128|Germany|Berlin|Orion Network Limited|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|11|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|15|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|16|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|182.253.109.83|8080|Indonesia|Semarang|Biznet Metronet|
+|18|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|181.78.194.75|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 |20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
