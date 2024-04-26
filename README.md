@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|9|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
 |10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|18|124.158.153.218|8180|Indonesia|Surabaya|PT iForte Global Internet|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|15|185.200.37.247|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|18|103.8.68.46|3128|China|Shiyan|China Telecom|
+|19|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
+|20|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
