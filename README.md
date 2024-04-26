@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|103.180.247.5|8080|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.164.178|26147|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|12545|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|15177|Canada|Montreal|GloboTech Communications|
+|2|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|7|103.174.238.113|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
+|17|201.77.96.153|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|190.61.80.93|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|20|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
