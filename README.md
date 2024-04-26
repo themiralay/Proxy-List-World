@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|203.189.88.156|80|Indonesia|Jakarta Pusat|Kementerian Energi dan Sumber Daya Mineral|
-|4|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|3|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.36.8.55|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|11|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|103.178.42.10|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
 |13|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|20|184.73.74.6|8080|United States|Ashburn|Amazon.com|
+|14|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|17|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|18|67.43.228.253|1549|Canada|Montreal|GloboTech Communications|
+|19|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
