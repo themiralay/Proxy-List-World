@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|6|188.132.222.5|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|70.69.134.83|4001|Canada|Chilliwack|Shaw Communications Inc.|
-|9|72.10.160.93|32683|Canada|Montreal|GloboTech Communications|
-|10|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|11|103.184.167.26|8080|Indonesia|Tana Toraja Regency|PT Pricom Media Solusi|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|58.147.186.214|3125|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
-|14|67.43.228.251|23005|Canada|Montreal|GloboTech Communications|
-|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|16|67.43.227.226|12745|Canada|Montreal|GloboTech Communications|
-|17|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
-|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|19|72.10.164.178|15017|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|190.6.56.133|8080|Venezuela|Valencia|Net Uno, C.A.|
+|9|154.73.29.33|8080|Libya|Tripoli|Rawafed|
+|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|11|72.10.160.93|32683|Canada|Montreal|GloboTech Communications|
+|12|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|13|189.203.181.34|8080|Mexico|Ciudad Nezahualcoyotl|Total Play Telecomunicaciones SA De CV|
+|14|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|17|67.43.228.251|15533|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|152.231.87.11|999|Chile|Las Condes|Entel Chile S.A.|
+|20|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
 
 
 
