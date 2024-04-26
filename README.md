@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|188.132.221.135|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|177.93.51.213|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|11|139.255.33.242|8080|Indonesia|Tangerang|PT. LINKNET|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|103.152.232.60|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|15|67.43.236.20|19779|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
-|18|72.10.164.178|25451|Canada|Montreal|GloboTech Communications|
-|19|177.8.226.222|9898|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|20|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|46.52.192.171|3128|Russia|Moscow|Krasnoyarsk|
+|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|38.252.135.1|999|Dominican Republic|Las Terrenas|CV HOTSPOT, S.R.L.|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|103.8.68.48|3128|China|Shiyan|China Telecom|
+|19|129.159.136.164|8080|Israel|Jerusalem|Oracle Corporation|
+|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
