@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|6|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|10|110.39.42.211|80|Pakistan|Lahore|Wateen Telecom Limited|
-|11|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|147.139.196.244|8080|Indonesia|Jakarta|Alibaba.com LLC|
-|15|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|16|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|16|177.234.247.209|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
