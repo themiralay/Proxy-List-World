@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|34.23.14.17|3128|United States|North Charleston|Google LLC|
 |3|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.8.68.46|3128|China|Shiyan|China Telecom|
-|17|38.51.243.201|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
-|18|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|7|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|8|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|9|67.79.51.210|16099|United States|Pharr|Spectrum|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|200.119.218.89|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
