@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |2|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|190.239.221.224|999|Peru|Lima|Telefonica del Peru S.A.A.|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|14|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|67.43.227.227|26007|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|12491|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|119.47.90.25|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.152.232.61|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|9|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|177.43.72.250|3128|Brazil|Brasília|Vivo|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
+|20|103.172.35.13|8080|Indonesia|Temanggung|PT Lintas Jaringan Nusantara|
 
 
 
