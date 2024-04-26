@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 |9|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|161.49.215.28|10101|Philippines|Angeles City|Converge Information and Communications Technology Solutions|
-|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|14|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
-|15|123.200.14.194|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|131.100.51.212|999|Colombia|Neiva|Fibernet TV SAS|
-|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|18|114.106.135.62|8089|China|Guangzhou|Chinanet|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|201.217.246.212|8080|Argentina|Colonia Elisa|Ecom Chaco S.A.|
+|18|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |19|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|20|67.43.228.250|3289|Canada|Montreal|GloboTech Communications|
+|20|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
