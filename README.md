@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|203.150.128.120|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|34.71.169.238|3128|United States|Council Bluffs|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|110.78.81.107|8080|Thailand|Vadhana|CAT Telecom Public Company Limited|
+|11|103.50.76.98|443|India|Mumbai|Jetway Broadband|
+|12|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|34.71.169.238|3128|United States|Council Bluffs|Google LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|103.50.76.98|443|India|Mumbai|Jetway Broadband|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
