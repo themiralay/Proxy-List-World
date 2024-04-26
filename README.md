@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|118.103.236.11|8080|Pakistan|Karachi|Connect Communication|
-|7|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|201.77.96.153|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|14|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |16|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
-|17|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|17|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|18|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 
 
 
