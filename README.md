@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
+|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|10|113.160.235.248|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|72.10.160.90|5471|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|32247|Canada|Montreal|GloboTech Communications|
-|15|95.0.206.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|16|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|17|38.156.74.93|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|181.78.194.75|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|72.10.164.178|32247|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|13729|Canada|Montreal|GloboTech Communications|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|70.63.90.245|8080|United States|Wilmington|Spectrum|
+|17|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|18|72.10.160.90|30637|Canada|Montreal|GloboTech Communications|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
