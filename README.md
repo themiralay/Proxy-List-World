@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|103.153.35.86|8080|Indonesia|Subang|JMExpress|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|103.246.247.147|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|14|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|15|185.67.95.91|8080|Russia|St Petersburg|ru.elitel|
-|16|103.195.65.209|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
-|17|103.26.108.254|84|India|Sivakasi|Niss Networks|
-|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|19|205.164.84.250|8591|Brazil|Buritis|AGIS|
-|20|72.10.164.178|28929|Canada|Montreal|GloboTech Communications|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|49.4.48.128|8888|China|Beijing|Huawei Cloud Service data center|
+|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|13|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|103.48.69.105|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|18|181.78.194.75|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|20|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
