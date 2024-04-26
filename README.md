@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|3|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|4|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|5|112.202.238.99|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|6|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
-|7|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|8|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
+|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|5|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|14|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 |18|103.8.68.46|3128|China|Shiyan|China Telecom|
-|19|103.26.108.254|84|India|Sivakasi|Niss Networks|
-|20|103.8.68.48|3128|China|Shiyan|China Telecom|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
