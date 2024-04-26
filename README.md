@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|203.81.67.22|8080|Myanmar|Yangon|Myanma Post & Telecommunication|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|103.105.125.6|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.169.254.185|2068|Indonesia|Sidoarjo|PT Master Star Network|
-|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.164.178|12467|Canada|Montreal|GloboTech Communications|
+|4|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|201.246.202.20|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|19|161.49.215.28|10101|Philippines|Angeles City|Converge Information and Communications Technology Solutions|
+|20|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
 
 
 
