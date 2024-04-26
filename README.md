@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|4|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|5|47.247.29.81|8081|India|Navi Mumbai|Reliance Jio Infocomm Limited|
+|3|190.186.1.121|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|4|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|5|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|9|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|119.47.90.25|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|103.127.38.46|7070|Pakistan|Lahore|Redtone Telecommunications Pakistan (Private) Limited|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|72.10.164.178|13449|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|13449|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|13449|Canada|Montreal|GloboTech Communications|
-|18|103.6.223.2|3128|China|Baoshan|China Unicom|
-|19|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|11|201.217.246.212|8080|Argentina|Colonia Elisa|Ecom Chaco S.A.|
+|12|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
+|14|67.43.227.227|8763|Canada|Montreal|GloboTech Communications|
+|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|19|201.77.96.153|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|20|182.160.113.77|80|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
