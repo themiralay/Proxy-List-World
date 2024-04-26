@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|147.75.34.93|9443|The Netherlands|Amsterdam|Equinix Services|
-|6|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|7|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|72.10.164.178|1475|Canada|Montreal|GloboTech Communications|
-|11|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|205.164.84.250|8591|Brazil|Buritis|AGIS|
-|16|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|17|72.10.164.178|1475|Canada|Montreal|GloboTech Communications|
-|18|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
-|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|20|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|147.75.34.93|9443|The Netherlands|Amsterdam|Equinix Services|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|13|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.10.164.178|1475|Canada|Montreal|GloboTech Communications|
+|17|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|193.105.123.194|8123|Azerbaijan|Baku|Bulud Telecom LLC|
+|20|72.10.164.178|1475|Canada|Montreal|GloboTech Communications|
 
 
 
