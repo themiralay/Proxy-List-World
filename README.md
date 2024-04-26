@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|103.26.108.254|84|India|Sivakasi|Niss Networks|
-|13|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
-|14|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
-|15|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|201.217.246.212|8080|Argentina|Colonia Elisa|Ecom Chaco S.A.|
-|20|113.160.155.121|19132|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|103.162.209.157|8080|Bangladesh|Natore|Star Online|
+|10|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|16|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|72.10.164.178|30997|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|67.43.227.227|7785|Canada|Montreal|GloboTech Communications|
 
 
 
