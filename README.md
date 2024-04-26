@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|11|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|103.167.171.43|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|9|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|10|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|72.10.160.90|6371|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|67.43.227.227|21879|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|27463|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|6371|Canada|Montreal|GloboTech Communications|
+|17|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|72.10.164.178|27463|Canada|Montreal|GloboTech Communications|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 |20|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
