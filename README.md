@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|77.83.173.176|3128|The Netherlands|Dronten|Zomro B.V.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|67.43.227.227|1099|Canada|Montreal|GloboTech Communications|
-|19|45.233.67.226|999|Mexico|Tapachula|Conectividad Y Tecnologia S.A.|
-|20|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|77.83.173.176|3128|The Netherlands|Dronten|Zomro B.V.|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|38.41.4.86|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
 
 
 
