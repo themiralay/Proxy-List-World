@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|186.46.34.20|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
-|16|72.10.164.178|4535|Canada|Montreal|GloboTech Communications|
-|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|18|45.189.118.196|999|Peru|Lima|Fiber Digital S.R.L|
-|19|181.78.19.251|999|Colombia|Barrio San Luis|IFX Networks Argentina S.R.L|
-|20|67.43.227.227|32911|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|72.10.164.178|4535|Canada|Montreal|GloboTech Communications|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|13|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|15|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|16|67.43.236.18|1211|Canada|Montreal|GloboTech Communications|
+|17|181.78.194.75|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|45.189.118.92|999|Peru|Lima|Fiber Digital S.R.L|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|45.189.118.196|999|Peru|Lima|Fiber Digital S.R.L|
 
 
 
