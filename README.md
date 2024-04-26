@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|103.99.22.162|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|5.34.46.94|8080|Kazakhstan|Almaty|2Day Telecom LLP|
-|10|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|14|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|15|72.10.160.90|25105|Canada|Montreal|GloboTech Communications|
-|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|103.88.239.38|84|India|Hyderabad|Mana Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|103.136.82.252|83|India|Ranchi|Protoact Digital Network Pvt. Ltd|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|190.239.221.224|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|13|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|185.208.102.125|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 
 
 
