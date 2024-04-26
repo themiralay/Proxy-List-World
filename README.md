@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|41.78.215.1|8787|South Africa|Sandton|Broadband Infraco SOC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|124.104.137.102|9000|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|10|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
 |11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|12|103.154.139.130|8080|Indonesia|Jakarta|MORATELINDONAP|
-|13|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|38.123.220.83|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|20|72.10.164.178|8803|Canada|Montreal|GloboTech Communications|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|202.138.239.254|1212|Indonesia|Bandung|PT Melvar Lintasnusa|
+|17|95.216.67.36|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|195.154.172.161|3128|France|Paris|Online S.A.S.|
 
 
 
