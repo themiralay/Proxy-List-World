@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|11|188.240.104.62|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|12|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|9|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|203.130.23.250|8080|Pakistan|Karachi|Supernet, PDS Limited|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|20|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
+|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|16|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|19|103.187.113.165|3125|Indonesia|Tubanan|PT Adi Solusindo Teknologi|
+|20|119.47.90.25|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
 
 
 
