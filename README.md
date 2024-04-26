@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|103.174.238.113|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|94.198.221.4|3128|Kazakhstan|Almaty|TimeWeb Ltd.|
-|10|103.190.171.137|8080|Indonesia|Jakarta|WMS|
-|11|67.43.227.227|3767|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|26147|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|28855|Canada|Montreal|GloboTech Communications|
-|14|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|67.43.228.254|1185|Canada|Montreal|GloboTech Communications|
-|16|157.119.211.133|8080|India|Hyderabad|Finecom Internet services Pvt Ltd|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|67.43.227.227|3767|Canada|Montreal|GloboTech Communications|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|213.35.124.163|8085|Singapore|Singapore|Oracle Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
+|12|222.174.178.122|4999|China|Xintai|Chinanet|
+|13|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|14|45.189.118.196|999|Peru|Lima|Fiber Digital S.R.L|
+|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|16|67.43.227.227|3767|Canada|Montreal|GloboTech Communications|
+|17|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
+|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|19|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 
 
 
