@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 |2|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|10|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|152.67.0.109|80|India|Mumbai|Oracle Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|128.95.53.237|80|United States|Seattle|University of Washington|
-|14|49.49.141.249|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|16|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|9|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|12|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|13|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|17|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|195.35.32.249|80|United States|Phoenix|HOSTINGER US|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
