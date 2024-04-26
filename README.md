@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|134.35.224.208|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|41.205.24.15|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.180.194.149|8080|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
+|11|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|103.8.68.46|3128|China|Shiyan|China Telecom|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|38.123.220.83|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|20|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|134.35.224.208|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|19|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
