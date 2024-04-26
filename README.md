@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|158.178.231.110|8085|Singapore|Singapore|Oracle Corporation|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|9|109.74.37.238|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|179.96.204.239|8080|Brazil|São Miguel do Oeste|TechInfo Telecomunicações Ltda|
-|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
-|18|67.43.236.20|7451|Canada|Montreal|GloboTech Communications|
-|19|152.231.87.11|999|Chile|Las Condes|Entel Chile S.A.|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
+|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|13|181.74.83.25|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|124.158.182.34|7654|Indonesia|Jakarta|PT Jala Lintas Media|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
