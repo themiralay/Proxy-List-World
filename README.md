@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|16|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|19|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
-|20|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|191.252.196.14|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|11|103.8.68.46|3128|China|Shiyan|China Telecom|
+|12|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|14|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|72.10.160.170|4381|Canada|Montreal|GloboTech Communications|
+|19|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|20|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
 
 
 
