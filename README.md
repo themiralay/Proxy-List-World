@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|161.49.215.28|10101|Philippines|Angeles City|Converge Information and Communications Technology Solutions|
 |8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|203.150.128.220|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |10|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|161.49.215.28|10101|Philippines|Angeles City|Converge Information and Communications Technology Solutions|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|201.71.3.56|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|45.183.40.23|8080|Colombia|Contratación|TV AZTECA SUCURSAL COLOMBIA|
-|19|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|103.8.68.48|3128|China|Shiyan|China Telecom|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|201.217.246.212|8080|Argentina|Colonia Elisa|Ecom Chaco S.A.|
+|16|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
