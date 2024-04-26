@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |6|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|14.97.32.152|80|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
 |10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|67.43.236.20|3463|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|16|121.101.131.142|8181|Indonesia|Yogyakarta|PT SELARAS CITRA TERABIT|
-|17|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
-|18|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|24.121.173.151|3128|United States|Kingman|Suddenlink Communications|
+|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|13|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|119.47.90.25|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|16|103.8.68.48|3128|China|Shiyan|China Telecom|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.26.108.254|84|India|Sivakasi|Niss Networks|
+|19|67.43.236.20|4439|Canada|Montreal|GloboTech Communications|
+|20|103.186.8.162|8080|Indonesia|Pelem Satu|PRISMA|
 
 
 
