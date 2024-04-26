@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|2|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|16|103.8.68.46|3128|China|Shiyan|China Telecom|
+|1|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|3|164.52.204.156|80|India|Noida|E2E Networks Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|6|103.42.228.62|8080|Bangladesh|Chandraganj|Skynet Chowmuhani|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|13|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|14|170.246.85.106|50991|Ecuador|Cuenca|Servicable Cia. Ltda.|
+|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 |17|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|19|38.7.1.233|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|18|103.105.125.6|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
+|19|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
