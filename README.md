@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|77.83.173.176|3128|The Netherlands|Dronten|Zomro B.V.|
-|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|16|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|77.83.173.176|3128|The Netherlands|Dronten|Zomro B.V.|
-|18|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|202.40.185.166|8090|Bangladesh|Dhaka|Ranks ITT|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|93.177.126.101|8088|Russia|Balashikha|G COM Ltd.|
+|17|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
