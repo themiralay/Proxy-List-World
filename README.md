@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
 |8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|34.23.14.17|3128|United States|North Charleston|Google LLC|
-|11|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|134.35.204.19|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|20|218.145.131.182|443|South Korea|Seongnam-si|Korea Telecom|
+|9|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|78.25.68.130|8088|Russia|Krasnyy Oktyabr'|Volga Branch of OJSC MegaFon|
+|12|103.231.236.14|8080|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|16|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|34.23.14.17|3128|United States|North Charleston|Google LLC|
+|18|182.253.109.83|8080|Indonesia|Semarang|Biznet Metronet|
+|19|103.6.223.2|3128|China|Baoshan|China Unicom|
+|20|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
 
 
 
