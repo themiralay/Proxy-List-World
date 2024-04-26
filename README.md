@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|67.43.227.230|19243|Canada|Montreal|GloboTech Communications|
-|3|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|3|182.253.147.91|8080|Indonesia|Blitar|BIZNET|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|49.48.134.216|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|9|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 |10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|12|103.152.232.162|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|13|47.236.162.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|205.233.79.194|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
+|12|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|13|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
+|14|201.91.82.155|3128|Brazil|Campinas|Vivo|
 |15|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
-|17|158.179.215.122|8080|Spain|Madrid|Oracle Corporation|
-|18|201.91.82.155|3128|Brazil|Campinas|Vivo|
-|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|18|103.145.14.56|8080|Indonesia|Cirebon|PT Pembangunan Sarana Telematika|
+|19|188.125.167.66|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
