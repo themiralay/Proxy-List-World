@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|7|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|8|103.180.194.149|8080|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|103.35.108.190|5020|Bangladesh|Dhaka|Ranks ITT|
-|16|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|138.84.49.166|80|Colombia|Bogota|SpaceX Starlink|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|20|178.212.53.17|41258|Poland|Sieniawa|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|12|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|13|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|14|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|138.84.49.166|80|Colombia|Bogota|SpaceX Starlink|
+|19|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|222.127.50.56|8082|Philippines|Lahug|INNOVE|
 
 
 
