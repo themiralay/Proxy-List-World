@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|6|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|7|188.93.247.27|3128|Russia|St Petersburg|Smart Telecom customers (former UTSYS)|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|11|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|9|1.10.141.45|8080|Thailand|Pak Kret|TOT Public Company Limited|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|15|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|128.95.53.237|80|United States|Seattle|University of Washington|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|120.28.221.214|80|Philippines|Cagayan de Oro|Globe Telecom|
+|17|138.84.49.166|80|Colombia|Bogota|SpaceX Starlink|
+|18|103.250.130.104|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|20|103.8.68.46|3128|China|Shiyan|China Telecom|
 
 
 
