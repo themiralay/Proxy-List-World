@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|205.189.160.50|3128|Hong Kong|Tseung Kwan O|Leaseweb Asia Pacific pte. ltd.|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|72.10.160.170|32671|Canada|Montreal|GloboTech Communications|
-|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|9|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|17|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
+|18|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|19|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
 
 
 
