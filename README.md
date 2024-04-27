@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|14|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|103.8.68.48|3128|China|Shiyan|China Telecom|
-|17|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|18|72.10.164.178|5499|Canada|Montreal|GloboTech Communications|
-|19|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|20|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
+|9|18.118.17.162|8080|United States|Dublin|Amazon.com, Inc.|
+|10|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|11|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|12|72.10.164.178|2393|Canada|Montreal|GloboTech Communications|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|18.118.17.162|8080|United States|Dublin|Amazon.com, Inc.|
+|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|17|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|20|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 
 
 
