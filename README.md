@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|1|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|4|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|5|182.253.162.18|8080|Indonesia|Kebomas|BIZNET|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.156.15.212|8080|Indonesia|Pondok Bambu|PT Lintas Jaringan Nusantara|
 |12|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |15|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|17|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 |18|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|20|103.8.68.48|3128|China|Shiyan|China Telecom|
 
 
 
