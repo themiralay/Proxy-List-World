@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|138.84.51.32|80|Colombia|Bogota|SpaceX Starlink|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|186.180.75.236|999|Colombia|Cúcuta|Colombia Móvil|
-|12|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|182.253.109.56|8080|Indonesia|Semarang|Biznet Metronet|
-|14|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|72.10.164.178|2945|Canada|Montreal|GloboTech Communications|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|72.10.160.90|11333|Canada|Montreal|GloboTech Communications|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
