@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|138.84.40.7|80|Colombia|Bogota|SpaceX Starlink|
-|11|160.155.16.204|8080|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|12|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
-|13|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|114.130.84.94|8080|Bangladesh|Dhaka|Mango Teleservices Limited-ISP|
-|17|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|103.41.88.182|82|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|52.117.160.219|8081|United States|Dallas|SoftLayer|
+|10|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|11|103.8.68.48|3128|China|Shiyan|China Telecom|
+|12|181.119.66.226|999|Colombia|Barrio San Luis|IFX Networks Argentina S.R.L|
+|13|103.133.27.86|8085|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|14|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|20|67.43.227.227|9507|Canada|Montreal|GloboTech Communications|
 
 
 
