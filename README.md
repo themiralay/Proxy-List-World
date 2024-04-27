@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|6|103.72.89.133|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
 |7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|138.84.49.166|80|Colombia|Bogota|SpaceX Starlink|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|13|103.154.77.204|8080|Indonesia|Yogyakarta|T2NET|
-|14|54.169.139.9|443|Singapore|Singapore|Amazon.com, Inc.|
-|15|201.77.96.153|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|16|103.6.223.2|3128|China|Baoshan|China Unicom|
+|8|1.10.141.45|8080|Thailand|Pak Kret|TOT Public Company Limited|
+|9|54.169.139.9|443|Singapore|Singapore|Amazon.com, Inc.|
+|10|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|188.93.247.27|3128|Russia|St Petersburg|Smart Telecom customers (former UTSYS)|
+|15|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|16|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
 |17|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|19|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|18|191.102.107.238|999|Colombia|Málaga|TV AZTECA SUCURSAL COLOMBIA|
+|19|138.84.49.166|80|Colombia|Bogota|SpaceX Starlink|
+|20|131.117.160.92|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 
 
 
