@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|138.84.51.32|80|Colombia|Bogota|SpaceX Starlink|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|138.94.76.86|8080|Brazil|Santa Rosa|BrPhonia Provedor Ip Ltda|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|209.97.171.141|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|115.74.94.89|4006|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 |12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|15|95.163.230.147|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|16|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|17|103.8.68.48|3128|China|Shiyan|China Telecom|
-|18|201.217.246.212|8080|Argentina|Colonia Elisa|Ecom Chaco S.A.|
-|19|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.227.228|1775|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|20|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
 
 
 
