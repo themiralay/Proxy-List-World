@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|12|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|15|203.79.29.198|1111|Indonesia|Surabaya|PT Surya Global Teknologi|
-|16|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|18|62.176.12.111|8080|Russia|Serpukhov|Rial Com JSC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|5|103.174.238.53|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|11|103.152.232.53|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|12|102.16.24.30|8080|Madagascar|Antananarivo|Telecom Malagasy|
+|13|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|17|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|67.43.227.227|25967|Canada|Montreal|GloboTech Communications|
+|20|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
