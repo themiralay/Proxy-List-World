@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|19|181.78.82.213|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|20|38.7.106.118|999|Dominican Republic|Santo Domingo|KW SERVICES RD, S.R.L.|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|12|118.97.30.42|8099|Indonesia|Magelang|Telekomunikasi Indonesia|
+|13|159.192.102.249|8080|Thailand|Bangkok|CAT-BB|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|112.198.150.11|8082|Philippines|Carmona|Globe Telecom|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|18|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|20|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
