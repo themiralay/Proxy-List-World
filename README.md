@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|36.92.162.218|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|138.84.40.197|80|Colombia|Bogota|SpaceX Starlink|
-|15|203.79.29.198|1111|Indonesia|Surabaya|PT Surya Global Teknologi|
-|16|94.182.234.63|8080|Iran|Tehran|SHATEL Network|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|169.255.56.177|3128|Ghana|Accra|VIDOLU Group Pty Ltd-Web4Africa|
-|19|139.255.67.51|3888|Indonesia|Jakarta|PT. LINKNET|
-|20|206.62.64.34|8080|Brazil|Cascavel|AGIS|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|7|115.124.75.58|8080|Indonesia|Bekasi|PT Remala Abadi|
+|8|45.184.124.9|1985|Mexico|Campo Sesenta y Cuatro B|Servicios y Asesoria Tecnobba S.A.S. de C.V.|
+|9|138.84.40.197|80|Colombia|Bogota|SpaceX Starlink|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|12|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|103.8.68.48|3128|China|Shiyan|China Telecom|
+|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|103.26.108.254|84|India|Sivakasi|Niss Networks|
+|18|103.148.24.235|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
+|19|103.139.126.230|8083|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|20|72.10.164.178|28741|Canada|Montreal|GloboTech Communications|
 
 
 
