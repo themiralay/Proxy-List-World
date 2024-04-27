@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|4|95.163.230.147|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|5|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|23.225.72.125|3503|United States|Dallas|Cnservers LLC|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|139.224.19.1|3128|China|Shanghai|Addresses CNNIC|
-|14|103.152.232.63|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|103.227.252.102|8080|Indonesia|Jakarta|PT Raja Mitra Informatika|
-|17|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|201.217.246.212|8080|Argentina|Colonia Elisa|Ecom Chaco S.A.|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|134.35.168.113|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|36.95.213.27|8080|Indonesia|West Java|PT. Telekomunikasi Indonesia|
+|11|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|14|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|15|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|19|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
