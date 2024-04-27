@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|202.182.127.51|12009|Japan|Shinagawa|The Constant Company, LLC|
-|8|203.128.77.213|33378|Indonesia|Sunter Agung|Neuviz|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|180.180.218.250|8080|Thailand|Wang Thonglang|TOT Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|103.8.68.46|3128|China|Shiyan|China Telecom|
 |11|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
 |12|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|138.0.141.46|8080|Brazil|São Paulo|F.B. BABETO ME|
 |17|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|18|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |19|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.227.227|13269|Canada|Montreal|GloboTech Communications|
+|20|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
