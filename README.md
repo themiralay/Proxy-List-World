@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6828** proxies at the latest update. Usable proxies are below.
+> Scraper found **6827** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|191|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|190|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|655|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|302|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|54.169.139.9|443|Singapore|Singapore|Amazon.com, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|6|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|6|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|103.250.130.104|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|13|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|14|103.72.89.133|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|138.84.49.166|80|Colombia|Bogota|SpaceX Starlink|
+|11|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|12|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|15|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 |17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|18|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|128.95.53.237|80|United States|Seattle|University of Washington|
 
 
 
