@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|4|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|38.188.251.10|8080|Indonesia|Lamongan|PT. Menaksopal Link Nusantara|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|5|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|6|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.184.152.145|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |15|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|18|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|201.174.63.111|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|17|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|103.156.15.101|1111|Indonesia|Pondok Bambu|PT Lintas Jaringan Nusantara|
+|19|103.6.223.2|3128|China|Baoshan|China Unicom|
+|20|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
 
 
 
