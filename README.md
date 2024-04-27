@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|7|64.157.16.43|8080|United States|Francesville|Level 3|
-|8|72.10.160.90|5121|Canada|Montreal|GloboTech Communications|
-|9|138.84.51.32|80|Colombia|Bogota|SpaceX Starlink|
-|10|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|36.95.154.175|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|17|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
-|18|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
-|19|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|128.95.53.237|80|United States|Seattle|University of Washington|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|103.118.46.12|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|11|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|14|161.49.215.28|10101|Philippines|Angeles City|Converge Information and Communications Technology Solutions|
+|15|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|72.10.160.90|31493|Canada|Montreal|GloboTech Communications|
+|19|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
 
 
 
