@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 |2|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|11|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|14|24.152.49.229|999|Dominican Republic|Santo Domingo|Lightwave S.R.L|
-|15|101.255.209.42|8080|Indonesia|Wanaherang|PT Remala Abadi|
-|16|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|18|103.6.223.2|3128|China|Baoshan|China Unicom|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|103.8.68.46|3128|China|Shiyan|China Telecom|
+|3|134.35.15.188|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|5|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|6|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|7|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|69.160.223.225|8181|United States|Elwood|Swayzee Telephone Company, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
+|13|109.205.126.6|8080|Latvia|Riga|Kronospan Riga SIA|
+|14|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|18|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|19|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
+|20|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
 
 
 
