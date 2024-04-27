@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|179.43.93.198|8080|Peru|Horacio Zeballos Gamez|MEDIA COMMERCE PERÚ S.A.C|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|177.200.91.109|12312|Brazil|Sobral|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|103.8.68.48|3128|China|Shiyan|China Telecom|
-|15|195.225.142.169|8080|Romania|Târnăveni|TV Adler-Trading SRL|
-|16|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|114.130.84.94|8080|Bangladesh|Dhaka|Mango Teleservices Limited-ISP|
-|19|204.157.251.155|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|20|72.10.164.178|1415|Canada|Montreal|GloboTech Communications|
+|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|9|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|189.203.181.34|8080|Mexico|Ciudad Nezahualcoyotl|Total Play Telecomunicaciones SA De CV|
+|13|45.114.145.71|32650|India|Jaipur|Tejays Dynamic Limited|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|103.158.253.187|8027|Indonesia|Brebes|Rapid Network|
+|17|161.49.215.28|10101|Philippines|Angeles City|Converge Information and Communications Technology Solutions|
+|18|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|72.10.164.178|10515|Canada|Montreal|GloboTech Communications|
 
 
 
