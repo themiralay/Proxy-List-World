@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|2|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|7|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|3|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 |10|140.99.255.14|8194|United States|Los Angeles|EpicUp Holdings Inc|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|103.6.223.2|3128|China|Baoshan|China Unicom|
-|13|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
-|14|138.84.49.152|80|Colombia|Bogota|SpaceX Starlink|
-|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|18|67.43.227.227|21551|Canada|Montreal|GloboTech Communications|
-|19|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|152.32.67.107|65535|Philippines|San Mateo|Converge ICT Solution Inc|
+|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|16|67.43.227.227|30613|Canada|Montreal|GloboTech Communications|
+|17|101.132.191.95|3128|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
