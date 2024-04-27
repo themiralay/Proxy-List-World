@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|8|69.160.223.65|8181|United States|Elwood|Swayzee Telephone Company, Inc.|
+|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
 |10|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|14|72.10.164.178|31921|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|31921|Canada|Montreal|GloboTech Communications|
-|16|138.84.51.32|80|Colombia|Bogota|SpaceX Starlink|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|12|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|16|103.105.125.6|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
+|17|138.84.51.32|80|Colombia|Bogota|SpaceX Starlink|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
