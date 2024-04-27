@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -45,18 +45,18 @@ Click the file format that you want and copy the URL.
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|15|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|16|103.101.231.219|8080|Indonesia|Jakarta|Biznet Networks|
+|10|201.54.176.128|8080|Brazil|Icó|Lucas De Souza Silva|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|38.41.0.60|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|14|159.192.102.249|8080|Thailand|Bangkok|CAT-BB|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 |17|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|18|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 |19|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |20|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
