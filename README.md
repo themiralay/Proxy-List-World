@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|11|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
-|13|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|182.253.109.56|8080|Indonesia|Semarang|Biznet Metronet|
-|16|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|17|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|72.10.164.178|6373|Canada|Montreal|GloboTech Communications|
-|20|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|103.6.223.2|3128|China|Baoshan|China Unicom|
+|12|67.43.227.227|14171|Canada|Montreal|GloboTech Communications|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|182.253.109.56|8080|Indonesia|Semarang|Biznet Metronet|
+|15|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
+|18|72.10.164.178|16739|Canada|Montreal|GloboTech Communications|
+|19|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|20|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
