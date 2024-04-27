@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|95.163.230.147|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|11|45.188.164.3|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |12|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|13|138.118.106.121|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|16|103.163.175.28|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|103.159.195.221|8080|Indonesia|Demak|PT Giga Digital Nusantara|
 
 
 
