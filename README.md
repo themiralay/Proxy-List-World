@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|182.253.109.56|8080|Indonesia|Semarang|Biznet Metronet|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|72.10.164.178|1663|Canada|Montreal|GloboTech Communications|
-|16|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
-|18|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|202.154.36.117|8080|Indonesia|Surabaya|RADNET-BDG|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|182.253.109.56|8080|Indonesia|Semarang|Biznet Metronet|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|103.8.68.46|3128|China|Shiyan|China Telecom|
+|15|103.105.125.6|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|222.174.178.122|4999|China|Xintai|Chinanet|
 
 
 
