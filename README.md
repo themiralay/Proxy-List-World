@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|103.169.254.37|8080|Indonesia|Sidoarjo|PT Master Star Network|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|103.137.160.186|8090|Bangladesh|Noākhāli|Top Network|
 |15|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |16|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|67.43.236.22|9503|Canada|Montreal|GloboTech Communications|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |18|67.43.227.227|26813|Canada|Montreal|GloboTech Communications|
 |19|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|103.26.108.254|84|India|Sivakasi|Niss Networks|
+|20|201.217.246.212|8080|Argentina|Colonia Elisa|Ecom Chaco S.A.|
 
 
 
