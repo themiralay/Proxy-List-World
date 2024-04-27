@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|7|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|15|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|18|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|19|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
+|20|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
