@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|14|103.8.68.48|3128|China|Shiyan|China Telecom|
-|15|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|16|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
+|4|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
+|5|119.76.142.203|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|118.39.212.57|3129|South Korea|Jinju|Korea Telecom|
+|10|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|11|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.133.25.245|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|15|157.20.218.31|8080|Indonesia|Wonosobo|SINSUNETWORK|
+|16|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |17|103.8.68.46|3128|China|Shiyan|China Telecom|
-|18|119.47.90.25|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|19|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
-|20|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|188.165.210.125|4006|France|Roubaix|OVH SAS|
 
 
 
