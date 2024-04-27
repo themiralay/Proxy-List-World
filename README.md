@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|94.23.171.143|50001|Czechia|New Town|OVH ISP|
-|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|12|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|77.106.97.141|4000|Russia|Tomsk|CJSC "ER-Telecom Holding" Tomsk branch|
 |13|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|15|201.71.3.56|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|16|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|17|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|16|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|18|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |19|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
