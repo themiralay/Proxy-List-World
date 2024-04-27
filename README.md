@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|95.163.230.147|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|103.154.77.64|83|Indonesia|Yogyakarta|T2NET|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|15|181.78.194.75|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|17|72.10.160.90|2249|Canada|Montreal|GloboTech Communications|
-|18|115.147.20.176|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|19|103.8.68.46|3128|China|Shiyan|China Telecom|
-|20|67.43.228.250|3093|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|128.95.53.237|80|United States|Seattle|University of Washington|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|11|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|72.10.160.90|14745|Canada|Montreal|GloboTech Communications|
+|15|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|67.43.227.227|31491|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|9419|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.26.108.254|84|India|Sivakasi|Niss Networks|
 
 
 
