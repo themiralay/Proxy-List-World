@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|12|118.98.166.56|8080|Indonesia|South Tangerang|Departemen Pendidikan Nasional|
-|13|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
-|15|138.84.40.7|80|Colombia|Bogota|SpaceX Starlink|
-|16|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|189.203.181.34|8080|Mexico|Ciudad Nezahualcoyotl|Total Play Telecomunicaciones SA De CV|
-|19|189.195.139.178|999|Mexico|Pénjamo|Mega Cable, S.A. de C.V.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|13|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|154.73.29.33|8080|Libya|Tripoli|Rawafed|
+|18|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|20|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
 
 
 
