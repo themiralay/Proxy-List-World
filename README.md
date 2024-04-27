@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|95.163.230.147|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|138.84.40.197|80|Colombia|Bogota|SpaceX Starlink|
-|11|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|12|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|13|191.103.219.225|48612|Colombia|Montería|Edatel S.a. E.S.P|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|17|189.195.139.178|999|Mexico|Pénjamo|Mega Cable, S.A. de C.V.|
-|18|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|138.84.40.197|80|Colombia|Bogota|SpaceX Starlink|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|134.35.194.169|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|67.43.236.20|7839|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|182.253.172.159|80|Indonesia|Jakarta|Biznet Metronet|
 
 
 
