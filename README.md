@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|95.163.230.147|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 |15|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|104.248.156.105|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.203.174.98|84|India|Hyderabad|Softgaurd Powertronics|
+|17|103.163.175.28|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|138.118.106.121|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
 
 
 
