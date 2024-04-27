@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|95.163.230.147|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|8|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|202.138.240.9|1212|Indonesia|Bandung|PT Melvar Lintasnusa|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|16|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|13|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|14|103.203.174.98|84|India|Hyderabad|Softgaurd Powertronics|
+|15|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
+|16|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |18|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |19|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|20|38.188.251.10|8080|Indonesia|Lamongan|PT. Menaksopal Link Nusantara|
 
 
 
