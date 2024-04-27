@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|222.124.202.144|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|15|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|16|202.138.240.9|1212|Indonesia|Bandung|PT Melvar Lintasnusa|
-|17|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|12|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|20|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
