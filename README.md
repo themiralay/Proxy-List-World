@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|103.169.135.80|8080|Indonesia|Tulungagung|PT Neo Santara Solusi|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|17|152.32.67.107|65535|Philippines|San Mateo|Converge ICT Solution Inc|
-|18|103.30.114.138|8080|Timor-Leste|Dili|Telin IP Network|
-|19|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|20|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|15|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|16|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.30.114.138|8080|Timor-Leste|Dili|Telin IP Network|
+|20|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
