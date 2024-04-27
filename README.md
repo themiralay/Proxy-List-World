@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|13|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|20|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|3|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|103.103.88.100|8090|Bangladesh|Chittagong|Easy Net - BD|
+|16|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|103.12.21.4|3128|Indonesia|Jakarta|PT Equnix Business Solutions|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
