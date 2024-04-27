@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|188.165.210.125|4006|France|Roubaix|OVH SAS|
-|10|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|103.105.125.6|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
-|12|67.43.236.20|4709|Canada|Montreal|GloboTech Communications|
-|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|14|67.43.236.20|4709|Canada|Montreal|GloboTech Communications|
-|15|189.203.181.34|8080|Mexico|Ciudad Nezahualcoyotl|Total Play Telecomunicaciones SA De CV|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|188.165.210.125|4006|France|Roubaix|OVH SAS|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|67.43.236.20|24209|Canada|Montreal|GloboTech Communications|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |16|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|18|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
-|19|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
-|20|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|18|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|19|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
