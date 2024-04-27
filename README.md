@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|5|118.39.212.57|3129|South Korea|Jinju|Korea Telecom|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|118.39.212.57|3129|South Korea|Jinju|Korea Telecom|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|15|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|17|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
-|18|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
-|20|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|14|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|16|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|17|179.96.204.239|8080|Brazil|São Miguel do Oeste|TechInfo Telecomunicações Ltda|
+|18|103.9.188.228|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|19|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|20|67.43.227.227|16001|Canada|Montreal|GloboTech Communications|
 
 
 
