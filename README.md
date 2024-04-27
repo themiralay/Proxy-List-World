@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|41.60.238.89|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|103.8.68.46|3128|China|Shiyan|China Telecom|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|201.217.246.212|8080|Argentina|Colonia Elisa|Ecom Chaco S.A.|
-|13|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
-|14|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|10|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 |18|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|20|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|19|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
