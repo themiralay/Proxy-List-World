@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|45.114.145.71|32650|India|Jaipur|Tejays Dynamic Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|72.10.164.178|32205|Canada|Montreal|GloboTech Communications|
-|9|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|67.43.236.20|17067|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|27993|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|32205|Canada|Montreal|GloboTech Communications|
-|13|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|14|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|67.43.227.227|31559|Canada|Montreal|GloboTech Communications|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|67.43.228.250|2169|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.6.223.2|3128|China|Baoshan|China Unicom|
+|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|11|72.10.164.178|29521|Canada|Montreal|GloboTech Communications|
+|12|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|67.43.236.19|28975|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|27993|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|14301|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.173|13037|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|29521|Canada|Montreal|GloboTech Communications|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|187.73.188.35|8080|Brazil|Campos do Jordao|Gwg telco telecomunicaçoes eireli|
 
 
 
