@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|138.84.51.32|80|Colombia|Bogota|SpaceX Starlink|
-|11|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|14|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|138.84.51.32|80|Colombia|Bogota|SpaceX Starlink|
 |15|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|103.165.234.46|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|17|67.43.227.227|23365|Canada|Montreal|GloboTech Communications|
+|18|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
