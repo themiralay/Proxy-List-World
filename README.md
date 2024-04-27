@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|222.124.202.144|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|181.204.172.172|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|18|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|19|181.119.66.238|999|Colombia|Barrio San Luis|IFX Networks Argentina S.R.L|
-|20|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|18|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
