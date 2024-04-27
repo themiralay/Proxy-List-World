@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |7|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|14|177.240.4.125|999|Mexico|Ciudad General Teran|Mega Cable, S.A. de C.V.|
+|10|139.255.74.124|8080|Indonesia|Jakarta|PT. LINKNET|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 |15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|16|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|17|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|118.97.30.42|8099|Indonesia|Magelang|Telekomunikasi Indonesia|
-|19|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|20|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
