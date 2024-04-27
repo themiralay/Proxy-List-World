@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|177.234.192.231|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|103.165.138.234|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|12|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|13|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|14|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|72.10.160.172|1393|Canada|Montreal|GloboTech Communications|
-|18|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|202.182.127.51|12009|Japan|Shinagawa|The Constant Company, LLC|
+|12|72.10.160.172|1393|Canada|Montreal|GloboTech Communications|
+|13|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|121.101.131.142|8181|Indonesia|Yogyakarta|PT SELARAS CITRA TERABIT|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|201.217.246.212|8080|Argentina|Colonia Elisa|Ecom Chaco S.A.|
+|19|67.43.227.228|1431|Canada|Montreal|GloboTech Communications|
+|20|154.73.29.33|8080|Libya|Tripoli|Rawafed|
 
 
 
