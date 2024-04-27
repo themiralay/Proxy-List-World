@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
+|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|200.35.34.134|999|Colombia|Medellín|Edatel S.a. E.S.P|
 |9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|12|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |13|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|16|67.43.236.20|2059|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.93|11461|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|18|92.207.253.226|38157|United Kingdom|Oakhill|Gamma Telecom Holdings Ltd|
 |19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|20|67.43.236.20|2059|Canada|Montreal|GloboTech Communications|
 
 
 
