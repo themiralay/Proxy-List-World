@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -47,18 +47,18 @@ Click the file format that you want and copy the URL.
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|11|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|103.101.231.219|8080|Indonesia|Jakarta|Biznet Networks|
-|17|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|103.8.68.46|3128|China|Shiyan|China Telecom|
-|19|67.43.227.227|5369|Canada|Montreal|GloboTech Communications|
-|20|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|45.77.233.196|80|Australia|Sydney|The Constant Company|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|103.8.68.48|3128|China|Shiyan|China Telecom|
+|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|67.43.227.227|20867|Canada|Montreal|GloboTech Communications|
 
 
 
