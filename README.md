@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|2|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|5|103.125.155.230|8080|India|Tirupur|Live Fibernet|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|10|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|5|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
+|6|128.95.53.237|80|United States|Seattle|University of Washington|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|9|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|10|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 |12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 |13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|15|67.43.228.251|23069|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|4527|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|72.10.164.178|4527|Canada|Montreal|GloboTech Communications|
+|15|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|67.43.236.20|19065|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.251|23069|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 
 
 
