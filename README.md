@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |7|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
-|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|103.101.231.219|8080|Indonesia|Jakarta|Biznet Networks|
-|19|179.96.204.239|8080|Brazil|São Miguel do Oeste|TechInfo Telecomunicações Ltda|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|19|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
