@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|138.84.51.32|80|Colombia|Bogota|SpaceX Starlink|
+|11|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
+|12|188.132.222.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|158.69.7.48|8050|Canada|Montreal|OVH SAS|
+|17|154.64.219.2|8888|United States|Jacksonville|OSNET Wireless|
+|18|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|19|72.10.160.170|23191|Canada|Montreal|GloboTech Communications|
+|20|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
+
 
 
 ## Contributing
