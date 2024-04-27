@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 |2|118.39.212.57|3129|South Korea|Jinju|Korea Telecom|
-|3|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
+|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|103.156.75.41|8181|Indonesia|Denpasar|PT Trika Global Media|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|41.111.243.133|80|Algeria|Tizi Ouzou|Algerie Telecom|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|18|103.189.250.67|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|19|103.8.68.48|3128|China|Shiyan|China Telecom|
-|20|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
