@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|115.124.75.58|8080|Indonesia|Bekasi|PT Remala Abadi|
-|7|103.120.175.243|9191|Indonesia|Bekasi|PT. Eka Mas Republik|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|37.228.65.107|32052|Kazakhstan|Aktau|Jusan Mobile JSC|
-|11|138.84.40.197|80|Colombia|Bogota|SpaceX Starlink|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|36.92.162.218|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|9|177.200.91.109|12312|Brazil|Sobral|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|10|138.84.40.197|80|Colombia|Bogota|SpaceX Starlink|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|16|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|181.78.194.75|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|14|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|103.133.26.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|18|189.195.139.178|999|Mexico|Pénjamo|Mega Cable, S.A. de C.V.|
+|19|67.43.236.20|26357|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|24815|Canada|Montreal|GloboTech Communications|
 
 
 
