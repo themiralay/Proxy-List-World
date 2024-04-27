@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|103.179.84.119|8080|Indonesia|Dukuh|PT CYB Media Group|
-|6|103.141.109.219|8080|Indonesia|Keputih|Data Buana Nusantara|
-|7|109.74.39.103|8080|Yemen|Taiz|Public Telecommunication Corporation|
-|8|200.106.124.74|999|Peru|Tacna|Telefonica del Peru|
-|9|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|10|191.113.152.182|8080|Chile|Santiago|TELEFÓNICA CHILE S.A.|
-|11|103.131.16.108|8080|Indonesia|Tangerang|PT Global Media Inti Semesta|
-|12|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
-|13|182.160.100.65|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|202.79.57.59|8080|Nepal|Kathmandu|WorldLink Communications|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.53.170.199|3128|Vietnam|Đống Đa|VCIC|
-|18|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|5|109.74.39.103|8080|Yemen|Taiz|Public Telecommunication Corporation|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|19|72.10.164.178|33165|Canada|Montreal|GloboTech Communications|
+|20|103.8.68.48|3128|China|Shiyan|China Telecom|
 
 
 
