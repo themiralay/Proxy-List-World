@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|54.169.139.9|443|Singapore|Singapore|Amazon.com, Inc.|
 |2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |5|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|8|54.169.139.9|443|Singapore|Singapore|Amazon.com, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
 |10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 |12|188.93.247.27|3128|Russia|St Petersburg|Smart Telecom customers (former UTSYS)|
-|13|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|14|107.148.103.249|58394|Japan|Koto-ku|PEG TECH INC|
-|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|138.84.49.166|80|Colombia|Bogota|SpaceX Starlink|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|181.209.100.50|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.228.253|12389|Canada|Montreal|GloboTech Communications|
-|19|177.222.25.9|8080|Brazil|Duque de Caxias|Wireless Comm Services LTDA|
-|20|72.10.164.178|26079|Canada|Montreal|GloboTech Communications|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|19|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|20|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
 
 
 
