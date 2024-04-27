@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|12|201.54.176.128|8080|Brazil|Icó|Lucas De Souza Silva|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|77.106.97.141|4000|Russia|Tomsk|CJSC "ER-Telecom Holding" Tomsk branch|
 |15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|77.106.97.141|4000|Russia|Tomsk|CJSC "ER-Telecom Holding" Tomsk branch|
-|17|45.77.233.196|80|Australia|Sydney|The Constant Company|
-|18|103.147.247.79|8080|Indonesia|Tangerang|PLBNET|
-|19|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|20|38.123.220.86|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|16|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|17|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|52.221.65.5|80|Singapore|Singapore|Amazon.com, Inc.|
+|19|201.71.3.56|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 
 
 
