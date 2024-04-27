@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|38.10.90.246|8080|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|138.84.40.7|80|Colombia|Bogota|SpaceX Starlink|
-|14|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|15|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|201.217.246.212|8080|Argentina|Colonia Elisa|Ecom Chaco S.A.|
-|17|103.8.68.46|3128|China|Shiyan|China Telecom|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|12|138.84.40.7|80|Colombia|Bogota|SpaceX Starlink|
+|13|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|16|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|201.217.246.212|8080|Argentina|Colonia Elisa|Ecom Chaco S.A.|
+|18|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|213.221.46.10|3128|Russia|Moscow|EDN Sovintel|
+|20|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
 
 
 
