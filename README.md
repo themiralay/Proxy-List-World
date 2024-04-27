@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|5|181.119.66.226|999|Colombia|Barrio San Luis|IFX Networks Argentina S.R.L|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|102.16.24.30|8080|Madagascar|Antananarivo|Telecom Malagasy|
-|10|203.79.29.198|1111|Indonesia|Surabaya|PT Surya Global Teknologi|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|138.84.40.7|80|Colombia|Bogota|SpaceX Starlink|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.160.90|22859|Canada|Montreal|GloboTech Communications|
-|16|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|18|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.236.20|30385|Canada|Montreal|GloboTech Communications|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|7|138.84.40.7|80|Colombia|Bogota|SpaceX Starlink|
+|8|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|72.10.160.90|22859|Canada|Montreal|GloboTech Communications|
+|12|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|13|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|14|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|67.43.236.20|26357|Canada|Montreal|GloboTech Communications|
 
 
 
