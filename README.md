@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 |9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|206.85.9.10|999|Mexico|Coeneo de la Libertad|INTERNET TELEFONIA Y TV DE MICHOACAN SA de CV|
-|12|67.43.227.228|6377|Canada|Montreal|GloboTech Communications|
-|13|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|134.122.22.233|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
+|14|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |15|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.227.227|17059|Canada|Montreal|GloboTech Communications|
-|17|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|67.43.228.253|3255|Canada|Montreal|GloboTech Communications|
+|16|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|18|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
+|19|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
