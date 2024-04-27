@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|103.10.71.81|80|Indonesia|Situsaeur|PT Wadma Berkah Sedaya|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|138.84.40.223|80|Colombia|Bogota|SpaceX Starlink|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
-|16|181.39.24.147|999|Ecuador|Guayaquil|Telconet S.A|
-|17|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|18|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
-|19|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|3|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|6|204.199.120.62|999|Colombia|Pasto|Level 3 Communications, Inc.|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|103.195.252.37|83|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
+|12|103.182.112.11|3128|India|Mumbai|Ruhi Infotech|
+|13|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|17|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|19|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|181.48.160.114|9090|Colombia|Bogotá|Telmex Colombia S.A.|
 
 
 
