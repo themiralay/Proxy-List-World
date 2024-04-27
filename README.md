@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|157.230.101.74|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
-|9|202.74.244.139|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|134.35.168.113|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|7|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|69.160.223.129|8181|United States|Elwood|Swayzee Telephone Company, Inc.|
+|11|200.24.146.51|999|Ecuador|Esmeraldas|Ufinet Panama S.A.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
 |14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|15|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.228.252|1423|Canada|Montreal|GloboTech Communications|
-|20|152.32.148.233|3128|United States|Reston|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|103.135.7.110|63123|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|16|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|19|103.124.139.184|8080|Indonesia|Semarang|Global Media Data Prima|
+|20|185.200.37.246|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
