@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|18|72.10.164.178|7183|Canada|Montreal|GloboTech Communications|
-|19|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|13|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|103.169.254.37|8080|Indonesia|Sidoarjo|PT Master Star Network|
+|16|201.217.246.212|8080|Argentina|Colonia Elisa|Ecom Chaco S.A.|
+|17|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|103.137.160.186|8090|Bangladesh|Noākhāli|Top Network|
+|19|145.40.101.105|9443|United States|Chicago|Packet Host, Inc.|
+|20|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 
 
 
