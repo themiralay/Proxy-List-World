@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|203.150.113.129|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|72.10.164.178|8843|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|103.179.46.49|6789|India|Mumbai|Jeebr Cloud Solution PVT LTD|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|217.197.237.74|8080|Russia|St Petersburg|SEVEREN|
+|17|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|189.195.139.178|999|Mexico|Pénjamo|Mega Cable, S.A. de C.V.|
+|19|179.96.204.239|8080|Brazil|São Miguel do Oeste|TechInfo Telecomunicações Ltda|
+|20|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
