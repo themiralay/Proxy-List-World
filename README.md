@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|9|206.42.28.150|8800|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|15|179.96.204.239|8080|Brazil|São Miguel do Oeste|TechInfo Telecomunicações Ltda|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|103.8.68.48|3128|China|Shiyan|China Telecom|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
+|11|24.176.53.183|8080|United States|Kalamazoo|Charter Communications|
+|12|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|179.96.204.239|8080|Brazil|São Miguel do Oeste|TechInfo Telecomunicações Ltda|
+|17|72.10.160.170|18935|Canada|Montreal|GloboTech Communications|
+|18|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
