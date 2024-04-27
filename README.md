@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|95.163.230.147|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|19|103.163.175.28|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
-|20|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|12|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|13|95.163.230.147|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|14|45.71.15.136|9292|Brazil|Penápolis|Milanin NET|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|19|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|20|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
