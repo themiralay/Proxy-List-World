@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
 |5|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 |6|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|10|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|14|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|18|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
-|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|188.132.221.188|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|122.3.41.154|8090|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
