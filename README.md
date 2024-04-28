@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|7|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|6|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |8|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|9|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|67.43.236.20|11887|Canada|Montreal|GloboTech Communications|
-|13|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|14|67.43.236.20|11887|Canada|Montreal|GloboTech Communications|
-|15|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|16|72.10.164.178|12457|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|5063|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|12457|Canada|Montreal|GloboTech Communications|
-|19|188.165.210.125|4006|France|Roubaix|OVH SAS|
-|20|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|67.43.236.20|31017|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|3053|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|21657|Canada|Montreal|GloboTech Communications|
+|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|13|188.165.210.125|4006|France|Roubaix|OVH SAS|
+|14|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|103.191.196.47|3127|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|17|118.69.233.165|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|27.54.117.88|8089|Indonesia|Denpasar|Indonesia Network Information Center|
+|20|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
