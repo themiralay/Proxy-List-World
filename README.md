@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|12|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|210.156.35.196|80|Japan|Tamukai|Research Organization of Information and Systems, National Institute of Informa|
-|14|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|118.173.81.237|8080|Thailand|Bangkok|TOT Public Company Limited|
-|17|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|18|85.94.24.29|1488|Russia|Noginsk|PJSC Rostelecom|
-|19|72.10.164.178|19249|Canada|Montreal|GloboTech Communications|
-|20|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|13|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|14|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|15|212.174.242.114|8080|Turkey|Aydıncık|TurkTelecom|
+|16|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.164.178|5205|Canada|Montreal|GloboTech Communications|
+|18|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|19|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
