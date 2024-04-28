@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|9|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |11|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.136.163.137|8181|Indonesia|Palembang|TPN-LINK|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|181.31.225.234|3128|Argentina|Cipolletti|Telecom Argentina S.A|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|102.222.51.105|8080|Botswana|Gaborone|JENNY INTERNET (PTY) LTD|
-|18|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|19|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|20|103.8.68.46|3128|China|Shiyan|China Telecom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|17|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|18|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|19|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|20|186.125.218.169|999|Argentina|El Carmen|Telecom Argentina S.A.|
 
 
 
