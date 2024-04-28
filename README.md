@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|7|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|13|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|74.208.29.124|3128|United States|Philadelphia|IONOS SE|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|13|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|103.141.109.171|1111|Indonesia|Keputih|Data Buana Nusantara|
+|16|118.103.236.11|8080|Pakistan|Karachi|Connect Communication|
 |17|74.208.29.124|3128|United States|Philadelphia|IONOS SE|
-|18|74.208.29.124|3128|United States|Philadelphia|IONOS SE|
-|19|103.240.8.230|3128|India|Ulhasnagar|Aniruddha skyline web service|
-|20|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|18|8.242.154.36|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
