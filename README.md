@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|7|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|11|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|200.32.64.126|999|Venezuela|Caracas|Level 3 Venezuela S.A|
-|16|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
-|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|18|103.8.68.48|3128|China|Shiyan|China Telecom|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.8.68.46|3128|China|Shiyan|China Telecom|
+|9|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
+|10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|11|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|179.108.209.63|8080|Brazil|São João del Rei|Conecta Ltda.|
+|17|103.8.68.46|3128|China|Shiyan|China Telecom|
+|18|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|19|179.96.204.239|8080|Brazil|São Miguel do Oeste|TechInfo Telecomunicações Ltda|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
