@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|10|210.201.86.72|8080|Taiwan|Neihu District|Asia Pacific On-line Services Inc.|
-|11|192.158.15.201|60684|Canada|Toronto|Ontario Inc.|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.133.25.245|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|119.76.142.203|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|11|103.224.124.75|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|12|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|18|179.96.204.239|8080|Brazil|São Miguel do Oeste|TechInfo Telecomunicações Ltda|
+|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 
 
 
