@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.152.232.162|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|7|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
 |8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|11|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|222.174.178.122|4999|China|Xintai|Chinanet|
-|15|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|124.158.153.218|8180|Indonesia|Surabaya|PT iForte Global Internet|
-|18|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|19|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|12|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
+|14|222.99.192.29|8080|South Korea|Yeoju|Korea Telecom|
+|15|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|103.127.220.251|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|18|70.69.134.83|4001|Canada|Chilliwack|Shaw Communications Inc.|
+|19|187.251.108.31|1985|Mexico|Union de Credito Agricola de Hermosillo|Total Play Telecomunicaciones SA De CV|
+|20|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
