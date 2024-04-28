@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|103.127.106.245|8085|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |9|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|10|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|10|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|12|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|14|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|15|103.190.171.137|8080|Indonesia|Jakarta|WMS|
-|16|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|17|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|20|67.43.236.20|14207|Canada|Montreal|GloboTech Communications|
+|12|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|67.43.228.254|25827|Canada|Montreal|GloboTech Communications|
+|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|17|67.43.236.20|14207|Canada|Montreal|GloboTech Communications|
+|18|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|20|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 
 
 
