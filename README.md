@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|120.28.195.250|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|46.35.79.249|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|118.173.81.237|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|103.104.192.114|8080|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
-|12|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|134.35.82.135|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
-|16|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|17|186.125.218.146|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|18|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|20|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|6|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|7|66.70.225.202|8050|Brazil|Mairi|OVH Hosting|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|72.10.164.178|19463|Canada|Montreal|GloboTech Communications|
+|13|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|15|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|17|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|18|72.10.160.90|23257|Canada|Montreal|GloboTech Communications|
+|19|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
