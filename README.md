@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|5|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|6|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|7|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|181.225.191.6|9991|Colombia|Medellín|Ufinet Panama S.A.|
+|16|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|110.235.129.14|1337|Philippines|Angono|RADIUS TELECOMS, INC.|
+
 
 
 ## Contributing
