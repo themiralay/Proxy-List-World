@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|5|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|6|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|10|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|11|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|12|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|13|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
-|14|201.220.112.98|999|Chile|Temuco|Telefonica del Sur S.A.|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|18|192.248.95.1|3128|Sri Lanka|Dedunupitiya|Lanka Education and Research Network|
-|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
+|11|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|13|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|14|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|15|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|103.5.232.148|8080|Bangladesh|Chittagong|Chittagong Online Limited|
+|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
