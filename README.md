@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|12|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|72.10.164.178|7693|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|30471|Canada|Montreal|GloboTech Communications|
-|16|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.227.228|30471|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|25189|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|5797|Canada|Montreal|GloboTech Communications|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|18|72.10.164.178|7693|Canada|Montreal|GloboTech Communications|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 
 
 
