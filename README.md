@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |12|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
 |14|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|188.165.210.125|4006|France|Roubaix|OVH SAS|
-|16|41.216.186.141|8083|Indonesia|Purbalingga|FASTHOSTING|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
 |17|67.43.227.227|29745|Canada|Montreal|GloboTech Communications|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|180.123.40.227|8089|China|Xuzhou|Chinanet|
+|19|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|20|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
