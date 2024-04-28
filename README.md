@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6874** proxies at the latest update. Usable proxies are below.
+> Scraper found **6868** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|16|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|702|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|696|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|327|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4870|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|6|58.69.137.62|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|9|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|15|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|72.10.164.178|15365|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|15365|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|15365|Canada|Montreal|GloboTech Communications|
-|19|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|27.54.71.234|8080|Australia|Pakenham|CNTC|
+|10|103.142.60.189|8080|Indonesia|Klaten|UTARAMEDIANET|
+|11|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|15|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|16|36.73.130.133|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|17|67.43.227.228|8713|Canada|Montreal|GloboTech Communications|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|20|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
