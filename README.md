@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|1|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |10|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|13|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|72.10.160.91|20311|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|11591|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|9713|Canada|Montreal|GloboTech Communications|
+|11|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|13|2.186.116.14|8080|Iran|Hashtrūd|Information Technology Company|
+|14|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|17|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|19|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
