@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|103.154.120.147|8080|Indonesia|Jakarta|MORATELINDONAP|
+|2|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
+|15|139.255.21.74|8080|Indonesia|Surabaya|PT. LINKNET|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|200.32.64.126|999|Venezuela|Caracas|Level 3 Venezuela S.A|
+|17|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|19|103.203.173.154|84|India|Hyderabad|Softgaurd Powertronics|
+|20|103.125.240.237|8080|Pakistan|Karachi|GCS (Private) Limited|
 
 
 
