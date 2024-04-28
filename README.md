@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|6|103.187.111.81|84|India|Hyderabad|Neolog Broadband Services|
-|7|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|9|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|54.89.95.42|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|12|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|103.84.177.26|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|15|72.10.160.90|6107|Canada|Montreal|GloboTech Communications|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|38.7.1.233|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|18|72.10.160.91|25611|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|23337|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|26031|Canada|Montreal|GloboTech Communications|
+|4|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|27.112.70.59|1111|Indonesia|Jakarta|GRAHANET|
+|7|45.234.60.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|8|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|9|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|11|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|134.35.161.188|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|13|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|16|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|17|54.89.95.42|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|72.10.164.178|16703|Canada|Montreal|GloboTech Communications|
 
 
 
