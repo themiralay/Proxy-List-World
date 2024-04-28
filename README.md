@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|114.141.51.51|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|103.141.109.173|1111|Indonesia|Keputih|Data Buana Nusantara|
-|14|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|20|77.37.244.119|8080|Russia|Moscow|NCNET|
+|3|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|37.204.209.198|8080|Russia|Moscow|NCNET|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|13|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|14|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
