@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
-|11|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|72.10.164.178|16775|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|16775|Canada|Montreal|GloboTech Communications|
-|15|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|16|213.244.91.179|8080|Palestinian Territory|Gaza|PALTEL (Palestine Telecommunications Co.)|
-|17|134.35.161.188|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|18|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
-|19|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|20|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
+|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|181.119.106.106|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|12|186.5.31.251|999|Ecuador|Loja|Telconet S.A|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|72.10.164.178|3195|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
+|18|152.32.67.107|65535|Philippines|San Mateo|Converge ICT Solution Inc|
+|19|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|20|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
 
 
 
