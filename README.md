@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|13|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|182.52.155.247|8080|Thailand|Uthai|TOT Public Company Limited|
-|16|115.127.37.75|8674|Bangladesh|Dhaka|BRACNet Limited|
-|17|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|123.112.214.51|9000|China|Beijing|China Unicom Beijing Province Network|
+|1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|103.231.248.98|3128|Vietnam|Tây Hồ|MTD|
+|12|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|103.169.130.20|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|15|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |20|72.10.160.171|24049|Canada|Montreal|GloboTech Communications|
 
