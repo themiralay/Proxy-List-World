@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|38.156.73.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|13|185.167.59.215|443|Moldova|Chisinau|Caghet-plus SRL|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|7|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|11|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |14|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|121.146.251.236|3128|South Korea|Gangnam-gu|Korea Telecom|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|20|103.179.27.133|8080|Indonesia|Menggala|PT Primadona Media Digitalindo|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|103.111.207.138|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|18|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|19|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|20|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
 
 
 
