@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|6|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|14|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|67.43.236.18|9381|Canada|Montreal|GloboTech Communications|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|72.10.164.178|13233|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|6711|Canada|Montreal|GloboTech Communications|
+|5|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|8|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|13|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|16|67.43.236.18|9381|Canada|Montreal|GloboTech Communications|
+|17|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|67.43.227.226|6711|Canada|Montreal|GloboTech Communications|
+|19|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|20|72.10.160.94|3277|Canada|Montreal|GloboTech Communications|
 
 
 
