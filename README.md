@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|103.118.175.200|3127|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|9|103.152.232.84|8080|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |13|36.73.130.133|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|14|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|18|67.43.228.253|30947|Canada|Montreal|GloboTech Communications|
-|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|17|103.169.131.58|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|67.43.228.253|30947|Canada|Montreal|GloboTech Communications|
+|20|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
 
 
 
