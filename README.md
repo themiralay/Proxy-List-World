@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|5|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|10|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|14|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|72.10.160.173|4375|Canada|Montreal|GloboTech Communications|
-|20|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|7|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|8|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|11|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|12|67.43.228.253|29619|Canada|Montreal|GloboTech Communications|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|72.10.160.173|4375|Canada|Montreal|GloboTech Communications|
+|15|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|19|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 
 
 
