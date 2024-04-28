@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|149.86.146.151|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|12|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|36.73.130.133|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|14|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|15|203.79.29.246|1111|Indonesia|Surabaya|PT Surya Global Teknologi|
-|16|103.152.232.60|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|188.165.210.125|4006|France|Roubaix|OVH SAS|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|36.73.130.133|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|16|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|18|38.156.73.62|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
