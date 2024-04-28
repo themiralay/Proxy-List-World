@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|146.70.102.121|3128|United Arab Emirates|Dubai|M247 Europe SRL|
-|9|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|6|112.198.129.34|8082|Philippines|Nasugbu|Globe Telecom|
+|7|146.70.102.121|3128|United Arab Emirates|Dubai|M247 Europe SRL|
+|8|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |13|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|19|103.164.223.54|80|Indonesia|Jakarta|PT iForte Global Internet|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|18|67.43.236.20|2699|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|186.148.181.69|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
