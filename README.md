@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
-|6|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
-|7|94.131.107.45|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|8|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|191.243.46.30|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|6|103.84.177.26|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 |12|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |13|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |14|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|15|67.43.227.227|23337|Canada|Montreal|GloboTech Communications|
 |16|72.10.164.178|18727|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|23337|Canada|Montreal|GloboTech Communications|
-|18|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|67.43.227.227|23337|Canada|Montreal|GloboTech Communications|
+|19|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
 
 
 
