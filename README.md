@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
 |5|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|9|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|61.129.2.212|8080|China|Beijing|CHINANET|
+|8|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|72.10.164.178|29801|Canada|Montreal|GloboTech Communications|
-|13|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|67.43.236.20|6471|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|29801|Canada|Montreal|GloboTech Communications|
-|17|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.228.253|2787|Canada|Montreal|GloboTech Communications|
-|19|223.247.46.116|8089|China|Rongcheng|Chinanet|
-|20|67.43.236.20|6471|Canada|Montreal|GloboTech Communications|
+|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|13|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|67.43.236.20|14127|Canada|Montreal|GloboTech Communications|
+|16|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|17|67.43.236.20|14127|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|16561|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|12603|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|14127|Canada|Montreal|GloboTech Communications|
 
 
 
