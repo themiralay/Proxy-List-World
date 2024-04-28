@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|3|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|49.49.35.184|4006|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|8|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
-|10|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|191.97.15.94|11201|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|45.234.60.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|137.59.50.39|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|19|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|1|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|134.35.161.188|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|12|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
+|13|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
+|17|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|19|206.62.64.34|8080|Brazil|Cascavel|AGIS|
+|20|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
