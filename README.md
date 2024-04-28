@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|6|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |10|34.126.125.90|8080|Singapore|Singapore|Google LLC|
 |11|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|12|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
 |13|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|14|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|103.143.168.58|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|17|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|20|72.10.164.178|7015|Canada|Montreal|GloboTech Communications|
+|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|16|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|20|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
