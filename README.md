@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|103.162.63.162|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|11|72.10.164.178|7997|Canada|Montreal|GloboTech Communications|
-|12|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|13|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
-|14|190.210.131.48|8080|Argentina|Buenos Aires|NSS S.A.|
-|15|67.43.227.227|33111|Canada|Montreal|GloboTech Communications|
+|9|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|10|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|11|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|12|72.10.164.178|23137|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|33111|Canada|Montreal|GloboTech Communications|
+|14|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|15|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
 |16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |17|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|18|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|113.160.182.236|19132|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
-|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|18|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|19|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|67.43.236.20|1973|Canada|Montreal|GloboTech Communications|
 
 
 
