@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
+|1|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
-|7|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|103.84.177.26|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|10|103.76.149.66|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|14|72.10.160.171|19807|Canada|Montreal|GloboTech Communications|
-|15|204.199.81.90|999|Colombia|Santiago de Cali|CTL Colombia|
-|16|72.10.164.178|11857|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|5175|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11857|Canada|Montreal|GloboTech Communications|
-|19|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|201.77.108.196|999|Mexico|Valle de Allende|Nidix Networks S.a. De C.V.|
+|6|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|8|103.148.24.235|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
+|9|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.52.17.69|1234|Indonesia|Jakarta Pusat|PT Inti Bangun Sejahtera, tbk|
+|16|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|17|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
+|18|72.10.160.171|19807|Canada|Montreal|GloboTech Communications|
+|19|189.195.139.178|999|Mexico|Pénjamo|Mega Cable, S.A. de C.V.|
+|20|148.101.47.190|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
 
 
 
