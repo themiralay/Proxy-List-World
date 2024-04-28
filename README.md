@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|9|103.124.137.169|8080|Indonesia|Jakarta|Global Media Data Prima|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|194.140.198.23|80|United States|Newark|Nubes, LLC|
-|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|72.10.160.93|27997|Canada|Montreal|GloboTech Communications|
-|18|45.4.202.73|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|8|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|10|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|11|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|15|72.10.160.93|27997|Canada|Montreal|GloboTech Communications|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|19|103.190.171.137|8080|Indonesia|Jakarta|WMS|
 |20|67.43.228.253|1203|Canada|Montreal|GloboTech Communications|
 
 
