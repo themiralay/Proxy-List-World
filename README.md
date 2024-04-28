@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |5|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
 |10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|13|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|181.78.19.242|999|Colombia|Barrio San Luis|IFX Networks Argentina S.R.L|
-|20|103.136.163.137|8181|Indonesia|Palembang|TPN-LINK|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|158.69.7.48|8050|Canada|Montreal|OVH SAS|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
