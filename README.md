@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|74.208.29.124|3128|United States|Philadelphia|IONOS SE|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|45.173.6.102|8080|Colombia|Bogotá|Columbus Networks Colombia|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|20|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|74.208.29.124|3128|United States|Philadelphia|IONOS SE|
+|13|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|16|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
