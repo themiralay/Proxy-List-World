@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |8|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|9|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|12|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|18|72.10.160.90|14005|Canada|Montreal|GloboTech Communications|
-|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|20|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|11|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|221.165.93.242|8080|South Korea|Incheon|Korea Telecom|
+|13|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|14|72.10.160.90|8943|Canada|Montreal|GloboTech Communications|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|72.10.160.90|8943|Canada|Montreal|GloboTech Communications|
+|17|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
+|18|103.126.87.120|1136|Indonesia|Klaten|BINTANGPERKASAORION|
+|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
