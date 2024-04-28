@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|103.166.194.114|8080|Indonesia|Jakarta|Hipernet Indodata|
-|8|192.158.15.201|60684|Canada|Toronto|Ontario Inc.|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|210.201.86.72|8080|Taiwan|Neihu District|Asia Pacific On-line Services Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|181.209.102.237|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|14|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|17|92.207.253.226|38157|United Kingdom|Oakhill|Gamma Telecom Holdings Ltd|
-|18|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|19|103.6.223.2|3128|China|Baoshan|China Unicom|
-|20|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|103.133.25.245|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|10|161.49.215.28|10101|Philippines|Angeles City|Converge Information and Communications Technology Solutions|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|95.165.163.188|60103|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|15|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|138.0.141.46|8080|Brazil|São Paulo|F.B. BABETO ME|
+|19|103.8.68.48|3128|China|Shiyan|China Telecom|
+|20|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
