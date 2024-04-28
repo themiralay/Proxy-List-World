@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|9|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|8|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |10|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 |16|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|42.118.202.113|4006|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
 
 
 
