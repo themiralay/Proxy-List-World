@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|209.97.150.197|3128|United States|Clifton|DigitalOcean, LLC|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|209.97.150.197|3128|United States|Clifton|DigitalOcean, LLC|
-|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|18|103.191.196.54|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|19|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
+|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
+|18|216.176.187.99|39837|United States|Seattle|Wowrack.com|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 
 
 
