@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|59.15.28.76|3128|South Korea|Yangcheon-gu|Korea Telecom|
 |14|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
-|15|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|204.48.31.203|80|United States|North Bergen|DigitalOcean, LLC|
-|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|177.93.59.42|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|19|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
