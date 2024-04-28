@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|5|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
 |6|34.126.125.90|8080|Singapore|Singapore|Google LLC|
 |7|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |8|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|15|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|72.10.160.173|24207|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|20|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|12|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|14|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|72.10.164.178|13881|Canada|Montreal|GloboTech Communications|
+|17|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|18|201.91.82.155|3128|Brazil|Campinas|Vivo|
+|19|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 
 
 
