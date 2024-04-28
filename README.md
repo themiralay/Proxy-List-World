@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|8|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.236.18|21865|Canada|Montreal|GloboTech Communications|
+|12|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|13|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|164.70.88.64|8080|Japan|Adachi|InfoSphere|
 |15|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|18|72.10.164.178|7227|Canada|Montreal|GloboTech Communications|
-|19|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|20|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|67.43.236.18|21865|Canada|Montreal|GloboTech Communications|
+|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
+|18|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|19|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|20|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
