@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
+|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |2|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|146.190.53.175|32781|United States|Santa Clara|DigitalOcean, LLC|
 |8|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|52.117.160.219|8081|United States|Dallas|SoftLayer|
+|9|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|12|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|103.148.24.235|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
-|15|103.180.247.5|8080|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|17|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|19|52.117.160.219|8081|United States|Dallas|SoftLayer|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|12|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|16|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|41.174.96.38|32650|Mauritius|Ebene CyberCity|Liquid Telecommunications Operations Limited|
 
 
 
