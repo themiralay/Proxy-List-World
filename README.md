@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|3|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |5|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|50.236.203.15|8080|United States|Indianapolis|Comcast Cable Communications, LLC|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|9|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
 |13|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|15|203.160.186.246|8080|Philippines|Makati City|Philippine Telelgraph & Telephone|
-|16|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|15|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 |17|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|18|103.105.55.76|3125|Indonesia|Malang|PT. Mega Artha Lintas Data|
-|19|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|38.156.235.35|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|20|103.200.20.56|3128|Vietnam|Binh Tan District|TNIX|
 
 
 
