@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|7|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|8|67.43.228.253|3173|Canada|Montreal|GloboTech Communications|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|12|190.94.212.36|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|13|182.253.109.196|8080|Indonesia|Semarang|Biznet Metronet|
-|14|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|15|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|172.233.153.101|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|5|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|6|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|7|112.78.150.133|8080|Indonesia|Jakarta|Biznet Networks|
+|8|182.253.109.196|8080|Indonesia|Semarang|Biznet Metronet|
+|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |16|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|17|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|103.67.90.25|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
+|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
