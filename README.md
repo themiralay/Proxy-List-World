@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|66.94.108.138|3128|United States|Sandalfoot Cove|Nubes, LLC|
-|6|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|134.236.11.208|8080|Thailand|Samphanthawong|CAT-BB|
-|12|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|13|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|16|185.111.156.170|80|Poland|Warsaw|Nubes, LLC|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|103.6.223.2|3128|China|Baoshan|China Unicom|
-|19|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|20|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|9|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|38.253.88.242|999|Dominican Republic|Jarabacoa|Cogent Communications|
+|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|18|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|19|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
