@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|8|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|5|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|6|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|7|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|61.129.2.212|8080|China|Beijing|CHINANET|
+|9|103.184.122.114|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
 |10|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|103.151.74.82|8080|Bangladesh|Dhaka|Md Kamrul Islam|
-|15|103.76.149.66|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|14|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
 |16|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|18|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|103.169.254.185|2068|Indonesia|Sidoarjo|PT Master Star Network|
+|17|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|138.204.182.106|999|Honduras|Tegucigalpa|METRONET|
+|20|103.6.223.2|3128|China|Baoshan|China Unicom|
 
 
 
