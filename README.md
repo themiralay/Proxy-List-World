@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|7|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|8|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|37.143.8.84|3128|Russia|Moscow|IHC|
-|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|12|5.196.111.29|20600|France|Gravelines|OVH SAS|
-|13|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|14|67.43.227.227|13367|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.160.170|12227|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|5903|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|13367|Canada|Montreal|GloboTech Communications|
-|19|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|20|5.196.111.29|20600|France|Gravelines|OVH SAS|
+|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|6|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|8|146.19.196.4|4555|Nigeria|Lagos|Melbikomas UAB|
+|9|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|10|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|37.143.8.84|3128|Russia|Moscow|IHC|
+|14|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|15|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|16|67.43.227.227|13367|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|25061|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|13295|Canada|Montreal|GloboTech Communications|
+|19|5.196.111.29|20603|France|Gravelines|OVH SAS|
+|20|72.10.164.178|26253|Canada|Montreal|GloboTech Communications|
 
 
 
