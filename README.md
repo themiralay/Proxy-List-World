@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |5|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|14|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|16|52.117.160.219|8081|United States|Dallas|SoftLayer|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|19|61.7.184.39|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
-|20|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|50.236.203.15|8080|United States|Indianapolis|Comcast Cable Communications, LLC|
+|12|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|13|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|15|52.117.160.219|8081|United States|Dallas|SoftLayer|
+|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|17|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|188.165.210.125|4006|France|Roubaix|OVH SAS|
 
 
 
