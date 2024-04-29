@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|2|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|8|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|9|61.7.184.39|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|16|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|139.0.6.11|8080|Indonesia|Tangerang|PT. First Media, Tbk|
+|7|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|8|180.232.127.48|3128|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|13|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|90.188.53.6|8080|Russia|Ulan-Ude|JSC "Sibirtelecom" Buryat branch|
+|17|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|18|103.153.35.87|3127|Indonesia|Subang|JMExpress|
+|19|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
