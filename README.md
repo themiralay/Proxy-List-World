@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.212.237.127|3128|United States|The Dalles|Google LLC|
+|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|6|182.253.109.205|8080|Indonesia|Semarang|Biznet Metronet|
+|7|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|10|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|119.92.236.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
+|16|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+
 
 
 ## Contributing
