@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|5|134.35.19.226|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|12|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|15|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
-|16|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|17|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|12|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|16|52.117.160.219|8081|United States|Dallas|SoftLayer|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|20|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
