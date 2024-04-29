@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|8|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|67.43.227.229|20195|Canada|Montreal|GloboTech Communications|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|67.43.228.253|17141|Canada|Montreal|GloboTech Communications|
-|13|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|15|67.43.236.20|6119|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|6119|Canada|Montreal|GloboTech Communications|
-|17|103.156.185.83|3128|Hong Kong|Ha Kwai Chung|ALLPASS|
-|18|67.43.227.227|1099|Canada|Montreal|GloboTech Communications|
-|19|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|20|72.10.160.90|18723|Canada|Montreal|GloboTech Communications|
+|7|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|13|38.183.152.34|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|14|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|15|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|67.43.228.253|17141|Canada|Montreal|GloboTech Communications|
+|18|58.147.189.222|443|Indonesia|Pontianak|PT Transhybrid Communication|
+|19|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|20|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
 
 
 
