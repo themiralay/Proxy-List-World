@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|113.28.254.77|8080|Hong Kong|Central|PCCW IMSBiz|
-|5|160.248.1.119|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|7|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|13|67.43.227.227|24843|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|24843|Canada|Montreal|GloboTech Communications|
-|15|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|16|72.10.160.172|29803|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|9329|Canada|Montreal|GloboTech Communications|
-|18|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|19|72.10.164.178|9947|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|8037|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.1.119|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|6|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|119.92.236.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|9|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|72.10.160.90|23969|Canada|Montreal|GloboTech Communications|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|72.10.164.178|22427|Canada|Montreal|GloboTech Communications|
+|14|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|15|67.43.227.227|13687|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|7201|Canada|Montreal|GloboTech Communications|
+|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|18|115.124.75.58|8080|Indonesia|Bekasi|PT Remala Abadi|
+|19|38.49.158.78|999|Mexico|Santa Maria del Rio|Ientc S De RL De CV|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
