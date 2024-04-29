@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |10|160.248.81.52|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|20|160.248.81.52|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|16|209.14.119.220|999|Colombia|Neiva|AGIS|
+|17|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
+|18|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|186.148.181.69|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|103.76.151.90|8090|Indonesia|Klatakan|PT. Java Digital Nusantara|
 
 
 
