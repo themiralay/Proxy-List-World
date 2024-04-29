@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|12|38.9.56.70|8080|India|Chennai|Cogent Communications|
-|13|182.253.109.205|8080|Indonesia|Semarang|Biznet Metronet|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|19|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|1|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|182.16.171.42|43188|Indonesia|Menteng|PT iForte Global Internet|
+|9|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|182.253.109.205|8080|Indonesia|Semarang|Biznet Metronet|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|177.38.83.242|3177|Brazil|Boa Esperanca|ZAP BL TELECOMUNICACOES LTDA|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|17|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|45.188.78.57|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
+|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|20|223.112.53.2|1025|China|Changzhou|China Mobile communications corporation|
 
 
 
