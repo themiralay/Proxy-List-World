@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
 |2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|4|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|10|61.129.2.212|8080|China|Beijing|CHINANET|
-|11|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|12|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|103.41.250.111|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|18|205.196.184.69|50704|United States|Houston|Phonoscope|
+|9|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
+|10|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|11|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|18|120.28.195.250|8080|Philippines|Cagayan de Oro|Globe Telecom|
 |19|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.174|13683|Canada|Montreal|GloboTech Communications|
+|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 
 
 
