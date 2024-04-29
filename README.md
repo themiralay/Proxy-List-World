@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|5|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|72.10.164.178|14959|Canada|Montreal|GloboTech Communications|
+|10|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|11|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|182.253.109.205|8080|Indonesia|Semarang|Biznet Metronet|
+|13|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|72.10.164.178|14959|Canada|Montreal|GloboTech Communications|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|17|72.10.160.172|29803|Canada|Montreal|GloboTech Communications|
+|18|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|67.43.236.22|4689|Canada|Montreal|GloboTech Communications|
+
 
 
 ## Contributing
