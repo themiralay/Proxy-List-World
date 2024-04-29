@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|2|182.253.176.84|8080|Indonesia|Jakarta|BIZNET|
-|3|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|4|188.165.210.125|4006|France|Roubaix|OVH SAS|
-|5|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|6|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|11|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|14|182.253.109.196|8080|Indonesia|Semarang|Biznet Metronet|
-|15|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|103.186.8.162|8080|Indonesia|Pelem Satu|PRISMA|
-|18|72.10.164.178|2727|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|8949|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2727|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|3|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|4|175.100.91.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|8|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|9|182.253.109.196|8080|Indonesia|Semarang|Biznet Metronet|
+|10|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|11|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.160.170|22443|Canada|Montreal|GloboTech Communications|
 
 
 
