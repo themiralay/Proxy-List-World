@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
-|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|121.195.170.225|1024|China|Haidian|CERNET|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|14|188.165.210.125|4006|France|Roubaix|OVH SAS|
-|15|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|103.87.169.196|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|67.43.228.253|32723|Canada|Montreal|GloboTech Communications|
+|8|64.76.43.120|999|Mexico|Mexico City|Level 3|
+|9|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|10|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|15|203.202.249.2|8080|Bangladesh|Dakhin Patenga|Aamra Networks Limited|
+|16|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
