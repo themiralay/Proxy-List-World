@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|12|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.231.200.229|3128|Indonesia|Bekasi|PT. Berdikari Prima Mandiri|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|16|101.255.167.5|8080|Indonesia|Bekasi|PT Remala Abadi|
 |17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|182.253.234.151|8080|Indonesia|Jakarta|BIZNET|
-|20|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|103.156.15.179|8080|Indonesia|Pondok Bambu|PT Lintas Jaringan Nusantara|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
