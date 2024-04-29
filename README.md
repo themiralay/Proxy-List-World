@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|34.126.125.90|8080|Singapore|Singapore|Google LLC|
 |5|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|12|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|13|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|18|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|20|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|9|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|11|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|15|67.43.236.18|32383|Canada|Montreal|GloboTech Communications|
+|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|20|188.165.210.125|4006|France|Roubaix|OVH SAS|
 
 
 
