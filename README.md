@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|3|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|134.236.11.208|8080|Thailand|Samphanthawong|CAT-BB|
-|6|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|7|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
-|11|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|24.192.227.234|8080|United States|Albion|WideOpenWest Finance LLC|
-|13|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|16|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|17|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|18|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|5|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.178.43.26|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
+|8|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
+|9|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
+|13|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|14|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
