@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|7|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|9|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|10|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|8|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|9|3.112.238.205|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|10|103.6.223.2|3128|China|Baoshan|China Unicom|
 |11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|12|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|13|3.112.238.205|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|14|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|17|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|20|77.106.97.141|4000|Russia|Tomsk|CJSC "ER-Telecom Holding" Tomsk branch|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|14|152.42.196.170|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|103.191.196.44|8082|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|17|67.43.227.227|26017|Canada|Montreal|GloboTech Communications|
+|18|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
+|19|37.143.8.84|3128|Russia|Moscow|IHC|
+|20|185.208.101.217|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 
 
 
