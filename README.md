@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|8|190.239.220.121|999|Peru|Lima|Telefonica del Peru S.A.A.|
-|9|182.253.109.205|8080|Indonesia|Semarang|Biznet Metronet|
-|10|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|11|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|169.239.248.198|8080|Ghana|Accra|Ghanaian Academic and Research Network|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|134.19.254.2|21231|Georgia|Tbilisi|GPON|
-|19|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|20|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|7|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|9|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|182.253.109.205|8080|Indonesia|Semarang|Biznet Metronet|
+|12|103.6.223.2|3128|China|Baoshan|China Unicom|
+|13|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|16|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|18|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|19|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
 
 
 
