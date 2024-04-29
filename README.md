@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|1|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|134.35.22.88|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|9|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|13|188.209.238.128|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|14|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|15|160.248.81.52|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|17|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|103.111.137.241|8080|Indonesia|Gading|FAZNET|
+|9|160.248.81.52|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|11|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|16|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|17|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 
