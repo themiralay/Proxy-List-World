@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -44,20 +44,20 @@ Click the file format that you want and copy the URL.
 |3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|9|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|12|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|103.36.8.55|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.141.109.237|8080|Indonesia|Keputih|Data Buana Nusantara|
-|17|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|18|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|6|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|109.236.44.181|8080|Albania|Tirana|Abissnet sh.a.|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|13|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|14|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|67.43.227.226|19943|Canada|Montreal|GloboTech Communications|
 |20|67.43.236.20|9385|Canada|Montreal|GloboTech Communications|
 
 
