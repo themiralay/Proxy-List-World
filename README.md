@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.243.60|8081|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|6|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|7|41.222.246.29|7788|Rwanda|Kigali|RWEDNET|
-|8|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|103.204.20.21|8080|India|Tanuku|CityOnline Services Ltd|
-|20|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|5|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|6|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|7|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|8|121.146.251.236|3128|South Korea|Gangnam-gu|Korea Telecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|85.135.32.100|3128|Czechia|Orlová|PODA a.s.|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|17|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|77.119.237.96|55654|Austria|Vienna|Network of Hutchison Drei Austria GmbH|
+|19|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 
 
 
