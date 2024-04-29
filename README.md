@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|64.76.43.120|999|Mexico|Mexico City|Level 3|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|6|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
+|2|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|72.10.164.178|2727|Canada|Montreal|GloboTech Communications|
 |7|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|72.10.164.178|2727|Canada|Montreal|GloboTech Communications|
+|8|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |9|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|160.248.186.62|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|67.43.228.250|1039|Canada|Montreal|GloboTech Communications|
+|10|202.55.134.227|3128|Vietnam|Hanoi|Vietserver Services Technology Company Limited|
+|11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
 |12|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|14|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|103.6.223.2|3128|China|Baoshan|China Unicom|
-|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|17|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|18|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|15|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|19|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
