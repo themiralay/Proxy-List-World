@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|85.135.32.100|3128|Czechia|Orlová|PODA a.s.|
-|6|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|8|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|8|77.91.68.43|3128|Finland|Helsinki|Daniil Yevchenko|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
-|13|103.42.228.62|8080|Bangladesh|Chandraganj|Skynet Chowmuhani|
-|14|164.70.88.64|8080|Japan|Adachi|InfoSphere|
-|15|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|16|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|18|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|10|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
+|11|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|12|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|16|103.107.84.184|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|17|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|18|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
 |19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|103.172.70.153|2022|Indonesia|Karangampel|AZNET|
 
 
 
