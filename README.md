@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|67.43.227.227|23253|Canada|Montreal|GloboTech Communications|
-|7|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|5|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|7|67.43.236.20|8513|Canada|Montreal|GloboTech Communications|
 |8|67.43.236.20|8513|Canada|Montreal|GloboTech Communications|
-|9|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|148.244.210.142|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|12|67.43.236.20|8513|Canada|Montreal|GloboTech Communications|
-|13|37.143.8.84|3128|Russia|Moscow|IHC|
-|14|103.6.223.2|3128|China|Baoshan|China Unicom|
-|15|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
-|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|72.10.160.90|11759|Canada|Montreal|GloboTech Communications|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|20|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|37.143.8.84|3128|Russia|Moscow|IHC|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|67.43.227.227|23253|Canada|Montreal|GloboTech Communications|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|67.43.227.227|23253|Canada|Montreal|GloboTech Communications|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|148.244.210.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|17|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|72.10.160.90|4871|Canada|Montreal|GloboTech Communications|
+|19|70.113.250.186|16099|United States|San Antonio|Spectrum|
+|20|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
 
 
 
