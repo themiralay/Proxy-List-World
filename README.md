@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|12|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|14|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|16|52.117.160.219|8081|United States|Dallas|SoftLayer|
+|7|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
+|9|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|10|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|12|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|103.6.223.2|3128|China|Baoshan|China Unicom|
+|14|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|15|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|16|200.70.56.203|3128|Argentina|Jose C. Paz|Telefonica de Argentina|
 |17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 
 
 
