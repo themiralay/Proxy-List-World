@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|8|210.61.216.63|60808|Taiwan|Banqiao|Chunghwa Telecom Co., Ltd.|
-|9|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|18|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|103.169.255.171|8080|Indonesia|Banyuwangi|PT Master Star Network|
-|20|67.43.236.20|1755|Canada|Montreal|GloboTech Communications|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|183.182.103.2|8080|Laos|Vientiane|Star Telecom|
+|10|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|37.143.8.84|3128|Russia|Moscow|IHC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|181.209.100.50|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|67.43.236.20|1755|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|4993|Canada|Montreal|GloboTech Communications|
+|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 
 
 
