@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 |4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|11|67.43.227.228|28871|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|33075|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|16|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|17|146.190.101.222|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.227.227|33075|Canada|Montreal|GloboTech Communications|
-|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|20|182.253.109.196|8080|Indonesia|Semarang|Biznet Metronet|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|72.10.160.170|8949|Canada|Montreal|GloboTech Communications|
+|14|103.76.150.32|8080|Indonesia|Citeureup|PT. Java Digital Nusantara|
+|15|182.253.109.196|8080|Indonesia|Semarang|Biznet Metronet|
+|16|140.227.61.156|23456|Japan|Chiyoda|InfoSphere|
+|17|67.43.227.228|28871|Canada|Montreal|GloboTech Communications|
+|18|202.154.36.117|8080|Indonesia|Surabaya|RADNET-BDG|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
 
 
 
