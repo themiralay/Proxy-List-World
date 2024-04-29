@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|4|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|1|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|5.78.92.206|8118|United States|Portland|Hetzner Online GmbH|
+|3|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|4|123.127.94.83|8800|China|Chaowai|China Unicom Beijing Province Network|
+|5|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
 |6|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |7|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|12|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.236.20|13535|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|2233|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|24105|Canada|Montreal|GloboTech Communications|
-|19|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|20|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|15|72.10.164.178|6111|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|200.117.13.75|999|Argentina|Córdoba|Telecom Argentina S.A|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
