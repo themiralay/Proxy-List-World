@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|6|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|7|59.90.196.30|8080|India|Hyderabad|BSNL Internet|
-|8|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|9|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|13|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|15|72.10.164.178|15981|Canada|Montreal|GloboTech Communications|
-|16|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|196.0.111.194|34638|Uganda|Kampala|Uganda Telecom Ltd|
-|18|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|10|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|12|72.10.164.178|6091|Canada|Montreal|GloboTech Communications|
+|13|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
+|15|103.162.54.147|8080|Indonesia|Bandung|PT Pratama Asia Globalindo|
+|16|67.43.227.228|14447|Canada|Montreal|GloboTech Communications|
+|17|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
 |19|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
-|20|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|20|72.10.164.178|6091|Canada|Montreal|GloboTech Communications|
 
 
 
