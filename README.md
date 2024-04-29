@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.172.35.13|8080|Indonesia|Temanggung|PT Lintas Jaringan Nusantara|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|5|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|6|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|15|101.255.167.5|8080|Indonesia|Bekasi|PT Remala Abadi|
-|16|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|38.10.90.246|8080|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|12|45.188.125.7|999|Mexico|Comalcalco|Digy Networks S.A De C.V.|
+|13|103.169.148.2|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
+|14|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
