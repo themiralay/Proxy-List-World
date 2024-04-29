@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.76.43.120|999|Mexico|Mexico City|Level 3|
+|1|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
 |2|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|3|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|5|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|5|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|8|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |9|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|17|72.10.164.178|24085|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|160.248.184.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.4.52|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|116.128.228.107|3128|China|Jinrongjie|China Unicom CHINA169 Network|
+|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|67.43.227.227|33075|Canada|Montreal|GloboTech Communications|
+|20|160.248.5.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
