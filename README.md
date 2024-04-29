@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|42.118.202.113|4006|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|8|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|103.167.170.210|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|11|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|12|3.112.238.205|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|1|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|5|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.105.55.51|8081|Indonesia|Malang|PT. Mega Artha Lintas Data|
+|8|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|160.248.3.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |14|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|222.64.104.82|9000|China|Shanghai|CHINANET-SH|
-|16|38.41.5.107|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|17|67.43.227.227|8735|Canada|Montreal|GloboTech Communications|
-|18|77.106.97.141|4000|Russia|Tomsk|CJSC "ER-Telecom Holding" Tomsk branch|
-|19|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|15|67.43.227.227|8735|Canada|Montreal|GloboTech Communications|
+|16|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|17|152.42.212.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|42.118.202.113|4006|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
