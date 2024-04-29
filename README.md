@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|3|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|8|182.253.109.205|8080|Indonesia|Semarang|Biznet Metronet|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|103.6.223.2|3128|China|Baoshan|China Unicom|
-|11|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|12|50.235.247.114|8085|United States|Rincon|Comcast Cable Communications, LLC|
-|13|72.10.164.178|27453|Canada|Montreal|GloboTech Communications|
-|14|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|15|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|16|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|18|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|19|103.170.22.52|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
-|20|121.195.170.225|1024|China|Haidian|CERNET|
+|5|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.124.137.169|8080|Indonesia|Jakarta|Global Media Data Prima|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|11|182.253.109.205|8080|Indonesia|Semarang|Biznet Metronet|
+|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|15|92.255.202.78|8080|Russia|Kazan'|CJSC "ER-Telecom Holding" Kazan' branch|
+|16|69.75.140.157|8080|United States|Pomona|Spectrum|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|103.6.223.2|3128|China|Baoshan|China Unicom|
+|19|103.6.223.2|3128|China|Baoshan|China Unicom|
+|20|67.43.236.20|33245|Canada|Montreal|GloboTech Communications|
 
 
 
