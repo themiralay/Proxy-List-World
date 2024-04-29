@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|134.236.11.208|8080|Thailand|Samphanthawong|CAT-BB|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|1|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|5|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|6|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|7|45.201.134.38|8080|Cambodia|Phnom Penh|EZECOM Co., Ltd.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|20.22.205.230|3128|United States|Boydton|Microsoft Corporation|
 |10|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|18|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|19|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|20|160.248.3.215|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
+|15|87.103.133.243|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|16|64.225.105.185|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|18|103.41.250.111|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|19|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|20|23.152.40.14|3128|United States|North Miami|Host-Engine.com|
 
 
 
