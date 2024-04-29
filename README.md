@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|5|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |9|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
 |10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|72.10.160.90|10953|Canada|Montreal|GloboTech Communications|
-|12|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|13|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|72.10.164.178|29755|Canada|Montreal|GloboTech Communications|
+|11|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|12|72.10.164.178|27547|Canada|Montreal|GloboTech Communications|
+|13|49.81.168.145|8089|China|Nanjing|Chinanet|
+|14|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |15|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|16|72.10.160.90|10953|Canada|Montreal|GloboTech Communications|
-|17|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|18|5.161.215.214|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|18|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|121.151.223.163|1337|South Korea|Andong|Korea Telecom|
+|20|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
 
 
 
