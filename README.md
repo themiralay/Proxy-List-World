@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|4|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|11|51.250.46.17|8080|Russia|Moscow|Yandex.Cloud LLC|
-|12|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|14|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|67.43.236.20|30897|Canada|Montreal|GloboTech Communications|
-|17|223.247.46.239|8089|China|Rongcheng|Chinanet|
-|18|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|20|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|13.231.157.51|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|10|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
+|11|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|12|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|13|164.70.88.64|8080|Japan|Adachi|InfoSphere|
+|14|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|161.34.35.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|19|77.91.74.136|8080|Israel|Petah Tikva|Stark Industries Solutions LTD|
+|20|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
