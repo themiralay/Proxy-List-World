@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|6|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|7|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|41.222.246.29|7788|Rwanda|Kigali|RWEDNET|
-|15|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|16|160.248.5.54|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|20|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|3|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|12|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|87.250.5.188|8181|Russia|Izhevsk|MARK-ITT|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|217.197.237.74|8080|Russia|St Petersburg|SEVEREN|
+|16|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|20|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
 
 
 
