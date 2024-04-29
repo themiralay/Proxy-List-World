@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|4|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|11|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
 |12|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|13|179.1.192.57|999|Colombia|Ibagué|InterNexa Global Network|
+|13|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|16|47.184.144.115|3128|United States|Garland|Frontier Communications Solutions|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|102.221.224.153|8080|Libya|Benghazi|SmartLink IT and Networking|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|103.161.164.41|8080|Indonesia|Panumbangan|PT Galuh Multidata Solution|
+|19|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|20|67.43.227.227|2899|Canada|Montreal|GloboTech Communications|
 
 
 
