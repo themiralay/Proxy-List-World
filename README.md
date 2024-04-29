@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |5|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|10|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|14|103.41.250.111|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|15|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|18|38.253.80.32|999|Peru|Lima|Corporacion Tarazona Catv S.A.C.|
-|19|72.10.164.178|29919|Canada|Montreal|GloboTech Communications|
-|20|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|9|120.29.124.131|8080|Philippines|Manila|ComClark Network & Technology Corp|
+|10|160.248.3.176|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|72.10.160.90|29429|Canada|Montreal|GloboTech Communications|
+|12|160.72.98.165|3128|United States|New York|Lightower Fiber Networks I|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|16|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|67.43.227.228|26353|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|17273|Canada|Montreal|GloboTech Communications|
 
 
 
