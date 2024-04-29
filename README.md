@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|34.126.125.90|8080|Singapore|Singapore|Google LLC|
-|8|85.135.32.100|3128|Czechia|Orlová|PODA a.s.|
-|9|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|10|182.253.234.151|8080|Indonesia|Jakarta|BIZNET|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|1|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|85.135.32.100|3128|Czechia|Orlová|PODA a.s.|
+|6|182.253.234.151|8080|Indonesia|Jakarta|BIZNET|
+|7|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|213.188.211.61|3128|The Netherlands|Amsterdam|Fly.io, Inc.|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|3.1.247.69|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|15|157.245.48.103|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|67.43.227.230|16823|Canada|Montreal|GloboTech Communications|
+|17|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|19|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|20|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|160.248.187.34|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.6.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
