@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.185.27|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|3|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|18.138.210.30|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|172.232.107.38|8080|India|Chennai|Akamai Technologies, Inc.|
-|11|37.27.50.71|8800|Finland|Helsinki|Hetzner Online GmbH|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|67.43.227.227|12421|Canada|Montreal|GloboTech Communications|
-|14|160.248.81.143|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|201.71.2.185|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|160.248.3.122|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.227.226|9803|Canada|Montreal|GloboTech Communications|
+|1|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|34.126.125.90|8080|Singapore|Singapore|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.191.196.108|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|103.165.211.174|3128|Indonesia|Malang|PT iForte Global Internet|
+|7|160.248.2.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|9|160.248.0.124|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|103.152.232.61|8181|Indonesia|Karawang|PT Kingpolah Network Solutions|
+|12|160.248.185.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|179.125.51.54|27234|Brazil|Rio de Janeiro|Via Link Telecomunicacoes|
+|15|103.172.42.113|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|160.248.5.220|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.6.26|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|112.78.150.133|8080|Indonesia|Jakarta|Biznet Networks|
+|19|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
+|20|103.245.16.222|8888|Indonesia|Jakarta|PT Quantum Tera Network|
 
 
 
