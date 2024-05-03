@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7646** proxies at the latest update. Usable proxies are below.
+> Scraper found **7628** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|558|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|558|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|558|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|210|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|943|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|208|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1020|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|506|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5028|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|306|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5135|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.163.230.147|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|3|49.49.195.210|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|103.158.220.2|83|India|Theni|Nt Cybronet Pvt Ltd|
-|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|180.148.4.74|8080|Vietnam|Ho Chi Minh City|VNTT|
-|9|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
-|10|180.191.59.3|8082|Philippines|Cabanatuan City|Globe Telecom|
-|11|113.161.210.60|8080|Vietnam|Long Xuyen|VietNam Post and Telecom Corporation|
+|1|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|138.201.132.168|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|34.94.148.191|3128|United States|Los Angeles|Google LLC|
+|6|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|7|114.132.202.125|8080|China|Zhangjiakou|CNC Group CHINA169 Hebei Province network|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|10|34.94.148.191|3128|United States|Los Angeles|Google LLC|
+|11|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|34.94.148.191|3128|United States|Los Angeles|Google LLC|
-|13|103.88.239.118|84|India|Hyderabad|Mana Communications|
-|14|72.10.160.170|26311|Canada|Montreal|GloboTech Communications|
-|15|103.6.223.2|3128|China|Baoshan|China Unicom|
-|16|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|17|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|18|66.94.108.138|3128|United States|Sandalfoot Cove|Nubes, LLC|
-|19|34.94.148.191|3128|United States|Los Angeles|Google LLC|
-|20|122.185.180.190|32650|India|Bhubaneswar|Bharti Airtel Limited|
+|13|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|15|216.39.249.210|3128|United States|New York|GTHost|
+|16|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.160.93|21447|Canada|Montreal|GloboTech Communications|
+|18|85.135.32.100|3128|Czechia|Orlová|PODA a.s.|
+|19|3.226.182.186|3128|United States|Ashburn|Amazon Technologies Inc.|
+|20|160.248.6.104|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
