@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|182.253.170.57|8080|Indonesia|Jakarta|BIZNET|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|12|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|13|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.227.227|7745|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|5953|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.236.20|18165|Canada|Montreal|GloboTech Communications|
-|18|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
-|19|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|20|72.10.160.90|21459|Canada|Montreal|GloboTech Communications|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|38.156.73.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|6|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.6.223.2|3128|China|Baoshan|China Unicom|
+|8|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|10|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
+|11|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|14|67.43.228.252|1859|Canada|Montreal|GloboTech Communications|
+|15|188.235.6.236|8080|Russia|Voronezh|JSC "ER-Telecom Holding"|
+|16|188.125.167.66|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|67.43.236.20|18165|Canada|Montreal|GloboTech Communications|
+|19|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|20|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
 
 
 
