@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|6|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|72.10.160.173|19007|Canada|Montreal|GloboTech Communications|
-|11|103.169.135.80|8080|Indonesia|Tulungagung|PT Neo Santara Solusi|
-|12|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|13|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.164.178|1059|Canada|Montreal|GloboTech Communications|
-|15|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|16|67.43.228.250|26991|Canada|Montreal|GloboTech Communications|
-|17|84.247.128.92|3128|Germany|Düsseldorf|Contabo GmbH|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|7|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|12|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|13|72.10.164.178|6873|Canada|Montreal|GloboTech Communications|
+|14|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|84.247.128.92|3128|Germany|Düsseldorf|Contabo GmbH|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|39.129.73.6|443|China|Kunming|China Mobile|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|177.43.72.250|3128|Brazil|Brasília|Vivo|
+|20|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
