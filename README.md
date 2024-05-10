@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.46.8.55|8181|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|84.52.125.113|8082|Russia|St Petersburg|WestCall|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|177.115.239.37|8080|Brazil|São Paulo|Vivo|
-|12|67.43.228.253|9891|Canada|Montreal|GloboTech Communications|
-|13|103.88.239.57|84|India|Hyderabad|Mana Communications|
-|14|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
-|15|72.10.164.178|27003|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|3763|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|6|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|10|39.129.73.6|443|China|Kunming|China Mobile|
+|11|180.178.95.142|8080|Indonesia|Sukoharjo|PT Widya Intersat Nusantara|
+|12|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|14|103.6.223.2|3128|China|Baoshan|China Unicom|
+|15|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|16|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|19|72.10.164.178|27003|Canada|Montreal|GloboTech Communications|
+|20|45.174.87.18|999|Mexico|Ciudad Juárez|Computadoras y Servicios Especiales SA de CV|
 
 
 
