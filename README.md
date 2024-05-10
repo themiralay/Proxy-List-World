@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
-|6|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|10|152.101.73.180|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|67.43.227.227|32399|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|29605|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|32399|Canada|Montreal|GloboTech Communications|
-|15|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|16|190.94.213.4|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|116.203.75.22|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|19|67.43.228.253|26929|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|32399|Canada|Montreal|GloboTech Communications|
+|4|67.43.227.227|32399|Canada|Montreal|GloboTech Communications|
+|5|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|6|72.10.160.91|29605|Canada|Montreal|GloboTech Communications|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|116.203.75.22|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|67.43.227.227|32399|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.253|26929|Canada|Montreal|GloboTech Communications|
+|12|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|149.86.146.121|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|15|72.10.160.174|27487|Canada|Montreal|GloboTech Communications|
+|16|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
+|17|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
+|18|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|72.10.160.172|33041|Canada|Montreal|GloboTech Communications|
 
 
 
