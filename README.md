@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|8|103.166.10.15|8181|Indonesia|Kediri|PT. Yasmin Amanah Media|
-|9|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
-|10|72.10.160.90|16303|Canada|Montreal|GloboTech Communications|
-|11|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|12|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|72.10.160.90|16303|Canada|Montreal|GloboTech Communications|
-|16|103.105.55.51|8081|Indonesia|Malang|PT. Mega Artha Lintas Data|
-|17|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|19|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|210.16.66.12|3128|Singapore|Singapore|Shock Hosting LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|103.80.77.1|443|Indonesia|Jakarta|Dewan Ketahanan Nasional|
+|8|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
+|9|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|10|72.10.160.170|13559|Canada|Montreal|GloboTech Communications|
+|11|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|72.10.160.90|31267|Canada|Montreal|GloboTech Communications|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|17|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|67.43.236.20|6753|Canada|Montreal|GloboTech Communications|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
 
 
 
