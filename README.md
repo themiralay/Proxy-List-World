@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
-|11|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|72.10.164.178|10369|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|3289|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|2299|Canada|Montreal|GloboTech Communications|
-|16|103.12.21.6|3128|Indonesia|Jakarta|PT Equnix Business Solutions|
-|17|116.202.213.226|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|18|179.1.134.75|999|Colombia|Ibagué|Internexa S.a. E.S.P|
-|19|110.78.164.224|8888|Thailand|Bangkok|CAT-BB|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|210.16.66.104|3128|Singapore|Singapore|Shock Hosting LLC|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|112.198.129.34|8082|Philippines|Nasugbu|Globe Telecom|
+|9|157.10.156.100|1080|Indonesia|Enrekang|PT Singki Media Telekomunikasi|
+|10|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|67.43.228.250|3289|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|72.10.160.173|30117|Canada|Montreal|GloboTech Communications|
+|16|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
+|17|38.7.31.229|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|18|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|19|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|20|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
