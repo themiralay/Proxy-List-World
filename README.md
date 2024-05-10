@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
-|8|191.243.161.135|3128|Brazil|Americana|Simnet Telecomunicacoes Ltda|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|12|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|16|84.247.128.92|3128|Germany|Düsseldorf|Contabo GmbH|
-|17|181.78.82.211|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|18|72.10.164.178|30499|Canada|Montreal|GloboTech Communications|
-|19|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
-|20|67.43.227.227|32399|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|9|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|11|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|14|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|67.43.227.227|32399|Canada|Montreal|GloboTech Communications|
+|16|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|17|72.10.160.174|29247|Canada|Montreal|GloboTech Communications|
+|18|112.78.47.188|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
+|19|201.77.108.25|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
