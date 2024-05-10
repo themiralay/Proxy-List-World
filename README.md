@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
-|4|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|103.153.137.5|8080|Indonesia|Gorontalo|PT Andalas Global Network|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|8|103.148.130.3|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|7|134.35.249.194|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |12|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|13|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|14|72.10.160.90|20281|Canada|Montreal|GloboTech Communications|
-|15|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|92.249.113.194|55443|Ukraine|Kyiv|Private "Stock company "Sater"|
-|17|72.10.160.173|24863|Canada|Montreal|GloboTech Communications|
-|18|222.174.178.122|4999|China|Xintai|Chinanet|
-|19|141.145.204.7|3128|France|Paris|Oracle Corporation|
-|20|72.10.164.178|18483|Canada|Montreal|GloboTech Communications|
+|13|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|15|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.160.173|24863|Canada|Montreal|GloboTech Communications|
+|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|18|72.10.160.90|20281|Canada|Montreal|GloboTech Communications|
+|19|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
