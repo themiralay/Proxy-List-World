@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|59.15.28.114|3128|South Korea|Gangnam-gu|Korea Telecom|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|11|36.88.148.138|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.164.178|22565|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|185.167.59.215|80|Moldova|Taraclia|Caghet-plus SRL|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|84.247.128.92|3128|Germany|Düsseldorf|Contabo GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|72.10.164.178|10369|Canada|Montreal|GloboTech Communications|
+|12|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|198.71.59.125|58080|United States|New York|ProfitBricks, Inc.|
+|14|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|15|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
+|16|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|18|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|177.115.239.37|8080|Brazil|São Paulo|Vivo|
+|20|72.10.160.170|26815|Canada|Montreal|GloboTech Communications|
 
 
 
