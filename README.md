@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|6|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
-|7|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|72.10.164.178|8053|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|8053|Canada|Montreal|GloboTech Communications|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|222.243.174.132|81|China|Xiangtan|Chinanet|
-|12|72.10.164.178|8053|Canada|Montreal|GloboTech Communications|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|67.43.228.252|4153|Canada|Montreal|GloboTech Communications|
+|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|8|72.10.164.178|1195|Canada|Montreal|GloboTech Communications|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|11|72.10.164.178|1195|Canada|Montreal|GloboTech Communications|
+|12|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|13|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|14|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|163.47.210.74|8080|India|Pune|Microsense Pvt. Limited|
-|17|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|18|103.175.238.174|8080|Indonesia|Subang|PT Uliz Netmedia Solusindo|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|16|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|17|180.178.95.142|8080|Indonesia|Sukoharjo|PT Widya Intersat Nusantara|
+|18|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|19|84.52.125.113|8082|Russia|St Petersburg|WestCall|
+|20|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
 
 
 
