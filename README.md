@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|181.118.143.1|999|Argentina|Posadas|Siternet SRL|
-|9|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|67.43.236.18|2863|Canada|Montreal|GloboTech Communications|
-|11|195.24.157.66|4006|Ukraine|Dnipro|Science Production Company "Trifle" Ltd.|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|72.10.164.178|30499|Canada|Montreal|GloboTech Communications|
-|14|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|15|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|16|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|17|67.43.227.227|32399|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|9343|Canada|Montreal|GloboTech Communications|
-|19|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
+|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|5|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|7|85.117.60.162|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|8|177.115.239.37|8080|Brazil|São Paulo|Vivo|
+|9|67.43.236.18|2863|Canada|Montreal|GloboTech Communications|
+|10|103.19.59.102|1983|Indonesia|Madiun|BITSNET|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|13|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
+|14|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
+|15|49.236.212.123|8080|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|16|102.39.156.37|8080|South Africa|Cape Town|Vox Telecom|
+|17|72.10.164.178|18965|Canada|Montreal|GloboTech Communications|
+|18|103.162.54.147|8080|Indonesia|Bandung|PT Pratama Asia Globalindo|
+|19|191.242.111.195|8080|Brazil|Rio de Janeiro|V W INTERNET|
+|20|121.195.170.225|1024|China|Haidian|CERNET|
 
 
 
