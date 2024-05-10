@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|5|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
+|6|77.137.21.78|19000|Israel|Haifa|Hot-Net internet services Ltd.|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|186.148.182.82|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
 |11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|72.10.164.178|31015|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|10593|Canada|Montreal|GloboTech Communications|
-|14|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|15|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|16|114.106.172.198|8089|China|Rongcheng|Chinanet|
-|17|67.43.227.227|32345|Canada|Montreal|GloboTech Communications|
-|18|103.48.68.29|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|175.111.129.156|8080|India|Jaipur|Spiderlink Networks Pvt Ltd|
-|20|72.10.164.178|31015|Canada|Montreal|GloboTech Communications|
+|12|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|15|67.43.227.227|23643|Canada|Montreal|GloboTech Communications|
+|16|222.174.178.122|4999|China|Xintai|Chinanet|
+|17|103.6.223.2|3128|China|Baoshan|China Unicom|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
+|20|103.180.198.21|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
 
 
 
