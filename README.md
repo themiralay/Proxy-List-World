@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|9|196.0.111.194|34638|Uganda|Kampala|Uganda Telecom Ltd|
-|10|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|103.6.223.2|3128|China|Baoshan|China Unicom|
-|12|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.228.253|5799|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.6.223.2|3128|China|Baoshan|China Unicom|
-|17|67.43.236.20|6581|Canada|Montreal|GloboTech Communications|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|39.129.73.6|443|China|Kunming|China Mobile|
-|20|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|182.253.109.6|8080|Indonesia|Semarang|Biznet Metronet|
+|14|103.41.91.161|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|39.129.73.6|443|China|Kunming|China Mobile|
+|18|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|19|72.10.164.178|2729|Canada|Montreal|GloboTech Communications|
+|20|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
 
 
 
