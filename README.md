@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|134.35.99.158|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|67.43.227.226|25639|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|9139|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|4545|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|11251|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|9139|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|22995|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|17|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|18|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|19|67.43.236.20|24339|Canada|Montreal|GloboTech Communications|
-|20|103.41.91.161|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|10|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|11|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|72.10.160.90|9139|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|103.167.68.77|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|15|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|103.231.236.14|8080|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|18|67.43.227.227|32345|Canada|Montreal|GloboTech Communications|
+|19|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
