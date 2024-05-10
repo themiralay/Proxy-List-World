@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7384** proxies at the latest update. Usable proxies are below.
+> Scraper found **7429** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|202|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|675|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|720|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|238|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5311|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|210.16.66.12|3128|Singapore|Singapore|Shock Hosting LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|7|103.80.77.1|443|Indonesia|Jakarta|Dewan Ketahanan Nasional|
-|8|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
-|9|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|10|72.10.160.170|13559|Canada|Montreal|GloboTech Communications|
-|11|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|72.10.160.90|31267|Canada|Montreal|GloboTech Communications|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
-|17|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.236.20|6753|Canada|Montreal|GloboTech Communications|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
+|11|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|72.10.164.178|10369|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|3289|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.173|2299|Canada|Montreal|GloboTech Communications|
+|16|103.12.21.6|3128|Indonesia|Jakarta|PT Equnix Business Solutions|
+|17|116.202.213.226|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|18|179.1.134.75|999|Colombia|Ibagué|Internexa S.a. E.S.P|
+|19|110.78.164.224|8888|Thailand|Bangkok|CAT-BB|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
