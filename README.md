@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7734** proxies at the latest update. Usable proxies are below.
+> Scraper found **7799** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|205|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|704|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|769|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|271|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5596|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|38.156.23.230|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|11|181.215.236.149|80|Brazil|Santana de Parnaiba|Ecxon Datacenter LTDA|
-|12|72.10.164.178|28573|Canada|Montreal|GloboTech Communications|
-|13|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|14|103.19.59.102|1983|Indonesia|Madiun|BITSNET|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
-|17|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|18|222.127.135.164|8082|Philippines|Taguig|Globe Telecom|
-|19|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|187.250.215.99|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
+|3|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
+|4|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|103.153.137.5|8080|Indonesia|Gorontalo|PT Andalas Global Network|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|8|103.148.130.3|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|13|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|14|72.10.160.90|20281|Canada|Montreal|GloboTech Communications|
+|15|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|92.249.113.194|55443|Ukraine|Kyiv|Private "Stock company "Sater"|
+|17|72.10.160.173|24863|Canada|Montreal|GloboTech Communications|
+|18|222.174.178.122|4999|China|Xintai|Chinanet|
+|19|141.145.204.7|3128|France|Paris|Oracle Corporation|
+|20|72.10.164.178|18483|Canada|Montreal|GloboTech Communications|
 
 
 
