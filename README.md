@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|1|210.16.66.104|3128|Singapore|Singapore|Shock Hosting LLC|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|157.10.156.100|1080|Indonesia|Enrekang|PT Singki Media Telekomunikasi|
-|6|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|58.147.189.222|443|Indonesia|Pontianak|PT Transhybrid Communication|
 |9|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|160.248.3.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|67.43.227.227|28331|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|72.10.164.178|8089|Canada|Montreal|GloboTech Communications|
-|15|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.227.227|28331|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|16501|Canada|Montreal|GloboTech Communications|
-|18|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|67.43.227.227|28331|Canada|Montreal|GloboTech Communications|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|103.6.223.2|3128|China|Baoshan|China Unicom|
+|16|103.6.223.2|3128|China|Baoshan|China Unicom|
+|17|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|180.178.95.142|8080|Indonesia|Sukoharjo|PT Widya Intersat Nusantara|
 
 
 
