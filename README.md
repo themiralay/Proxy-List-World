@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|45.133.107.64|81|Russia|Mezmay|Art-net LLC|
-|3|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
-|4|38.49.158.58|999|Mexico|Ixmiquilpan|Ientc S De RL De CV|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
-|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|8|72.10.164.178|31957|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.228|13667|Canada|Montreal|GloboTech Communications|
-|10|117.70.49.5|8089|China|Rongcheng|Chinanet|
-|11|67.43.227.226|14903|Canada|Montreal|GloboTech Communications|
-|12|61.129.2.212|8080|China|Beijing|CHINANET|
-|13|67.43.227.227|7745|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|25721|Canada|Montreal|GloboTech Communications|
-|15|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
-|16|67.43.227.227|7745|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|4549|Canada|Montreal|GloboTech Communications|
-|18|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
-|19|183.36.36.147|3128|China|Xiaolou|Chinanet|
-|20|67.43.227.227|7745|Canada|Montreal|GloboTech Communications|
+|1|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|5|179.1.192.46|999|Colombia|Neiva|InterNexa Global Network|
+|6|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.6.223.2|3128|China|Baoshan|China Unicom|
+|8|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
+|9|67.43.227.226|13819|Canada|Montreal|GloboTech Communications|
+|10|39.129.73.6|443|China|Kunming|China Mobile|
+|11|117.70.49.5|8089|China|Rongcheng|Chinanet|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|72.10.164.178|17803|Canada|Montreal|GloboTech Communications|
+|14|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|15|103.68.214.94|1234|Indonesia|Tangerang|PT Media Grasi Internet|
+|16|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
+|17|103.156.16.179|8818|Indonesia|Babakangarut|RSTNET|
+|18|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|19|103.5.18.86|83|India|Malakāpuram|CityOnline|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
