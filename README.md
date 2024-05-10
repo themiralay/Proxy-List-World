@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7745** proxies at the latest update. Usable proxies are below.
+> Scraper found **7760** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|205|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|689|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|704|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|297|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5596|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|5|179.1.192.46|999|Colombia|Neiva|InterNexa Global Network|
-|6|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.6.223.2|3128|China|Baoshan|China Unicom|
-|8|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
-|9|67.43.227.226|13819|Canada|Montreal|GloboTech Communications|
-|10|39.129.73.6|443|China|Kunming|China Mobile|
-|11|117.70.49.5|8089|China|Rongcheng|Chinanet|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|72.10.164.178|17803|Canada|Montreal|GloboTech Communications|
-|14|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|15|103.68.214.94|1234|Indonesia|Tangerang|PT Media Grasi Internet|
-|16|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
-|17|103.156.16.179|8818|Indonesia|Babakangarut|RSTNET|
-|18|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|19|103.5.18.86|83|India|Malakāpuram|CityOnline|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|171.6.73.131|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|4|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|6|103.6.223.2|3128|China|Baoshan|China Unicom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|9|72.10.164.178|17803|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|17803|Canada|Montreal|GloboTech Communications|
+|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|12|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|13|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
+|16|67.43.227.228|33067|Canada|Montreal|GloboTech Communications|
+|17|186.148.182.82|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
+|18|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
+|19|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|20|72.10.164.178|17803|Canada|Montreal|GloboTech Communications|
 
 
 
