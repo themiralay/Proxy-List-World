@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|8|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
-|9|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|84.247.128.92|3128|Germany|Düsseldorf|Contabo GmbH|
+|7|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
 |11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|103.162.54.147|8080|Indonesia|Bandung|PT Pratama Asia Globalindo|
-|13|67.43.236.20|7563|Canada|Montreal|GloboTech Communications|
-|14|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|15|188.125.167.66|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|72.10.160.90|29219|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|39.129.73.6|443|China|Kunming|China Mobile|
-|19|103.59.44.75|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|20|179.1.142.129|8080|Colombia|Bogotá|InterNexa Global Network|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|39.129.73.6|443|China|Kunming|China Mobile|
+|14|103.139.126.30|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|15|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|16|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|17|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|18|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|20|168.228.36.22|27234|Brazil|Rondonópolis|Avato Tecnologia S.A|
 
 
 
