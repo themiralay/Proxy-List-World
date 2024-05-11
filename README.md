@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|8|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|103.107.84.124|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|103.170.100.105|8085|Indonesia|Jakarta|Subnet Data Nusantara|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|49.48.45.74|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|36.88.148.138|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
 |11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|72.10.164.178|28147|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|20089|Canada|Montreal|GloboTech Communications|
-|14|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|15|103.59.44.75|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|16|72.10.160.90|29161|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|190.94.213.4|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
+|12|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
+|13|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|14|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|15|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|18|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|19|5.202.149.120|8080|Iran|Tehran|PTS-Network|
+|20|103.196.28.6|8080|India|Coimbatore|WLSNET|
 
 
 
