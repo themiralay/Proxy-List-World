@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7114** proxies at the latest update. Usable proxies are below.
+> Scraper found **7135** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|247|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|666|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|248|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|714|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|284|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|256|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4959|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.212.237.127|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.212.237.127|3128|United States|The Dalles|Google LLC|
-|7|188.132.222.3|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|103.107.84.124|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|9|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|10|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|84.39.248.46|8080|Russia|Ufa|JSC "Ufanet"|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|14|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|15|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|5|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|6|187.73.188.35|8080|Brazil|Campos do Jordao|Gwg telco telecomunicaçoes eireli|
+|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|8|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|9|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
+|11|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|12|103.12.21.4|3128|Indonesia|Jakarta|PT Equnix Business Solutions|
+|13|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.31.232.244|8080|Indonesia|Bogor|PT. Usaha Adisanggoro|
+|16|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|17|179.1.134.75|999|Colombia|Ibagué|Internexa S.a. E.S.P|
+|18|138.204.182.106|999|Honduras|La Lima|METRONET|
+|19|67.43.236.20|6663|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|13513|Canada|Montreal|GloboTech Communications|
 
 
 
