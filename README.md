@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|103.141.109.237|8080|Indonesia|Blitar|Data Buana Nusantara|
-|8|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|13|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|14|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|16|67.43.228.253|11381|Canada|Montreal|GloboTech Communications|
+|1|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|71.14.23.121|8080|United States|Hoover|Spectrum|
+|12|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|13|38.188.251.10|8080|Indonesia|Lamongan|PT. Menaksopal Link Nusantara|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |17|67.43.236.20|27495|Canada|Montreal|GloboTech Communications|
-|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|72.10.164.178|7803|Canada|Montreal|GloboTech Communications|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|67.43.228.253|11381|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|11381|Canada|Montreal|GloboTech Communications|
 
 
 
