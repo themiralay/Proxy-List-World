@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|38.156.73.50|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|103.26.110.74|84|India|Mayiladuthurai|Niss Networks|
-|8|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|9|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|10|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|11|72.10.160.92|2505|Canada|Montreal|GloboTech Communications|
-|12|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|13|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
-|14|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|110.232.67.43|55443|Indonesia|Medan|PT. Media Antar Nusa|
-|17|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|19|210.12.194.39|8083|China|Chaowai|China Unicom Beijing Province Network|
-|20|67.43.227.227|22635|Canada|Montreal|GloboTech Communications|
+|6|207.244.254.27|3129|United States|St Louis|Nubes, LLC|
+|7|205.233.79.78|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
+|8|179.60.235.248|8095|Argentina|Empalme Villa Constitucion|WICORP SA|
+|9|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
+|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|72.10.160.92|2505|Canada|Montreal|GloboTech Communications|
+|14|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|16|149.34.210.56|9090|Türkiye|Konya|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|17|191.240.153.165|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|176.241.89.244|53583|Iraq|Baghdad|Hayat ISP|
+|20|103.46.4.7|3030|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
 
 
 
