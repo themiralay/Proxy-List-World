@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.148.25.201|8080|Indonesia|Trenggalek|Menaksopal Link Nusantara|
-|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|8|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|9|200.24.154.219|999|Ecuador|Manta|Ufinet Panama S.A.|
-|10|67.43.236.20|22323|Canada|Montreal|GloboTech Communications|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|103.196.28.6|8080|India|Coimbatore|WLSNET|
+|7|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|8|103.161.30.65|83|India|Eluru|Venkata Sai Internet Pvt Ltd|
+|9|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|10|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
 |11|67.43.236.20|22323|Canada|Montreal|GloboTech Communications|
-|12|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|13|103.59.44.75|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|14|72.10.160.92|2789|Canada|Montreal|GloboTech Communications|
-|15|103.196.28.6|8080|India|Coimbatore|WLSNET|
-|16|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|206.62.64.34|8080|Brazil|Apucarana|AGIS|
-|18|72.10.160.170|29703|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|103.107.84.124|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|12|72.10.160.92|2789|Canada|Montreal|GloboTech Communications|
+|13|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|14|179.1.134.75|999|Colombia|Ibagué|Internexa S.a. E.S.P|
+|15|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|16|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|17|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
