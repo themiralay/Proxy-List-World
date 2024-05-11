@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|103.203.174.102|84|India|Hyderabad|Softgaurd Powertronics|
-|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|45.234.60.128|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|67.43.228.253|12549|Canada|Montreal|GloboTech Communications|
-|11|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
-|12|67.43.236.20|31751|Canada|Montreal|GloboTech Communications|
-|13|190.85.122.27|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|14|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|67.43.227.228|24667|Canada|Montreal|GloboTech Communications|
-|16|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
-|17|72.10.164.178|9279|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|24667|Canada|Montreal|GloboTech Communications|
-|19|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|20|36.88.148.138|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|10|200.106.184.21|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|11|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|12|103.203.174.102|84|India|Hyderabad|Softgaurd Powertronics|
+|13|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|14|67.43.227.227|22107|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|1541|Canada|Montreal|GloboTech Communications|
+|16|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|67.43.236.20|31439|Canada|Montreal|GloboTech Communications|
+|18|103.245.16.222|8888|Indonesia|Manggadua Selatan|PT Quantum Tera Network|
+|19|103.6.223.2|3128|China|Baoshan|China Unicom|
+|20|67.43.228.251|28761|Canada|Montreal|GloboTech Communications|
 
 
 
