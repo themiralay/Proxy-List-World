@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.172.70.191|8181|Indonesia|Kumendung Satu|AZNET|
-|5|103.28.114.140|80|Indonesia|Bantul|PT Lintas Data Prima|
-|6|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|69.160.223.225|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|14|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
-|15|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
-|16|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|103.107.84.124|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|20|101.255.208.22|3127|Indonesia|Wanaherang|PT Remala Abadi|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|4|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|5|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
+|16|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|17|72.10.160.90|21175|Canada|Montreal|GloboTech Communications|
+|18|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|19|177.115.239.37|8080|Brazil|São Paulo|Vivo|
+|20|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
 
 
 
