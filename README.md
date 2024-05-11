@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|6|103.31.232.244|8080|Indonesia|Bogor|PT. Usaha Adisanggoro|
 |7|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|10|103.12.21.4|3128|Indonesia|Jakarta|PT Equnix Business Solutions|
-|11|67.43.236.20|7503|Canada|Montreal|GloboTech Communications|
-|12|103.69.151.189|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|13|67.43.236.21|7073|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|17137|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|17137|Canada|Montreal|GloboTech Communications|
-|16|181.118.143.1|999|Argentina|Posadas|Siternet SRL|
-|17|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|18|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|19|182.253.109.6|8080|Indonesia|Semarang|Biznet Metronet|
-|20|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|181.39.24.155|999|Ecuador|Quito|Telconet S.A|
+|10|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
+|13|72.10.164.178|17137|Canada|Montreal|GloboTech Communications|
+|14|187.73.188.35|8080|Brazil|Campos do Jordao|Gwg telco telecomunicaçoes eireli|
+|15|38.7.31.229|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|17|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
+|18|67.43.228.250|17705|Canada|Montreal|GloboTech Communications|
+|19|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|20|103.6.223.2|3128|China|Baoshan|China Unicom|
 
 
 
