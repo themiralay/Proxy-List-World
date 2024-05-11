@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|11|119.18.146.114|5020|Bangladesh|Chittagong|BBTS Network|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.177.10.139|8080|Indonesia|Kediri|PT Nalendra Gigantara Media|
+|7|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|132.255.50.126|3128|Brazil|Macapá|R & B Serviços de Telecomunicações Ltda.|
+|11|170.80.242.98|999|Mexico|Sombrerete|TV CABLE DEL GUADIANA S.A DE C.V.|
 |12|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |13|160.248.79.38|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|72.10.160.173|15033|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|27095|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|27095|Canada|Montreal|GloboTech Communications|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|16|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
 |17|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|18|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
-|19|38.188.251.10|8080|Indonesia|Lamongan|PT. Menaksopal Link Nusantara|
-|20|72.10.160.91|3393|Canada|Montreal|GloboTech Communications|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|67.43.236.21|8863|Canada|Montreal|GloboTech Communications|
+|20|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
 
 
 
