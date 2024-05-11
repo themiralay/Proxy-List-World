@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|191.102.68.178|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.160.223.225|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
-|9|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|27.147.217.102|80|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
+|9|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|12|217.182.194.108|3128|France|Gravelines|OVH SAS|
 |13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|14|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|15|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|16|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|18|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
-|20|213.208.34.30|8034|Germany|Ruppichteroth|AXESS Networks Solutions Germany GmbH|
+|14|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|16|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|39.129.73.6|443|China|Kunming|China Mobile|
+|18|181.209.100.50|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|72.10.164.178|19727|Canada|Montreal|GloboTech Communications|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
