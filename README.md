@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 |4|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|10|103.166.10.17|8181|Indonesia|Kediri|PT. Yasmin Amanah Media|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|200.94.102.10|999|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|16|72.10.164.178|20289|Canada|Montreal|GloboTech Communications|
-|17|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|18|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|19|200.69.159.177|8080|Argentina|La Plata|Citarella S.A.|
-|20|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
+|8|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|9|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|72.128.133.154|16099|United States|Austin|Charter Communications|
+|11|186.180.79.18|999|Colombia|Cúcuta|Colombia Móvil|
+|12|84.39.248.46|8080|Russia|Ufa|JSC "Ufanet"|
+|13|38.7.31.229|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|38.156.233.76|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|15|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|16|213.97.158.42|3128|Spain|Valencia|Telefonica de Espana SAU|
+|17|200.101.150.202|8080|Brazil|Paranaguá|V tal|
+|18|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|181.39.24.155|999|Ecuador|Quito|Telconet S.A|
 
 
 
