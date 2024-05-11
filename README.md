@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|4|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|9|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|10|201.89.89.34|8080|Brazil|Curitiba|V tal|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|49.48.45.74|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|10|185.82.96.50|8092|Lebanon|Tripoli|NET 360 S.A.R.L|
 |11|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|103.19.59.102|1983|Indonesia|Madiun|BITSNET|
-|14|72.10.160.90|5463|Canada|Montreal|GloboTech Communications|
-|15|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|16|67.43.227.228|5275|Canada|Montreal|GloboTech Communications|
-|17|138.204.182.106|999|Honduras|La Lima|METRONET|
-|18|72.10.164.178|11857|Canada|Montreal|GloboTech Communications|
-|19|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|20|180.178.95.142|8080|Indonesia|Sukoharjo|PT Widya Intersat Nusantara|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|123.25.15.209|9812|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
+|17|103.58.95.5|8080|Bangladesh|Dhaka|Metaphor Digital Media|
+|18|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
 
 
 
