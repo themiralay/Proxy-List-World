@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|49.48.45.74|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|10|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|67.43.227.226|21213|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.93|27231|Canada|Montreal|GloboTech Communications|
-|14|173.249.43.230|80|Germany|Nuremberg|Contabo GmbH|
-|15|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
-|16|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|17|39.129.73.6|443|China|Kunming|China Mobile|
-|18|211.95.152.50|45046|United States|Los Angeles|China Unicom Guangdong IP network|
-|19|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
-|20|67.43.236.20|29881|Canada|Montreal|GloboTech Communications|
+|13|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|14|67.43.228.253|23883|Canada|Montreal|GloboTech Communications|
+|15|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
+|16|39.129.73.6|443|China|Kunming|China Mobile|
+|17|186.148.181.69|999|Colombia|Cogua|TV AZTECA SUCURSAL COLOMBIA|
+|18|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|19|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
+|20|72.10.160.90|6327|Canada|Montreal|GloboTech Communications|
 
 
 
