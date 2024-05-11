@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.235.16.121|27234|Brazil|Lapa|Acessoline Telecom|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
-|9|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
-|10|103.48.68.29|83|India|Hyderabad|Country Online Services PVT LTD|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|212.112.120.252|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|27.147.131.122|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|72.10.164.178|21711|Canada|Montreal|GloboTech Communications|
-|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|20|72.10.164.178|21711|Canada|Montreal|GloboTech Communications|
+|1|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|4|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|139.99.238.83|8080|Australia|Sydney|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|9|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|13|103.141.109.219|8080|Indonesia|Blitar|Data Buana Nusantara|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
+|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|20|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 
 
 
