@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
-|6|45.235.16.121|27234|Brazil|Lapa|Acessoline Telecom|
-|7|134.35.0.103|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|212.112.120.252|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|9|71.14.23.121|8080|United States|Hoover|Spectrum|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|212.57.136.248|8080|Russia|Turgoyak|PJSC Rostelecom|
-|12|103.54.218.202|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|14|190.97.233.18|999|Venezuela|Barquisimeto|Viginet C.A|
-|15|186.148.182.82|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
-|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|17|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|18|67.43.236.20|15389|Canada|Montreal|GloboTech Communications|
+|4|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
+|5|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|179.42.72.186|85|Brazil|São Paulo|Giga Sul Telecom|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
+|11|180.190.200.210|8085|Philippines|Lahug|Globe Telecom|
+|12|116.68.249.150|8089|Indonesia|Surabaya|PT. Cross Network Indonesia|
+|13|103.141.109.219|8080|Indonesia|Blitar|Data Buana Nusantara|
+|14|103.55.88.53|8080|India|Ghaziabad|Ultranet services private limited|
+|15|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|16|67.43.236.20|21313|Canada|Montreal|GloboTech Communications|
+|17|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|18|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
