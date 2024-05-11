@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|4|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|5|103.181.129.30|80|Indonesia|Tanjung|Diskominfo Tabalong|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
-|9|103.181.129.30|80|Indonesia|Tanjung|Diskominfo Tabalong|
-|10|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
+|8|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|170.64.222.88|8000|Australia|Sydney|DigitalOcean, LLC|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.145.160.3|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
-|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|14|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|16|188.125.167.66|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|72.10.164.178|9955|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|1431|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|17473|Canada|Montreal|GloboTech Communications|
-|20|88.255.185.245|8080|Türkiye|Adapazarı|Turk Telekomunikasyon Anonim Sirketi|
+|12|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|103.156.17.39|8818|Indonesia|Indramayu|RSTNET|
+|15|170.80.242.98|999|Mexico|Sombrerete|TV CABLE DEL GUADIANA S.A DE C.V.|
+|16|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
+|17|103.12.21.4|3128|Indonesia|Jakarta|PT Equnix Business Solutions|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|67.43.228.253|13613|Canada|Montreal|GloboTech Communications|
+|20|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
 
 
 
