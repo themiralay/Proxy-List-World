@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|8|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|46.173.211.221|12880|Russia|Moscow|Garant-Park-Internet Ltd|
-|10|190.202.111.202|8080|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
-|11|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|12|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|13|72.10.164.178|28679|Canada|Montreal|GloboTech Communications|
-|14|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.236.20|4445|Canada|Montreal|GloboTech Communications|
+|4|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
+|11|200.69.71.138|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|67.43.236.20|21605|Canada|Montreal|GloboTech Communications|
+|13|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|181.39.24.155|999|Ecuador|Quito|Telconet S.A|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|77.39.8.12|80|Russia|Stavropol|Stavropol branch of OJSC Rostelecom|
-|19|67.43.227.227|9809|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|4445|Canada|Montreal|GloboTech Communications|
+|17|39.129.73.6|443|China|Kunming|China Mobile|
+|18|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|19|67.43.228.253|26861|Canada|Montreal|GloboTech Communications|
+|20|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
