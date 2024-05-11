@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|6|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.173.231.155|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 |7|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|8|67.43.227.227|7269|Canada|Montreal|GloboTech Communications|
-|9|103.165.218.234|8085|Indonesia|Pegadungan|PT iForte Global Internet|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
-|12|103.9.188.228|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
+|10|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
 |13|72.10.164.178|32379|Canada|Montreal|GloboTech Communications|
-|14|207.230.8.71|999|Colombia|Montería|TV&MÁS S.A.S|
-|15|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
-|16|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|17|72.10.160.90|29365|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.229|30939|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|31871|Canada|Montreal|GloboTech Communications|
-|20|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|14|103.5.18.86|83|India|Malakāpuram|CityOnline|
+|15|41.193.81.7|80|South Africa|Johannesburg|Vox Telecom Ltd|
+|16|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|17|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|67.43.227.229|30939|Canada|Montreal|GloboTech Communications|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
