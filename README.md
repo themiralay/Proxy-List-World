@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|7|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|8|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.76.149.66|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|10|72.10.164.178|6489|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.92|23307|Canada|Montreal|GloboTech Communications|
-|12|116.202.213.226|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|13|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|14|67.43.227.228|6541|Canada|Montreal|GloboTech Communications|
-|15|156.146.58.170|10223|United States|New York|DataCamp Limited|
-|16|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|114.106.137.123|8089|China|Guangzhou|Chinanet|
-|18|72.10.164.178|6489|Canada|Montreal|GloboTech Communications|
-|19|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|20|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|7|72.10.164.178|6489|Canada|Montreal|GloboTech Communications|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|72.10.160.92|23307|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|24397|Canada|Montreal|GloboTech Communications|
+|14|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|15|72.10.164.178|6489|Canada|Montreal|GloboTech Communications|
+|16|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
+|17|67.43.227.228|6541|Canada|Montreal|GloboTech Communications|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
 
 
 
