@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|103.165.125.182|80|Indonesia|Jakarta|PT iForte Global Internet|
-|6|103.107.84.124|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|7|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
-|8|179.1.134.75|999|Colombia|Ibagué|Internexa S.a. E.S.P|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|72.10.164.178|31535|Canada|Montreal|GloboTech Communications|
-|13|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|14|67.43.228.253|32413|Canada|Montreal|GloboTech Communications|
-|15|186.97.172.178|60080|Colombia|Medellín|Colombia Móvil|
-|16|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
-|17|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|19|27.147.131.122|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|72.10.164.178|31535|Canada|Montreal|GloboTech Communications|
+|2|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|6|36.94.2.138|443|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|9|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|11|67.43.228.253|23153|Canada|Montreal|GloboTech Communications|
+|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|13|67.43.228.252|17269|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|14931|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|17|163.47.210.74|8080|India|Pune|Microsense Pvt. Limited|
+|18|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|19|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
 
 
 
