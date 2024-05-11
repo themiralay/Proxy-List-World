@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|5|171.6.73.131|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|6|103.105.68.9|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|7|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|6|182.253.170.57|8080|Indonesia|Jakarta|BIZNET|
+|7|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|11|72.10.164.178|9401|Canada|Montreal|GloboTech Communications|
-|12|38.188.251.10|8080|Indonesia|Lamongan|PT. Menaksopal Link Nusantara|
-|13|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|72.10.164.178|9401|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|32721|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|5541|Canada|Montreal|GloboTech Communications|
+|10|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|11|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|12|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|14|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|16|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
 |17|67.43.228.250|1467|Canada|Montreal|GloboTech Communications|
-|18|103.156.16.227|8080|Indonesia|Babakangarut|RSTNET|
-|19|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|20|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
 
 
 
