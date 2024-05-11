@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|179.43.8.15|8084|Brazil|Jaicós|Voex Telecom Ltda|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|8|45.189.116.89|999|Peru|Lima|Fiber Digital S.R.L|
-|9|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|10|45.4.202.73|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|67.43.236.20|18917|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|18917|Canada|Montreal|GloboTech Communications|
-|14|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|67.43.236.18|12455|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|18917|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|10371|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|20|72.10.160.90|29327|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.145.160.5|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
+|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|9|67.43.227.227|2617|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|22037|Canada|Montreal|GloboTech Communications|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|103.36.35.135|8080|Indonesia|Cikini|PT Mora Telematika Indonesia|
+|13|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
+|14|67.43.236.18|12455|Canada|Montreal|GloboTech Communications|
+|15|103.19.59.102|1983|Indonesia|Madiun|BITSNET|
+|16|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|17|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|18|103.165.155.161|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|19|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|67.43.236.20|22037|Canada|Montreal|GloboTech Communications|
 
 
 
