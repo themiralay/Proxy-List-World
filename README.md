@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|8|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|9|67.43.236.20|18311|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|4387|Canada|Montreal|GloboTech Communications|
-|11|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|14|67.43.236.20|18311|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|18311|Canada|Montreal|GloboTech Communications|
-|16|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|67.43.228.253|18629|Canada|Montreal|GloboTech Communications|
-|18|69.163.43.124|8080|United States|Portland|FIBERFI|
-|19|187.190.113.101|999|Mexico|Cosoleacaque|Total Play Telecomunicaciones SA De CV|
-|20|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|103.156.17.41|8818|Indonesia|Indramayu|RSTNET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|11|67.43.227.228|10463|Canada|Montreal|GloboTech Communications|
+|12|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|15|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|179.1.134.75|999|Colombia|Ibagué|Internexa S.a. E.S.P|
+|17|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|18|67.43.228.253|18629|Canada|Montreal|GloboTech Communications|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|72.10.160.90|4387|Canada|Montreal|GloboTech Communications|
 
 
 
