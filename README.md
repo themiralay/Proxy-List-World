@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7249** proxies at the latest update. Usable proxies are below.
+> Scraper found **7211** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|227|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|661|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|623|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|205|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5198|✅|
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|10|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
-|11|200.101.150.202|8080|Brazil|Paranaguá|V tal|
-|12|181.118.143.1|999|Argentina|Posadas|Siternet SRL|
-|13|14.163.45.72|443|Vietnam|Bac Giang|VNPT-VNNIC|
-|14|67.43.228.253|2431|Canada|Montreal|GloboTech Communications|
-|15|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|132.251.211.28|999|Peru|Lima|Entel Peru S.A.|
+|7|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|179.1.142.129|8080|Colombia|Bogotá|InterNexa Global Network|
+|10|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 |16|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
-|18|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
-|19|67.43.227.227|11389|Canada|Montreal|GloboTech Communications|
-|20|103.196.28.6|8080|India|Coimbatore|WLSNET|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|204.199.174.88|999|Peru|Lima|Fiberred Sociedad Anonima Cerrada|
+|19|67.43.236.18|24695|Canada|Montreal|GloboTech Communications|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
