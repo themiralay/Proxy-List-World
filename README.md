@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|9|103.76.151.133|8181|Indonesia|Klatakan|PT. Java Digital Nusantara|
-|10|121.195.170.225|1024|China|Haidian|CERNET|
-|11|183.88.223.211|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|12|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|181.209.82.197|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|11|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
 |14|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|16|67.43.228.253|5481|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|22067|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|22067|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|5481|Canada|Montreal|GloboTech Communications|
-|20|203.192.217.6|8080|India|Mumbai|Entire In2Cable|
+|15|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|16|121.195.170.225|1024|China|Haidian|CERNET|
+|17|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|18|72.10.164.178|17117|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|17117|Canada|Montreal|GloboTech Communications|
+|20|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
 
 
 
