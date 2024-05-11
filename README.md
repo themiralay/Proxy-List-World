@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|188.132.222.166|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
-|10|179.1.134.75|999|Colombia|Ibagué|Internexa S.a. E.S.P|
-|11|103.24.213.124|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|12|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
-|13|45.174.87.18|999|Mexico|Ciudad Juárez|Computadoras y Servicios Especiales SA de CV|
-|14|72.10.164.178|5763|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|23927|Canada|Montreal|GloboTech Communications|
-|16|223.215.176.126|8089|China|Shenzhen|Chinanet|
-|17|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|20|67.43.227.227|28283|Canada|Montreal|GloboTech Communications|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|181.225.96.137|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|72.10.164.178|5763|Canada|Montreal|GloboTech Communications|
+|10|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|11|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
+|12|72.10.160.92|3169|Canada|Montreal|GloboTech Communications|
+|13|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|14|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|15|186.148.182.82|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
+|16|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.236.20|5061|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|4871|Canada|Montreal|GloboTech Communications|
+|19|84.207.252.37|8080|United Kingdom|London|euNetworks GmbH|
+|20|72.10.160.90|4871|Canada|Montreal|GloboTech Communications|
 
 
 
