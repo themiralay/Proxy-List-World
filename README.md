@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|2|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|103.153.137.5|8080|Indonesia|Gorontalo|PT Andalas Global Network|
+|3|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|4|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|181.65.196.153|999|Peru|Macabí Alto|Telefonica del Peru S.A.A.|
-|7|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
-|8|72.10.160.173|6093|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|27295|Canada|Montreal|GloboTech Communications|
-|10|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|11|45.133.107.64|81|Russia|Mezmay|Art-net LLC|
-|12|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|13|67.43.227.228|12303|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|67.43.227.227|30823|Canada|Montreal|GloboTech Communications|
-|16|109.235.189.207|8080|Russia|Sochi|Dmitriy V. Kozmenko|
-|17|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|18|213.221.46.10|3128|Russia|Moscow|EDN Sovintel|
-|19|187.19.200.217|8090|Brazil|Pedro Avelino|Brisanet Servicos De Telecomunicacoes S.A|
-|20|72.10.164.178|28195|Canada|Montreal|GloboTech Communications|
+|6|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|38.188.127.123|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|12|190.220.1.173|56974|Argentina|Buenos Aires|AMX Argentina S.A.|
+|13|72.10.164.178|10397|Canada|Montreal|GloboTech Communications|
+|14|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|15|67.43.236.20|6343|Canada|Montreal|GloboTech Communications|
+|16|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|45.235.16.121|27234|Brazil|Lapa|Acessoline Telecom|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.160.91|1865|Canada|Montreal|GloboTech Communications|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
