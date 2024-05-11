@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|181.225.191.6|9992|Colombia|Medellín|Ufinet Panama S.A.|
-|9|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|188.244.38.227|7999|Russia|Moscow|2COM|
-|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|14|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|15|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|67.43.227.227|5263|Canada|Montreal|GloboTech Communications|
+|2|34.154.161.152|80|Italy|Milan|Google LLC|
+|3|109.123.233.239|3128|Italy|Milan|Casablanca INT fraction|
+|4|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|11|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|16|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|17|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |19|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|20|200.108.197.2|8080|Uruguay|Montevideo|Tecnowind S.A.|
 
 
 
