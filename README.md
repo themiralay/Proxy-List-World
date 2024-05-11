@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.141.109.171|1111|Indonesia|Blitar|Data Buana Nusantara|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|187.19.200.217|8090|Brazil|Pedro Avelino|Brisanet Servicos De Telecomunicacoes S.A|
-|10|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|11|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|12|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
-|17|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|18|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|19|72.10.164.178|18697|Canada|Montreal|GloboTech Communications|
-|20|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|7|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|212.200.39.210|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|12|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|13|181.39.24.155|999|Ecuador|Quito|Telconet S.A|
+|14|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|15|67.43.227.227|6349|Canada|Montreal|GloboTech Communications|
+|16|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
