@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|190.61.80.93|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|8|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|11|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
+|1|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
+|2|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|6|113.28.254.77|8080|Hong Kong|Central|PCCW IMSBiz|
+|7|156.146.58.170|10223|United States|New York|DataCamp Limited|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|132.251.211.28|999|Peru|Lima|Entel Peru S.A.|
 |12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|19|67.43.227.230|6139|Canada|Montreal|GloboTech Communications|
-|20|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
+|13|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|17|204.199.174.88|999|Peru|Lima|Fiberred Sociedad Anonima Cerrada|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|67.43.228.253|14109|Canada|Montreal|GloboTech Communications|
+|20|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
