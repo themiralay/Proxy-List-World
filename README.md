@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 |4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |5|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|10|149.86.140.130|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|206.62.64.34|8080|Brazil|Apucarana|AGIS|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|72.10.164.178|25581|Canada|Montreal|GloboTech Communications|
-|16|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|17|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|19|67.43.236.20|2679|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|43.245.249.22|8989|Indonesia|Pekanbaru|PT Smart Media Pratama|
+|10|72.10.164.178|16477|Canada|Montreal|GloboTech Communications|
+|11|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|14|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|16|67.43.236.20|9803|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|72.10.160.90|30017|Canada|Montreal|GloboTech Communications|
 
 
 
