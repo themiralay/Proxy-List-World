@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7705** proxies at the latest update. Usable proxies are below.
+> Scraper found **7749** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|204|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|885|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|929|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|325|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5333|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|191.102.68.178|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
-|9|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|12|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|14|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|39.129.73.6|443|China|Kunming|China Mobile|
-|18|181.209.100.50|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|72.10.164.178|19727|Canada|Montreal|GloboTech Communications|
-|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|1|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|46.21.253.164|3128|Russia|Moscow|Start LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.168.123.2|8080|Indonesia|Jakarta|LINTASARTA|
+|9|69.160.223.225|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|10|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|11|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|12|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
+|13|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|17|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|103.141.109.237|8080|Indonesia|Blitar|Data Buana Nusantara|
 
 
 
