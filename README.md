@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|200.208.238.7|80|Brazil|Brasília|Claro S.A.|
-|12|67.43.228.253|16991|Canada|Montreal|GloboTech Communications|
-|13|177.115.239.37|8080|Brazil|São Paulo|Vivo|
-|14|188.125.167.66|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|19|103.163.227.178|8080|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
-|20|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|180.178.95.142|8080|Indonesia|Sukoharjo|PT Widya Intersat Nusantara|
+|9|149.56.110.191|8118|Canada|Montreal|OVH SAS|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|11|186.148.181.69|999|Colombia|Cogua|TV AZTECA SUCURSAL COLOMBIA|
+|12|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|13|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|14|103.172.71.15|8080|Indonesia|Karawang|AZNET|
+|15|202.65.158.237|84|India|Hyderabad|Pioneer Elabs Ltd.|
+|16|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|17|138.118.106.121|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
+|18|88.247.209.143|8080|Türkiye|Izmir|TurkTelecom|
+|19|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|116.80.58.72|4649|Japan|Honchō|InfoSphere|
 
 
 
