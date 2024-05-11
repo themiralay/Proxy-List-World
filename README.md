@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|49.48.45.74|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|5.202.149.120|8080|Iran|Tehran|PTS-Network|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|119.18.146.114|5020|Bangladesh|Chittagong|BBTS Network|
-|10|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|11|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
-|12|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
-|16|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|203.150.113.218|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|200.69.71.138|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|12|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
+|13|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|181.209.100.50|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|134.35.26.222|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |18|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|19|72.10.160.170|15475|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|29739|Canada|Montreal|GloboTech Communications|
+|19|213.221.46.10|3128|Russia|Moscow|EDN Sovintel|
+|20|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
 
 
 
