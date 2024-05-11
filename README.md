@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|101.255.208.22|3127|Indonesia|Wanaherang|PT Remala Abadi|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|46.21.253.164|3128|Russia|Moscow|Start LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|103.167.170.6|3125|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|12|103.54.218.202|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|13|27.147.217.102|80|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|6|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|12|134.35.0.103|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|14|114.106.134.35|8089|China|Guangzhou|Chinanet|
 |15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|18|67.43.236.20|7671|Canada|Montreal|GloboTech Communications|
-|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|16|168.228.36.22|27234|Brazil|Rondonópolis|Avato Tecnologia S.A|
+|17|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|18|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.160.94|3895|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|21175|Canada|Montreal|GloboTech Communications|
 
 
 
