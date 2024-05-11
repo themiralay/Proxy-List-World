@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|134.35.0.103|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|157.119.222.22|8080|Indonesia|Semarang|DESNET|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|222.120.69.178|3128|South Korea|Gangbuk-gu|Korea Telecom|
-|12|178.65.171.6|8080|Russia|Monchegorsk|PJSC "Rostelecom" North-West region|
-|13|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|14|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|7|222.120.69.178|3128|South Korea|Gangbuk-gu|Korea Telecom|
+|8|94.232.123.67|8118|Lithuania|Kaunas|UAB "Airnet TV"|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|12|212.57.136.248|8080|Russia|Turgoyak|PJSC Rostelecom|
+|13|38.188.251.10|8080|Indonesia|Lamongan|PT. Menaksopal Link Nusantara|
+|14|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.181.129.30|80|Indonesia|Tanjung|Diskominfo Tabalong|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|103.181.129.30|80|Indonesia|Tanjung|Diskominfo Tabalong|
+|18|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|19|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|20|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 
 
 
