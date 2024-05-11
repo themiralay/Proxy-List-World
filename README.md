@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.94.102.10|999|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|5|84.207.252.37|8080|United Kingdom|London|euNetworks GmbH|
-|6|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
-|7|45.121.43.193|8080|Indonesia|Makassar|FAJAR|
-|8|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
-|9|200.24.154.219|999|Ecuador|Manta|Ufinet Panama S.A.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|45.173.231.155|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|12|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
-|13|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|200.125.185.226|999|Venezuela|Caracas|Gold Data C.A|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|17|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
-|18|72.10.164.178|7599|Canada|Montreal|GloboTech Communications|
-|19|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|20|72.10.164.178|7599|Canada|Montreal|GloboTech Communications|
+|3|35.212.237.127|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.212.237.127|3128|United States|The Dalles|Google LLC|
+|7|188.132.222.3|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|103.107.84.124|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|9|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|10|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|84.39.248.46|8080|Russia|Ufa|JSC "Ufanet"|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|14|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|15|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
 
 
 
