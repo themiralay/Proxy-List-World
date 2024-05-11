@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|201.77.108.25|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|67.43.236.20|29761|Canada|Montreal|GloboTech Communications|
-|13|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|72.10.164.178|2829|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|2829|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|18|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|19|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|109.123.233.239|3128|Italy|Milan|Casablanca INT fraction|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|13|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|103.55.88.53|8080|India|Ghaziabad|Ultranet services private limited|
+|17|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|18|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|20|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 
 
 
