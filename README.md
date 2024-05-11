@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.115.31.181|8090|Indonesia|Nganjuk|HSPNET|
-|7|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|12|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
-|13|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.227.227|28809|Canada|Montreal|GloboTech Communications|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.228.253|29287|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|9983|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|29287|Canada|Montreal|GloboTech Communications|
-|19|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
-|20|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|5|101.255.140.1|8090|Indonesia|Jakarta|PT Remala Abadi|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|67.43.228.253|33265|Canada|Montreal|GloboTech Communications|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|41.193.81.7|80|South Africa|Johannesburg|Vox Telecom Ltd|
+|15|113.28.254.77|8080|Hong Kong|Central|PCCW IMSBiz|
+|16|160.248.5.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|19|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|20|103.69.151.189|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
 
 
 
