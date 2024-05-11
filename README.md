@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|188.244.38.227|7999|Russia|Moscow|2COM|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|103.112.45.46|8080|Indonesia|Bandung|PT.Globalnet Multi Data|
+|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 |9|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|14|67.43.227.227|32909|Canada|Montreal|GloboTech Communications|
-|15|147.139.140.74|80|Indonesia|Jakarta|Alibaba.com LLC|
-|16|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|177.124.177.116|80|Brazil|Cascavel|Constel Tecnologia Ltda|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|67.43.227.228|14299|Canada|Montreal|GloboTech Communications|
-|20|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
+|12|45.4.202.73|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|13|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|103.6.223.2|3128|China|Baoshan|China Unicom|
+|17|67.43.227.227|32909|Canada|Montreal|GloboTech Communications|
+|18|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
