@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|2|119.93.167.12|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|46.21.253.164|3128|Russia|Moscow|Start LLC|
-|7|103.167.170.6|3125|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|8|122.50.6.162|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
-|9|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|186.148.175.194|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
-|13|103.235.67.130|80|Indonesia|Depok|PT Artha Media Lintas Nusa|
-|14|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|213.208.34.30|8034|Germany|Ruppichteroth|AXESS Networks Solutions Germany GmbH|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|20|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
+|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|5|200.39.120.44|999|Mexico|Las Norias de Ojocaliente|Marcatel Com, S.A. de C.V.|
+|6|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|212.39.74.207|8080|Bulgaria|Pleven|Bulgarian Telecommunications Company Plc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|12|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
+|13|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|67.43.236.18|16575|Canada|Montreal|GloboTech Communications|
+|17|213.208.34.30|8034|Germany|Ruppichteroth|AXESS Networks Solutions Germany GmbH|
+|18|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
+|19|201.77.96.145|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|20|179.1.142.129|8080|Colombia|Bogotá|InterNexa Global Network|
 
 
 
