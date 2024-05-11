@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|61.7.170.51|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|61.7.170.51|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|14|72.10.164.178|2489|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|2489|Canada|Montreal|GloboTech Communications|
-|16|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.236.20|15239|Canada|Montreal|GloboTech Communications|
-|18|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|19|185.255.45.241|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
-|20|181.118.143.1|999|Argentina|Posadas|Siternet SRL|
+|9|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|36.88.148.138|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|12|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|13|72.10.164.178|22223|Canada|Montreal|GloboTech Communications|
+|14|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|15|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.160.90|16739|Canada|Montreal|GloboTech Communications|
 
 
 
