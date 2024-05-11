@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|116.203.75.22|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|1|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|65.108.250.159|80|Finland|Helsinki|Hetzner Online GmbH|
-|6|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|7|139.99.238.83|8080|Australia|Sydney|OVH SAS|
-|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|13|85.239.234.94|3184|United States|Seattle|Casablanca INT fraction|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|67.43.228.253|28963|Canada|Montreal|GloboTech Communications|
-|16|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.227.227|19113|Canada|Montreal|GloboTech Communications|
-|19|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|9|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|10|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
+|11|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
 
 
 
