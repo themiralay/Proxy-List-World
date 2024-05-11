@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.124.137.169|8080|Indonesia|Semarang|Global Media Data Prima|
-|3|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
-|4|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|110.39.42.211|80|Pakistan|Karachi|Wateen Telecom Limited|
-|10|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
-|11|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|12|109.123.233.239|3128|Italy|Milan|Casablanca INT fraction|
-|13|23.152.40.14|3128|United States|North Miami|InfiniaHost.com|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|16|103.107.84.124|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|17|182.253.109.6|8080|Indonesia|Semarang|Biznet Metronet|
-|18|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|19|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
-|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|2|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
+|3|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|132.251.211.28|999|Peru|Lima|Entel Peru S.A.|
+|6|109.123.233.239|3128|Italy|Milan|Casablanca INT fraction|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|9|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|10|182.253.109.6|8080|Indonesia|Semarang|Biznet Metronet|
+|11|34.81.235.183|3128|Taiwan|Taipei|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|103.181.168.213|8080|India|Madurai|Mrkr Communications Private Limited|
+|18|115.178.49.181|8080|Indonesia|Pengasinan|NOC SIMAYA|
+|19|103.130.175.169|8080|Bangladesh|Dhaka|Cyber Net Communications|
+|20|72.10.160.170|30981|Canada|Montreal|GloboTech Communications|
 
 
 
