@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|103.148.201.67|8080|Indonesia|Surakarta|WORTEL|
-|11|67.43.227.228|32707|Canada|Montreal|GloboTech Communications|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|109.123.233.239|3128|Italy|Milan|Casablanca INT fraction|
-|14|67.43.236.20|24207|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.228.253|19523|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|72.10.164.178|29233|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|32707|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|24207|Canada|Montreal|GloboTech Communications|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|103.154.77.64|83|Indonesia|Magelang|T2NET|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|17|72.10.164.178|29233|Canada|Montreal|GloboTech Communications|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|109.123.233.239|3128|Italy|Milan|Casablanca INT fraction|
+|20|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
 
 
 
