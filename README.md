@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|103.139.242.181|83|India|Pune|Spectram Telecom Pvt.Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|191.102.68.178|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
-|9|183.165.250.46|8089|China|Shenzhen|Chinanet|
-|10|67.43.227.227|30823|Canada|Montreal|GloboTech Communications|
-|11|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|67.43.236.20|21997|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|3453|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|25355|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|30823|Canada|Montreal|GloboTech Communications|
-|16|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|17|67.43.236.20|21997|Canada|Montreal|GloboTech Communications|
-|18|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|19|222.243.174.132|81|China|Xiangtan|Chinanet|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|1|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|51.255.208.33|1991|Poland|Wroclaw|OVH SAS|
+|11|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|67.43.228.253|33013|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|30823|Canada|Montreal|GloboTech Communications|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|200.101.150.202|8080|Brazil|Paranaguá|V tal|
+|16|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|17|67.43.236.20|22661|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.160.90|18549|Canada|Montreal|GloboTech Communications|
+|20|103.156.16.236|8080|Indonesia|Babakangarut|RSTNET|
 
 
 
