@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|72.10.164.178|26981|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|2391|Canada|Montreal|GloboTech Communications|
-|15|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|72.10.160.90|19555|Canada|Montreal|GloboTech Communications|
-|18|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|19|67.43.228.254|6703|Canada|Montreal|GloboTech Communications|
-|20|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|6|186.125.218.161|999|Argentina|Molinos|Telecom Argentina S.A.|
+|7|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|145.255.30.241|8088|Russia|Ufa|JSC "Ufanet"|
+|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|10|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|160.248.5.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|67.43.228.254|6703|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|16923|Canada|Montreal|GloboTech Communications|
+|17|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.228.252|21615|Canada|Montreal|GloboTech Communications|
+|20|95.167.29.50|8080|Russia|St Petersburg|PJSC Rostelecom|
 
 
 
