@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|191.102.68.178|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
-|5|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|6|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|7|41.193.81.7|32650|South Africa|Johannesburg|Vox Telecom Ltd|
-|8|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|116.203.75.22|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|10|72.10.164.178|2867|Canada|Montreal|GloboTech Communications|
-|11|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|1|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|103.139.242.181|83|India|Pune|Spectram Telecom Pvt.Ltd|
+|7|45.236.106.243|999|Ecuador|Azogues|Eliana Vanessa Morocho Oña|
+|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
+|10|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|85.117.60.162|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
 |12|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|67.43.236.20|6117|Canada|Montreal|GloboTech Communications|
-|14|188.235.6.236|8080|Russia|Voronezh|JSC "ER-Telecom Holding"|
-|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|17|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|5.252.23.206|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|19|72.10.160.90|25007|Canada|Montreal|GloboTech Communications|
-|20|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|101.255.208.18|3129|Indonesia|Wanaherang|PT Remala Abadi|
+|14|103.88.239.57|84|India|Hyderabad|Mana Communications|
+|15|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|16|72.10.164.178|3251|Canada|Montreal|GloboTech Communications|
+|17|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|18|181.118.143.1|999|Argentina|Posadas|Siternet SRL|
+|19|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|20|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
 
 
 
