@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|139.99.238.83|8080|Australia|Sydney|OVH SAS|
-|5|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|6|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|8|72.10.160.170|26039|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|1149|Canada|Montreal|GloboTech Communications|
-|10|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|209.14.115.33|999|Colombia|Bogotá|AGIS|
-|14|201.77.96.145|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|15|72.10.164.178|25327|Canada|Montreal|GloboTech Communications|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|188.235.6.236|8080|Russia|Voronezh|JSC "ER-Telecom Holding"|
-|18|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
-|19|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|7|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
+|8|139.99.238.83|8080|Australia|Sydney|OVH SAS|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|12|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|16|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|84.39.248.46|8080|Russia|Ufa|JSC "Ufanet"|
+|19|67.43.236.20|13529|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
