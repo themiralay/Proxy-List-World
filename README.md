@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|103.165.125.182|80|Indonesia|Jakarta|PT iForte Global Internet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|8|114.5.199.222|80|Indonesia|Bandung|PT. INDOSAT Tbk|
-|9|212.42.116.161|8080|Kyrgyzstan|Bishkek|"ElCat" Ltd.|
-|10|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|185.255.45.241|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
-|13|202.168.69.230|8080|Malaysia|Cyberjaya|Allo Technology Sdn. Bhd.|
-|14|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
-|15|181.39.24.155|999|Ecuador|Quito|Telconet S.A|
-|16|190.128.195.58|999|Paraguay|Asunción|Telecel S.A.|
-|17|72.10.164.178|10239|Canada|Montreal|GloboTech Communications|
-|18|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
-|19|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|20|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
+|4|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|67.43.228.253|18783|Canada|Montreal|GloboTech Communications|
+|12|186.148.181.69|999|Colombia|Cogua|TV AZTECA SUCURSAL COLOMBIA|
+|13|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|181.78.82.211|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|16|190.94.213.4|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|177.240.4.125|999|Mexico|Montemorelos|Mega Cable, S.A. de C.V.|
+|19|72.10.164.178|2899|Canada|Montreal|GloboTech Communications|
+|20|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
