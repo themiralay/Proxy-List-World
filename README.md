@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|185.154.239.52|8080|Italy|Ragusa|Blunova S.R.L.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|8|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|9|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
-|14|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|103.41.91.161|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|16|131.100.48.97|999|Colombia|Neiva|Fibernet TV SAS|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|67.43.236.20|8509|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|4937|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|8509|Canada|Montreal|GloboTech Communications|
+|6|175.111.129.156|8080|India|Jaipur|Spiderlink Networks Pvt Ltd|
+|7|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|72.10.160.90|19555|Canada|Montreal|GloboTech Communications|
+|9|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
+|10|149.56.110.191|8118|Canada|Montreal|OVH SAS|
+|11|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|12|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|67.43.227.226|6035|Canada|Montreal|GloboTech Communications|
+|17|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
+|19|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|20|67.43.236.20|4917|Canada|Montreal|GloboTech Communications|
 
 
 
