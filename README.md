@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|101.255.208.22|3127|Indonesia|Wanaherang|PT Remala Abadi|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.35.0.103|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|11|188.132.222.70|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|69.160.223.225|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|13|190.97.233.18|999|Venezuela|Barquisimeto|Viginet C.A|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|16|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|20|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
+|3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|11|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|14|103.168.123.2|8080|Indonesia|Jakarta|LINTASARTA|
+|15|69.160.223.225|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|16|45.235.16.121|27234|Brazil|Lapa|Acessoline Telecom|
+|17|103.125.160.178|82|India|Hyderabad|CtrlS|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
 
 
 
