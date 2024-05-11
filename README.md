@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
 |3|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|156.146.58.170|10223|United States|New York|DataCamp Limited|
+|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |8|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|11|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|12|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
-|13|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|201.157.61.166|999|Mexico|Puebla City|Transtelco Inc|
-|15|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|17|72.10.160.170|30721|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|17221|Canada|Montreal|GloboTech Communications|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|103.107.84.124|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|11|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|12|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
+|13|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|14|103.172.35.13|8080|Indonesia|Temanggung|PT Lintas Jaringan Nusantara|
+|15|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
+|16|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|19|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|20|67.43.227.227|22963|Canada|Montreal|GloboTech Communications|
 
 
 
