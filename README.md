@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|7|171.4.192.66|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|8|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|9|207.244.254.27|3129|United States|St Louis|Nubes, LLC|
-|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|14.162.146.186|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|12|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|150.129.5.228|8080|Pakistan|Karachi|Ebone Network (Pvt) Ltd|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
+|10|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |13|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
-|14|176.241.89.244|53583|Iraq|Baghdad|Hayat ISP|
-|15|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|188.125.167.66|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
-|18|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|19|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
-|20|221.168.37.223|8888|South Korea|Seongnam-si|Korea Telecom|
+|14|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|72.10.160.90|24397|Canada|Montreal|GloboTech Communications|
+|18|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|19|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|20|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
