@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|46.21.253.164|3128|Russia|Moscow|Start LLC|
-|4|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
+|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.141.109.237|8080|Indonesia|Blitar|Data Buana Nusantara|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|190.94.212.240|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|9|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
-|10|103.28.114.140|80|Indonesia|Bantul|PT Lintas Data Prima|
-|11|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|103.146.185.90|8080|Indonesia|Wonogiri|YAMNET|
-|14|38.188.251.10|8080|Indonesia|Lamongan|PT. Menaksopal Link Nusantara|
-|15|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|17|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|177.234.251.187|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|7|101.255.208.22|3127|Indonesia|Wanaherang|PT Remala Abadi|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|10|103.165.211.174|3128|Indonesia|Bulak|PT iForte Global Internet|
+|11|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|12|38.188.251.10|8080|Indonesia|Lamongan|PT. Menaksopal Link Nusantara|
+|13|51.68.220.201|8080|United Kingdom|Rainham|OVH SAS|
+|14|103.141.109.219|8080|Indonesia|Blitar|Data Buana Nusantara|
+|15|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|206.62.64.34|8080|Brazil|Apucarana|AGIS|
+|17|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|18|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom LLC|
+|19|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|179.1.134.75|999|Colombia|Ibagué|Internexa S.a. E.S.P|
 
 
 
