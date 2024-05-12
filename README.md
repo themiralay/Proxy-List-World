@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
 |5|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|72.10.164.178|10855|Canada|Montreal|GloboTech Communications|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|72.10.164.178|7621|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|22909|Canada|Montreal|GloboTech Communications|
-|10|45.162.132.129|999|Chile|Santiago|Lara Ingenieria EN Tecnologia Y Telecomunicaciones Limitada|
-|11|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|12|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|13|72.10.164.178|7621|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|201.77.108.21|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|16|103.250.130.104|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|19|72.10.164.178|7621|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|31377|Canada|Montreal|GloboTech Communications|
+|8|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|9|67.43.228.253|29359|Canada|Montreal|GloboTech Communications|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|72.10.164.178|10855|Canada|Montreal|GloboTech Communications|
+|14|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|15|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
+|16|67.43.228.253|29359|Canada|Montreal|GloboTech Communications|
+|17|202.94.164.190|8080|Bangladesh|Gaurnadi|Summit Communications Ltd|
+|18|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|19|200.45.73.115|3577|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|20|72.10.160.172|1393|Canada|Montreal|GloboTech Communications|
 
 
 
