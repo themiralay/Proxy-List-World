@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|5|88.247.209.143|8080|Türkiye|Izmir|TurkTelecom|
-|6|103.9.188.228|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|7|103.26.110.46|82|India|Mayiladuthurai|Niss Networks|
-|8|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|10|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
-|11|104.129.202.97|8800|United States|San Jose|ZSCALER, INC.|
-|12|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
-|13|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|16|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
-|17|160.248.5.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|197.254.84.86|32650|Kenya|Nairobi|ACCESSKENYA|
-|20|212.200.39.210|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|6|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
+|7|104.129.202.97|8800|United States|San Jose|ZSCALER, INC.|
+|8|179.1.134.75|999|Colombia|Ibagué|Internexa S.a. E.S.P|
+|9|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.5.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|213.221.46.10|3128|Russia|Moscow|EDN Sovintel|
+|16|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|17|104.129.206.65|8800|United States|Atlanta|ZSCALER, INC.|
+|18|177.115.239.37|8080|Brazil|São Paulo|Vivo|
+|19|103.191.196.54|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|20|104.129.192.183|8800|United States|Santa Clara|ZSCALER, INC.|
 
 
 
