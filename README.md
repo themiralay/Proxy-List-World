@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8067** proxies at the latest update. Usable proxies are below.
+> Scraper found **8013** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|268|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|706|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|652|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|305|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5830|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|67.43.227.227|32399|Canada|Montreal|GloboTech Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
-|13|72.10.160.90|14327|Canada|Montreal|GloboTech Communications|
-|14|45.190.170.0|999|Peru|Lima region|Softbutterfly SAC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|72.10.164.178|8897|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|32399|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|8897|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|6889|Canada|Montreal|GloboTech Communications|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|103.107.84.124|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|11|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
+|12|103.88.239.57|84|India|Hyderabad|Mana Communications|
+|13|58.65.197.91|8080|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
+|14|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|15|103.19.59.102|1983|Indonesia|Madiun|BITSNET|
+|16|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|17|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|18|103.245.16.133|8080|Indonesia|Manggadua Selatan|PT Quantum Tera Network|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
 
 
 
