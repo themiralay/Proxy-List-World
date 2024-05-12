@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|160.248.5.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
+|8|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |9|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|11|190.209.27.86|999|Chile|San Bernardo|Telmex Servicios Empresariales S.A.|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|13|177.115.239.37|8080|Brazil|São Paulo|Vivo|
 |14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|67.43.227.227|3287|Canada|Montreal|GloboTech Communications|
-|16|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|102.39.156.37|8080|South Africa|Cape Town|Vox Telecom|
+|15|67.43.227.227|1025|Canada|Montreal|GloboTech Communications|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
+|18|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|20|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
