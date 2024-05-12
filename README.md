@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|67.43.228.253|28741|Canada|Montreal|GloboTech Communications|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
 |8|72.10.160.171|25085|Canada|Montreal|GloboTech Communications|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|11|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|72.10.164.178|22301|Canada|Montreal|GloboTech Communications|
-|15|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
-|16|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|34.154.161.152|80|Italy|Milan|Google LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.236.20|25351|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|24009|Canada|Montreal|GloboTech Communications|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|13|47.184.156.29|3128|United States|Garland|Frontier Communications Solutions|
+|14|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|16|72.10.164.178|21511|Canada|Montreal|GloboTech Communications|
+|17|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|18|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
+|19|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
