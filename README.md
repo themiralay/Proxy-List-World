@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|103.130.5.34|8080|Indonesia|Samarinda|LINTASMAYA|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|5|38.188.251.10|8080|Indonesia|Lamongan|PT. Menaksopal Link Nusantara|
-|6|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
-|8|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
-|9|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|10|103.88.239.57|84|India|Hyderabad|Mana Communications|
-|11|177.93.40.54|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|160.248.5.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|138.204.182.106|999|Honduras|La Lima|METRONET|
-|14|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|181.118.143.1|999|Argentina|Posadas|Siternet SRL|
-|18|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
-|19|41.33.219.131|1981|Egypt|Cairo|TE Data|
-|20|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|4|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|5|222.243.174.132|81|China|Xiangtan|Chinanet|
+|6|82.202.151.57|8080|Russia|Yuzhno-Sakhalinsk|Site LLC|
+|7|160.248.5.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|121.195.170.225|1024|China|Haidian|CERNET|
+|11|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|222.174.178.122|4999|China|Xintai|Chinanet|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.10.164.178|12613|Canada|Montreal|GloboTech Communications|
+|17|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|18|85.117.60.162|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|19|88.247.209.143|8080|Türkiye|Izmir|TurkTelecom|
+|20|72.10.160.94|28181|Canada|Montreal|GloboTech Communications|
 
 
 
