@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.127.240.123|64001|Angola|Huambo|HMB-FTTH|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|103.149.194.222|32650|India|New Delhi|Kavya Internet Services Pvt Ltd|
+|4|154.127.240.123|64002|Angola|Huambo|HMB-FTTH|
+|5|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|6|154.127.240.126|64001|Angola|Huambo|HMB-FTTH|
+|7|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
 |8|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|186.148.181.69|999|Colombia|Cogua|TV AZTECA SUCURSAL COLOMBIA|
+|9|154.127.240.119|64001|Angola|Huambo|HMB-FTTH|
 |10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|154.127.240.119|64001|Angola|Huambo|HMB-FTTH|
-|12|103.164.112.123|10001|Indonesia|Jakarta Pusat|SOLUSINET|
-|13|154.127.240.120|64001|Angola|Huambo|HMB-FTTH|
-|14|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|14|158.255.215.50|16993|France|Bagnols-sur-Ceze|M247 Europe SRL|
+|15|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|83.244.33.34|8080|Palestinian Territory|Ramallah|Palestine Telecommunications Company|
+|19|202.12.80.11|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|20|116.80.58.70|4649|Japan|Honchō|InfoSphere|
 
 
 
