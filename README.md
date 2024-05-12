@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7971** proxies at the latest update. Usable proxies are below.
+> Scraper found **8003** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|67|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|826|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|68|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|857|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|354|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5766|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|3|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|7|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|2|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|6|45.186.106.159|999|Guatemala|Guatemala City|Infinitum S.A.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|103.105.76.65|8080|Indonesia|Bojonegoro|GARUDA|
 |11|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|158.140.181.148|8080|Indonesia|South Tangerang|MYREPUBLIC|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|103.36.10.85|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|18|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|192.99.169.19|8452|Canada|Beauharnois|OVH SAS|
-|20|72.10.164.178|26267|Canada|Montreal|GloboTech Communications|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|14|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
+|15|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|16|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|181.215.236.149|80|Brazil|Santana de Parnaiba|Ecxon Datacenter LTDA|
+|19|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|103.88.237.6|84|India|Hyderabad|Mana Communications|
 
 
 
