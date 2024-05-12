@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|72.10.164.178|14209|Canada|Montreal|GloboTech Communications|
-|7|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|72.10.164.178|14209|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|14209|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.91|18707|Canada|Montreal|GloboTech Communications|
-|11|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|12|72.10.164.178|14209|Canada|Montreal|GloboTech Communications|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|202.65.158.237|83|India|Hyderabad|Pioneer Elabs Ltd.|
+|8|72.10.164.178|15105|Canada|Montreal|GloboTech Communications|
+|9|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|72.10.164.178|15105|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|13861|Canada|Montreal|GloboTech Communications|
+|12|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|72.10.164.178|14209|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.160.90|4565|Canada|Montreal|GloboTech Communications|
-|18|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|16|103.169.254.39|8090|Indonesia|Sidoarjo|PT Master Star Network|
+|17|72.10.164.178|15105|Canada|Montreal|GloboTech Communications|
+|18|103.156.17.39|8818|Indonesia|Indramayu|RSTNET|
+|19|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|72.10.160.90|4565|Canada|Montreal|GloboTech Communications|
 
 
 
