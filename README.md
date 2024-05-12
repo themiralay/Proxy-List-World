@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|67.43.228.254|16889|Canada|Montreal|GloboTech Communications|
-|10|103.55.88.53|8080|India|Ghaziabad|Ultranet services private limited|
-|11|103.179.84.203|8080|Indonesia|Semarang|PT CYB Media Group|
-|12|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.79.38|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|181.115.69.118|999|Honduras|San Pedro Sula|Telgua|
-|15|67.43.228.253|14521|Canada|Montreal|GloboTech Communications|
-|16|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
-|17|67.43.227.227|8213|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.93|2509|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|11763|Canada|Montreal|GloboTech Communications|
-|20|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|103.164.213.78|8088|Indonesia|Kedungdoro|PT iForte Global Internet|
+|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|38.45.36.196|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|13|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
+|14|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|15|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|36.88.148.138|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|17|160.248.79.38|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|19|190.12.95.170|47029|Peru|Lima|WIN EMPRESAS S.A.C|
+|20|67.43.227.227|4341|Canada|Montreal|GloboTech Communications|
 
 
 
