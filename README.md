@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|67.43.227.227|9023|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|9023|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|15673|Canada|Montreal|GloboTech Communications|
-|12|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|13|72.10.164.178|20497|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|192.151.156.42|9002|United States|Kansas City|Nocix, LLC|
-|16|197.98.201.74|10808|South Africa|Johannesburg|Dimension Data|
-|17|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|103.143.169.57|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|19|67.43.228.253|18629|Canada|Montreal|GloboTech Communications|
-|20|197.98.201.72|10415|South Africa|Johannesburg|Dimension Data|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.169.149.254|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
+|6|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|72.10.160.90|32611|Canada|Montreal|GloboTech Communications|
+|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|10|72.10.164.178|25465|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|25465|Canada|Montreal|GloboTech Communications|
+|12|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|14|92.255.7.162|8080|Russia|St Petersburg|JSC "Severen-Telecom"|
+|15|102.214.165.201|1976|Libya|Wardāmah|Taqnyat Aljeel Company Communication and Information|
+|16|67.43.228.253|18629|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|7171|Canada|Montreal|GloboTech Communications|
+|18|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|197.98.201.74|10808|South Africa|Johannesburg|Dimension Data|
+|20|72.10.164.178|25465|Canada|Montreal|GloboTech Communications|
 
 
 
