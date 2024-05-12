@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|11|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|12|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|14|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|212.115.232.79|31280|Ukraine|Dnipro|ISP "Fregat"|
-|18|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|20|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.203.175.102|84|India|Hyderabad|Softgaurd Powertronics|
+|14|103.164.117.186|3128|Indonesia|Jakarta Pusat|SOLUSINET|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|18|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
