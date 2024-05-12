@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|200.101.150.202|8080|Brazil|Paranaguá|V tal|
-|9|12.248.41.130|8080|United States|New Orleans|AT&T Services, Inc.|
-|10|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|188.125.167.66|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
-|15|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|16|72.10.164.178|9639|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|20293|Canada|Montreal|GloboTech Communications|
-|18|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|19|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|20|72.10.164.178|9639|Canada|Montreal|GloboTech Communications|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|10|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|13|103.9.188.228|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.164.178|22495|Canada|Montreal|GloboTech Communications|
+|16|103.58.95.5|8080|Bangladesh|Dhaka|Metaphor Digital Media|
+|17|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|18|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|72.10.160.90|20293|Canada|Montreal|GloboTech Communications|
+|20|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
 
 
 
