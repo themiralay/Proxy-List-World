@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|3|103.217.224.69|8989|Indonesia|Gunung Kendil|PT Nesta Indo Media|
 |4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|186.103.130.92|8080|Chile|Santiago|Telefonica Empresas|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|11|103.87.169.160|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|103.234.159.5|8080|India|Bengaluru|MWPL|
-|16|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|191.102.254.9|8085|Argentina|Rosario|IP·RED|
-|20|179.60.235.249|8094|Argentina|Empalme Villa Constitucion|WICORP SA|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|38.156.23.12|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
+|8|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|10|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|72.10.160.90|19585|Canada|Montreal|GloboTech Communications|
+|15|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|191.243.161.135|3128|Brazil|Americana|Simnet Telecomunicacoes Ltda|
+|17|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|18|67.43.227.227|28031|Canada|Montreal|GloboTech Communications|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|72.10.160.172|1213|Canada|Montreal|GloboTech Communications|
 
 
 
