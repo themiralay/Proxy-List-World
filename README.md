@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|103.105.76.65|8080|Indonesia|Bojonegoro|GARUDA|
 |4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|113.160.182.236|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|9|154.127.240.123|64002|Angola|Huambo|HMB-FTTH|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|67.43.236.18|6445|Canada|Montreal|GloboTech Communications|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|16|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.68.207.34|82|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
-|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|19|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|119.76.142.208|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|8|154.127.240.123|64002|Angola|Huambo|HMB-FTTH|
+|9|101.255.17.6|8033|Indonesia|Jakarta|PT Remala Abadi|
+|10|103.113.79.123|80|Indonesia|Guntur|Indonesia Network Information Center|
+|11|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
+|13|14.99.215.106|1111|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
+|14|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|67.43.236.18|6511|Canada|Montreal|GloboTech Communications|
+|16|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|17|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.160.90|27555|Canada|Montreal|GloboTech Communications|
 
 
 
