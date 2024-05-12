@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|7|157.10.156.100|1080|Indonesia|Enrekang|PT Singki Media Telekomunikasi|
 |8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 |10|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.101.216.2|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
-|13|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|14|103.81.214.235|83|India|Faridabad|Hps Digital Broadband|
+|11|190.153.237.2|37453|Chile|Santiago|Gtd Internet S.A.|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|103.148.130.3|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|18|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|19|121.101.135.94|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
 
 
 
