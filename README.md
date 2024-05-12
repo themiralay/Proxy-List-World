@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
 |2|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|103.159.195.221|8080|Indonesia|Demak|PT Giga Digital Nusantara|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|72.10.160.170|33147|Canada|Montreal|GloboTech Communications|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|103.5.18.86|83|India|Malakāpuram|CityOnline|
-|14|36.88.148.138|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|67.43.227.227|1781|Canada|Montreal|GloboTech Communications|
-|18|103.186.8.138|8080|Indonesia|Pelem Satu|PRISMA|
-|19|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|20|103.159.195.193|8080|Indonesia|Demak|PT Giga Digital Nusantara|
+|17|67.43.227.227|2549|Canada|Montreal|GloboTech Communications|
+|18|38.52.208.4|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|19|39.129.73.6|443|China|Kunming|China Mobile|
+|20|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 
 
 
