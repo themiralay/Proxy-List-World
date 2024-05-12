@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.217.224.69|8989|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|8|8.243.126.230|999|Peru|Ventanilla|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.87.169.160|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|7|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
+|8|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
-|17|119.76.142.208|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|18|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.156.17.52|3127|Indonesia|Indramayu|RSTNET|
-|20|129.213.198.245|80|United States|Ashburn|Oracle Corporation|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|39.129.73.6|443|China|Kunming|China Mobile|
+|14|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
+|15|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
+|16|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.164.178|24329|Canada|Montreal|GloboTech Communications|
+|19|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|20|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
 
 
 
