@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|9|67.43.228.250|6865|Canada|Montreal|GloboTech Communications|
-|10|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|11|67.43.227.227|33233|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|3907|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|72.10.160.171|11755|Canada|Montreal|GloboTech Communications|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|67.43.227.227|33233|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|24981|Canada|Montreal|GloboTech Communications|
-|18|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|19|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
+|11|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|67.43.227.227|33233|Canada|Montreal|GloboTech Communications|
+|15|39.129.73.6|443|China|Kunming|China Mobile|
+|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|72.10.160.90|25939|Canada|Montreal|GloboTech Communications|
+|19|45.173.12.141|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
+|20|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
 
 
 
