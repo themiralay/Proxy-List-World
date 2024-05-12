@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|136.226.57.115|8800|United States|Seattle|ZSCALER, INC.|
-|8|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|72.10.164.178|16261|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|4095|Canada|Montreal|GloboTech Communications|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|7|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|9|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|72.10.160.170|12557|Canada|Montreal|GloboTech Communications|
+|12|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |14|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |15|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|72.10.160.170|4095|Canada|Montreal|GloboTech Communications|
-|17|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|103.234.159.5|8080|India|Bengaluru|MWPL|
-|19|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|72.10.164.178|17221|Canada|Montreal|GloboTech Communications|
+|18|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
 |20|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
