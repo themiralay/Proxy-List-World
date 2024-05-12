@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|7|103.55.88.53|8080|India|Ghaziabad|Ultranet services private limited|
-|8|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|9|201.77.108.25|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|200.39.120.123|999|Mexico|Las Norias de Ojocaliente|Marcatel Com, S.A. de C.V.|
-|16|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|17|61.244.131.154|8118|Hong Kong|Sheung Shui|Hong Kong Broadband Network Ltd|
+|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|67.43.227.228|2753|Canada|Montreal|GloboTech Communications|
+|11|179.1.134.75|999|Colombia|Ibagué|Internexa S.a. E.S.P|
+|12|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|13|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.196.28.6|8080|India|Coimbatore|WLSNET|
+|17|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |18|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |19|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
+|20|176.211.113.246|80|Russia|Novosibirsk|PJSC Rostelecom|
 
 
 
