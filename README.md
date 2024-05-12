@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|103.179.84.203|8080|Indonesia|Semarang|PT CYB Media Group|
-|7|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
-|8|103.172.70.138|9191|Indonesia|Karangampel|AZNET|
-|9|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|158.101.126.210|80|United States|Ashburn|Oracle Corporation|
-|11|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|15|139.99.238.83|8080|Australia|Sydney|OVH SAS|
-|16|103.69.151.189|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|18|67.43.236.20|30739|Canada|Montreal|GloboTech Communications|
-|19|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|14|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
