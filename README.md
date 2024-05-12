@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|201.251.61.143|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|12|67.43.228.254|33233|Canada|Montreal|GloboTech Communications|
-|13|103.112.149.41|8080|Bangladesh|Khulna|Royalnet|
-|14|103.39.51.98|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|15|103.6.223.2|3128|China|Baoshan|China Unicom|
-|16|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.164.178|10183|Canada|Montreal|GloboTech Communications|
-|19|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|72.10.160.174|19153|Canada|Montreal|GloboTech Communications|
+|5|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|6|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|7|103.203.175.97|84|India|Hyderabad|Softgaurd Powertronics|
+|8|177.231.245.182|8080|Mexico|Ciudad Hidalgo|Mega Cable, S.A. de C.V.|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|11|67.43.228.254|33233|Canada|Montreal|GloboTech Communications|
+|12|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|13|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|14|36.88.148.138|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|15|67.43.228.253|4217|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|72.10.164.178|10183|Canada|Montreal|GloboTech Communications|
+|20|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
 
 
 
