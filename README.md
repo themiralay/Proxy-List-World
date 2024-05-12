@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
 |2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |3|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|172.232.216.110|22027|Italy|Milan|Akamai Technologies, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|154.127.240.123|64002|Angola|Huambo|HMB-FTTH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |13|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.164.178|20033|Canada|Montreal|GloboTech Communications|
-|15|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|72.10.164.178|20033|Canada|Montreal|GloboTech Communications|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|20|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|47.184.156.29|3128|United States|Garland|Frontier Communications Solutions|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|103.162.209.157|8080|Bangladesh|Natore|Star Online|
 
 
 
