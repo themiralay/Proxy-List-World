@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|4|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|192.151.156.42|9002|United States|Kansas City|Nocix, LLC|
-|7|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|72.10.164.178|26063|Canada|Montreal|GloboTech Communications|
-|11|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|67.43.236.20|15897|Canada|Montreal|GloboTech Communications|
-|14|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.228.253|1061|Canada|Montreal|GloboTech Communications|
-|17|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|72.10.160.90|7473|Canada|Montreal|GloboTech Communications|
-|19|203.150.128.91|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|20|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|11|67.43.236.20|15897|Canada|Montreal|GloboTech Communications|
+|12|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|14|103.36.8.55|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.10.160.90|7473|Canada|Montreal|GloboTech Communications|
+|17|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|67.43.236.20|15897|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|67.43.228.253|19523|Canada|Montreal|GloboTech Communications|
 
 
 
