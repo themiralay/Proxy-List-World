@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.169.149.254|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
-|6|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|7|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|12|173.212.213.133|3128|Germany|Nuremberg|Contabo GmbH|
-|13|72.10.160.90|19555|Canada|Montreal|GloboTech Communications|
-|14|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|15|103.234.159.5|8080|India|Bengaluru|MWPL|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.236.20|21737|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|24109|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|24109|Canada|Montreal|GloboTech Communications|
-|20|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|6|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|181.209.102.237|999|Argentina|Sancti Spiritu|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|9|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|10|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|138.118.106.121|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
+|15|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|16|72.10.160.90|6219|Canada|Montreal|GloboTech Communications|
+|17|39.129.73.6|443|China|Kunming|China Mobile|
+|18|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
