@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|5|154.127.240.123|64001|Angola|Huambo|HMB-FTTH|
-|6|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|7|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|72.10.164.178|30007|Canada|Montreal|GloboTech Communications|
-|16|158.255.215.50|16993|France|Bagnols-sur-Ceze|M247 Europe SRL|
-|17|41.254.53.70|1981|Libya|Tripoli|LTT Network Backbone and POPs|
-|18|67.43.228.253|21449|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|21449|Canada|Montreal|GloboTech Communications|
-|20|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|4|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|77.37.244.119|8080|Russia|Moscow|NCNET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|15|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|18|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.228.253|19579|Canada|Montreal|GloboTech Communications|
 
 
 
