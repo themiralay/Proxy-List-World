@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|72.10.160.173|31985|Canada|Montreal|GloboTech Communications|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.68.214.10|1234|Indonesia|Tangerang|PT Media Grasi Internet|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|45.236.170.166|999|Ecuador|General Villamil|Codgrec S.A.|
+|5|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|6|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|119.93.167.12|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|45.70.203.107|999|Ecuador|Chone|Ufinet Panama S.A.|
 |12|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.164.178|8485|Canada|Montreal|GloboTech Communications|
-|15|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.236.20|31971|Canada|Montreal|GloboTech Communications|
-|18|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|72.10.164.178|8485|Canada|Montreal|GloboTech Communications|
-|20|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
 
 
 
