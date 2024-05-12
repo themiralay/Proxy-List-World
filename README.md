@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|94.131.14.66|3128|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|43.249.224.170|83|India|Hyderabad|Pioneer Elabs Ltd.|
-|7|200.39.120.123|999|Mexico|Las Norias de Ojocaliente|Marcatel Com, S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|92.255.232.231|8080|Russia|Kirov|JSC "ER-Telecom Holding"|
+|9|72.14.184.125|22030|United States|Richardson|Akamai Technologies, Inc.|
 |10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|113.160.166.196|6011|Vietnam|Thị Trấn Tân Yên|VietNam Post and Telecom Corporation|
-|12|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
-|14|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|15|72.10.164.178|29863|Canada|Montreal|GloboTech Communications|
-|16|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|18|67.43.236.20|13775|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|13775|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|29863|Canada|Montreal|GloboTech Communications|
+|11|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|72.10.164.178|22699|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|24521|Canada|Montreal|GloboTech Communications|
+|17|109.175.9.203|8080|Bosnia and Herzegovina|Živinice|BH Telecom d.d. Sarajevo|
+|18|103.180.198.21|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
+|19|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|20|119.93.167.12|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
