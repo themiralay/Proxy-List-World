@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|103.204.20.21|8080|India|Tanuku|CityOnline Services Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|177.93.36.151|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
-|8|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
-|12|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|179.1.142.129|8080|Colombia|Bogotá|InterNexa Global Network|
-|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|15|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
-|16|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|18|186.97.172.178|60080|Colombia|Medellín|Colombia Móvil|
-|19|36.88.148.138|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|20|67.43.236.21|27197|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|103.164.117.186|3128|Indonesia|Jakarta Pusat|SOLUSINET|
+|10|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
+|11|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|13|201.54.176.128|8080|Brazil|Piquet Carneiro|Lucas De Souza Silva|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|85.117.60.162|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|18|177.93.36.151|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|19|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|20|116.80.58.72|4649|Japan|Honchō|InfoSphere|
 
 
 
