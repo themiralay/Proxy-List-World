@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|3|94.75.76.10|8080|Poland|Warsaw|ASTER Sp. z o.o|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|206.27.173.58|443|United States|Phoenix|CenturyLink Communications, LLC|
-|16|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|50.236.203.15|8080|United States|Houston|Comcast Cable Communications, LLC|
-|19|104.225.150.168|3128|United States|Los Angeles|IT7 Networks Inc|
-|20|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|38.7.3.4|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|4|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|10|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|154.212.7.247|999|Mexico|Atotonilco el Grande|Ientc S De RL De CV|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
+|17|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|19|88.255.185.245|8080|Türkiye|Adapazarı|Turk Telekomunikasyon Anonim Sirketi|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
