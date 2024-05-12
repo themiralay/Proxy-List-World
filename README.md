@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|103.129.201.158|8080|Bangladesh|Gafargaon|Weblink Communications Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|16|72.10.160.174|10107|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.236.20|5905|Canada|Montreal|GloboTech Communications|
-|19|88.255.185.245|8080|Türkiye|Adapazarı|Turk Telekomunikasyon Anonim Sirketi|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|112.109.16.51|8080|Indonesia|Surabaya|DATAUTAMANET|
+|9|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|72.10.160.174|10107|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|103.117.194.69|8080|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
+|19|211.95.152.50|45046|United States|Los Angeles|China Unicom Guangdong IP network|
+|20|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
 
 
 
