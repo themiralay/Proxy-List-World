@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|88.99.131.6|8118|Germany|Hamburg|Hetzner Online GmbH|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|15|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|17|67.43.227.227|1359|Canada|Montreal|GloboTech Communications|
-|18|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|19|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|72.10.164.178|29817|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|10121|Canada|Montreal|GloboTech Communications|
+|13|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|17|72.10.164.178|29817|Canada|Montreal|GloboTech Communications|
+|18|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
+|19|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|185.116.94.184|6588|Bulgaria|Petrich|UltraNET Ltd|
 
 
 
