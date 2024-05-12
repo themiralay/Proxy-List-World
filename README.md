@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|7|103.112.149.41|8080|Bangladesh|Khulna|Royalnet|
-|8|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|34.67.64.157|3128|United States|Council Bluffs|Google LLC|
-|11|67.43.236.20|6935|Canada|Montreal|GloboTech Communications|
-|12|103.12.21.4|3128|Indonesia|Jakarta|PT Equnix Business Solutions|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|221.168.37.223|8888|South Korea|Seongnam-si|Korea Telecom|
-|15|187.72.132.170|3128|Brazil|São Paulo|ALGAR TELECOM S/A|
-|16|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|72.10.164.178|6425|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|1099|Canada|Montreal|GloboTech Communications|
-|19|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|20|72.10.164.178|6425|Canada|Montreal|GloboTech Communications|
+|1|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|36.88.148.138|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|10|177.93.40.54|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|72.10.164.178|7083|Canada|Montreal|GloboTech Communications|
+|12|160.248.90.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|103.156.74.186|8080|Indonesia|Denpasar|PT Trika Global Media|
+|14|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|39.129.73.6|443|China|Kunming|China Mobile|
+|20|187.72.132.170|3128|Brazil|São Paulo|ALGAR TELECOM S/A|
 
 
 
