@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|8|103.204.20.21|8080|India|Tanuku|CityOnline Services Ltd|
-|9|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|124.105.79.237|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|10|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|201.77.108.25|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|13|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|103.156.17.57|8818|Indonesia|Indramayu|RSTNET|
-|15|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|12|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|85.117.60.162|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|14|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 |16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|38.7.31.229|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|67.43.228.254|28939|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|23391|Canada|Montreal|GloboTech Communications|
-|20|103.169.130.17|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|17|67.43.228.254|28939|Canada|Montreal|GloboTech Communications|
+|18|170.81.131.70|3128|Brazil|Ribeirão Preto|IFTNET Telecomunicacoes Ltda|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|186.148.181.69|999|Colombia|Cogua|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
