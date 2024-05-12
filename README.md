@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
-|8|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|11|72.10.164.178|19573|Canada|Montreal|GloboTech Communications|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|202.94.164.190|8080|Bangladesh|Gaurnadi|Summit Communications Ltd|
-|16|103.115.227.21|80|Indonesia|Surakarta|Pemerintah Kota Surakarta|
-|17|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
-|18|39.129.73.6|443|China|Kunming|China Mobile|
-|19|67.43.228.250|3057|Canada|Montreal|GloboTech Communications|
-|20|23.94.214.8|9054|United States|Santa Clara|HostPapa|
+|5|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|6|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|7|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|67.43.227.227|1101|Canada|Montreal|GloboTech Communications|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|11|85.117.63.37|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|12|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|13|67.43.236.19|21605|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|181.78.21.146|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|72.10.164.178|19573|Canada|Montreal|GloboTech Communications|
+|18|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
+|19|72.10.160.90|2657|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|3057|Canada|Montreal|GloboTech Communications|
 
 
 
