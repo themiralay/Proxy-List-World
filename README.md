@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.226.232.196|1080|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|9|5.252.23.220|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|10|103.137.45.213|32210|India|Pūrna|Wsnl Broadband Private Limited|
-|11|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|12|109.207.93.218|8080|Russia|Ivanteyevka|Ivanteevskie telecommunicacii Ltd|
-|13|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
-|14|78.47.35.35|3312|Germany|Essen|Hetzner Online GmbH|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|27.54.117.88|8089|Indonesia|Denpasar|Indonesia Network Information Center|
-|18|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|19|103.165.155.69|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|20|181.39.24.155|999|Ecuador|Quito|Telconet S.A|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|103.189.231.217|8080|Indonesia|Ciamis|PT Media Access Telematika|
+|10|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
+|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|14|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|72.10.164.178|1953|Canada|Montreal|GloboTech Communications|
+|19|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.58.95.5|8080|Bangladesh|Dhaka|Metaphor Digital Media|
 
 
 
