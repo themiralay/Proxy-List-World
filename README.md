@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|4|119.76.142.208|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
-|7|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
-|8|203.161.54.164|5555|United States|Los Angeles|Namecheap, Inc.|
-|9|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|13|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|4381|Canada|Montreal|GloboTech Communications|
-|17|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.227.227|7463|Canada|Montreal|GloboTech Communications|
-|19|66.206.15.147|8122|United States|Los Angeles|Primary|
-|20|67.43.227.227|7463|Canada|Montreal|GloboTech Communications|
+|2|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|46.21.253.164|3128|Russia|Moscow|Start LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|103.156.17.8|8818|Indonesia|Indramayu|RSTNET|
+|9|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|10|103.113.79.123|80|Indonesia|Guntur|Indonesia Network Information Center|
+|11|101.255.17.6|8033|Indonesia|Jakarta|PT Remala Abadi|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|14|158.140.181.148|8080|Indonesia|South Tangerang|MYREPUBLIC|
+|15|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|177.136.85.113|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|19|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
