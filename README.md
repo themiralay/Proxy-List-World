@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|10|27.54.117.88|8089|Indonesia|Denpasar|Indonesia Network Information Center|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|103.226.232.196|1080|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|16|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|19|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|20|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|6|114.129.19.139|8080|Indonesia|Kandang|PT Hipernet Indodata|
+|7|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|27.54.117.88|8089|Indonesia|Denpasar|Indonesia Network Information Center|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|200.39.120.123|999|Mexico|Las Norias de Ojocaliente|Marcatel Com, S.A. de C.V.|
+|15|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|103.55.88.53|8080|India|Ghaziabad|Ultranet services private limited|
+|19|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
 
 
 
