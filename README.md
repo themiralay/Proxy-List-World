@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |6|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|67.43.227.227|25773|Canada|Montreal|GloboTech Communications|
-|11|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|15|72.10.160.91|10669|Canada|Montreal|GloboTech Communications|
-|16|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.227.227|25773|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|13405|Canada|Montreal|GloboTech Communications|
-|19|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|20|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
+|10|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|12|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|13|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|14|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
+|19|34.154.161.152|80|Italy|Milan|Google LLC|
+|20|103.141.109.237|8080|Indonesia|Blitar|Data Buana Nusantara|
 
 
 
