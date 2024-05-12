@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.169.186.153|3125|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|2|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |7|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|119.76.142.208|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|12|103.234.159.5|8080|India|Bengaluru|MWPL|
-|13|51.161.73.172|8050|Canada|Montreal|OVH Hosting|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|19|45.186.106.159|999|Guatemala|Guatemala City|Infinitum S.A.|
-|20|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|8|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|39.129.73.6|443|China|Kunming|China Mobile|
+|13|72.10.160.90|11745|Canada|Montreal|GloboTech Communications|
+|14|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|15|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|17|177.234.212.188|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|67.43.227.227|27637|Canada|Montreal|GloboTech Communications|
 
 
 
