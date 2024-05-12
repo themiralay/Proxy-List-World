@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
-|6|168.126.74.132|80|South Korea|Seongnam-si|Korea Telecom|
-|7|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
+|4|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|5|67.43.227.227|10121|Canada|Montreal|GloboTech Communications|
+|6|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|7|218.6.120.111|7777|China|Fuzhou|China Telecom|
 |8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|11|67.43.236.20|1851|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.171|3883|Canada|Montreal|GloboTech Communications|
-|13|122.185.198.242|7999|India|Gurugram|Bharti Airtel Limited|
-|14|195.201.34.206|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|15|67.43.227.227|10121|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|1851|Canada|Montreal|GloboTech Communications|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|9|67.43.236.20|1851|Canada|Montreal|GloboTech Communications|
+|10|103.182.213.13|8080|Bangladesh|Tongi|Rapid Network|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|72.10.164.178|29817|Canada|Montreal|GloboTech Communications|
+|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|67.43.227.228|3771|Canada|Montreal|GloboTech Communications|
+|16|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|17|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|168.126.74.132|80|South Korea|Seongnam-si|Korea Telecom|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
 
 
 
