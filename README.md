@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|3|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|154.127.240.123|64002|Angola|Huambo|HMB-FTTH|
-|10|67.43.227.228|6093|Canada|Montreal|GloboTech Communications|
-|11|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|13|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
-|15|67.43.228.250|10003|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|29367|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|11975|Canada|Montreal|GloboTech Communications|
-|18|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|19|207.154.194.241|4050|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|72.10.160.170|19635|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|154.127.240.123|64001|Angola|Huambo|HMB-FTTH|
+|7|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
+|8|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|9|101.255.166.134|1111|Indonesia|Bekasi|PT Remala Abadi|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|12|154.127.240.126|64001|Angola|Huambo|HMB-FTTH|
+|13|154.127.240.119|64001|Angola|Huambo|HMB-FTTH|
+|14|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|15|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|16|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|17|207.154.194.241|4050|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
+|20|67.43.228.253|8117|Canada|Montreal|GloboTech Communications|
 
 
 
