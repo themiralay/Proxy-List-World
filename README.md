@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|7|138.118.106.121|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
-|8|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|67.43.236.20|19159|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|19159|Canada|Montreal|GloboTech Communications|
-|12|181.10.160.154|8080|Argentina|La Carlota|Telecom Argentina S.A|
-|13|67.43.236.20|19159|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.91|4377|Canada|Montreal|GloboTech Communications|
-|15|103.148.130.6|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|16|51.161.73.172|8050|Canada|Montreal|OVH Hosting|
-|17|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|202.65.158.237|83|India|Hyderabad|Pioneer Elabs Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|5|138.118.106.121|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|9|67.43.236.20|11073|Canada|Montreal|GloboTech Communications|
+|10|222.243.174.132|81|China|Xiangtan|Chinanet|
+|11|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|13|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.236.20|11073|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|103.156.16.236|8080|Indonesia|Babakangarut|RSTNET|
+|18|212.112.120.252|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
+|19|72.14.184.125|22027|United States|Richardson|Akamai Technologies, Inc.|
+|20|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
