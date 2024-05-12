@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|117.102.103.146|9890|Indonesia|Jakarta|BIZNET|
-|9|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|72.10.160.170|28881|Canada|Montreal|GloboTech Communications|
-|13|188.125.167.66|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|138.204.182.106|999|Honduras|La Lima|METRONET|
+|6|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
+|7|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|8|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|15|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|67.43.236.20|29567|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|5987|Canada|Montreal|GloboTech Communications|
-|20|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|15|190.220.1.173|56974|Argentina|Buenos Aires|AMX Argentina S.A.|
+|16|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
 
 
 
