@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|177.93.50.106|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|103.113.79.123|80|Indonesia|Guntur|Indonesia Network Information Center|
-|12|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|67.43.236.18|10335|Canada|Montreal|GloboTech Communications|
-|16|152.101.73.180|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|17|103.88.237.6|84|India|Hyderabad|Mana Communications|
-|18|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|103.234.159.5|8080|India|Bengaluru|MWPL|
-|20|181.215.236.149|80|Brazil|Santana de Parnaiba|Ecxon Datacenter LTDA|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
+|8|177.234.212.188|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|37.187.24.201|81|France|Gravelines|OVH SAS|
+|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|16|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|17|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
+|18|103.169.254.39|8090|Indonesia|Sidoarjo|PT Master Star Network|
+|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 
 
 
