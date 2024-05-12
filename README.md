@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.108.190.38|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
-|4|94.75.76.10|8080|Poland|Warsaw|ASTER Sp. z o.o|
-|5|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|72.10.164.178|19713|Canada|Montreal|GloboTech Communications|
-|11|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|12|72.10.164.178|19713|Canada|Montreal|GloboTech Communications|
-|13|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
-|14|67.43.228.253|13441|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|32637|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|72.10.164.178|19713|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|19713|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|32637|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|1811|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|103.217.224.69|8989|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|6|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
+|7|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|154.127.240.123|64002|Angola|Huambo|HMB-FTTH|
+|10|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|162.212.152.9|31280|United States|Flushing|tzulo, inc.|
+|14|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|17|119.76.142.208|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|58.147.189.222|3128|Indonesia|Pontianak|PT Transhybrid Communication|
+|20|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
