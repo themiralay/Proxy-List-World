@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|5|103.169.186.153|3125|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|7|119.76.142.208|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|8|23.131.56.171|999|Puerto Rico|Cabo Rojo|Webiffi LLC|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|12|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|189.6.78.168|5151|Brazil|Brasília|Claro NXT Telecomunicacoes Ltda|
-|14|186.125.218.149|999|Argentina|Molinos|Telecom Argentina S.A.|
-|15|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|20|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|4|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|7|154.127.240.123|64002|Angola|Huambo|HMB-FTTH|
+|8|103.36.10.85|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|9|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|15|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|17|163.172.181.211|7203|France|Paris|Online S.A.S.|
+|18|67.43.228.253|14461|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|27555|Canada|Montreal|GloboTech Communications|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
