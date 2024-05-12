@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|8|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|11|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|12|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |13|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|102.68.129.54|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|20|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|103.191.196.108|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|200.229.80.182|3355|Brazil|Itajuípe|High Tech Telecom Ltda|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
