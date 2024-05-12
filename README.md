@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |11|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|72.10.160.90|11357|Canada|Montreal|GloboTech Communications|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|67.43.227.230|29053|Canada|Montreal|GloboTech Communications|
-|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|19|72.10.164.178|3311|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|19387|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|9343|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|18|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|19|182.253.109.6|8080|Indonesia|Semarang|Biznet Metronet|
+|20|72.10.164.178|3311|Canada|Montreal|GloboTech Communications|
 
 
 
