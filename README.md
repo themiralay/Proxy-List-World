@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|103.180.198.23|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
-|12|67.43.228.253|22867|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|26689|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|7381|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|22867|Canada|Montreal|GloboTech Communications|
-|16|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
-|17|8.222.152.158|55555|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.164.178|26689|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|1255|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|26689|Canada|Montreal|GloboTech Communications|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|103.178.194.190|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.236.20|7381|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|12897|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|27109|Canada|Montreal|GloboTech Communications|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
 
 
 
