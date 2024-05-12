@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|4|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|72.10.160.90|31033|Canada|Montreal|GloboTech Communications|
-|6|39.129.73.6|443|China|Kunming|China Mobile|
-|7|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|8|72.10.164.178|3131|Canada|Montreal|GloboTech Communications|
-|9|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
-|12|67.43.236.21|1217|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|22631|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
-|16|67.43.228.253|16643|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|28741|Canada|Montreal|GloboTech Communications|
-|18|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|19|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
-|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|41.159.154.43|3128|Gabon|Libreville|Gabon Telecom Internet Network Autonomous System|
+|9|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|15|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
 
 
 
