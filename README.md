@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
-|4|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|7|103.113.71.230|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|8|176.105.220.74|3129|Ukraine|Kremenchug|NPK Home-Net Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|113.160.182.236|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
-|12|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|13|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|14|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|15|186.103.130.92|8080|Chile|Santiago|Telefonica Empresas|
-|16|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|181.215.236.149|80|Brazil|Santana de Parnaiba|Ecxon Datacenter LTDA|
+|11|72.10.164.178|1929|Canada|Montreal|GloboTech Communications|
+|12|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|67.43.236.20|28509|Canada|Montreal|GloboTech Communications|
+|15|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|16|67.43.236.18|4289|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|5285|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|20|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
