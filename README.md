@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|7|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|10|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|16|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|18|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|19|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|11|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|13|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|103.224.124.75|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|15|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|17|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|18|67.43.227.228|26289|Canada|Montreal|GloboTech Communications|
+|19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
