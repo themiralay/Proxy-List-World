@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7815** proxies at the latest update. Usable proxies are below.
+> Scraper found **7837** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|266|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|702|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|724|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|222|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5667|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.35.189.217|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|6|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|103.88.239.57|84|India|Hyderabad|Mana Communications|
-|10|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
-|11|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|15|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|181.209.111.82|999|Argentina|Villa de Soto|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|72.10.160.170|18929|Canada|Montreal|GloboTech Communications|
-|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|5|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|6|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|7|103.48.68.29|83|India|Hyderabad|Country Online Services PVT LTD|
+|8|186.148.182.82|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.240.110.242|8080|Indonesia|Kupang|PT.ArseNET Global Solusi|
+|13|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|168.228.36.22|27234|Brazil|Rondonópolis|Avato Tecnologia S.A|
+|15|112.78.47.188|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
+|16|67.43.228.253|20269|Canada|Montreal|GloboTech Communications|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|67.43.227.228|26501|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|22255|Canada|Montreal|GloboTech Communications|
 
 
 
