@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|103.191.196.54|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|103.163.244.105|83|India|Panipat|Infolink System|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.154.77.204|8080|Indonesia|Magelang|T2NET|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|103.76.149.102|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|67.43.227.227|17907|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|16873|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|16873|Canada|Montreal|GloboTech Communications|
-|17|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
-|19|103.177.10.139|8080|Indonesia|Kediri|PT Nalendra Gigantara Media|
-|20|103.110.10.190|3128|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|4|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|11|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|14|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|15|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|16|67.43.227.227|17907|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|39.129.73.6|443|China|Kunming|China Mobile|
+|19|67.43.236.20|16873|Canada|Montreal|GloboTech Communications|
+|20|191.102.254.9|8085|Argentina|Rosario|IP·RED|
 
 
 
