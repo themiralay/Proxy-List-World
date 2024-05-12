@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|113.160.182.236|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|190.90.7.195|8080|Colombia|Medellín|Internexa S.a. E.S.P|
-|8|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|12|103.115.227.21|80|Indonesia|Surakarta|Pemerintah Kota Surakarta|
-|13|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|14|67.43.228.252|1859|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|31895|Canada|Montreal|GloboTech Communications|
-|16|186.103.130.92|8080|Chile|Santiago|Telefonica Empresas|
-|17|67.43.236.20|22007|Canada|Montreal|GloboTech Communications|
-|18|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
-|19|67.43.228.253|29783|Canada|Montreal|GloboTech Communications|
-|20|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|5|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|8|23.131.56.171|999|Puerto Rico|Cabo Rojo|Webiffi LLC|
+|9|158.140.181.148|8080|Indonesia|South Tangerang|MYREPUBLIC|
+|10|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|12|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|16|67.43.236.20|22007|Canada|Montreal|GloboTech Communications|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|19|103.53.185.8|8088|Indonesia|Makassar|BOSOWA|
+|20|181.215.236.149|80|Brazil|Santana de Parnaiba|Ecxon Datacenter LTDA|
 
 
 
