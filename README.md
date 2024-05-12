@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|9|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.139.242.169|83|India|Pune|Spectram Telecom Pvt.Ltd|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|217.218.248.226|3128|Iran|Qom|Iran Telecommunication Company PJS|
-|16|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|17|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|103.174.236.79|8181|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|19|67.43.228.251|24697|Canada|Montreal|GloboTech Communications|
-|20|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|10|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
+|11|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|16|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|72.10.164.178|4163|Canada|Montreal|GloboTech Communications|
+|19|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|20|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
 
 
 
