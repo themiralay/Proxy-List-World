@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|14|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
