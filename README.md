@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|170.64.222.81|8000|Australia|Sydney|DigitalOcean, LLC|
-|15|36.91.45.12|51672|Indonesia|Karawang|PT. Telekomunikasi Indonesia|
-|16|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|17|38.253.88.24|999|United States|Miami|Cogent Communications|
-|18|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|19|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|15|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|181.209.78.78|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|17|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|18|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|38.7.31.229|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
