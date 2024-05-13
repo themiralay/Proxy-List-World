@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|6|163.172.181.211|7203|France|Paris|Online S.A.S.|
 |7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|223.25.100.237|8080|Indonesia|Surabaya|PT Indonesia Comnets Plus|
-|11|103.107.84.184|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|8|103.107.84.184|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|9|177.87.144.122|8086|Brazil|Fortaleza|Videomar Rede Nordeste S/A|
+|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|14|72.10.164.178|19835|Canada|Montreal|GloboTech Communications|
-|15|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|182.253.179.171|8080|Indonesia|Jakarta|BIZNET|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|19|67.43.236.18|32953|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19835|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|15|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|16|67.43.236.18|32953|Canada|Montreal|GloboTech Communications|
+|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|18|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|187.211.208.206|999|Mexico|Tlajomulco de Zuniga|Uninet S.A. de C.V.|
+|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
