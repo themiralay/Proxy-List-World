@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7345** proxies at the latest update. Usable proxies are below.
+> Scraper found **7328** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|72|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|692|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|286|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|269|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5337|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|109.200.164.2|8080|Yemen|Ibb|Public Telecommunication Corporation|
-|5|154.127.240.125|64001|Angola|Huambo|HMB-FTTH|
-|6|154.127.240.121|64001|Angola|Huambo|HMB-FTTH|
-|7|154.127.240.117|64001|Angola|Huambo|HMB-FTTH|
-|8|154.127.240.122|64002|Angola|Huambo|HMB-FTTH|
-|9|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|154.127.240.118|64001|Angola|Huambo|HMB-FTTH|
-|11|103.234.159.5|8080|India|Bengaluru|MWPL|
-|12|45.190.76.105|999|Mexico|Zapopan|Meta Networks SA De CV|
-|13|154.127.240.114|64001|Angola|Huambo|HMB-FTTH|
-|14|154.127.240.126|64002|Angola|Huambo|HMB-FTTH|
-|15|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
-|16|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|17|34.154.161.152|80|Italy|Milan|Google LLC|
-|18|67.43.236.18|4245|Canada|Montreal|GloboTech Communications|
-|19|5.196.111.29|20233|France|Gravelines|OVH SAS|
-|20|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|92.255.232.231|8080|Russia|Kirov|JSC "ER-Telecom Holding"|
+|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|7|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.51.205.98|8080|Indonesia|Semarang|Lintas Data Prima, PT|
+|10|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|11|67.43.236.18|1211|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|72.10.164.178|24543|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|11323|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|18773|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
