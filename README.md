@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|7|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|8|187.250.215.99|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|200.208.238.7|80|Brazil|Brasília|Claro S.A.|
-|11|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|12|72.10.160.90|2561|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|10757|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|3025|Canada|Montreal|GloboTech Communications|
-|15|5.196.111.29|20030|France|Gravelines|OVH SAS|
-|16|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|72.10.160.170|8845|Canada|Montreal|GloboTech Communications|
-|18|206.27.173.58|80|United States|Phoenix|CenturyLink Communications, LLC|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|11|5.196.111.29|20030|France|Gravelines|OVH SAS|
+|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|17|13.229.126.191|80|Singapore|Singapore|Amazon Technologies Inc.|
+|18|72.10.160.90|2635|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|3025|Canada|Montreal|GloboTech Communications|
+|20|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
