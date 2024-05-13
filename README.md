@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|5|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|103.167.170.210|7777|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|4|103.83.178.46|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|9|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
 |10|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |11|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|16|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|17|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|67.43.228.253|18157|Canada|Montreal|GloboTech Communications|
-|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|20|67.43.227.227|13241|Canada|Montreal|GloboTech Communications|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
+|17|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|18|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|202.154.36.117|8080|Indonesia|Surabaya|RADNET-BDG|
+|20|67.43.236.20|30709|Canada|Montreal|GloboTech Communications|
 
 
 
