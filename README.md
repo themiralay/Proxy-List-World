@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|182.52.131.78|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|5|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |8|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|72.10.164.178|25883|Canada|Montreal|GloboTech Communications|
-|12|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|13|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|14|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
-|15|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.227.227|20413|Canada|Montreal|GloboTech Communications|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|67.43.228.253|2469|Canada|Montreal|GloboTech Communications|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|10|72.10.164.178|18627|Canada|Montreal|GloboTech Communications|
+|11|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|12|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|17|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|18|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|19|194.140.198.23|80|United States|Newark|Nubes, LLC|
+|20|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
