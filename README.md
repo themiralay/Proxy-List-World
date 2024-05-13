@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.106.219.112|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
 |5|104.129.199.57|8800|United States|Los Angeles|ZSCALER, INC.|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|181.78.17.73|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|8|72.10.164.178|28679|Canada|Montreal|GloboTech Communications|
-|9|136.226.73.29|8800|United States|Boston|ZSCALER, INC.|
-|10|103.16.118.78|8080|Indonesia|Madiun|CV Trustnet Media|
-|11|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|103.88.237.6|84|India|Hyderabad|Mana Communications|
-|13|72.10.160.172|10029|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|28679|Canada|Montreal|GloboTech Communications|
-|15|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|67.43.227.227|23129|Canada|Montreal|GloboTech Communications|
-|18|136.226.84.117|8800|United States|Chicago|ZSCALER, INC.|
-|19|72.10.160.90|28557|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28679|Canada|Montreal|GloboTech Communications|
+|6|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
+|7|136.226.73.29|8800|United States|Boston|ZSCALER, INC.|
+|8|66.27.58.70|8080|United States|Moreno Valley|Spectrum|
+|9|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|136.226.77.22|8800|Canada|Toronto|ZSCALER, INC.|
+|13|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|72.10.160.90|2155|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|15069|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|15069|Canada|Montreal|GloboTech Communications|
+|17|136.226.84.117|8800|United States|Chicago|ZSCALER, INC.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.160.90|2155|Canada|Montreal|GloboTech Communications|
+|20|202.182.55.50|8080|Indonesia|Gelora|PT Remala Abadi|
 
 
 
