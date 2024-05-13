@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|1|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|116.68.249.150|8089|Indonesia|Surabaya|PT. Cross Network Indonesia|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 |12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|72.10.164.178|23461|Canada|Montreal|GloboTech Communications|
-|17|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|72.10.164.178|23461|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.252|21307|Canada|Montreal|GloboTech Communications|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|14|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|15|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|217.218.248.226|3128|Iran|Qom|Iran Telecommunication Company PJS|
+|20|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
