@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|72.10.164.178|8513|Canada|Montreal|GloboTech Communications|
-|12|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|45.188.76.236|999|Mexico|Teapa|ONT NETWORKS SA de CV|
+|5|202.180.20.11|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|6|103.53.185.8|8088|Indonesia|Makassar|BOSOWA|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|46.166.165.33|4006|Lithuania|Šiauliai|Cherry Servers|
+|9|38.156.13.74|999|Colombia|Bogotá|Web Master Colombia|
+|10|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|183.36.36.147|3128|China|Xiaolou|Chinanet|
 |13|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|14|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|15|186.46.221.145|59349|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|16|131.0.226.198|9898|Brazil|Itapororoca|1telecom Servicos De Tecnologia EM Internet Ltda|
-|17|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|18|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|20|67.43.228.250|30705|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|8513|Canada|Montreal|GloboTech Communications|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|19|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|103.203.174.98|83|India|Hyderabad|Softgaurd Powertronics|
 
 
 
