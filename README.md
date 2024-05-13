@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|12|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|13|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|14|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|67.43.227.226|23465|Canada|Montreal|GloboTech Communications|
-|16|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|17|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.227.227|17661|Canada|Montreal|GloboTech Communications|
-|19|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|103.174.122.46|8181|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|14|67.43.227.226|23465|Canada|Montreal|GloboTech Communications|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|67.43.227.227|17661|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|3111|Canada|Montreal|GloboTech Communications|
+|18|121.195.170.225|1024|China|Haidian|CERNET|
+|19|138.204.20.160|8080|Brazil|Camocim|FONTNET ME|
+|20|72.10.164.178|25883|Canada|Montreal|GloboTech Communications|
 
 
 
