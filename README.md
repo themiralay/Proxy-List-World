@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|8|154.127.240.123|64002|Angola|Huambo|HMB-FTTH|
-|9|154.127.240.118|64001|Angola|Huambo|HMB-FTTH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|154.127.240.120|64002|Angola|Huambo|HMB-FTTH|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|154.127.240.122|64002|Angola|Huambo|HMB-FTTH|
-|18|92.255.232.231|8080|Russia|Kirov|JSC "ER-Telecom Holding"|
-|19|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|13|192.141.196.129|8080|Brazil|Juquitiba|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|45.173.6.102|8080|Colombia|Bogotá|Columbus Networks Colombia|
+|16|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|17|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 |20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
