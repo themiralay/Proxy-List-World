@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|67.43.228.253|2781|Canada|Montreal|GloboTech Communications|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
-|13|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|72.10.164.178|2589|Canada|Montreal|GloboTech Communications|
-|15|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|72.10.160.174|21261|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|21803|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|26901|Canada|Montreal|GloboTech Communications|
-|19|8.243.169.14|8080|Colombia|Bogotá|Level 3 Communications, Inc.|
-|20|72.10.164.178|2589|Canada|Montreal|GloboTech Communications|
+|7|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|14|67.43.228.253|14235|Canada|Montreal|GloboTech Communications|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|72.10.160.172|31355|Canada|Montreal|GloboTech Communications|
+|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
