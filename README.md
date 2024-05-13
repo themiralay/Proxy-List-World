@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|136.226.84.117|8800|United States|Chicago|ZSCALER, INC.|
-|5|136.226.84.112|8800|United States|Chicago|ZSCALER, INC.|
+|4|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|5|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.106.219.112|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|8|136.226.73.29|8800|United States|Boston|ZSCALER, INC.|
+|7|136.226.84.112|8800|United States|Chicago|ZSCALER, INC.|
+|8|136.226.84.117|8800|United States|Chicago|ZSCALER, INC.|
 |9|136.226.58.35|8800|United States|Miami|ZSCALER, INC.|
 |10|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |12|136.226.60.247|8800|United States|New York|ZSCALER, INC.|
-|13|141.95.120.253|8080|Germany|Limburg an der Lahn|OVH SAS|
-|14|67.43.227.227|13831|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|13831|Canada|Montreal|GloboTech Communications|
-|16|136.226.77.22|8800|Canada|Toronto|ZSCALER, INC.|
-|17|193.187.175.217|3128|France|Paris|CGI GLOBAL LIMITED|
-|18|67.43.236.20|26343|Canada|Montreal|GloboTech Communications|
-|19|77.51.193.155|3128|Russia|Istra|CTC-JNPR|
-|20|72.10.164.178|25421|Canada|Montreal|GloboTech Communications|
+|13|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|14|141.95.120.253|8080|Germany|Limburg an der Lahn|OVH SAS|
+|15|136.226.73.29|8800|United States|Boston|ZSCALER, INC.|
+|16|72.10.164.178|25421|Canada|Montreal|GloboTech Communications|
+|17|136.226.77.22|8800|Canada|Toronto|ZSCALER, INC.|
+|18|72.10.164.178|25421|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|26343|Canada|Montreal|GloboTech Communications|
+|20|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
 
 
 
