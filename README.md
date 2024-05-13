@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.64.208.73|53281|Russia|Kstovo|Svyazist LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|11|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|113.197.109.35|8080|Indonesia|Bandung|ICN|
-|13|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|85.209.153.173|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|15|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|16|85.209.153.173|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|17|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|18|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|67.43.227.227|5641|Canada|Montreal|GloboTech Communications|
+|6|192.162.192.148|55443|Russia|Uglich|Sigma-Net Ltd|
+|7|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|11|200.229.80.5|3355|Brazil|Itajuípe|High Tech Telecom Ltda|
+|12|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|222.243.174.132|81|China|Xiangtan|Chinanet|
+|14|103.169.254.39|8090|Indonesia|Sidoarjo|PT Master Star Network|
+|15|212.26.234.193|8080|Russia|Ivanovo|PJSC Rostelecom|
+|16|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|186.46.221.145|59349|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|19|67.43.227.227|5641|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
