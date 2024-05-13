@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|1|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|7|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|8|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |9|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|11|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |12|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|103.172.71.15|8080|Indonesia|Karawang|AZNET|
-|17|67.43.227.227|2907|Canada|Montreal|GloboTech Communications|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|5.196.111.29|20600|France|Gravelines|OVH SAS|
+|18|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|19|67.43.227.227|2907|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
