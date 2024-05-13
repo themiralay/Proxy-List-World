@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|192.151.156.42|9002|United States|Kansas City|Nocix, LLC|
-|9|103.83.178.46|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|10|103.167.170.210|7777|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.164.178|26273|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|26273|Canada|Montreal|GloboTech Communications|
-|15|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|17|38.7.20.137|999|Mexico|La Piedad|Internet Telefonia Y TV De Michoacan SA De CV|
-|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|72.10.160.170|24007|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|192.151.156.42|9002|United States|Kansas City|Nocix, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|72.10.164.178|4427|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|4427|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.227.227|3373|Canada|Montreal|GloboTech Communications|
+|16|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|72.10.160.170|9897|Canada|Montreal|GloboTech Communications|
+|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|19|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|4427|Canada|Montreal|GloboTech Communications|
 
 
 
