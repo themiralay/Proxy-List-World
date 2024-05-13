@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|5.252.23.249|3128|Slovakia|Bratislava|Stark Industries Solutions LTD|
-|9|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|103.101.216.2|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
-|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|14|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|103.25.210.141|3319|Indonesia|Purwokerto|TRANSDATA|
-|20|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|104.167.6.218|80|United States|Boca Raton|Cloud South|
+|10|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|16|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
