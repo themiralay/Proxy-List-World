@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|7|186.101.91.141|999|Ecuador|Guayaquil|Telconet S.A|
-|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|67.43.236.20|14161|Canada|Montreal|GloboTech Communications|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|72.10.164.178|32863|Canada|Montreal|GloboTech Communications|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|72.10.160.170|25163|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|32863|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|67.43.227.226|23833|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|33147|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|33147|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|67.43.236.20|14161|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|31083|Canada|Montreal|GloboTech Communications|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|154.127.240.121|64002|Angola|Huambo|HMB-FTTH|
+|16|67.43.227.226|3857|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|33147|Canada|Montreal|GloboTech Communications|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
