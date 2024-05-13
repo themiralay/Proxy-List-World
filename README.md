@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
-|6|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|72.10.160.91|18383|Canada|Montreal|GloboTech Communications|
-|8|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|72.10.160.90|2587|Canada|Montreal|GloboTech Communications|
-|10|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|11|72.10.164.178|26273|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|1839|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.160.171|6815|Canada|Montreal|GloboTech Communications|
-|15|197.98.201.16|8800|South Africa|Johannesburg|Dimension Data|
-|16|72.10.164.178|26273|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|26273|Canada|Montreal|GloboTech Communications|
-|18|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|197.98.201.115|8800|South Africa|Johannesburg|Dimension Data|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
