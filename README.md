@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|103.88.239.178|84|India|Hyderabad|Mana Communications|
-|6|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.53.185.8|8088|Indonesia|Makassar|BOSOWA|
-|9|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|12|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|14|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|72.10.164.178|24495|Canada|Montreal|GloboTech Communications|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|103.135.14.176|8181|Indonesia|Malang|Dinas Komunikasi dan Informatika Kota Malang|
+|20|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
 
 
 
