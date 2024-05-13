@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|9|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|10|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 |12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|67.43.228.253|17407|Canada|Montreal|GloboTech Communications|
-|14|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 |16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|20|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|67.43.228.253|6843|Canada|Montreal|GloboTech Communications|
+|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
