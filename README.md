@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|37.187.115.135|42000|France|Roubaix|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|41.205.24.130|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|8|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|47.184.156.29|3128|United States|Garland|Frontier Communications Solutions|
-|11|176.9.90.155|80|Germany|Falkenstein|Hetzner Online GmbH|
-|12|67.43.228.253|18369|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|1055|Canada|Montreal|GloboTech Communications|
-|14|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.170|19645|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|25135|Canada|Montreal|GloboTech Communications|
-|17|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|67.43.228.253|18369|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|21071|Canada|Montreal|GloboTech Communications|
+|5|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|202.40.179.34|9090|Bangladesh|Dhaka|Ranks ITT|
+|7|103.234.159.5|8080|India|Bengaluru|MWPL|
+|8|202.154.36.117|8080|Indonesia|Surabaya|RADNET-BDG|
+|9|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|10|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|72.10.164.178|11131|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|10517|Canada|Montreal|GloboTech Communications|
+|14|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|207.230.8.10|999|Colombia|Montería|TV&MÁS S.A.S|
+|16|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|103.87.169.190|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|19|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|114.5.199.197|80|Indonesia|Bandung|PT. INDOSAT Tbk|
 
 
 
