@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7876** proxies at the latest update. Usable proxies are below.
+> Scraper found **7875** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|72|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|71|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|720|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|233|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|6|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|158.101.126.210|80|United States|Ashburn|Oracle Corporation|
-|10|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|91.121.88.53|80|France|Roubaix|OVH SAS|
-|14|67.43.227.227|18219|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|18219|Canada|Montreal|GloboTech Communications|
-|16|103.41.88.182|82|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|1|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|16|67.43.227.227|8719|Canada|Montreal|GloboTech Communications|
 |17|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|18|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.227|18219|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|5165|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|8719|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.173|20517|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|12387|Canada|Montreal|GloboTech Communications|
 
 
 
