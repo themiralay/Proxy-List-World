@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|3|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
+|2|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|8|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|12|67.43.227.228|2447|Canada|Montreal|GloboTech Communications|
-|13|103.159.194.97|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
-|14|103.178.42.3|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|15|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|16|72.10.160.171|3213|Canada|Montreal|GloboTech Communications|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|31.148.7.130|3128|Ukraine|Savran'|Nitrocom Ltd.|
+|7|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|103.167.170.210|7777|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|10|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|11|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|205.196.184.69|50704|United States|Houston|Phonoscope|
+|15|222.243.174.132|81|China|Xiangtan|Chinanet|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 |17|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|20|115.124.75.58|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|67.43.227.227|8649|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|9927|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
