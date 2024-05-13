@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|209.79.65.132|8080|United States|Anaheim|Orange County Department of Education|
+|2|120.28.204.19|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|9|103.186.147.13|80|Vietnam|Quận Hà Đông|THM Refrigeration Technicians Company Limited|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|168.119.117.125|80|Germany|Gladbeck|Hetzner Online GmbH|
-|12|72.10.164.178|9639|Canada|Montreal|GloboTech Communications|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|38.156.72.179|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|72.10.164.178|9639|Canada|Montreal|GloboTech Communications|
-|16|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
-|17|72.10.164.178|9639|Canada|Montreal|GloboTech Communications|
-|18|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|181.192.25.202|8080|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
+|6|170.78.115.209|999|Chile|El Quisco|SOCIEDAD CONSULTORES EN INFORMATICA VARGAS Y COMPAÑIA LIMITADA|
+|7|103.110.10.190|3128|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|8|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|103.158.220.2|83|India|Theni|Nt Cybronet Pvt Ltd|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|168.119.117.125|80|Germany|Gladbeck|Hetzner Online GmbH|
+|16|72.10.164.178|22837|Canada|Montreal|GloboTech Communications|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
