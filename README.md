@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.231.220.78|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|7|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|67.43.227.227|3105|Canada|Montreal|GloboTech Communications|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|9|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.227.227|11885|Canada|Montreal|GloboTech Communications|
+|14|157.15.80.20|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.228.253|13759|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|1381|Canada|Montreal|GloboTech Communications|
-|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|181.225.96.137|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|67.43.236.20|15997|Canada|Montreal|GloboTech Communications|
+|19|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
