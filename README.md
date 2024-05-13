@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|115.124.75.58|8080|Indonesia|Bekasi|PT Remala Abadi|
+|8|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|72.10.164.178|5437|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|30709|Canada|Montreal|GloboTech Communications|
-|16|103.165.155.195|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|17|67.43.228.253|18395|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|27383|Canada|Montreal|GloboTech Communications|
-|19|185.185.168.112|8080|Finland|Helsinki|Local Loop Oy|
-|20|72.10.160.173|9201|Canada|Montreal|GloboTech Communications|
+|13|193.187.175.217|3128|France|Paris|CGI GLOBAL LIMITED|
+|14|139.255.41.118|8080|Indonesia|Jakarta|PT. LINKNET|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|67.43.227.227|20185|Canada|Montreal|GloboTech Communications|
+|17|103.184.54.7|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|18|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
+|19|67.43.227.228|10115|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|5437|Canada|Montreal|GloboTech Communications|
 
 
 
