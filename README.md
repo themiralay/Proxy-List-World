@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|8|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|67.43.228.250|30097|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|29625|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.18|4549|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|29625|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.94|13101|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|31595|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|31595|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|31595|Canada|Montreal|GloboTech Communications|
-|17|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.228.251|15081|Canada|Montreal|GloboTech Communications|
-|19|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|67.43.227.227|6969|Canada|Montreal|GloboTech Communications|
+|6|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|10|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|67.43.228.250|30097|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.250|30097|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|22499|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.94|13101|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|13101|Canada|Montreal|GloboTech Communications|
+|17|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.236.18|21071|Canada|Montreal|GloboTech Communications|
 
 
 
