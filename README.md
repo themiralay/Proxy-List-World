@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|3|134.35.237.200|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|136.226.81.30|8800|United States|New York|ZSCALER, INC.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.170.22.51|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
+|6|180.250.173.66|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|7|134.35.237.200|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|136.226.73.29|8800|United States|Boston|ZSCALER, INC.|
 |11|136.226.84.117|8800|United States|Chicago|ZSCALER, INC.|
-|12|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|13|136.226.77.22|8800|Canada|Toronto|ZSCALER, INC.|
-|14|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|136.226.77.22|8800|Canada|Toronto|ZSCALER, INC.|
+|13|136.226.81.30|8800|United States|New York|ZSCALER, INC.|
+|14|104.129.199.57|8800|United States|Los Angeles|ZSCALER, INC.|
 |15|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|104.129.199.57|8800|United States|Los Angeles|ZSCALER, INC.|
-|18|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|19|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
