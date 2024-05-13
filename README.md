@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|112.198.129.34|8082|Philippines|Nasugbu|Globe Telecom|
-|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|59.157.2.63|32304|Japan|Tokiwa|FreeBit Co., Ltd.|
-|14|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|15|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|92.255.232.231|8080|Russia|Kirov|JSC "ER-Telecom Holding"|
-|20|103.76.150.32|8080|Indonesia|Citeureup|PT. Java Digital Nusantara|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|78.137.89.171|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|12|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|92.255.232.231|8080|Russia|Kirov|JSC "ER-Telecom Holding"|
+|18|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
