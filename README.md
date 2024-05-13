@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|183.36.36.147|3128|China|Xiaolou|Chinanet|
-|8|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|5.196.111.29|20576|France|Gravelines|OVH SAS|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|67.43.227.228|10371|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|24321|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|2407|Canada|Montreal|GloboTech Communications|
-|15|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
-|16|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|17|67.43.227.226|31659|Canada|Montreal|GloboTech Communications|
-|18|72.14.184.125|22030|United States|Richardson|Akamai Technologies, Inc.|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|103.143.196.66|8080|Indonesia|Semarang|JERNIHNETWORK|
+|2|182.52.131.78|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|7|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|8|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|5.196.111.29|20576|France|Gravelines|OVH SAS|
+|16|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|72.10.160.173|31985|Canada|Montreal|GloboTech Communications|
+|20|66.206.15.148|8130|United States|Los Angeles|Primary|
 
 
 
