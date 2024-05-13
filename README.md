@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
-|9|182.253.179.171|8080|Indonesia|Jakarta|BIZNET|
-|10|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|190.110.98.203|999|Chile|San Vicente de Tagua Tagua|Silica Networks Argentina S.A.|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|15|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|190.153.237.2|37453|Chile|Santiago|Gtd Internet S.A.|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|7|182.253.179.171|8080|Indonesia|Jakarta|BIZNET|
+|8|103.160.184.222|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|103.60.161.18|8080|Bangladesh|Dhaka|Tetrasoft|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|15|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|16|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|103.148.130.3|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|19|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
 
 
 
