@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
-|5|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|6|157.15.80.20|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
+|6|45.188.167.93|999|Mexico|Ixtlan del Rio|Velocom SA De CV|
 |7|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|67.43.227.227|27695|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|15081|Canada|Montreal|GloboTech Communications|
-|16|124.70.78.157|8000|China|Beijing|Huawei Cloud Service data center|
-|17|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|72.10.164.178|2533|Canada|Montreal|GloboTech Communications|
-|19|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.236.20|1719|Canada|Montreal|GloboTech Communications|
+|10|103.19.59.102|1983|Indonesia|Madiun|BITSNET|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|97.64.69.65|16099|United States|College Station|PRONSS|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|67.43.236.20|1719|Canada|Montreal|GloboTech Communications|
+|18|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
+|19|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
