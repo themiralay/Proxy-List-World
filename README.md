@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|181.78.17.73|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|5|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|6|103.133.63.64|8080|Indonesia|Bandar Lampung|TLINK|
-|7|38.51.243.145|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|136.226.84.117|8800|United States|Chicago|ZSCALER, INC.|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.76.43.115|999|Mexico|Jechtoch|Level 3|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|136.226.60.247|8800|United States|New York|ZSCALER, INC.|
+|11|136.226.84.117|8800|United States|Chicago|ZSCALER, INC.|
 |12|136.226.81.30|8800|United States|New York|ZSCALER, INC.|
-|13|136.226.60.247|8800|United States|New York|ZSCALER, INC.|
-|14|136.226.71.132|8800|United States|Boston|ZSCALER, INC.|
-|15|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|16|67.43.236.20|25189|Canada|Montreal|GloboTech Communications|
-|17|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
-|18|136.226.73.29|8800|United States|Boston|ZSCALER, INC.|
-|19|67.43.228.254|12153|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|136.226.71.132|8800|United States|Boston|ZSCALER, INC.|
+|14|72.10.164.178|12605|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|25189|Canada|Montreal|GloboTech Communications|
+|16|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
+|17|136.226.73.29|8800|United States|Boston|ZSCALER, INC.|
+|18|136.226.84.112|8800|United States|Chicago|ZSCALER, INC.|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|193.187.175.217|3128|France|Paris|CGI GLOBAL LIMITED|
 
 
 
