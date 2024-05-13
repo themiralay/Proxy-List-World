@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|139.180.182.111|80|Australia|Sydney|Choopa|
-|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|10|138.118.200.49|999|Venezuela|San Francisco|Iguana Network Services C.A.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.24.213.195|8080|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|16|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|72.10.160.90|1783|Canada|Montreal|GloboTech Communications|
-|19|103.141.51.210|1111|India|Karur|Sri Krishna Internet Services Private Limited|
-|20|139.180.182.111|80|Australia|Sydney|Choopa|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|13|72.10.160.90|1783|Canada|Montreal|GloboTech Communications|
+|14|101.255.151.70|3125|Indonesia|Bekasi|PT Remala Abadi|
+|15|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|5.196.111.29|20651|France|Gravelines|OVH SAS|
+|19|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|72.10.164.178|14035|Canada|Montreal|GloboTech Communications|
 
 
 
