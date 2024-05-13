@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|7|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |9|72.10.164.178|30705|Canada|Montreal|GloboTech Communications|
-|10|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|13|5.196.111.29|20576|France|Gravelines|OVH SAS|
-|14|72.10.164.178|30705|Canada|Montreal|GloboTech Communications|
+|10|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|67.43.227.227|12741|Canada|Montreal|GloboTech Communications|
-|16|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|17|72.14.184.125|22030|United States|Richardson|Akamai Technologies, Inc.|
-|18|72.10.160.90|2655|Canada|Montreal|GloboTech Communications|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|200.35.34.134|999|Colombia|Medellín|Edatel S.a. E.S.P|
+|18|72.10.160.90|33191|Canada|Montreal|GloboTech Communications|
+|19|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
