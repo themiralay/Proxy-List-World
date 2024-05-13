@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|35.185.217.164|3128|United States|The Dalles|Google LLC|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|189.127.166.3|999|Venezuela|Barquisimeto|RED SERVITEL|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|18|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|19|67.43.227.227|21083|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|8873|Canada|Montreal|GloboTech Communications|
+|3|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|4|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|9|45.188.167.93|999|Mexico|Ixtlan del Rio|Velocom SA De CV|
+|10|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|38.45.44.4|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|12|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|193.187.175.217|3128|France|Paris|CGI GLOBAL LIMITED|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|67.43.227.227|25489|Canada|Montreal|GloboTech Communications|
+|17|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.188.168.46|32650|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|121.182.41.246|8118|South Korea|Suseong-gu|Korea Telecom|
 
 
 
