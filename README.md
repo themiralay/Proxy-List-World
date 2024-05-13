@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.58.72|4649|Japan|Honchō|InfoSphere|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|7|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|72.10.164.178|11131|Canada|Montreal|GloboTech Communications|
-|11|188.132.221.135|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|72.10.164.178|11131|Canada|Montreal|GloboTech Communications|
+|5|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|6|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|72.10.160.90|9341|Canada|Montreal|GloboTech Communications|
+|8|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|9|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|10|103.234.159.5|8080|India|Bengaluru|MWPL|
+|11|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|72.10.164.178|11131|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.227.227|1677|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|8743|Canada|Montreal|GloboTech Communications|
-|18|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|19|72.10.164.178|11131|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|11131|Canada|Montreal|GloboTech Communications|
+|16|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|17|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|19|67.43.227.226|14581|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|1419|Canada|Montreal|GloboTech Communications|
 
 
 
