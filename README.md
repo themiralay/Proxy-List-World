@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|103.164.223.54|80|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|11|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|12|103.164.223.54|80|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |15|161.34.36.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
-|18|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|16|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|20|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
