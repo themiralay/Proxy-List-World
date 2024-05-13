@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|188.136.142.97|7060|Iran|Isfahan|Ariana Gostar Spadana|
 |6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|12|154.127.240.123|64002|Angola|Huambo|HMB-FTTH|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|15|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|17|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|18|182.253.72.108|8082|Indonesia|Jakarta Pusat|BIZNET|
-|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|160.248.184.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|157.10.156.100|1080|Indonesia|Enrekang|PT Singki Media Telekomunikasi|
+|9|154.127.240.119|64001|Angola|Huambo|HMB-FTTH|
+|10|154.127.240.120|64001|Angola|Huambo|HMB-FTTH|
+|11|154.127.240.126|64001|Angola|Huambo|HMB-FTTH|
+|12|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|13|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
+|14|89.188.110.196|8080|Russia|St Petersburg|Citytelecom LLC|
+|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|62.205.169.74|53281|Russia|Moscow|CORBINA|
+|19|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|20|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 
 
 
