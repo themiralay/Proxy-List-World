@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|136.226.77.22|8800|Canada|Toronto|ZSCALER, INC.|
-|10|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|11|72.10.164.178|3527|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|32809|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|3527|Canada|Montreal|GloboTech Communications|
-|14|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|16|67.43.227.227|16033|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|18047|Canada|Montreal|GloboTech Communications|
-|18|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|19|72.10.164.178|3527|Canada|Montreal|GloboTech Communications|
-|20|195.211.219.147|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|8|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|67.43.227.227|16033|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|27041|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.226|32919|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.174|23821|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|18047|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.171|18221|Canada|Montreal|GloboTech Communications|
+|15|181.78.17.191|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|16|103.84.177.246|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.160.90|21351|Canada|Montreal|GloboTech Communications|
+|20|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
 
 
 
