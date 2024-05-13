@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|12|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|16|154.127.240.126|64002|Angola|Huambo|HMB-FTTH|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|154.127.240.123|64002|Angola|Huambo|HMB-FTTH|
-|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|20|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|17|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|72.10.164.178|11885|Canada|Montreal|GloboTech Communications|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|72.10.160.90|4791|Canada|Montreal|GloboTech Communications|
 
 
 
