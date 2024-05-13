@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|6|101.255.116.125|8080|Indonesia|Jakarta|PT Remala Abadi|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|9|38.9.141.27|80|Indonesia|Medan|Cogent Communications|
-|10|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|11|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|12|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|67.43.236.20|5831|Canada|Montreal|GloboTech Communications|
-|15|118.10.224.125|80|Japan|Nagasaki|NTT Communications Corporation|
-|16|67.43.236.20|5831|Canada|Montreal|GloboTech Communications|
-|17|152.101.73.180|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|103.41.88.182|82|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|65.108.250.159|80|Finland|Helsinki|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|10|46.166.165.33|4006|Lithuania|Šiauliai|Cherry Servers|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|38.156.13.74|999|Colombia|Bogotá|Web Master Colombia|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|18|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|19|72.10.164.178|9469|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|30685|Canada|Montreal|GloboTech Communications|
 
 
 
