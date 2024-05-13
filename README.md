@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|10|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|121.8.215.106|9797|China|Guangzhou|Chinanet|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|67.43.228.250|18953|Canada|Montreal|GloboTech Communications|
-|15|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|72.10.164.178|15889|Canada|Montreal|GloboTech Communications|
-|18|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|39.129.73.6|443|China|Kunming|China Mobile|
-|20|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
+|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|67.43.228.250|18953|Canada|Montreal|GloboTech Communications|
+|14|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
+|15|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|67.43.236.20|21399|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|1801|Canada|Montreal|GloboTech Communications|
+|19|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
