@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|8|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|9|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|67.43.227.227|20413|Canada|Montreal|GloboTech Communications|
-|13|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|14|152.32.226.172|3129|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|103.112.163.89|3125|Indonesia|Jakarta|24AS|
-|16|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|177.70.72.103|20183|Brazil|Ijuí|RazaoInfo Internet Ltda|
-|18|72.10.160.173|2575|Canada|Montreal|GloboTech Communications|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|11|160.248.6.106|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|72.10.160.173|2575|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|10107|Canada|Montreal|GloboTech Communications|
+|14|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|16|67.43.236.18|12089|Canada|Montreal|GloboTech Communications|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|72.10.160.171|3147|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|10107|Canada|Montreal|GloboTech Communications|
+|20|103.76.149.102|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
 
 
 
