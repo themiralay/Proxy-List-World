@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|72.10.164.178|15147|Canada|Montreal|GloboTech Communications|
-|8|103.234.159.5|8080|India|Bengaluru|MWPL|
-|9|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|43.153.101.66|16600|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|64.62.200.198|3128|United States|Fremont|Hurricane Electric LLC|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.160.174|19153|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|72.10.164.178|15147|Canada|Montreal|GloboTech Communications|
-|17|197.98.201.115|8800|South Africa|Johannesburg|Dimension Data|
-|18|103.186.8.162|8080|Indonesia|Pelem Satu|PRISMA|
-|19|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|20|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|103.133.25.241|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|13|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.160.174|19153|Canada|Montreal|GloboTech Communications|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|103.178.43.26|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
+|18|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
