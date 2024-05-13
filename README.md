@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.156.16.105|8818|Indonesia|Babakangarut|RSTNET|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|139.255.74.124|8080|Indonesia|Jakarta|PT. LINKNET|
-|7|185.64.208.73|53281|Russia|Kstovo|Svyazist LLC|
-|8|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|9|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|10|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|11|101.255.167.5|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|216.176.187.99|39837|United States|Lynnwood|Wowrack.com|
-|15|181.205.243.147|999|Colombia|Medellín|Colombia Móvil|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|192.162.192.148|55443|Russia|Uglich|Sigma-Net Ltd|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|72.10.164.178|2235|Canada|Montreal|GloboTech Communications|
+|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|179.1.192.5|999|Colombia|Neiva|InterNexa Global Network|
+|14|67.43.236.20|4387|Canada|Montreal|GloboTech Communications|
+|15|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
 |16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|17|222.243.174.132|81|China|Xiangtan|Chinanet|
+|18|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
 |19|72.10.160.91|18733|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|27283|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.173|2127|Canada|Montreal|GloboTech Communications|
 
 
 
