@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|11|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|72.10.164.178|6451|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|101.255.158.42|8080|Indonesia|Bekasi|PT Remala Abadi|
+|5|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|45.231.220.78|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|11|103.153.246.210|8080|Indonesia|Purwakarta|PRIMAHOME|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|193.187.175.217|3128|France|Paris|CGI GLOBAL LIMITED|
+|14|72.10.164.178|11943|Canada|Montreal|GloboTech Communications|
 |15|67.43.236.20|2589|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|2589|Canada|Montreal|GloboTech Communications|
-|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|19|72.10.164.178|6451|Canada|Montreal|GloboTech Communications|
-|20|103.48.68.98|83|India|Hyderabad|Country Online Services PVT LTD|
+|16|103.184.54.7|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|17|72.10.164.178|11943|Canada|Montreal|GloboTech Communications|
+|18|103.48.71.122|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.234.159.5|8080|India|Bengaluru|MWPL|
 
 
 
