@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.6.102.10|8080|Brazil|Rio de Janeiro|Golden Link|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|152.101.73.180|13579|Hong Kong|Quarry Bay|CITIC Telecom International CPC Limited|
-|9|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|10|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|103.39.51.98|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|13|183.36.36.147|3128|China|Xiaolou|Chinanet|
-|14|197.98.201.115|8800|South Africa|Johannesburg|Dimension Data|
-|15|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|17|200.106.184.21|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|18|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
-|20|67.43.228.251|6765|Canada|Montreal|GloboTech Communications|
+|5|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|9|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|10|193.187.175.217|3128|France|Paris|CGI GLOBAL LIMITED|
+|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|197.98.201.115|8800|South Africa|Johannesburg|Dimension Data|
+|13|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|15|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
+|16|72.10.160.90|19553|Canada|Montreal|GloboTech Communications|
+|17|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|39.129.73.6|443|China|Kunming|China Mobile|
+|20|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
 
 
 
