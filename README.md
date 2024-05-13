@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 |4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|10|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|16|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|18|5.196.111.29|20651|France|Gravelines|OVH SAS|
-|19|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|20|103.87.170.224|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|14|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|5.196.111.29|20233|France|Gravelines|OVH SAS|
+|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|17|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 
 
 
