@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|115.124.75.58|8080|Indonesia|Bekasi|PT Remala Abadi|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.169.254.39|8090|Indonesia|Sidoarjo|PT Master Star Network|
-|18|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|8|103.184.54.7|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|157.15.80.20|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
+|11|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|12|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|87.250.5.188|8181|Russia|Izhevsk|MARK-ITT|
+|15|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
+|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.169.254.39|8090|Indonesia|Sidoarjo|PT Master Star Network|
+|19|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
