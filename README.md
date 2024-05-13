@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.106.219.112|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|5|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|8|193.187.175.217|3128|France|Paris|CGI GLOBAL LIMITED|
-|9|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|136.226.84.112|8800|United States|Chicago|ZSCALER, INC.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|136.226.84.112|8800|United States|Chicago|ZSCALER, INC.|
+|10|136.226.84.117|8800|United States|Chicago|ZSCALER, INC.|
+|11|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|136.226.58.35|8800|United States|Miami|ZSCALER, INC.|
-|14|136.226.84.117|8800|United States|Chicago|ZSCALER, INC.|
+|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|136.226.58.35|8800|United States|Miami|ZSCALER, INC.|
 |15|136.226.77.22|8800|Canada|Toronto|ZSCALER, INC.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|136.226.73.29|8800|United States|Boston|ZSCALER, INC.|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.160.172|25409|Canada|Montreal|GloboTech Communications|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|136.226.73.29|8800|United States|Boston|ZSCALER, INC.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.160.172|16499|Canada|Montreal|GloboTech Communications|
 
 
 
