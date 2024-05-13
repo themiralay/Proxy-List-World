@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|13.229.126.191|80|Singapore|Singapore|Amazon Technologies Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|151.22.181.241|8080|Italy|Gioia del Colle|INFOSTRADA|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|12|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
-|14|67.43.236.20|4387|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|3533|Canada|Montreal|GloboTech Communications|
-|16|103.51.205.98|8080|Indonesia|Semarang|Lintas Data Prima, PT|
-|17|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|67.43.227.227|14453|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|3533|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|9|154.127.240.122|64002|Angola|Huambo|HMB-FTTH|
+|10|154.127.240.120|64001|Angola|Huambo|HMB-FTTH|
+|11|154.127.240.123|64002|Angola|Huambo|HMB-FTTH|
+|12|154.127.240.118|64001|Angola|Huambo|HMB-FTTH|
+|13|154.127.240.126|64002|Angola|Huambo|HMB-FTTH|
+|14|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
+|15|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|154.127.240.120|64001|Angola|Huambo|HMB-FTTH|
+|18|154.127.240.114|64002|Angola|Huambo|HMB-FTTH|
+|19|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
