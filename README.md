@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7936** proxies at the latest update. Usable proxies are below.
+> Scraper found **7888** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|72|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|784|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|736|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|229|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5893|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|103.167.170.210|7777|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|4|103.83.178.46|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|9|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|10|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|17|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|18|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|202.154.36.117|8080|Indonesia|Surabaya|RADNET-BDG|
-|20|67.43.236.20|30709|Canada|Montreal|GloboTech Communications|
+|8|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|220.70.149.126|3128|South Korea|Samcheok-si|Korea Telecom|
+|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|72.10.164.178|5437|Canada|Montreal|GloboTech Communications|
+|15|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.160.91|19075|Canada|Montreal|GloboTech Communications|
+|18|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|67.43.228.253|3255|Canada|Montreal|GloboTech Communications|
 
 
 
