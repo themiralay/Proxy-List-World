@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|8|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|12|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|13|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|16|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|17|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|140.227.142.202|3128|Japan|Hyōgo|InfoSphere|
+|10|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
+|16|202.154.36.103|1111|Indonesia|Surabaya|RADNET-BDG|
+|17|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|18|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|20|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
