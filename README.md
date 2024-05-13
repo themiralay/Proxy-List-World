@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
+|3|41.205.24.130|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.88.237.6|84|India|Hyderabad|Mana Communications|
-|8|213.207.43.143|443|Albania|Tirana|Tibo Communications|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|103.87.169.190|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|11|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|67.43.228.253|15211|Canada|Montreal|GloboTech Communications|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|103.170.22.51|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
-|16|72.10.164.178|11131|Canada|Montreal|GloboTech Communications|
-|17|103.87.169.190|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|72.10.160.90|16843|Canada|Montreal|GloboTech Communications|
+|7|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|14|72.10.164.178|12711|Canada|Montreal|GloboTech Communications|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|72.10.164.178|12711|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|23.131.56.171|999|Puerto Rico|Cabo Rojo|Webiffi LLC|
 |19|67.43.227.228|11413|Canada|Montreal|GloboTech Communications|
-|20|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|20|72.10.164.178|12711|Canada|Montreal|GloboTech Communications|
 
 
 
