@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|38.41.5.107|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|72.10.160.174|2463|Canada|Montreal|GloboTech Communications|
-|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|18|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
-|19|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|9|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|72.10.160.174|2463|Canada|Montreal|GloboTech Communications|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|38.7.20.137|999|Mexico|La Piedad|Internet Telefonia Y TV De Michoacan SA De CV|
+|18|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|19|67.43.227.227|29893|Canada|Montreal|GloboTech Communications|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
