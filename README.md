@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|203.150.128.138|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|103.84.177.246|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|13|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|14|67.43.227.227|8581|Canada|Montreal|GloboTech Communications|
-|15|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.164.223.54|80|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|17|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|13.229.126.191|80|Singapore|Singapore|Amazon Technologies Inc.|
-|20|38.156.235.35|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|5|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|10|189.127.166.3|999|Venezuela|Barquisimeto|RED SERVITEL|
+|11|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|16|67.43.227.227|8581|Canada|Montreal|GloboTech Communications|
+|17|186.125.218.163|999|Argentina|Molinos|Telecom Argentina S.A.|
+|18|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
+|19|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|20|72.10.164.178|7277|Canada|Montreal|GloboTech Communications|
 
 
 
