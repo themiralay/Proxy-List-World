@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|170.64.222.86|8000|Australia|Sydney|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|9|154.127.240.123|64002|Angola|Huambo|HMB-FTTH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|192.141.196.129|8080|Brazil|Juquitiba|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
+|8|103.88.239.38|84|India|Hyderabad|Mana Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|12|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|72.10.164.178|15763|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|15763|Canada|Montreal|GloboTech Communications|
-|16|154.127.240.120|64002|Angola|Huambo|HMB-FTTH|
+|12|154.127.240.118|64001|Angola|Huambo|HMB-FTTH|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 |17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|154.127.240.118|64001|Angola|Huambo|HMB-FTTH|
-|20|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|72.10.164.178|30887|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|30887|Canada|Montreal|GloboTech Communications|
 
 
 
