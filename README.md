@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|4|103.156.17.32|8818|Indonesia|Indramayu|RSTNET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|46.166.165.33|4006|Lithuania|Šiauliai|Cherry Servers|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|188.240.120.173|8080|Yemen|Bājil|AS30873 annoucement YemenNet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
-|9|103.53.185.8|8088|Indonesia|Makassar|BOSOWA|
+|8|67.43.236.20|8505|Canada|Montreal|GloboTech Communications|
+|9|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |10|72.10.164.178|27283|Canada|Montreal|GloboTech Communications|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|72.10.160.90|10825|Canada|Montreal|GloboTech Communications|
-|13|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|14|94.79.152.14|80|Germany|Sankt Augustin|Vodafone|
-|15|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|67.43.228.253|12141|Canada|Montreal|GloboTech Communications|
-|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|18|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|19|72.10.160.170|19217|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|27283|Canada|Montreal|GloboTech Communications|
+|11|5.17.6.83|8080|Russia|St Petersburg|Z-Telecom|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|72.10.164.178|27283|Canada|Montreal|GloboTech Communications|
+|14|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
+|15|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|181.209.82.154|23500|Argentina|Alejandra|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|19|72.10.160.170|1775|Canada|Montreal|GloboTech Communications|
+|20|45.173.231.155|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
