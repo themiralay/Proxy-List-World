@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|117.103.194.90|3128|Vietnam|Hai Bà Trưng District|VTC|
-|14|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|138.204.95.166|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|8|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.37.176|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|20|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
