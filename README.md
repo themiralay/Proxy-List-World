@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|4|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |5|72.10.160.94|20181|Canada|Montreal|GloboTech Communications|
-|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|7|67.43.236.20|15101|Canada|Montreal|GloboTech Communications|
-|8|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|9|67.43.236.20|15101|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.226|11779|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|31697|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|1725|Canada|Montreal|GloboTech Communications|
-|13|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|14|67.43.227.227|31697|Canada|Montreal|GloboTech Communications|
-|15|171.6.76.132|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|16|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|17|67.43.236.20|15101|Canada|Montreal|GloboTech Communications|
-|18|200.59.186.81|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|67.43.227.226|11779|Canada|Montreal|GloboTech Communications|
+|7|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|67.43.236.20|15255|Canada|Montreal|GloboTech Communications|
+|9|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
+|10|67.43.236.20|15255|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|19771|Canada|Montreal|GloboTech Communications|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|72.10.164.178|12747|Canada|Montreal|GloboTech Communications|
+|14|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|103.84.177.246|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|67.43.227.227|19771|Canada|Montreal|GloboTech Communications|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
