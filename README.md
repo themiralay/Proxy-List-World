@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|4|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|5|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|9|45.176.97.98|999|Dominican Republic|Baní|Cable Onda Oriental, SRL|
-|10|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|72.10.160.173|2127|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.19|8515|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|15|5.196.111.29|20030|France|Gravelines|OVH SAS|
-|16|5.196.111.29|20030|France|Gravelines|OVH SAS|
-|17|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|190.104.20.84|8080|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
-|19|67.43.236.21|30789|Canada|Montreal|GloboTech Communications|
-|20|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|103.164.112.123|10001|Indonesia|Jakarta Pusat|SOLUSINET|
+|7|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|8|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|12|92.247.2.26|21231|Bulgaria|Kilifarevo|A1 Bulgaria EAD|
+|13|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|5.196.111.29|20109|France|Gravelines|OVH SAS|
+|16|67.43.236.19|8515|Canada|Montreal|GloboTech Communications|
+|17|5.196.111.29|20109|France|Gravelines|OVH SAS|
+|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|19|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
