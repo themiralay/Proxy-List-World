@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|5|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
 |6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|11|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|10|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |12|67.43.228.250|32953|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.252|3729|Canada|Montreal|GloboTech Communications|
-|14|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|15|12.198.47.241|8080|United States|Flowood|AT&T Services, Inc.|
-|16|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|17|67.43.227.229|8601|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|21881|Canada|Montreal|GloboTech Communications|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|67.43.236.20|3897|Canada|Montreal|GloboTech Communications|
+|13|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|14|72.10.164.178|10867|Canada|Montreal|GloboTech Communications|
+|15|175.106.10.226|51630|Indonesia|Jakarta|Quantum Dist POP GC|
+|16|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|17|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|67.43.228.252|3729|Canada|Montreal|GloboTech Communications|
+|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|20|185.185.168.112|8080|Finland|Helsinki|Local Loop Oy|
 
 
 
