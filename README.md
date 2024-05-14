@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|7|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
-|8|176.241.143.197|8080|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|9|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|10|103.84.177.246|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|11|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|12|89.114.185.185|8080|Portugal|Porto|Vodafone Portugal|
-|13|72.10.164.178|15707|Canada|Montreal|GloboTech Communications|
-|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|67.43.228.253|20553|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|20553|Canada|Montreal|GloboTech Communications|
-|20|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|5|181.215.236.149|80|Brazil|Santana de Parnaiba|Ecxon Datacenter LTDA|
+|6|134.35.150.87|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|67.43.236.20|12057|Canada|Montreal|GloboTech Communications|
+|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|72.10.164.178|29875|Canada|Montreal|GloboTech Communications|
+|10|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|67.43.228.253|32641|Canada|Montreal|GloboTech Communications|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|18|41.242.116.150|50003|Mayotte|Mamoudzou|STOI-block1|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 
 
 
