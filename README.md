@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|201.95.254.137|3128|Brazil|São Paulo|Vivo|
+|3|45.190.187.123|999|Honduras|Comayagüela|Ufinet Panama S.A.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|103.68.207.34|82|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
-|9|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|12|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
-|13|188.209.237.108|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|14|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
-|15|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
-|17|72.10.160.171|15617|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|4821|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|4821|Canada|Montreal|GloboTech Communications|
-|20|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
+|11|203.79.29.150|8080|Indonesia|Surabaya|PT Surya Global Teknologi|
+|12|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|13|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|15|120.28.216.126|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|16|72.10.164.178|4875|Canada|Montreal|GloboTech Communications|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|67.43.227.227|19713|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
