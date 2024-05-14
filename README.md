@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|5|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
-|6|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|7|45.230.168.5|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|8|180.232.127.48|3128|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
-|9|103.250.130.220|8080|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|10|72.10.164.178|13499|Canada|Montreal|GloboTech Communications|
-|11|185.200.37.245|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|72.10.160.171|22595|Canada|Montreal|GloboTech Communications|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|67.43.227.227|22613|Canada|Montreal|GloboTech Communications|
-|16|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|17|103.156.17.137|8181|Indonesia|Karawang|RSTNET|
-|18|45.191.47.1|999|Colombia|Orito|TV AZTECA SUCURSAL COLOMBIA|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|72.10.160.171|22595|Canada|Montreal|GloboTech Communications|
+|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|181.204.172.172|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|6|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.84.177.246|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|12|67.43.227.227|22613|Canada|Montreal|GloboTech Communications|
+|13|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|72.10.164.178|25975|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|2973|Canada|Montreal|GloboTech Communications|
+|17|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|18|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|20|102.33.102.218|8080|South Africa|Johannesburg|Metrofibre Networx|
 
 
 
