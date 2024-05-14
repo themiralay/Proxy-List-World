@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|3|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|180.74.171.206|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|188.209.250.15|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|7|36.67.27.189|39674|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|9|181.233.62.0|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
-|10|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|13|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|14|72.10.160.90|20649|Canada|Montreal|GloboTech Communications|
-|15|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|72.10.164.178|2727|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|4859|Canada|Montreal|GloboTech Communications|
-|18|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
-|19|72.10.160.90|20649|Canada|Montreal|GloboTech Communications|
-|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|72.10.160.90|18305|Canada|Montreal|GloboTech Communications|
+|12|197.98.201.115|8800|South Africa|Johannesburg|Dimension Data|
+|13|67.43.228.253|26063|Canada|Montreal|GloboTech Communications|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
+|18|67.43.228.252|7777|Canada|Montreal|GloboTech Communications|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 
 
 
