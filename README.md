@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|5|103.35.110.94|5020|Bangladesh|Dhaka|Ranks ITT|
-|6|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|7|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|8|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
-|9|67.43.227.227|7895|Canada|Montreal|GloboTech Communications|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|72.10.164.178|6789|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|17431|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|15389|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|6789|Canada|Montreal|GloboTech Communications|
-|16|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|17|38.7.204.129|999|Chile|Santiago|Grupo ZGH SPA|
-|18|36.93.140.71|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|19|72.10.164.178|6789|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|6789|Canada|Montreal|GloboTech Communications|
+|4|181.215.236.149|80|Brazil|Santana de Parnaiba|Ecxon Datacenter LTDA|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|150.136.42.70|80|United States|Ashburn|Oracle Corporation|
+|7|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|8|103.80.237.211|3888|Indonesia|Bogor|PT MITRA VISIONER PRATAMA|
+|9|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|10|103.47.175.161|83|India|Srīnagar|Precious netcom pvt ltd|
+|11|186.148.195.166|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
+|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|13|41.139.197.163|8080|Kenya|Nairobi|Converged services Western|
+|14|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|15|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|84.204.40.154|8080|Russia|St Petersburg|PJSC MegaFon|
+|17|67.43.227.227|1173|Canada|Montreal|GloboTech Communications|
+|18|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
+|19|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|20|39.129.73.6|443|China|Kunming|China Mobile|
 
 
 
