@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|81.91.29.209|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|201.95.254.137|3128|Brazil|São Paulo|Vivo|
-|7|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
-|13|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|72.10.160.174|26263|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|12217|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|12217|Canada|Montreal|GloboTech Communications|
-|18|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|19|72.10.160.171|1817|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|28991|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|8|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|201.95.254.137|3128|Brazil|São Paulo|Vivo|
+|12|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|14|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|16|201.77.108.48|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|17|72.10.160.171|15617|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|32739|Canada|Montreal|GloboTech Communications|
+|19|103.167.170.210|7777|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|20|67.43.228.253|25409|Canada|Montreal|GloboTech Communications|
 
 
 
