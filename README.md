@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|89.117.22.247|3128|United States|Seattle|Nubes, LLC|
-|6|156.236.31.44|1580|The Netherlands|Amsterdam|BitCommand LLC|
-|7|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|8|72.10.160.174|18579|Canada|Montreal|GloboTech Communications|
-|9|91.107.155.187|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|72.10.164.178|22933|Canada|Montreal|GloboTech Communications|
-|11|103.163.13.158|8090|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
-|12|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|13|67.43.227.227|30161|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|30161|Canada|Montreal|GloboTech Communications|
-|15|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|16|72.10.160.90|20715|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|22933|Canada|Montreal|GloboTech Communications|
-|18|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|19|67.43.228.253|14981|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|14981|Canada|Montreal|GloboTech Communications|
+|4|45.114.145.200|32650|India|Jaipur|Tejays Dynamic Limited|
+|5|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.5.232.148|8080|Bangladesh|Chittagong|Chittagong Online Limited|
+|7|91.107.155.187|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|51.250.107.5|4555|Russia|Moscow|Yandex.Cloud LLC|
+|9|72.10.164.178|22933|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|20715|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|9563|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|18319|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.93|30887|Canada|Montreal|GloboTech Communications|
+|14|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|15|72.10.164.178|22933|Canada|Montreal|GloboTech Communications|
+|16|180.232.127.48|3128|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|17|5.196.111.29|20600|France|Gravelines|OVH SAS|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|72.10.164.178|22933|Canada|Montreal|GloboTech Communications|
 
 
 
