@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|5.196.111.29|20233|France|Gravelines|OVH SAS|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |6|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|72.10.160.92|23157|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|32269|Canada|Montreal|GloboTech Communications|
-|9|186.101.91.141|999|Ecuador|Guayaquil|Telconet S.A|
-|10|72.10.164.178|32269|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|30307|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
-|16|175.158.58.140|8081|Indonesia|Jakarta|CBNNAP|
-|17|67.43.228.250|17217|Canada|Montreal|GloboTech Communications|
-|18|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|19|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
-|20|203.210.86.45|1080|Indonesia|Bandung|Infrastruktur STARNET|
+|7|131.100.48.124|999|Colombia|Neiva|Fibernet TV SAS|
+|8|72.10.164.178|17413|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|72.10.164.178|17413|Canada|Montreal|GloboTech Communications|
+|15|39.129.73.6|443|China|Kunming|China Mobile|
+|16|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|121.195.170.225|1024|China|Haidian|CERNET|
+|18|179.49.117.19|999|Honduras|Tegucigalpa|Asociacion De Servicio De Internet S. De RL.|
+|19|72.10.160.90|20221|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|20221|Canada|Montreal|GloboTech Communications|
 
 
 
