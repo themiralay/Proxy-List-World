@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|7|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|8|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|9|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
-|10|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
-|13|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|14|190.72.102.42|999|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
-|15|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
-|16|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|72.10.160.90|16621|Canada|Montreal|GloboTech Communications|
-|18|139.255.67.51|3888|Indonesia|Jakarta|PT. LINKNET|
-|19|101.255.158.42|8080|Indonesia|Bekasi|PT Remala Abadi|
-|20|134.214.147.115|80|France|Villeurbanne|ROCAD|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
+|7|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|9|154.39.79.19|8081|United States|Los Angeles|Cogent Communications|
+|10|178.23.192.249|8901|Poland|Warsaw|Tricomp KLIF|
+|11|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|12|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
+|17|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|103.203.172.22|84|India|Hyderabad|Softgaurd Powertronics|
+|19|38.253.88.242|999|United States|Miami|Cogent Communications|
+|20|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
 
 
 
