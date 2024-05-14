@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|4|200.59.186.81|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |5|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|6|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|200.59.186.81|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|11|67.43.227.227|15635|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.94|20181|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|16257|Canada|Montreal|GloboTech Communications|
-|14|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|67.43.236.20|16257|Canada|Montreal|GloboTech Communications|
-|16|190.121.157.142|999|Colombia|Lourdes|Media Commerce Partners S.A|
-|17|72.10.160.170|22507|Canada|Montreal|GloboTech Communications|
-|18|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
-|19|72.10.164.178|22625|Canada|Montreal|GloboTech Communications|
-|20|120.28.216.126|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|6|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|10|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|11|103.84.177.246|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|14|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|15|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|180.232.127.48|3128|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|19|121.52.156.146|8080|Pakistan|Multan|HEC|
+|20|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
