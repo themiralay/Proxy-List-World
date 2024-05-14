@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.188.252.65|1234|Indonesia|Semarang|PT Data Lintas Media Indonesia|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|7|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
-|8|103.175.238.174|8080|Indonesia|Subang|PT Uliz Netmedia Solusindo|
-|9|186.148.195.166|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
-|10|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|72.10.160.174|16781|Canada|Montreal|GloboTech Communications|
-|14|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|103.26.177.66|8080|Indonesia|Kediri|PT Lintas Jaringan Nusantara|
-|18|46.10.229.243|8080|Bulgaria|Govedare|Vivacom Bulgaria EAD|
-|19|72.10.164.178|15897|Canada|Montreal|GloboTech Communications|
-|20|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|6|201.77.111.231|999|Mexico|Nuevo Casas Grandes|Nidix Networks S.a. De C.V.|
+|7|72.10.160.174|16781|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|72.10.164.178|19575|Canada|Montreal|GloboTech Communications|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|13|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|16|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|17|103.106.112.87|8080|Indonesia|Bandar Lampung|SMSNET|
+|18|67.43.227.227|2595|Canada|Montreal|GloboTech Communications|
+|19|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
+|20|223.27.144.34|8080|Indonesia|Jakarta|PT Cyber Network Indonesia|
 
 
 
