@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|181.204.84.125|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|4|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|38.51.52.193|999|Dominican Republic|Las Terrenas|CV HOTSPOT, S.R.L.|
-|7|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|12|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|13|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|17|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|18|180.211.88.190|3125|Indonesia|Bekasi|Kings Network Indonesia, PT|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|10|72.10.164.178|32769|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|13|103.10.231.189|8080|Thailand|Bangkok|CATBB|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.236.19|2167|Canada|Montreal|GloboTech Communications|
+|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|72.10.164.178|32769|Canada|Montreal|GloboTech Communications|
+|18|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|19|67.43.236.20|19661|Canada|Montreal|GloboTech Communications|
+|20|170.239.207.78|8080|Colombia|Bogotá|FIBERNET|
 
 
 
