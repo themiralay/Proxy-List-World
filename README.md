@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|103.87.169.178|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|8|67.43.236.20|5833|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|5833|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|10053|Canada|Montreal|GloboTech Communications|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|72.10.164.178|10053|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|5833|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|189.203.181.34|8080|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
-|19|72.10.164.178|10053|Canada|Montreal|GloboTech Communications|
-|20|197.201.96.123|80|Algeria|Relizane|Algerie Telecom|
+|2|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|8|67.43.236.20|11369|Canada|Montreal|GloboTech Communications|
+|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|11|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|67.43.236.20|11369|Canada|Montreal|GloboTech Communications|
+|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|72.10.164.178|29715|Canada|Montreal|GloboTech Communications|
+|15|180.131.242.221|48678|Japan|Chatan|GLBB Japan KK|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|72.10.164.178|29715|Canada|Montreal|GloboTech Communications|
+|18|38.156.72.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|72.10.164.178|29715|Canada|Montreal|GloboTech Communications|
+|20|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
