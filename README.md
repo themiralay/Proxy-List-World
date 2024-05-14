@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|195.201.34.206|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|6|157.15.80.20|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
-|7|67.43.227.227|7957|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|28729|Canada|Montreal|GloboTech Communications|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|67.43.236.20|30415|Canada|Montreal|GloboTech Communications|
-|11|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|12|67.43.236.20|30415|Canada|Montreal|GloboTech Communications|
-|13|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|14|78.186.109.247|8080|Turkey|Istanbul|Turk Telekomunikasyon A.S|
-|15|165.16.27.36|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
-|16|67.43.227.226|20285|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.252|10011|Canada|Montreal|GloboTech Communications|
-|18|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.148.130.215|8088|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|67.43.228.252|10011|Canada|Montreal|GloboTech Communications|
+|12|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|13|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|67.43.227.227|32389|Canada|Montreal|GloboTech Communications|
+|16|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|17|67.43.236.20|5257|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
 
 
 
