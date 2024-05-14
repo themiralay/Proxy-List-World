@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|46.21.253.164|3128|Russia|Moscow|Start LLC|
-|3|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|112.78.164.121|8080|Indonesia|Jakarta|Biznet Networks|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|118.10.224.125|80|Japan|Nagasaki|NTT Communications Corporation|
-|11|72.10.160.170|1817|Canada|Montreal|GloboTech Communications|
-|12|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.164.178|21853|Canada|Montreal|GloboTech Communications|
-|15|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|16|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|27.54.117.88|8089|Indonesia|Denpasar|Indonesia Network Information Center|
-|19|67.43.236.20|11367|Canada|Montreal|GloboTech Communications|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|12|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|67.43.228.251|29345|Canada|Montreal|GloboTech Communications|
+|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|16|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
