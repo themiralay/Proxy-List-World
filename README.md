@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|103.180.198.130|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
-|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|16|67.43.227.226|30043|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|6095|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|32017|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|28233|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|32017|Canada|Montreal|GloboTech Communications|
+|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|7|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|9|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|11|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|12|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|13|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|15|168.119.117.125|80|Germany|Gladbeck|Hetzner Online GmbH|
+|16|72.10.164.178|32017|Canada|Montreal|GloboTech Communications|
+|17|216.176.187.99|39837|United States|Lynnwood|Wowrack.com|
+|18|67.43.227.227|17769|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|5987|Canada|Montreal|GloboTech Communications|
+|20|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
