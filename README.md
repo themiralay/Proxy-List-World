@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|46.105.42.230|3128|France|Roubaix|OVH SAS|
-|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|9|79.174.188.153|8080|Russia|Moscow|Unitel, LLC|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|36.66.242.117|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|13|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|15|67.43.236.20|1173|Canada|Montreal|GloboTech Communications|
-|16|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
-|17|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|18|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
-|19|67.43.227.227|31251|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.21|1645|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|181.78.105.153|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|67.43.236.21|1645|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.173|27127|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|8663|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|25483|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|25483|Canada|Montreal|GloboTech Communications|
+|13|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|14|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|15|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|67.43.236.20|3283|Canada|Montreal|GloboTech Communications|
+|17|217.24.245.58|8079|Albania|Tirana|ONE ALBANIA SH.A.|
+|18|72.10.160.170|32823|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.160.90|8439|Canada|Montreal|GloboTech Communications|
 
 
 
