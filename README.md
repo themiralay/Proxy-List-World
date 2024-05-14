@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|6|103.234.159.5|8080|India|Bengaluru|MWPL|
-|7|103.19.59.148|8080|Indonesia|Madiun|BITSNET|
-|8|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|103.245.16.222|8888|Indonesia|Manggadua Selatan|PT Quantum Tera Network|
-|10|201.71.3.22|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|11|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|72.10.164.178|17707|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|165.16.55.19|44444|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|15|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|3|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|124.106.150.231|8282|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|8|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|9|50.235.247.114|8085|United States|Rincon|Comcast Cable Communications, LLC|
+|10|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|103.19.59.148|8080|Indonesia|Madiun|BITSNET|
+|13|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|72.10.164.178|17707|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|72.10.164.178|17707|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17707|Canada|Montreal|GloboTech Communications|
-|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|19|183.36.36.147|3128|China|Xiaolou|Chinanet|
-|20|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|103.148.39.26|82|India|Bengaluru|Broadway Communication Pvt Ltd|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|103.156.16.236|8080|Indonesia|Babakangarut|RSTNET|
 
 
 
