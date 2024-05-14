@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|72.10.160.90|32373|Canada|Montreal|GloboTech Communications|
 |9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|67.43.227.227|24893|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|30197|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.254|24763|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|24893|Canada|Montreal|GloboTech Communications|
+|10|46.161.196.222|9812|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|11|102.67.101.250|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|72.10.164.178|14165|Canada|Montreal|GloboTech Communications|
 |14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|67.43.228.253|32183|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|32183|Canada|Montreal|GloboTech Communications|
-|17|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
-|18|72.10.164.178|30197|Canada|Montreal|GloboTech Communications|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|67.43.227.227|24893|Canada|Montreal|GloboTech Communications|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|103.156.17.52|3127|Indonesia|Indramayu|RSTNET|
+|18|67.43.228.253|2133|Canada|Montreal|GloboTech Communications|
+|19|129.222.176.138|999|Peru|Lima|SpaceX Starlink|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
