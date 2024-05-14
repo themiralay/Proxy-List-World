@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|67.43.236.20|22321|Canada|Montreal|GloboTech Communications|
-|5|5.196.111.29|20233|France|Gravelines|OVH SAS|
-|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|35.212.237.127|3128|United States|The Dalles|Google LLC|
-|10|72.10.164.178|32211|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|22321|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|32211|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|32211|Canada|Montreal|GloboTech Communications|
-|14|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|15|67.43.236.20|22321|Canada|Montreal|GloboTech Communications|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|67.43.227.227|12813|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|67.43.227.226|3813|Canada|Montreal|GloboTech Communications|
+|3|103.105.142.132|8888|Indonesia|Cirebon|Dinas Komunikasi Informatika dan Statistik Kota Cirebon|
+|4|67.43.236.20|21753|Canada|Montreal|GloboTech Communications|
+|5|67.43.236.20|21753|Canada|Montreal|GloboTech Communications|
+|6|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|7|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
+|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|72.10.164.178|32211|Canada|Montreal|GloboTech Communications|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|72.10.164.178|32211|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|21753|Canada|Montreal|GloboTech Communications|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|103.234.159.5|8080|India|Bengaluru|MWPL|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|17|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
+|18|67.43.227.226|3813|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|21753|Canada|Montreal|GloboTech Communications|
+|20|38.156.72.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
