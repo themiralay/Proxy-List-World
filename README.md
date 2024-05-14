@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|190.153.237.2|37453|Chile|Santiago|Gtd Internet S.A.|
-|6|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|50.235.247.114|8085|United States|Rincon|Comcast Cable Communications, LLC|
-|8|102.68.128.217|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|9|222.243.174.132|81|China|Xiangtan|Chinanet|
-|10|67.43.236.20|17047|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.92|28709|Canada|Montreal|GloboTech Communications|
-|12|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.236.20|17047|Canada|Montreal|GloboTech Communications|
-|15|136.243.125.1|1369|Germany|Nuremberg|Hetzner Online GmbH|
-|16|67.43.228.253|14461|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|17047|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|17047|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|19203|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|15707|Canada|Montreal|GloboTech Communications|
+|2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|182.52.155.248|8080|Thailand|Uthai|TOT Public Company Limited|
+|6|115.127.140.114|8080|Bangladesh|Dhaka|BRACNet Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
+|9|58.147.186.214|3125|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
+|10|181.205.251.115|999|Colombia|Medellín|Colombia Móvil|
+|11|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
+|12|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|13|36.88.148.138|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|14|103.84.177.246|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|15|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|102.68.128.217|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|17|103.139.126.230|8083|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|18|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|190.94.212.240|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
 
 
 
