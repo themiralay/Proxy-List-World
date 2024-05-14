@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|154.39.79.19|8081|United States|Los Angeles|Cogent Communications|
-|4|103.35.108.186|5020|Bangladesh|Dhaka|Ranks ITT|
-|5|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|67.43.227.227|13265|Canada|Montreal|GloboTech Communications|
-|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|9|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
-|10|72.10.164.178|16151|Canada|Montreal|GloboTech Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|72.10.160.90|2407|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|2407|Canada|Montreal|GloboTech Communications|
-|14|149.100.159.252|3128|Lithuania|Vilnius|Hostinger International Limited|
-|15|67.43.228.250|12787|Canada|Montreal|GloboTech Communications|
+|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|7|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
+|8|72.10.164.178|16151|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|67.43.236.20|10877|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|10877|Canada|Montreal|GloboTech Communications|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|72.10.164.178|16151|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|15965|Canada|Montreal|GloboTech Communications|
+|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
 |16|72.10.164.178|16151|Canada|Montreal|GloboTech Communications|
-|17|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|18|67.43.228.253|20279|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|28761|Canada|Montreal|GloboTech Communications|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|67.43.227.228|6843|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|16151|Canada|Montreal|GloboTech Communications|
+|19|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|20|67.43.228.251|28761|Canada|Montreal|GloboTech Communications|
 
 
 
