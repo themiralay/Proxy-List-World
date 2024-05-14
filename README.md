@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|165.22.59.117|8888|Singapore|Singapore|DigitalOcean, LLC|
 |5|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |9|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|11|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|12|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|72.10.164.178|30845|Canada|Montreal|GloboTech Communications|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|200.59.186.83|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|17|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|188.240.98.220|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|12|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|13|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|139.255.10.237|8080|Indonesia|Surabaya|PT. LINKNET|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|18|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|19|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
