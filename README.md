@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|4|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|2|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.180.123.203|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|12|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 |15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|16|222.243.174.132|81|China|Xiangtan|Chinanet|
-|17|72.10.160.171|26453|Canada|Montreal|GloboTech Communications|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|72.10.164.178|3813|Canada|Montreal|GloboTech Communications|
 |18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|19|72.10.164.178|8125|Canada|Montreal|GloboTech Communications|
-|20|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|19|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|20|72.10.160.171|26453|Canada|Montreal|GloboTech Communications|
 
 
 
