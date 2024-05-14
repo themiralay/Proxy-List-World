@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|7|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|72.10.164.178|25301|Canada|Montreal|GloboTech Communications|
-|10|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|67.43.227.226|6335|Canada|Montreal|GloboTech Communications|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|67.43.236.20|1375|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|25483|Canada|Montreal|GloboTech Communications|
-|15|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
-|16|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|18|72.10.160.91|5679|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|29379|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|25301|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|6|72.10.164.178|25301|Canada|Montreal|GloboTech Communications|
+|7|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
+|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|10|67.43.227.227|25483|Canada|Montreal|GloboTech Communications|
+|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|12|72.10.160.173|16819|Canada|Montreal|GloboTech Communications|
+|13|180.131.242.221|48678|Japan|Chatan|GLBB Japan KK|
+|14|121.8.215.106|9797|China|Guangzhou|Chinanet|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|188.132.222.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|149.210.235.107|8118|The Netherlands|Bodegraven|Signet B.V.|
+|19|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|20|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
