@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|5|72.10.164.178|1099|Canada|Montreal|GloboTech Communications|
-|6|179.60.235.249|8094|Argentina|Empalme Villa Constitucion|WICORP SA|
-|7|201.77.108.48|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|8|72.10.164.178|1099|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|3135|Canada|Montreal|GloboTech Communications|
-|10|207.230.8.10|999|Colombia|Montería|TV&MÁS S.A.S|
-|11|72.10.160.90|19553|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|14|138.118.106.130|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
-|15|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
-|17|72.10.160.93|3887|Canada|Montreal|GloboTech Communications|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|41.139.197.163|8080|Kenya|Nairobi|Converged services Western|
-|20|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|5|103.53.185.8|8088|Indonesia|Makassar|BOSOWA|
+|6|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|72.10.160.90|11489|Canada|Montreal|GloboTech Communications|
+|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|10|101.255.165.130|1111|Indonesia|Bekasi|PT Remala Abadi|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.164.178|1099|Canada|Montreal|GloboTech Communications|
+|13|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|14|103.166.10.138|8181|Indonesia|Kediri|PT. Yasmin Amanah Media|
+|15|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
+|16|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|17|65.20.154.62|28080|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|18|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|19|67.43.227.227|32065|Canada|Montreal|GloboTech Communications|
+|20|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
