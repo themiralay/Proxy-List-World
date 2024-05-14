@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|200.24.159.158|999|Ecuador|Cuenca|Negocios Y Telefonia Nedetel S.A|
-|8|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|67.43.228.253|11503|Canada|Montreal|GloboTech Communications|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|67.43.227.227|19997|Canada|Montreal|GloboTech Communications|
-|14|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|17|72.10.160.90|24597|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|21331|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|19997|Canada|Montreal|GloboTech Communications|
-|20|122.54.105.109|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
+|11|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
+|12|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|13|143.198.217.102|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|15|62.3.30.70|8080|Georgia||Enbinet Ltd.|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|103.179.84.203|8080|Indonesia|Semarang|PT CYB Media Group|
+|19|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|20|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
 
 
 
