@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
-|7|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|187.79.146.98|8080|Brazil|São Luís|V tal|
-|12|72.10.164.178|22933|Canada|Montreal|GloboTech Communications|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|67.43.227.228|20735|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|30161|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|22933|Canada|Montreal|GloboTech Communications|
-|17|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|67.43.227.227|30161|Canada|Montreal|GloboTech Communications|
+|5|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|72.10.164.178|22933|Canada|Montreal|GloboTech Communications|
+|9|202.173.220.50|1122|Thailand|Bangkok|KIRZ Company Limited|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|72.10.164.178|22933|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.228|20735|Canada|Montreal|GloboTech Communications|
+|13|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|14|103.163.13.158|8090|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
+|15|39.129.73.6|443|China|Kunming|China Mobile|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|36.95.154.175|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|67.43.227.228|20735|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|22933|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|20735|Canada|Montreal|GloboTech Communications|
 
 
 
