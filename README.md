@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.156.16.179|8818|Indonesia|Babakangarut|RSTNET|
-|5|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|6|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|7|45.230.168.5|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|8|72.10.164.178|2241|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.170|20039|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|2025|Canada|Montreal|GloboTech Communications|
-|11|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
-|12|67.43.228.250|2025|Canada|Montreal|GloboTech Communications|
-|13|185.167.59.215|443|Moldova|Taraclia|Caghet-plus SRL|
-|14|183.165.247.11|8089|China|Shenzhen|Chinanet|
-|15|103.154.230.129|8090|Indonesia|Lamongan|DIGITNET|
-|16|222.243.174.132|81|China|Xiangtan|Chinanet|
-|17|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|18|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|72.10.160.174|20321|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|5|67.43.227.227|6705|Canada|Montreal|GloboTech Communications|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|7|67.43.228.250|18003|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|6705|Canada|Montreal|GloboTech Communications|
+|9|82.200.205.126|8081|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|10|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|13|72.10.160.90|18085|Canada|Montreal|GloboTech Communications|
+|14|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|15|67.43.236.20|13049|Canada|Montreal|GloboTech Communications|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|88.84.209.24|3128|Russia|Moscow|Flex Ltd.|
+|18|67.43.227.227|6705|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|1997|Canada|Montreal|GloboTech Communications|
+|20|159.224.243.185|37793|Ukraine|Dnipro|Content Delivery Network LTD|
 
 
 
