@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7961** proxies at the latest update. Usable proxies are below.
+> Scraper found **7480** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|709|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|190|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6002|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5521|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|5|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|6|67.43.236.20|6385|Canada|Montreal|GloboTech Communications|
-|7|67.43.228.253|23485|Canada|Montreal|GloboTech Communications|
-|8|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|103.24.213.124|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|10|72.10.164.178|1233|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|67.43.227.228|33147|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|23485|Canada|Montreal|GloboTech Communications|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|103.114.97.98|8999|Bangladesh|Chatkhil|Skynet Chowmuhani|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|67.43.236.18|32953|Canada|Montreal|GloboTech Communications|
+|3|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|67.43.228.253|23485|Canada|Montreal|GloboTech Communications|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|15|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|16|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|17|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
+|18|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
