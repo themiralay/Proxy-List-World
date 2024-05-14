@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|34.87.1.56|55443|Singapore|Singapore|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|72.10.164.178|3103|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.92|25149|Canada|Montreal|GloboTech Communications|
-|8|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|9|67.43.227.227|24111|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|28849|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|31841|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|3103|Canada|Montreal|GloboTech Communications|
-|13|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|14|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|154.73.87.241|8080|Botswana|Gaborone|STATURE (PTY) LTD|
-|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|6|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|9|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|10|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|11|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|103.84.177.246|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|14|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|15|72.10.164.178|27063|Canada|Montreal|GloboTech Communications|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |17|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|94.102.228.101|32650|Montenegro|Podgorica|One Crna Gora DOO|
-|19|72.10.160.90|11489|Canada|Montreal|GloboTech Communications|
-|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|197.98.201.116|10909|South Africa|Johannesburg|Dimension Data|
+|19|72.10.164.178|27063|Canada|Montreal|GloboTech Communications|
+|20|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
 
 
 
