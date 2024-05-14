@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|7|67.43.236.18|3935|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|2369|Canada|Montreal|GloboTech Communications|
-|9|124.105.79.237|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|11|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|4|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|10|72.10.160.92|14775|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|18217|Canada|Montreal|GloboTech Communications|
 |12|72.10.164.178|2369|Canada|Montreal|GloboTech Communications|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|72.10.160.90|32083|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|171.6.76.132|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|18|67.43.236.20|28743|Canada|Montreal|GloboTech Communications|
-|19|191.102.254.9|8085|Argentina|Rosario|IP·RED|
-|20|67.43.236.20|28743|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|2369|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|72.10.164.178|2369|Canada|Montreal|GloboTech Communications|
+|17|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|103.84.177.246|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|20|160.248.7.39|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
