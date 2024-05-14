@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.68.138.113|3333|Poland|Warsaw|OVH SAS|
-|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|7|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
-|8|103.129.201.158|8080|Bangladesh|Gafargaon|Weblink Communications Ltd|
-|9|45.162.82.244|8080|Colombia|Bogotá|Wifao Colombia S A S|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|12|216.39.249.210|3128|United States|New York|GTHost|
-|13|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|210.12.194.39|8083|China|Chaowai|China Unicom Beijing Province Network|
-|17|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|18|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|19|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|20|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|103.188.252.65|1234|Indonesia|Semarang|PT Data Lintas Media Indonesia|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|9|181.215.236.149|80|Brazil|Santana de Parnaiba|Ecxon Datacenter LTDA|
+|10|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|11|62.201.217.194|8080|Iraq|Kelar|BAG|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
+|15|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|18|72.10.160.90|25281|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
