@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.109.16.51|8080|Indonesia|Surabaya|DATAUTAMANET|
-|9|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.228.253|29731|Canada|Montreal|GloboTech Communications|
-|15|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|17|109.201.14.82|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|67.43.227.227|22163|Canada|Montreal|GloboTech Communications|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.37.166|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|13|67.43.228.253|11503|Canada|Montreal|GloboTech Communications|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|19|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
+|20|88.255.217.30|8080|Turkey|Reyhanlı|TurkTelekom|
 
 
 
