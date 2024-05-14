@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
-|8|67.43.236.18|29875|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|10689|Canada|Montreal|GloboTech Communications|
-|10|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|112.197.3.200|8080|Vietnam|Ho Chi Minh City|SCTV|
-|12|67.43.227.227|28599|Canada|Montreal|GloboTech Communications|
-|13|103.133.27.86|8085|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|14|67.43.236.20|25341|Canada|Montreal|GloboTech Communications|
-|15|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|17|67.43.228.253|6803|Canada|Montreal|GloboTech Communications|
-|18|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|72.10.160.90|10689|Canada|Montreal|GloboTech Communications|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|181.204.84.125|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|11|181.78.105.153|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|12|89.188.110.196|8080|Russia|St Petersburg|Citytelecom LLC|
+|13|67.43.236.20|30415|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|6803|Canada|Montreal|GloboTech Communications|
+|15|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|16|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
+|17|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|18|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|19|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
+|20|103.159.47.34|83|India|Ahmedabad|King Netsol Private Limited|
 
 
 
