@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|177.93.37.36|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|36.66.242.117|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|9|103.84.177.246|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|119.93.167.12|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|13|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.227.227|22875|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|10689|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|6099|Canada|Montreal|GloboTech Communications|
-|17|190.121.134.107|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|18|72.10.160.170|1717|Canada|Montreal|GloboTech Communications|
-|19|197.98.201.113|10772|South Africa|Johannesburg|Dimension Data|
-|20|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|117.102.86.146|8080|Indonesia|Jakarta|BIZNET|
+|7|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|10|181.233.62.18|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|13|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|14|181.78.105.153|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|15|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|38.9.113.164|8080|Brazil|Rio Branco|SEM FRONTEIRAS TELECOMUNICACOES LTDA|
+|18|103.112.149.41|8080|Bangladesh|Khulna|Royalnet|
+|19|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|20|67.43.236.20|25341|Canada|Montreal|GloboTech Communications|
 
 
 
