@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|154.73.87.241|8080|Botswana|Gaborone|STATURE (PTY) LTD|
-|8|194.135.22.8|3128|Switzerland|Zurich|CH-RUVDS|
-|9|67.43.228.253|28849|Canada|Montreal|GloboTech Communications|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|181.204.172.172|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|12|5.196.111.29|20030|France|Gravelines|OVH SAS|
-|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|14|67.43.236.20|2859|Canada|Montreal|GloboTech Communications|
-|15|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
-|16|148.244.210.141|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
-|17|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
-|18|67.43.227.226|12673|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|31235|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|4|85.117.63.37|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|103.68.207.34|82|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
+|7|72.10.160.173|8123|Canada|Montreal|GloboTech Communications|
+|8|5.196.111.29|20030|France|Gravelines|OVH SAS|
+|9|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
+|10|103.179.46.49|6789|India|Mumbai|Jeebr Cloud Solution PVT LTD|
+|11|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|12|72.10.164.178|31365|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|109.24.132.215|3131|France|Lyon|Societe Francaise Du Radiotelephone - SFR SA|
+|15|67.43.227.226|12673|Canada|Montreal|GloboTech Communications|
+|16|165.255.244.220|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|17|148.244.210.141|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
+|18|200.24.154.219|999|Ecuador|Manta|Ufinet Panama S.A.|
+|19|67.43.228.253|10095|Canada|Montreal|GloboTech Communications|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
