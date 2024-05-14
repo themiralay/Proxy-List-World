@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.105.142.132|8888|Indonesia|Cirebon|Dinas Komunikasi Informatika dan Statistik Kota Cirebon|
-|4|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|4|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|5|103.105.142.132|8888|Indonesia|Cirebon|Dinas Komunikasi Informatika dan Statistik Kota Cirebon|
 |6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|67.43.236.21|2613|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|2189|Canada|Montreal|GloboTech Communications|
-|10|212.26.234.193|8080|Russia|Ivanovo|PJSC Rostelecom|
-|11|67.43.236.18|5579|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|10335|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|26287|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|15835|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|10335|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|10335|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|26287|Canada|Montreal|GloboTech Communications|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|67.43.227.227|26287|Canada|Montreal|GloboTech Communications|
-|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|202.6.234.51|51234|Indonesia|Surabaya|PADINET - Padi Internet|
+|10|67.43.236.18|7931|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|25465|Canada|Montreal|GloboTech Communications|
+|12|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|13|72.10.164.178|25465|Canada|Montreal|GloboTech Communications|
+|14|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
+|15|72.10.164.178|25465|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|18939|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.21|2613|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|16855|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|10819|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|3891|Canada|Montreal|GloboTech Communications|
 
 
 
