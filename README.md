@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|7|185.111.156.170|80|Poland|Warsaw|Nubes, LLC|
-|8|101.255.17.6|8033|Indonesia|Jakarta|PT Remala Abadi|
-|9|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|10|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|67.43.236.19|28973|Canada|Montreal|GloboTech Communications|
-|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|101.255.208.18|3129|Indonesia|Wanaherang|PT Remala Abadi|
-|14|67.43.236.20|13009|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|25347|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|25347|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|31435|Canada|Montreal|GloboTech Communications|
-|18|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|19|72.10.164.178|25347|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|13009|Canada|Montreal|GloboTech Communications|
+|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|12|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|13|72.10.164.178|4671|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|7329|Canada|Montreal|GloboTech Communications|
+|15|185.111.156.170|80|Poland|Warsaw|Nubes, LLC|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|72.10.164.178|4671|Canada|Montreal|GloboTech Communications|
+|19|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
 
 
 
