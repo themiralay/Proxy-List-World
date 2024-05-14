@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|83.244.33.34|8080|Palestinian Territory|Ramallah|Palestine Telecommunications Company|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|72.10.164.178|4419|Canada|Montreal|GloboTech Communications|
-|11|212.26.234.193|8080|Russia|Ivanovo|PJSC Rostelecom|
-|12|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|13|67.43.227.227|33233|Canada|Montreal|GloboTech Communications|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|72.10.164.178|4419|Canada|Montreal|GloboTech Communications|
-|18|189.127.166.3|999|Venezuela|Barquisimeto|RED SERVITEL|
-|19|38.253.88.242|999|United States|Miami|Cogent Communications|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|103.159.195.221|8080|Indonesia|Demak|PT Giga Digital Nusantara|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|168.0.239.224|8787|Brazil|Sao Sebastiao do Passe|VOANET Telecomunicações Ltda.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|72.10.160.90|30203|Canada|Montreal|GloboTech Communications|
+|10|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|11|67.43.227.227|29685|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|4419|Canada|Montreal|GloboTech Communications|
+|13|103.252.169.158|8080|India|Nagpur|UCN CABLE NETWORK PVT. LTD|
+|14|72.10.164.178|4419|Canada|Montreal|GloboTech Communications|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|72.10.164.178|4419|Canada|Montreal|GloboTech Communications|
+|17|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|18|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |20|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
