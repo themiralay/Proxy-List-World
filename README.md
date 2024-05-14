@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|72.10.164.178|31531|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|31531|Canada|Montreal|GloboTech Communications|
 |12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|67.43.227.226|1551|Canada|Montreal|GloboTech Communications|
-|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|17|67.43.236.20|21781|Canada|Montreal|GloboTech Communications|
+|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|14|170.81.210.254|8080|Brazil|Carapicuíba|Connectvy Telecomunicacoes Ltda|
+|15|67.43.236.20|11817|Canada|Montreal|GloboTech Communications|
+|16|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |18|72.10.164.178|31531|Canada|Montreal|GloboTech Communications|
-|19|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|20|103.105.142.132|8888|Indonesia|Cirebon|Dinas Komunikasi Informatika dan Statistik Kota Cirebon|
+|19|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
+|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
