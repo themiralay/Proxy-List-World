@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |8|183.36.36.147|3128|China|Xiaolou|Chinanet|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|67.43.228.253|29379|Canada|Montreal|GloboTech Communications|
-|11|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
-|12|72.10.164.178|8663|Canada|Montreal|GloboTech Communications|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|179.32.62.127|999|Colombia|Barranquilla|Colombia Telecomunicaciones S.a. ESP|
-|15|103.164.223.54|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|18|72.10.160.90|8439|Canada|Montreal|GloboTech Communications|
-|19|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|10|72.10.164.178|25301|Canada|Montreal|GloboTech Communications|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|13|72.10.160.170|32823|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|29379|Canada|Montreal|GloboTech Communications|
+|15|114.5.182.190|1111|Indonesia|Medan|PT. INDOSAT Tbk|
+|16|72.10.160.90|8439|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|25301|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|25301|Canada|Montreal|GloboTech Communications|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|72.10.160.172|21951|Canada|Montreal|GloboTech Communications|
 
 
 
