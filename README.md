@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|7|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|6|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|72.10.164.178|32953|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|72.10.160.90|10775|Canada|Montreal|GloboTech Communications|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|190.61.61.210|999|Colombia|Juan de Acosta|Ufinet Panama S.A.|
-|16|67.43.227.227|7871|Canada|Montreal|GloboTech Communications|
-|17|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|18|72.10.164.178|32953|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|32953|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|103.167.170.210|7777|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|11|72.10.160.90|10775|Canada|Montreal|GloboTech Communications|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|72.10.164.178|30789|Canada|Montreal|GloboTech Communications|
+|15|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|16|103.252.169.158|8080|India|Nagpur|UCN CABLE NETWORK PVT. LTD|
+|17|202.180.16.1|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|18|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|19|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|182.160.120.228|5020|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
