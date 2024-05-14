@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|6|103.88.237.6|84|India|Hyderabad|Mana Communications|
 |7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|10|72.10.164.178|25189|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.173|9743|Canada|Montreal|GloboTech Communications|
-|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|14|72.10.164.178|25189|Canada|Montreal|GloboTech Communications|
-|15|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|72.10.160.173|9743|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.22|13613|Canada|Montreal|GloboTech Communications|
-|19|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|75.119.131.36|9393|Germany|Düsseldorf|Contabo GmbH|
+|13|72.10.164.178|3813|Canada|Montreal|GloboTech Communications|
+|14|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|15|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|16|67.43.227.228|20755|Canada|Montreal|GloboTech Communications|
+|17|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|18|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|19|72.10.164.178|3813|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
