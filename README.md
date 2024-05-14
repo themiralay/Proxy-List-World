@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|23.152.40.14|3128|United States|North Miami|InfiniaHost.com|
-|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.10.164.178|14165|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|28191|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|14165|Canada|Montreal|GloboTech Communications|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.227.227|24893|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|27955|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.93|28229|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|17653|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|14165|Canada|Montreal|GloboTech Communications|
+|5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|102.67.101.250|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|102.213.223.46|83|Gambia|Brikama|Sky Telecom Company Limited|
+|10|72.10.164.178|1081|Canada|Montreal|GloboTech Communications|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|39.129.73.6|443|China|Kunming|China Mobile|
+|14|67.43.236.20|28369|Canada|Montreal|GloboTech Communications|
+|15|84.204.40.154|8080|Russia|St Petersburg|PJSC MegaFon|
+|16|72.10.164.178|1081|Canada|Montreal|GloboTech Communications|
+|17|201.95.254.137|3128|Brazil|São Paulo|Vivo|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|20|67.43.228.253|27517|Canada|Montreal|GloboTech Communications|
 
 
 
