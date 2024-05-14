@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|103.155.199.144|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.155.198.105|8080|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
 |7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|170.238.239.72|8080|Colombia|Buenaventura|InterNexa Global Network|
-|14|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.236.20|5791|Canada|Montreal|GloboTech Communications|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|67.43.227.227|1687|Canada|Montreal|GloboTech Communications|
+|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|16|103.252.169.158|8080|India|Nagpur|UCN CABLE NETWORK PVT. LTD|
+|17|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|18|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|20|161.34.37.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
