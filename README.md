@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|6|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|6|131.100.48.97|999|Colombia|Neiva|Fibernet TV SAS|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|67.43.227.227|3335|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|13761|Canada|Montreal|GloboTech Communications|
-|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|12|72.10.160.92|4677|Canada|Montreal|GloboTech Communications|
-|13|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
-|14|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|15|72.10.164.178|21825|Canada|Montreal|GloboTech Communications|
-|16|210.201.86.72|8080|Taiwan|Neihu District|Asia Pacific On-line Services Inc.|
-|17|103.157.83.77|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|18|67.43.227.227|3335|Canada|Montreal|GloboTech Communications|
-|19|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|20|67.43.228.253|5833|Canada|Montreal|GloboTech Communications|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|103.133.27.143|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|11|67.43.227.227|26137|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|15|72.10.160.174|20675|Canada|Montreal|GloboTech Communications|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|19|181.212.45.226|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|20|72.10.160.170|13761|Canada|Montreal|GloboTech Communications|
 
 
 
