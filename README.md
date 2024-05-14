@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|103.88.236.113|84|India|Hyderabad|Mana Communications|
 |5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|103.47.175.161|83|India|Srīnagar|Precious netcom pvt ltd|
-|7|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|8|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|190.94.212.240|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|11|38.253.88.242|999|United States|Miami|Cogent Communications|
-|12|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|13|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
-|14|103.46.8.55|8181|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|15|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|207.244.254.27|3129|United States|St Louis|Nubes, LLC|
-|18|72.10.160.90|25281|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|30189|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|4523|Canada|Montreal|GloboTech Communications|
+|6|103.112.45.46|8080|Indonesia|Bandung|PT.Globalnet Multi Data|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|200.59.10.49|999|Argentina|Don Torcuato|COTELCAM|
+|9|178.23.192.249|8901|Poland|Warsaw|Tricomp KLIF|
+|10|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
+|11|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|12|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|103.154.113.90|8080|Indonesia|Jakarta|MORATELINDONAP|
+|14|67.43.227.226|30189|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|21679|Canada|Montreal|GloboTech Communications|
+|16|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|72.10.160.90|25281|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|25563|Canada|Montreal|GloboTech Communications|
 
 
 
