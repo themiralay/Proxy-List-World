@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|67.43.227.227|8645|Canada|Montreal|GloboTech Communications|
-|9|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
-|10|67.43.227.227|8645|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|6|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|9|103.234.159.5|8080|India|Bengaluru|MWPL|
+|10|67.43.236.20|18351|Canada|Montreal|GloboTech Communications|
 |11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|13|212.26.234.193|8080|Russia|Ivanovo|PJSC Rostelecom|
-|14|103.76.151.133|8181|Indonesia|Klatakan|PT. Java Digital Nusantara|
-|15|67.43.227.227|8645|Canada|Montreal|GloboTech Communications|
-|16|77.37.244.119|8080|Russia|Moscow|NCNET|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|19|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|20|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|67.43.227.227|14079|Canada|Montreal|GloboTech Communications|
+|15|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
+|16|67.43.227.227|14079|Canada|Montreal|GloboTech Communications|
+|17|1.10.141.45|8080|Thailand|Pak Kret|TOT Public Company Limited|
+|18|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|19|45.186.106.159|999|Guatemala|Guatemala City|Infinitum S.A.|
+|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 
 
 
