@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.234.159.5|8080|India|Bengaluru|MWPL|
-|6|45.191.47.1|999|Colombia|Orito|TV AZTECA SUCURSAL COLOMBIA|
-|7|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
-|8|72.10.164.178|9123|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|4525|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|1593|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|9123|Canada|Montreal|GloboTech Communications|
-|12|177.231.245.182|8080|Mexico|Ciudad Hidalgo|Mega Cable, S.A. de C.V.|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|72.10.160.170|27987|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|31841|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|16003|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|9123|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|9123|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|4525|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|9123|Canada|Montreal|GloboTech Communications|
+|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|67.43.227.227|24653|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.170|7323|Canada|Montreal|GloboTech Communications|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|72.10.164.178|14593|Canada|Montreal|GloboTech Communications|
+|11|200.59.186.81|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|12|67.43.227.227|24653|Canada|Montreal|GloboTech Communications|
+|13|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
+|14|103.231.200.229|3128|Indonesia|Bekasi|PT. Berdikari Prima Mandiri|
+|15|1.10.141.45|8080|Thailand|Pak Kret|TOT Public Company Limited|
+|16|191.97.19.14|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|17|72.10.164.178|14593|Canada|Montreal|GloboTech Communications|
+|18|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|72.10.160.90|32739|Canada|Montreal|GloboTech Communications|
+|20|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
