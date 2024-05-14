@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|2|182.253.70.12|8080|Indonesia|Surabaya|BIZNET|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|8|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|9|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
-|10|45.230.168.5|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|12|34.87.1.56|55443|Singapore|Singapore|Google LLC|
-|13|72.10.164.178|3283|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|2543|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|18085|Canada|Montreal|GloboTech Communications|
-|16|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|17|103.168.254.62|8080|Indonesia|Kudus|PT Fahasa Tri Data|
-|18|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|134.35.150.87|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|103.35.110.94|5020|Bangladesh|Dhaka|Ranks ITT|
+|8|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|11|210.201.86.72|8080|Taiwan|Neihu District|Asia Pacific On-line Services Inc.|
+|12|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|13|190.94.212.240|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|15|72.10.164.178|17757|Canada|Montreal|GloboTech Communications|
+|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|72.10.164.178|17757|Canada|Montreal|GloboTech Communications|
+|20|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
 
 
 
