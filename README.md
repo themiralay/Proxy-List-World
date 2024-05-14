@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.46.8.55|8181|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|5|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|7|62.201.217.194|8080|Iraq|Kelar|BAG|
-|8|103.235.67.130|80|Indonesia|Depok|PT Artha Media Lintas Nusa|
-|9|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|10|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|11|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|72.10.164.178|30845|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|7557|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|85.239.234.94|3220|United States|Seattle|Casablanca INT fraction|
-|16|67.43.236.20|7557|Canada|Montreal|GloboTech Communications|
+|3|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|96.53.48.166|8080|Canada|Vancouver|Shaw Communications Inc.|
+|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|77.37.244.119|8080|Russia|Moscow|NCNET|
+|12|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|14|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
 |17|72.10.164.178|30845|Canada|Montreal|GloboTech Communications|
 |18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|67.43.228.254|2323|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|67.43.227.227|4113|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|7557|Canada|Montreal|GloboTech Communications|
 
 
 
