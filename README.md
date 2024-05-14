@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7414** proxies at the latest update. Usable proxies are below.
+> Scraper found **7577** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|100|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|658|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|99|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|845|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|177|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|154|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5521|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|5|72.10.164.178|18745|Canada|Montreal|GloboTech Communications|
-|6|200.59.186.81|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|7|103.252.169.158|8080|India|Nagpur|UCN CABLE NETWORK PVT. LTD|
-|8|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|11|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|12|181.118.143.1|999|Argentina|Posadas|Siternet SRL|
-|13|72.10.164.178|18745|Canada|Montreal|GloboTech Communications|
-|14|197.98.201.113|11051|South Africa|Johannesburg|Dimension Data|
-|15|103.160.150.251|8080|Indonesia|Samarinda|PT. LINTASMAYA MULTI MEDIA|
-|16|200.61.16.80|8080|Argentina|Buenos Aires|Silica Networks Argentina S.A|
-|17|197.98.201.113|11051|South Africa|Johannesburg|Dimension Data|
-|18|197.98.201.113|11051|South Africa|Johannesburg|Dimension Data|
-|19|197.98.201.113|11051|South Africa|Johannesburg|Dimension Data|
-|20|197.98.201.113|11051|South Africa|Johannesburg|Dimension Data|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|7|20.42.119.47|80|United States|Boydton|Microsoft Corporation|
+|8|67.43.227.228|32379|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|21933|Canada|Montreal|GloboTech Communications|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|150.136.42.70|80|United States|Ashburn|Oracle Corporation|
+|14|67.43.227.227|20181|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|20181|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|8009|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|15321|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|8009|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|21933|Canada|Montreal|GloboTech Communications|
+|20|176.9.90.155|80|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
