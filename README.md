@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|200.125.168.56|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |7|72.10.164.178|13295|Canada|Montreal|GloboTech Communications|
-|8|45.119.85.216|3128|Vietnam|Quan Binh Thanh|Long Van System Solution JSC|
-|9|67.43.227.230|22765|Canada|Montreal|GloboTech Communications|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |10|72.10.164.178|13295|Canada|Montreal|GloboTech Communications|
-|11|218.6.120.111|7777|China|Fuzhou|China Telecom|
-|12|67.43.236.20|26077|Canada|Montreal|GloboTech Communications|
-|13|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|72.10.160.90|19225|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|13295|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|13739|Canada|Montreal|GloboTech Communications|
-|17|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.236.21|16695|Canada|Montreal|GloboTech Communications|
-|19|103.169.255.171|8080|Indonesia|Banyuwangi|PT Master Star Network|
-|20|67.43.236.20|26077|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|13295|Canada|Montreal|GloboTech Communications|
+|12|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|36.93.140.71|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|16|67.43.236.20|29953|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.21|16695|Canada|Montreal|GloboTech Communications|
+|18|203.128.77.213|33378|Indonesia|Jakarta|Neuviz|
+|19|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|20|38.156.235.227|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
 
 
 
