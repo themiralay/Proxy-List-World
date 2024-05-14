@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
-|3|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|67.43.227.228|31841|Canada|Montreal|GloboTech Communications|
-|6|67.43.236.20|30407|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|20761|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|30407|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|30407|Canada|Montreal|GloboTech Communications|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|67.43.228.253|30635|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|30407|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|30407|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|20761|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|13119|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|31841|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|12813|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|20761|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|22135|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|13119|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|4|67.43.227.228|8561|Canada|Montreal|GloboTech Communications|
+|5|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|67.43.236.20|12689|Canada|Montreal|GloboTech Communications|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|67.43.227.227|30885|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|1959|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|1959|Canada|Montreal|GloboTech Communications|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|67.43.227.228|8561|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|12689|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|1959|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|12689|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|8561|Canada|Montreal|GloboTech Communications|
 
 
 
