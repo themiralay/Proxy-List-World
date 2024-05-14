@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7318** proxies at the latest update. Usable proxies are below.
+> Scraper found **7319** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|141|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|142|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|963|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|262|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|11|72.10.160.172|25409|Canada|Montreal|GloboTech Communications|
-|12|216.176.187.99|39812|United States|Lynnwood|Wowrack.com|
-|13|67.43.236.20|3671|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|22743|Canada|Montreal|GloboTech Communications|
-|15|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|16|72.10.160.90|2973|Canada|Montreal|GloboTech Communications|
-|17|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
-|18|72.10.160.172|25409|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|157.10.156.100|1080|Indonesia|Enrekang|PT Singki Media Telekomunikasi|
+|6|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|7|67.43.236.20|3671|Canada|Montreal|GloboTech Communications|
+|8|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
+|9|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.160.90|2973|Canada|Montreal|GloboTech Communications|
+|13|157.15.80.20|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
+|14|197.98.201.113|10382|South Africa|Johannesburg|Dimension Data|
+|15|197.98.201.113|10382|South Africa|Johannesburg|Dimension Data|
+|16|103.154.77.64|83|Indonesia|Magelang|T2NET|
+|17|197.98.201.113|10382|South Africa|Johannesburg|Dimension Data|
+|18|168.181.196.76|8080|Brazil|Marataizes|Windx Telecomunicações|
+|19|103.153.63.211|8085|Indonesia|Rejoagung Satu|IMEDIANET|
+|20|197.98.201.113|10382|South Africa|Johannesburg|Dimension Data|
 
 
 
