@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|6|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
-|7|75.84.199.80|80|United States|Sherman Oaks|Spectrum|
-|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|9|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|72.10.160.91|3219|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.19|2167|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|4129|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|24585|Canada|Montreal|GloboTech Communications|
-|14|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
-|15|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|16|72.10.160.170|19161|Canada|Montreal|GloboTech Communications|
-|17|103.105.142.132|8888|Indonesia|Cirebon|Dinas Komunikasi Informatika dan Statistik Kota Cirebon|
-|18|177.124.177.116|80|Brazil|Cascavel|Constel Tecnologia Ltda|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|41.65.67.167|1976|Egypt|Giza|Enterprise|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|207.154.194.241|4050|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|67.43.228.250|4129|Canada|Montreal|GloboTech Communications|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|168.194.169.101|999|Peru|Lima|FASTNET|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
