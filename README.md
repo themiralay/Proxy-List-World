@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|72.10.160.173|19335|Canada|Montreal|GloboTech Communications|
-|10|38.9.113.164|8080|Brazil|Rio Branco|SEM FRONTEIRAS TELECOMUNICACOES LTDA|
-|11|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|72.10.160.174|21605|Canada|Montreal|GloboTech Communications|
-|13|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|15|72.10.160.90|2973|Canada|Montreal|GloboTech Communications|
-|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|17|67.43.236.20|1279|Canada|Montreal|GloboTech Communications|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|67.43.227.228|25451|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|25189|Canada|Montreal|GloboTech Communications|
+|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|5|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
+|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|164.70.88.64|8080|Japan|Chiyoda|InfoSphere|
+|11|72.10.160.174|21605|Canada|Montreal|GloboTech Communications|
+|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|72.10.160.173|19335|Canada|Montreal|GloboTech Communications|
+|15|218.6.120.111|7777|China|Fuzhou|China Telecom|
+|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|67.43.227.228|25451|Canada|Montreal|GloboTech Communications|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|20|103.105.142.132|8888|Indonesia|Cirebon|Dinas Komunikasi Informatika dan Statistik Kota Cirebon|
 
 
 
