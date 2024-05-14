@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|6|67.43.236.20|5791|Canada|Montreal|GloboTech Communications|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|72.10.164.178|17013|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|17013|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.92|22751|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|17013|Canada|Montreal|GloboTech Communications|
-|15|103.88.237.6|84|India|Hyderabad|Mana Communications|
-|16|67.43.227.227|22899|Canada|Montreal|GloboTech Communications|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|67.43.236.20|5791|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|17013|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|21689|Canada|Montreal|GloboTech Communications|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|11|67.43.236.20|5791|Canada|Montreal|GloboTech Communications|
+|12|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|72.10.164.178|2393|Canada|Montreal|GloboTech Communications|
+|15|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|72.10.160.92|22751|Canada|Montreal|GloboTech Communications|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|72.10.164.178|2393|Canada|Montreal|GloboTech Communications|
 
 
 
