@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.105.142.132|8888|Indonesia|Cirebon|Dinas Komunikasi Informatika dan Statistik Kota Cirebon|
-|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|11|72.10.164.178|4835|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|1387|Canada|Montreal|GloboTech Communications|
-|13|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|67.43.228.253|30635|Canada|Montreal|GloboTech Communications|
-|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|16|191.102.254.9|8085|Argentina|Rosario|IP·RED|
-|17|72.10.164.178|4835|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|7931|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|9991|Canada|Montreal|GloboTech Communications|
-|20|190.152.255.66|3128|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|5|72.10.164.178|32211|Canada|Montreal|GloboTech Communications|
+|6|72.10.164.178|32211|Canada|Montreal|GloboTech Communications|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|72.10.160.90|22135|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|22135|Canada|Montreal|GloboTech Communications|
+|10|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|11|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|12|67.43.227.226|3813|Canada|Montreal|GloboTech Communications|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|15|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|72.10.164.178|32211|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|6197|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|13849|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|22135|Canada|Montreal|GloboTech Communications|
 
 
 
