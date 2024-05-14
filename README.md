@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|180.74.171.206|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|9|67.43.227.227|15429|Canada|Montreal|GloboTech Communications|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|72.10.160.173|1221|Canada|Montreal|GloboTech Communications|
-|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|15|79.174.188.153|8080|Russia|Moscow|Unitel, LLC|
+|8|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|9|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|179.60.235.249|8094|Argentina|Empalme Villa Constitucion|WICORP SA|
+|12|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|13|192.145.228.209|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|14|72.10.164.178|6243|Canada|Montreal|GloboTech Communications|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |16|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
-|18|197.98.201.115|8800|South Africa|Johannesburg|Dimension Data|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|17|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|18|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
+|19|156.146.58.170|10192|United States|New York|DataCamp Limited|
+|20|197.98.201.115|8800|South Africa|Johannesburg|Dimension Data|
 
 
 
