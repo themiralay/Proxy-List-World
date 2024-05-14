@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|6|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|11|203.150.243.16|3128|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|3|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
+|4|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|5|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|6|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|7|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|8|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|11|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|72.10.164.178|29901|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|5437|Canada|Montreal|GloboTech Communications|
-|17|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
-|18|190.121.143.129|999|Colombia|San Martin|Media Commerce Partners S.A|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|67.43.228.250|13119|Canada|Montreal|GloboTech Communications|
+|15|207.230.8.10|999|Colombia|Montería|TV&MÁS S.A.S|
+|16|38.253.88.242|999|United States|Miami|Cogent Communications|
+|17|38.156.73.50|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|72.10.164.178|20913|Canada|Montreal|GloboTech Communications|
+|19|65.108.250.159|80|Finland|Helsinki|Hetzner Online GmbH|
+|20|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
