@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.35.237.153|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|134.35.237.153|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|7|103.178.42.10|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|8|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|9|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|10|103.84.235.162|8789|Indonesia|Bogor|PT Maxindo Mitra Solusi|
 |11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|72.10.160.91|16099|Canada|Montreal|GloboTech Communications|
-|14|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
-|15|5.196.111.29|20109|France|Gravelines|OVH SAS|
-|16|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|18|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|72.10.160.91|8791|Canada|Montreal|GloboTech Communications|
+|14|103.125.154.225|8080|India|Sulur|Live Fibernet|
+|15|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|16|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|20|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
