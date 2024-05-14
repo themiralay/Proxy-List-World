@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |7|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|72.10.164.178|27285|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.93|28229|Canada|Montreal|GloboTech Communications|
-|13|211.95.152.50|45046|United States|Los Angeles|China Unicom Guangdong IP network|
-|14|72.10.160.94|21113|Canada|Montreal|GloboTech Communications|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|72.10.164.178|27285|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|20757|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|16957|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|16957|Canada|Montreal|GloboTech Communications|
+|8|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|190.104.20.84|8080|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
+|13|72.10.164.178|18763|Canada|Montreal|GloboTech Communications|
+|14|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|16|160.248.91.172|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|39.129.73.6|443|China|Kunming|China Mobile|
+|18|201.95.254.137|3128|Brazil|São Paulo|Vivo|
+|19|181.45.78.55|8080|Argentina|Lomas de Zamora|Telecentro S.A.|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
