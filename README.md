@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|13|67.43.236.20|24625|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|28185|Canada|Montreal|GloboTech Communications|
-|15|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|16|165.16.59.226|8080|Libya|Tripoli|Aljeel Aljadeed Technology|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|103.234.159.5|8080|India|Bengaluru|MWPL|
-|20|72.10.160.90|25075|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|10|67.43.236.20|10339|Canada|Montreal|GloboTech Communications|
+|11|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|14|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|19|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|20|103.6.223.2|3128|China|Baoshan|China Unicom|
 
 
 
