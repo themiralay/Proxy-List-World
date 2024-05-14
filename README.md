@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|103.172.35.13|8080|Indonesia|Temanggung|PT Lintas Jaringan Nusantara|
-|7|103.84.235.162|8789|Indonesia|Bogor|PT Maxindo Mitra Solusi|
+|6|103.113.79.123|80|Indonesia|Guntur|Indonesia Network Information Center|
+|7|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
 |8|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|10|134.35.237.153|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|11|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|12|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.236.20|29469|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.93|10003|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|14585|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|29469|Canada|Montreal|GloboTech Communications|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|11|36.64.52.226|8081|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|12|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|13|200.24.159.158|999|Ecuador|Cuenca|Negocios Y Telefonia Nedetel S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.248.91.171|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|72.10.160.93|10003|Canada|Montreal|GloboTech Communications|
+|17|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 |18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|67.43.236.20|29469|Canada|Montreal|GloboTech Communications|
+|19|207.230.8.10|999|Colombia|Montería|TV&MÁS S.A.S|
 |20|72.10.160.90|14585|Canada|Montreal|GloboTech Communications|
 
 
