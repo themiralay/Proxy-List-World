@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.226.232.196|1080|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|5|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
-|7|36.88.170.170|8080|Indonesia|Jatipulo|PT. Telekomunikasi Indonesia|
-|8|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|9|94.156.144.228|3128|Bulgaria|Sofia|Belcloud LTD|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|67.43.236.20|8811|Canada|Montreal|GloboTech Communications|
-|13|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.90|22275|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|10365|Canada|Montreal|GloboTech Communications|
+|4|161.34.37.170|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|9|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|103.203.174.98|83|India|Hyderabad|Softgaurd Powertronics|
+|11|67.43.236.20|2973|Canada|Montreal|GloboTech Communications|
+|12|38.253.88.242|999|United States|Miami|Cogent Communications|
+|13|161.34.37.177|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.164.178|1295|Canada|Montreal|GloboTech Communications|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
 |17|161.34.37.171|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|170.64.155.204|8000|Australia|Sydney|DigitalOcean, LLC|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|72.10.160.90|22275|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|129.222.176.138|999|Peru|Lima|SpaceX Starlink|
 
 
 
