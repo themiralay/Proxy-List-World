@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|8|181.205.251.115|999|Colombia|Medellín|Colombia Móvil|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|11|72.10.164.178|17707|Canada|Montreal|GloboTech Communications|
-|12|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
-|13|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|14|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|15|182.18.179.129|83|India|Hyderabad|CtrlS|
-|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|19|190.94.212.240|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|102.68.128.217|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|6|72.10.164.178|17707|Canada|Montreal|GloboTech Communications|
+|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|8|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|9|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|103.156.140.202|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|11|118.69.233.165|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|115.127.79.18|8090|Bangladesh|Dhaka|BRACNet Limited|
+|14|139.255.67.51|3888|Indonesia|Jakarta|PT. LINKNET|
+|15|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|16|103.203.172.22|84|India|Hyderabad|Softgaurd Powertronics|
+|17|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|19|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
+|20|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
 
 
 
