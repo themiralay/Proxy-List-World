@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|200.59.186.81|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|72.10.164.178|29573|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.228|2091|Canada|Montreal|GloboTech Communications|
-|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.156.248.55|8080|Indonesia|Medan|Trans Media Telekomunikasi|
-|11|72.10.164.178|29573|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|32715|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|29573|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|7847|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|13733|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.94|2683|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|16177|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|16177|Canada|Montreal|GloboTech Communications|
-|19|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|20|72.10.164.178|29573|Canada|Montreal|GloboTech Communications|
+|3|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|5|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|72.10.160.90|11357|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.171|17435|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|72.10.164.178|17959|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|17959|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.174|7847|Canada|Montreal|GloboTech Communications|
+|12|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|13|67.43.236.20|19221|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|17959|Canada|Montreal|GloboTech Communications|
+|15|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|16|72.10.160.90|11357|Canada|Montreal|GloboTech Communications|
+|17|207.230.8.10|999|Colombia|Montería|TV&MÁS S.A.S|
+|18|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|67.43.228.253|26497|Canada|Montreal|GloboTech Communications|
 
 
 
