@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|157.120.60.36|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|3|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|160.248.4.77|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|160.248.4.77|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|157.120.60.36|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 |5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
 |6|160.248.6.193|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|183.36.36.147|3128|China|Xiaolou|Chinanet|
-|9|103.169.133.34|8080|Indonesia|Pasirjaya|PT Alfa Omega Interkoneksi|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.4.202.73|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|10|170.239.207.78|8080|Colombia|Bogotá|FIBERNET|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |12|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|15|72.10.160.92|18221|Canada|Montreal|GloboTech Communications|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
-|18|67.43.227.227|1893|Canada|Montreal|GloboTech Communications|
-|19|181.10.123.156|999|Argentina|El Carril|Telecom Argentina S.A.|
-|20|72.10.164.178|21083|Canada|Montreal|GloboTech Communications|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|67.43.227.227|15271|Canada|Montreal|GloboTech Communications|
+|16|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|17|103.153.246.14|8080|Indonesia|Purwakarta|PRIMAHOME|
+|18|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|19|67.43.227.227|15271|Canada|Montreal|GloboTech Communications|
+|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
