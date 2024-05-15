@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
 |6|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
-|7|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |8|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
 |9|124.106.116.34|1337|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|17|187.17.232.6|8089|Brazil|Valinhos|Lantec Comunicacao Multimidia Ltda|
-|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|19|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|20|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|10|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|13|191.240.153.144|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|67.43.236.18|19961|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|24847|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|9071|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
