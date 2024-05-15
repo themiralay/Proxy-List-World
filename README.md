@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|103.178.194.122|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|10|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|103.169.148.2|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
-|14|101.255.40.98|8080|Indonesia|Jakarta|PT Remala Abadi|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|170.81.210.254|8080|Brazil|Carapicuíba|Connectvy Telecomunicacoes Ltda|
-|18|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|121.195.170.225|1024|China|Haidian|CERNET|
+|1|175.193.58.170|3128|South Korea|Jungnang-gu|Korea Telecom|
+|2|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|3|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|12|103.65.238.174|8181|Indonesia|Medan|PT Media Alvina Sejati|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|15|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|17|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|18|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|206.84.104.126|8080|Indonesia|Palembang|AGIS|
 
 
 
