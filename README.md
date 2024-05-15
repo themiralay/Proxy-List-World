@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|11|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|12|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|13|160.248.4.77|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|15|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|5|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|38.253.95.96|999|Dominican Republic|Santo Domingo|Cogent Communications|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|10|103.154.230.190|8090|Indonesia|Lamongan|DIGITNET|
+|11|182.253.109.132|8080|Indonesia|Semarang|Biznet Metronet|
+|12|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|13|103.234.159.5|8080|India|Bengaluru|MWPL|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|160.248.4.77|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|140.227.142.120|3128|Japan|Hyōgo|InfoSphere|
 |18|211.34.105.33|80|South Korea|Seongnam-si|Korea Telecom|
-|19|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
-|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|103.186.204.48|8080|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|20|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
 
 
 
