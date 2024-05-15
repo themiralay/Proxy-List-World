@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.4.77|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|157.120.60.36|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|4|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|49.254.164.126|39915|South Korea|Paripark|HAIonNet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|160.248.4.77|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
 |9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|160.248.6.193|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|12|200.59.186.83|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|160.248.6.193|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|170.239.207.78|8080|Colombia|Bogotá|FIBERNET|
+|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|17|185.82.99.197|9092|Lebanon|Tripoli|NET 360 S.A.R.L|
+|17|72.10.160.90|10751|Canada|Montreal|GloboTech Communications|
 |18|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
-|19|34.154.161.152|80|Italy|Milan|Google LLC|
-|20|41.254.53.70|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|19|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
 
 
 
