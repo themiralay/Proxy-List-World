@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|6|103.158.253.187|8027|Indonesia|Brebes|Rapid Network|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.234.159.5|8080|India|Bengaluru|MWPL|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|10|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
+|11|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|12|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
+|13|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|36.93.174.103|3001|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|16|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|17|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|18|103.24.213.124|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
