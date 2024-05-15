@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|77.50.100.180|8080|Russia|Moscow|StarLink Telecom Network|
-|10|49.254.164.119|39915|South Korea|Paripark|HAIonNet|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|175.158.58.140|8081|Indonesia|Jakarta|CBNNAP|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|15|210.79.146.131|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|16|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|72.10.160.171|4773|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|19441|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|9207|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|9|103.172.70.138|9191|Indonesia|Karangampel|AZNET|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|210.79.146.131|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|12|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|13|103.234.159.5|8080|India|Bengaluru|MWPL|
+|14|103.217.224.27|8085|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|15|45.6.224.254|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|16|67.43.227.227|9207|Canada|Montreal|GloboTech Communications|
+|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|19|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|180.211.88.190|3125|Indonesia|Bekasi|Kings Network Indonesia, PT|
 
 
 
