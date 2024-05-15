@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.24.213.124|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|12|182.253.109.132|8080|Indonesia|Semarang|Biznet Metronet|
-|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|8.242.225.55|999|Peru|Arequipa|Level 3 Communications, Inc.|
-|19|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|20|72.10.160.90|32561|Canada|Montreal|GloboTech Communications|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|182.253.109.132|8080|Indonesia|Semarang|Biznet Metronet|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|14|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|69.75.140.157|8080|United States|Whittier|Spectrum|
+|19|89.188.110.196|8080|Russia|St Petersburg|Citytelecom LLC|
+|20|8.242.225.55|999|Peru|Arequipa|Level 3 Communications, Inc.|
 
 
 
