@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
-|9|72.10.160.174|8897|Canada|Montreal|GloboTech Communications|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|72.10.160.90|23659|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|26659|Canada|Montreal|GloboTech Communications|
-|14|103.234.159.5|8080|India|Bengaluru|MWPL|
-|15|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|16|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|17|43.153.108.224|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|72.10.160.92|4889|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|8897|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|1247|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|6|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|9|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|10|67.43.227.227|26177|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.174|21013|Canada|Montreal|GloboTech Communications|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|14|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|15|72.10.160.174|21013|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|17167|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|26659|Canada|Montreal|GloboTech Communications|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
 
 
 
