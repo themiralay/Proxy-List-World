@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.176.96.211|8090|Indonesia|Bandung|PT Global Sarana Elektronika|
-|4|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|8|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|128.199.17.168|3128|India|Bengaluru|DigitalOcean, LLC|
-|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|18|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|19|158.101.126.210|80|United States|Ashburn|Oracle Corporation|
-|20|72.10.164.178|15193|Canada|Montreal|GloboTech Communications|
+|3|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
+|13|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|17|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|18|80.66.81.43|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|20|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 
 
 
