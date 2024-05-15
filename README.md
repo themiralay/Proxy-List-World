@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|8|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|7|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |9|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |10|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |11|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|72.10.160.90|4107|Canada|Montreal|GloboTech Communications|
-|13|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|14|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|72.10.160.91|31749|Canada|Montreal|GloboTech Communications|
-|16|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|72.10.160.90|4107|Canada|Montreal|GloboTech Communications|
-|19|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.236.20|15117|Canada|Montreal|GloboTech Communications|
+|12|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|13|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|17|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|139.59.162.253|80|United Kingdom|Slough|DIGITALOCEAN|
+|19|41.174.132.58|8080|DR Congo|Kinshasa|Liquid Telecommunications Ltd|
+|20|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
