@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|157.120.60.36|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|3|160.248.4.77|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|49.254.164.126|39915|South Korea|Paripark|HAIonNet|
-|9|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|10|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|200.59.186.83|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|77.52.187.199|10000|Ukraine|Cherkasy|PrJSC "VF UKRAINE"|
+|1|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|164.163.42.27|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|14|103.234.159.5|8080|India|Bengaluru|MWPL|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|18|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|19|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
