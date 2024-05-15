@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.176.96.211|8090|Indonesia|Bandung|PT Global Sarana Elektronika|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|6|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 |7|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|10|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
+|8|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|9|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
+|10|182.18.179.129|83|India|Hyderabad|CtrlS|
 |11|160.248.4.77|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |12|160.248.6.193|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|84.204.40.154|8080|Russia|St Petersburg|PJSC MegaFon|
-|15|160.248.4.53|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.248.4.53|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |17|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |18|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|19|191.240.153.144|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|20|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
