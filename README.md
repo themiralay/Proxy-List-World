@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |4|128.199.187.210|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|103.234.159.5|8080|India|Bengaluru|MWPL|
-|16|182.253.109.132|8080|Indonesia|Semarang|Biznet Metronet|
-|17|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|164.163.42.27|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|20|115.178.49.181|8080|Indonesia|Pengasinan|NOC SIMAYA|
+|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|182.253.109.132|8080|Indonesia|Semarang|Biznet Metronet|
+|16|164.163.42.27|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|17|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|18|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|19|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 
 
 
