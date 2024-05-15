@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
-|5|103.159.194.249|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
-|6|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|181.209.111.82|999|Argentina|Villa de Soto|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
 |12|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|13|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|14|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
-|15|38.7.31.230|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|16|72.10.164.178|13527|Canada|Montreal|GloboTech Communications|
-|17|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|17|216.176.187.99|39812|United States|Lynnwood|Wowrack.com|
+|18|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |19|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|20|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|20|34.87.1.56|55443|Singapore|Singapore|Google LLC|
 
 
 
