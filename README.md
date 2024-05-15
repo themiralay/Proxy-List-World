@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.162.16.47|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|8|182.253.109.132|8080|Indonesia|Semarang|Biznet Metronet|
-|9|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|12|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|13|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|72.10.164.178|1613|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.98.131.194|8081|Nepal|Bhojpur|Eastlink Technology Pvt Ltd|
-|18|186.101.91.141|999|Ecuador|Guayaquil|Telconet S.A|
-|19|138.118.106.130|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
-|20|41.33.203.115|1982|Egypt|Cairo|TE Data|
+|1|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.158.253.187|8027|Indonesia|Brebes|Rapid Network|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|7|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|11|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|12|182.253.109.132|8080|Indonesia|Semarang|Biznet Metronet|
+|13|190.26.255.28|999|Colombia|Bogotá|ETB - Colombia|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|18|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|19|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|20|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
 
 
 
