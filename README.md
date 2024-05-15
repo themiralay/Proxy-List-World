@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7330** proxies at the latest update. Usable proxies are below.
+> Scraper found **7308** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|136|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|844|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|282|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|260|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5110|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
-|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|14|77.50.100.180|8080|Russia|Moscow|StarLink Telecom Network|
-|15|72.10.160.90|4481|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|8571|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|20|67.43.227.227|8571|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|10|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|11|72.10.160.90|7757|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|72.10.164.178|11297|Canada|Montreal|GloboTech Communications|
+|14|103.234.159.5|8080|India|Bengaluru|MWPL|
+|15|67.43.227.227|3251|Canada|Montreal|GloboTech Communications|
+|16|207.230.8.10|999|Colombia|Montería|TV&MÁS S.A.S|
+|17|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|18|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|201.77.108.196|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
 
 
 
