@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|80.66.81.43|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|140.227.142.120|3128|Japan|Hyōgo|InfoSphere|
-|6|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|109.230.72.236|8080|Iran|Kīsh|Boomerang Rayaneh|
-|8|45.6.224.254|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|67.43.236.20|6537|Canada|Montreal|GloboTech Communications|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|72.10.160.172|5657|Canada|Montreal|GloboTech Communications|
-|14|142.79.227.226|63365|India|Mumbai|LEE|
-|15|41.209.60.75|8080|Kenya|Nairobi|MTN Business Kenya|
-|16|103.171.89.100|8082|Philippines|Tagum|Infinivan Incorporated|
-|17|67.43.227.227|22401|Canada|Montreal|GloboTech Communications|
-|18|143.47.39.227|11111|Spain|Madrid|Oracle Corporation|
-|19|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|3|103.176.96.211|8090|Indonesia|Bandung|PT Global Sarana Elektronika|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|91.236.156.30|8282|Ukraine|Shyshaky|Limited Liability Company AVATOR ISP|
+|9|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
+|10|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|12|128.199.17.168|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|14|177.221.44.89|49999|Brazil|Jaboatao dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|20|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
