@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|5|182.160.100.156|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|8|72.10.164.178|17051|Canada|Montreal|GloboTech Communications|
-|9|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|10|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|11|72.10.164.178|17051|Canada|Montreal|GloboTech Communications|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|67.43.227.227|15629|Canada|Montreal|GloboTech Communications|
-|16|46.253.143.144|3128|Russia|Moscow|ZTV CORP LLC|
-|17|72.10.160.90|22405|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|30341|Canada|Montreal|GloboTech Communications|
-|19|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|152.32.68.171|65535|Philippines|Taguig|Converge ICT Solution Inc|
+|8|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|9|72.10.164.178|2191|Canada|Montreal|GloboTech Communications|
+|10|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|11|72.10.160.90|28759|Canada|Montreal|GloboTech Communications|
+|12|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|13|72.10.160.90|28759|Canada|Montreal|GloboTech Communications|
+|14|103.155.199.144|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|15|140.227.142.120|3128|Japan|Hyōgo|InfoSphere|
+|16|103.234.159.5|8080|India|Bengaluru|MWPL|
+|17|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|72.10.164.178|2191|Canada|Montreal|GloboTech Communications|
+|20|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
