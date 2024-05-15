@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|103.98.131.194|8081|Nepal|Bhojpur|Eastlink Technology Pvt Ltd|
-|7|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|11|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|13|72.10.164.178|8837|Canada|Montreal|GloboTech Communications|
-|14|62.72.58.61|3128|India|Mumbai|HOSTINGER IN|
-|15|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|16|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|18|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
-|19|164.163.42.27|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|20|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|5|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|186.96.101.75|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|19|72.10.164.178|32257|Canada|Montreal|GloboTech Communications|
+|20|129.222.176.138|999|Peru|Lima|SpaceX Starlink|
 
 
 
