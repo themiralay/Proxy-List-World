@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|1|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|2|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|3|103.190.171.131|8080|Indonesia|Jakarta|WMS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|6|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|6|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
-|9|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|10|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|11|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|190.85.122.27|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|18|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|20|67.43.227.226|2101|Canada|Montreal|GloboTech Communications|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
+|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|15|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|16|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|17|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|18|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 
 
 
