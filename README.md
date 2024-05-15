@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|45.173.6.102|8080|Colombia|Bogotá|Columbus Networks Colombia|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|119.193.129.31|3128|South Korea|Yangju|Korea Telecom|
-|10|189.127.166.3|999|Venezuela|Barquisimeto|RED SERVITEL|
-|11|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|12|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|14|49.254.164.115|39915|South Korea|Paripark|HAIonNet|
-|15|38.7.31.230|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|16|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|17|67.43.227.227|11425|Canada|Montreal|GloboTech Communications|
-|18|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|19|67.43.227.227|11425|Canada|Montreal|GloboTech Communications|
-|20|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|164.163.42.27|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|102.39.215.83|9090|South Africa|Cape Town|Vox Telecom|
+|13|49.254.164.115|39915|South Korea|Paripark|HAIonNet|
+|14|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|15|45.173.6.102|8080|Colombia|Bogotá|Columbus Networks Colombia|
+|16|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|17|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|18|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 
 
 
