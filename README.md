@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
 |2|157.120.60.36|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|3|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|4|200.59.186.83|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|7|103.172.42.93|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|8|92.255.232.231|8080|Russia|Kirov|JSC "ER-Telecom Holding"|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|11|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
-|16|160.248.4.77|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|18|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|19|189.6.78.168|5151|Brazil|Brasília|Claro NXT Telecomunicacoes Ltda|
-|20|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|5|200.59.186.83|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.4.77|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|203.190.44.201|1111|Indonesia|Sleman|PT Jaring Lintas Utara|
+|10|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|11|38.9.113.164|8080|Brazil|Rio Branco|SEM FRONTEIRAS TELECOMUNICACOES LTDA|
+|12|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|14|20.235.104.105|3729|India|Pune|Microsoft Corporation|
+|15|78.170.135.164|8080|Turkey|Istanbul|TurkTelecom|
+|16|72.10.164.178|21083|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|24317|Canada|Montreal|GloboTech Communications|
+|18|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|19|67.43.236.18|8911|Canada|Montreal|GloboTech Communications|
+|20|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
