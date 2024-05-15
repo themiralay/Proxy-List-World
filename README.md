@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|5|38.41.5.85|999|Venezuela|Ocumare|MDS TELECOM C.A.|
-|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|7|191.7.208.34|8080|Brazil|Novo Oriente|HTM SERVICOS DE TELECOMUNICACOES LTDA|
-|8|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|12|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|45.159.189.244|3128|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|16|72.10.160.90|5209|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|8549|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|8083|Canada|Montreal|GloboTech Communications|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|72.10.164.178|8083|Canada|Montreal|GloboTech Communications|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|5|191.7.208.34|8080|Brazil|Novo Oriente|HTM SERVICOS DE TELECOMUNICACOES LTDA|
+|6|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
+|10|177.240.4.125|999|Mexico|Montemorelos|Mega Cable, S.A. de C.V.|
+|11|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|12|103.26.110.74|84|India|Mayiladuthurai|Niss Networks|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|45.227.195.121|8082|Brazil|Chapecó|Mhnet Telecom|
+|17|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|156.146.58.170|10011|United States|New York|DataCamp Limited|
+|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|20|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
