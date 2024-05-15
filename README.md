@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.122.27.242|80|United States|Boydton|Microsoft Corporation|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|62.210.37.74|8012|France|Paris|Online S.A.S.|
+|3|179.43.8.15|8084|Brazil|Jaicós|Voex Telecom Ltda|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|6|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|103.245.16.222|8888|Indonesia|Manggadua Selatan|PT Quantum Tera Network|
-|9|20.122.27.242|80|United States|Boydton|Microsoft Corporation|
-|10|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|11|67.43.228.250|21415|Canada|Montreal|GloboTech Communications|
-|12|103.179.182.37|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|14|67.43.236.20|20509|Canada|Montreal|GloboTech Communications|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|17|72.10.164.178|18127|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|20509|Canada|Montreal|GloboTech Communications|
-|19|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
-|20|181.233.93.88|8080|Brazil|Ananindeua|J.A TELECOM.PE|
+|5|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|2.189.148.1|8080|Iran|Tehran|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|45.234.61.157|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|13|72.10.160.90|29653|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|29653|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.94|21637|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|18127|Canada|Montreal|GloboTech Communications|
+|17|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|203.253.142.176|8080|South Korea|Yuseong|KISTI|
+|20|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
 
 
 
