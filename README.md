@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|36.64.52.226|8081|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|7|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|45.235.16.121|27234|Brazil|Lapa|Acessoline Telecom|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|5|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|10|206.84.104.126|8080|Indonesia|Palembang|AGIS|
 |11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|158.101.126.210|80|United States|Ashburn|Oracle Corporation|
-|15|67.43.227.227|2549|Canada|Montreal|GloboTech Communications|
-|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|19|42.118.201.168|4006|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|20|38.253.88.242|999|United States|Miami|Cogent Communications|
+|12|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|41.254.53.70|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|72.10.164.178|5193|Canada|Montreal|GloboTech Communications|
+|18|38.156.191.228|999|Mexico|Jesus Maria|Digy Networks|
+|19|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|20|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
