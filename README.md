@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|181.78.17.191|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|7|203.253.142.176|8080|South Korea|Yuseong|KISTI|
+|8|186.166.138.50|999|Venezuela|Barinas|TELEFONICA VENEZOLANA, C.A.|
+|9|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
 |10|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|72.10.160.91|25305|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|157.100.57.180|999|Ecuador|Quito|Ufinet Panama S.A.|
-|16|67.43.236.20|14645|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|10761|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|14645|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|31179|Canada|Montreal|GloboTech Communications|
-|20|91.185.56.43|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|11|72.10.160.91|25305|Canada|Montreal|GloboTech Communications|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|67.43.227.227|10761|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|2571|Canada|Montreal|GloboTech Communications|
+|16|91.185.56.43|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.164.178|23415|Canada|Montreal|GloboTech Communications|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
