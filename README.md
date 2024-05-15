@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7138** proxies at the latest update. Usable proxies are below.
+> Scraper found **7035** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|697|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|228|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5110|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5007|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|5|103.176.96.211|8090|Indonesia|Bandung|PT Global Sarana Elektronika|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|80.66.81.43|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.156.17.52|3127|Indonesia|Indramayu|RSTNET|
-|10|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
-|11|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|12|168.126.74.132|80|South Korea|Seongnam-si|Korea Telecom|
-|13|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
-|14|160.248.90.179|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|128.199.17.168|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|17|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
-|18|185.116.94.184|6588|Bulgaria|Petrich|UltraNET Ltd|
-|19|72.10.164.178|16159|Canada|Montreal|GloboTech Communications|
-|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|6|202.46.146.2|3317|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
+|7|216.176.187.99|39812|United States|Lynnwood|Wowrack.com|
+|8|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|9|160.248.90.179|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|72.10.160.170|28259|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|28641|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|17005|Canada|Montreal|GloboTech Communications|
+|13|185.116.94.184|6588|Bulgaria|Petrich|UltraNET Ltd|
+|14|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|43.153.108.224|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|81.91.26.134|8080|Yemen|Taiz|Public Telecommunication Corporation|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|67.43.227.227|20089|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
