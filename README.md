@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|91.185.56.232|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
-|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
-|12|64.76.211.59|999|Colombia|Bogotá|Level 3|
-|13|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|14|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|15|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|16|191.102.254.9|8085|Argentina|Rosario|IP·RED|
-|17|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
-|18|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
-|19|67.43.236.20|24461|Canada|Montreal|GloboTech Communications|
-|20|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|12|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
+|13|178.49.151.102|443|Russia|Novosibirsk|Novotelecom Ltd|
+|14|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|67.43.236.18|3155|Canada|Montreal|GloboTech Communications|
+|17|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|18|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom LLC|
+|19|67.43.236.20|5203|Canada|Montreal|GloboTech Communications|
+|20|216.176.187.99|39812|United States|Lynnwood|Wowrack.com|
 
 
 
