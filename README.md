@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|41.111.188.39|80|Algeria|Oran|Algerie Telecom|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|6|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|7|103.72.89.133|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
-|8|209.14.113.2|999|Colombia|Cértegui|AGIS|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|178.214.80.27|1981|Palestinian Territory|Ramallah|Gemzo information technology Private Joint-Stock company|
-|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|12|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|19|216.176.187.99|39812|United States|Lynnwood|Wowrack.com|
-|20|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|49.254.175.189|39915|South Korea|Paripark|HAIonNet|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|45.188.164.3|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|11|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|12|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|177.44.223.109|8080|Brazil|Mariópolis|Dataware Telecomunicações LTDA. - EPP|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|16|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|72.10.164.178|12321|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|12321|Canada|Montreal|GloboTech Communications|
+|20|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
 
 
 
