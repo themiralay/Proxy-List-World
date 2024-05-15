@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|8|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|5|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|7|195.154.172.161|3128|France|Paris|Online S.A.S.|
+|8|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|103.184.54.7|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|67.43.228.253|8027|Canada|Montreal|GloboTech Communications|
-|14|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|15|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|16|72.10.164.178|11269|Canada|Montreal|GloboTech Communications|
-|17|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|18|72.10.164.178|11269|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|13|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|17|49.254.164.114|39915|South Korea|Paripark|HAIonNet|
+|18|72.10.164.178|4373|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
