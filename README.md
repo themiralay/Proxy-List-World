@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|4|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|6|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|8|38.7.31.230|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|103.88.237.6|84|India|Hyderabad|Mana Communications|
-|11|38.9.113.164|8080|Brazil|Rio Branco|SEM FRONTEIRAS TELECOMUNICACOES LTDA|
-|12|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|13|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|14|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|15|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|67.43.236.20|14459|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|14459|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|14459|Canada|Montreal|GloboTech Communications|
-|20|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|3|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|211.34.105.33|80|South Korea|Seongnam-si|Korea Telecom|
+|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|80.87.213.111|8080|Slovakia|Námestovo|DSi DATA|
+|9|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|10|82.200.205.126|8081|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|11|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|103.159.96.131|3125|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|15|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|16|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|17|103.165.222.188|8080|Indonesia|Pegadungan|PT iForte Global Internet|
+|18|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.4.77|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|41.65.67.167|1976|Egypt|Giza|Enterprise|
 
 
 
