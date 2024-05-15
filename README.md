@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|7|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|8|110.78.149.217|8080|Thailand|Bangkok|CAT-BB|
-|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|24.106.221.230|53281|United States|Wilmington|Spectrum|
-|11|115.127.79.18|8090|Bangladesh|Dhaka|BRACNet Limited|
-|12|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|13|195.225.142.169|8080|Romania|Târnăveni|TV Adler-Trading SRL|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.160.90|7015|Canada|Montreal|GloboTech Communications|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|67.43.228.253|16631|Canada|Montreal|GloboTech Communications|
-|19|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
-|20|67.43.227.228|20941|Canada|Montreal|GloboTech Communications|
+|1|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|103.156.15.101|1111|Indonesia|Pondok Bambu|PT Lintas Jaringan Nusantara|
+|5|62.210.37.74|8012|France|Paris|Online S.A.S.|
+|6|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|9|103.178.42.102|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|152.32.67.107|65535|Philippines|Marikina City|Converge ICT Solution Inc|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|41.59.210.2|8080|Tanzania|Tanga|Tanzania Telecommunications CO. LTD|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|17|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|18|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|20|191.102.254.53|8084|Argentina|Rosario|IP·RED|
 
 
 
