@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
-|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|7|103.189.249.208|8080|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|8|103.159.194.249|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
-|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|12|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
-|13|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
-|14|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|15|103.234.159.5|8080|India|Bengaluru|MWPL|
-|16|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|179.32.62.127|999|Colombia|Barranquilla|Colombia Telecomunicaciones S.a. ESP|
-|20|67.43.227.228|17967|Canada|Montreal|GloboTech Communications|
+|1|122.176.48.148|80|India|Gurugram|Bharti Airtel|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
+|10|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|110.78.149.217|8080|Thailand|Bangkok|CAT-BB|
+|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|103.19.59.148|8080|Indonesia|Madiun|BITSNET|
+|16|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
+|17|129.222.176.138|999|Peru|Lima|SpaceX Starlink|
+|18|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
 
 
 
