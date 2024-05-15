@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|8|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|7|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|103.23.199.24|8080|Indonesia|Serang|PT Cloud Hosting Indonesia|
+|9|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|177.184.199.36|80|Brazil|Suzano|Wireless Comm Services LTDA|
-|12|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|67.43.227.228|26005|Canada|Montreal|GloboTech Communications|
-|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|198.71.59.125|58080|United States|New York|ProfitBricks, Inc.|
-|19|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
-|20|72.10.160.90|12827|Canada|Montreal|GloboTech Communications|
+|11|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|12|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|41.180.70.2|8080|South Africa|Johannesburg|X-DSL Networking Solutions|
+|16|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|17|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|72.10.164.178|15109|Canada|Montreal|GloboTech Communications|
+|20|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
