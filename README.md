@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|7|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|4|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|63.151.67.7|8080|United States|Gillette|Visionary Communications, Inc.|
+|7|45.71.184.197|999|Ecuador|Naranjito|Ufinet Panama S.A.|
+|8|103.172.70.138|9191|Indonesia|Karangampel|AZNET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |11|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|72.10.160.90|11605|Canada|Montreal|GloboTech Communications|
+|12|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|13|207.230.8.10|999|Colombia|Montería|TV&MÁS S.A.S|
 |14|72.10.160.94|10325|Canada|Montreal|GloboTech Communications|
-|15|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|16|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|182.253.109.132|8080|Indonesia|Semarang|Biznet Metronet|
-|19|67.43.227.228|17117|Canada|Montreal|GloboTech Communications|
-|20|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|15|67.43.227.227|22163|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|17117|Canada|Montreal|GloboTech Communications|
+|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|20|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
