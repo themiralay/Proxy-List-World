@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|5|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|101.255.116.163|33333|Indonesia|Jakarta|PT Remala Abadi|
-|8|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|10|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|11|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|3.77.34.85|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|16|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|19|67.43.227.228|24317|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|22283|Canada|Montreal|GloboTech Communications|
+|7|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|141.147.155.140|21000|Japan|Osaka|Oracle Corporation|
+|9|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|10|179.1.192.58|999|Colombia|Neiva|InterNexa Global Network|
+|11|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|12|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|67.43.236.20|16201|Canada|Montreal|GloboTech Communications|
+|15|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|27.147.217.102|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|181.78.22.13|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
 
 
 
