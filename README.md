@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.78.149.217|8080|Thailand|Bangkok|CAT-BB|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|7|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
-|8|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
-|9|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
-|10|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|69.163.43.124|8080|United States|Portland|FIBERFI|
-|15|220.70.149.126|3128|South Korea|Samcheok-si|Korea Telecom|
-|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|17|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|18|24.106.221.230|53281|United States|Wilmington|Spectrum|
-|19|62.72.58.61|3128|India|Mumbai|HOSTINGER IN|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|37.182.79.112|8080|Italy|Montesilvano Marina|VODAFONE|
+|11|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|14|187.73.188.35|8080|Brazil|Campos do Jordao|Gwg telco telecomunicaçoes eireli|
+|15|72.10.164.178|19285|Canada|Montreal|GloboTech Communications|
+|16|222.127.75.23|8085|Philippines|Lahug|INNOVE|
+|17|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|18|39.129.73.6|443|China|Kunming|China Mobile|
+|19|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
+|20|178.34.190.6|8080|Russia|Moscow|Miranda-Media Ltd|
 
 
 
