@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|178.214.80.27|1981|Palestinian Territory|Ramallah|Gemzo information technology Private Joint-Stock company|
-|8|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
-|9|67.43.236.20|29331|Canada|Montreal|GloboTech Communications|
-|10|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
-|11|67.43.236.20|29331|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|21071|Canada|Montreal|GloboTech Communications|
-|13|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|67.43.227.228|16111|Canada|Montreal|GloboTech Communications|
-|17|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
-|18|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
-|19|72.10.160.93|29855|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|29331|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|10|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|72.10.164.178|28433|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|25991|Canada|Montreal|GloboTech Communications|
+|14|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|15|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|16|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|18|67.43.227.228|16111|Canada|Montreal|GloboTech Communications|
+|19|216.176.187.99|39812|United States|Lynnwood|Wowrack.com|
+|20|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
 
 
 
