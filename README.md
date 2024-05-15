@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7362** proxies at the latest update. Usable proxies are below.
+> Scraper found **7290** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|137|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|901|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|136|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|773|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|256|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|313|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5110|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|9|103.172.70.138|9191|Indonesia|Karangampel|AZNET|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|210.79.146.131|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|12|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|13|103.234.159.5|8080|India|Bengaluru|MWPL|
-|14|103.217.224.27|8085|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|15|45.6.224.254|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
-|16|67.43.227.227|9207|Canada|Montreal|GloboTech Communications|
-|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|19|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|180.211.88.190|3125|Indonesia|Bekasi|Kings Network Indonesia, PT|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|222.127.245.74|8082|Philippines|Iloilo City|GLBB|
+|8|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|12|160.248.4.77|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|17|67.43.236.20|22893|Canada|Montreal|GloboTech Communications|
+|18|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|19|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|20|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
 
 
 
