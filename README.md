@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|2|110.78.149.217|8080|Thailand|Bangkok|CAT-BB|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|5|103.165.157.251|8090|Indonesia|Banjarnegara|MEGADATA-ISP|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|136.243.125.1|1369|Germany|Nuremberg|Hetzner Online GmbH|
-|15|115.127.140.114|8080|Bangladesh|Dhaka|BRACNet Limited|
-|16|67.43.227.227|14727|Canada|Montreal|GloboTech Communications|
-|17|45.239.28.1|999|Chile|El Carmen|CMP WILL TELECOMUNICACIONES SPA|
-|18|41.60.26.210|32650|Mauritius|Ebene CyberCity|Maintainer Liquid Telecommunications Operations Limited|
-|19|180.211.88.190|3125|Indonesia|Bekasi|Kings Network Indonesia, PT|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|7|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|8|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
+|9|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|10|115.127.79.18|8090|Bangladesh|Dhaka|BRACNet Limited|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|191.7.196.130|8080|Brazil|Granja|HTM SERVICOS DE TELECOMUNICACOES LTDA|
+|16|168.119.117.125|80|Germany|Gladbeck|Hetzner Online GmbH|
+|17|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|18|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|19|222.243.174.132|81|China|Xiangtan|Chinanet|
+|20|202.168.69.226|8080|Malaysia|Cyberjaya|Allo Technology Sdn. Bhd.|
 
 
 
