@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|202.142.158.114|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
-|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |7|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|8|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|8|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 |9|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|146.120.73.210|8080|Russia|St Petersburg|Unet Communication LLC|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|72.10.164.178|30827|Canada|Montreal|GloboTech Communications|
-|14|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|15|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|16|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|17|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
-|18|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|72.10.164.178|30827|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|10341|Canada|Montreal|GloboTech Communications|
+|10|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
+|13|138.94.236.140|8080|Brazil|Altamira|Nettcon Provedor De Internet Eireli EPP|
+|14|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|16|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|17|72.10.164.178|5339|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|11951|Canada|Montreal|GloboTech Communications|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|20|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
 
 
 
