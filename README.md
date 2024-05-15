@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|5|202.46.146.2|3317|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
-|6|200.24.138.204|999|Ecuador|Quito|Ufinet Panama S.A.|
-|7|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|67.43.227.226|12673|Canada|Montreal|GloboTech Communications|
-|11|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
-|12|72.10.164.178|28641|Canada|Montreal|GloboTech Communications|
-|13|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|14|72.10.164.178|28641|Canada|Montreal|GloboTech Communications|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|72.10.160.90|13065|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|28641|Canada|Montreal|GloboTech Communications|
-|18|103.176.96.211|8090|Indonesia|Bandung|PT Global Sarana Elektronika|
-|19|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|72.10.164.178|28641|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|128.199.17.168|3128|India|Bengaluru|DigitalOcean, LLC|
+|7|202.46.146.2|3317|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
+|8|67.43.227.226|19477|Canada|Montreal|GloboTech Communications|
+|9|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
+|10|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
+|11|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|195.68.158.11|3129|Russia|Moscow|PJSC "Vimpelcom"|
+|13|72.10.164.178|26391|Canada|Montreal|GloboTech Communications|
+|14|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|17|81.91.26.134|8080|Yemen|Taiz|Public Telecommunication Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|67.43.227.227|16075|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|16075|Canada|Montreal|GloboTech Communications|
 
 
 
