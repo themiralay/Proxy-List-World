@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|7|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|8|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|181.78.22.13|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
 |10|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|38.253.88.242|999|United States|Miami|Cogent Communications|
-|13|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|72.10.160.90|2895|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|1349|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1787|Canada|Montreal|GloboTech Communications|
-|17|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
-|18|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|72.10.164.178|1787|Canada|Montreal|GloboTech Communications|
-|20|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|190.217.7.80|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|13|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|14|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|72.10.164.178|1787|Canada|Montreal|GloboTech Communications|
+|16|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.160.90|30879|Canada|Montreal|GloboTech Communications|
+|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|67.43.236.20|25451|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|1787|Canada|Montreal|GloboTech Communications|
 
 
 
