@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|80.87.213.111|8080|Slovakia|Námestovo|DSi DATA|
-|5|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|5.196.111.29|20233|France|Gravelines|OVH SAS|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|11|72.10.160.170|6599|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|6|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|38.253.88.242|999|United States|Miami|Cogent Communications|
-|14|103.48.71.122|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|170.238.239.72|8080|Colombia|Buenaventura|InterNexa Global Network|
-|16|72.10.164.178|2335|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|10133|Canada|Montreal|GloboTech Communications|
-|18|84.204.40.154|8080|Russia|St Petersburg|PJSC MegaFon|
-|19|72.10.164.178|2335|Canada|Montreal|GloboTech Communications|
-|20|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|16|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.92|1415|Canada|Montreal|GloboTech Communications|
+|18|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
 
 
 
