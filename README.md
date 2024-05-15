@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|182.253.10.19|8080|Indonesia|Jakarta|BIZNET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|7|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|9|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|10|67.43.227.227|3901|Canada|Montreal|GloboTech Communications|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|177.242.201.5|999|Mexico|San Miguel de Allende|Mega Cable, S.A. de C.V.|
+|5|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|6|103.234.159.5|8080|India|Bengaluru|MWPL|
+|7|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|67.43.227.227|3901|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|32909|Canada|Montreal|GloboTech Communications|
+|11|45.122.228.10|8899|Australia|Wangaratta|NETPTYLTD|
 |12|72.10.160.90|15773|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|20089|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|5891|Canada|Montreal|GloboTech Communications|
-|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|16|103.156.17.8|8818|Indonesia|Indramayu|RSTNET|
-|17|67.43.236.20|32909|Canada|Montreal|GloboTech Communications|
-|18|160.248.6.193|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|72.10.164.178|32365|Canada|Montreal|GloboTech Communications|
-|20|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|13|67.43.236.20|32909|Canada|Montreal|GloboTech Communications|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|17|72.10.164.178|11995|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|28633|Canada|Montreal|GloboTech Communications|
+|19|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|160.248.6.193|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
