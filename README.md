@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|8|91.185.56.43|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
-|9|154.53.38.152|3128|United States|New York|Nubes, LLC|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|182.160.113.77|9090|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|191.240.153.144|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|103.12.21.4|3128|Indonesia|Jakarta|PT Equnix Business Solutions|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|117.53.46.42|3128|Indonesia|Jakarta|PT Infinys System Indonesia|
+|1|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|12|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
+|13|91.185.56.43|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|17|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|19|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
