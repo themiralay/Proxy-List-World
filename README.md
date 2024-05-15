@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
 |5|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|170.78.211.161|999|Mexico|Los Cerritos|Wantelco SAS de CV|
-|9|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|10|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|200.106.184.21|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|15|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|16|129.213.198.245|80|United States|Ashburn|Oracle Corporation|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|80.66.89.152|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|72.10.160.170|25373|Canada|Montreal|GloboTech Communications|
+|15|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|16|103.23.199.24|8080|Indonesia|Serang|PT Cloud Hosting Indonesia|
+|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|103.48.68.98|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
