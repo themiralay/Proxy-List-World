@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|202.142.158.114|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|49.254.219.125|39915|South Korea|Gwangmyeong|Korea Telecom|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.164.178|15705|Canada|Montreal|GloboTech Communications|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|67.43.227.227|13577|Canada|Montreal|GloboTech Communications|
-|19|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
-|20|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
+|10|80.66.89.152|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|89.188.110.196|8080|Russia|St Petersburg|Citytelecom LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|72.10.164.178|21585|Canada|Montreal|GloboTech Communications|
+|18|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|19|101.255.116.163|33333|Indonesia|Jakarta|PT Remala Abadi|
+|20|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
 
 
 
