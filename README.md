@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|10|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|14|72.14.184.125|22030|United States|Richardson|Akamai Technologies, Inc.|
-|15|103.186.8.138|8080|Indonesia|Pelem Satu|PRISMA|
-|16|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|159.100.20.162|3128|Germany|Frankfurt am Main|First Colo|
-|20|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|4|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|139.59.162.253|80|United Kingdom|Slough|DIGITALOCEAN|
+|10|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|67.43.227.227|9351|Canada|Montreal|GloboTech Communications|
+|15|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|18|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
 
 
 
