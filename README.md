@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|10|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|11|121.195.170.225|1024|China|Haidian|CERNET|
-|12|45.229.205.241|55555|Argentina|Avellaneda|Visio RED SRL|
-|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|17|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|178.49.151.102|443|Russia|Novosibirsk|Novotelecom Ltd|
+|1|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.185.56.232|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|178.49.151.102|443|Russia|Novosibirsk|Novotelecom Ltd|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|72.10.164.178|28977|Canada|Montreal|GloboTech Communications|
+|14|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|15|72.10.164.178|28977|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|72.10.160.90|10133|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|10133|Canada|Montreal|GloboTech Communications|
+|20|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
 
 
 
