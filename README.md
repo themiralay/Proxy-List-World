@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
-|7|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|10|103.51.205.98|8080|Indonesia|Semarang|Lintas Data Prima, PT|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|190.85.122.27|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|142.190.149.206|8080|United States|Frisco City|Uniti Fiber Holdings Inc.|
-|16|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|17|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|18|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|19|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|177.234.194.154|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|9|103.178.194.122|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|10|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|11|190.85.122.27|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|13|200.125.185.226|999|Venezuela|Caracas|Gold Data C.A|
+|14|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|15|49.254.219.125|39915|South Korea|Gwangmyeong|Korea Telecom|
+|16|103.146.185.90|8080|Indonesia|Wonogiri|YAMNET|
+|17|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|20|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
 
 
 
