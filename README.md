@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|67.43.227.228|3237|Canada|Montreal|GloboTech Communications|
+|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|91.185.56.43|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|8|72.10.164.178|4695|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|4695|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|12447|Canada|Montreal|GloboTech Communications|
-|11|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|13|67.43.228.253|19149|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.93|21639|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|12447|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|28545|Canada|Montreal|GloboTech Communications|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|67.43.227.226|22745|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|67.43.227.228|3237|Canada|Montreal|GloboTech Communications|
+|14|181.119.66.226|999|Colombia|Barrio San Luis|IFX Networks Argentina S.R.L|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|17|191.240.153.144|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|18|72.10.160.90|6379|Canada|Montreal|GloboTech Communications|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|191.102.254.9|8085|Argentina|Rosario|IP·RED|
 
 
 
