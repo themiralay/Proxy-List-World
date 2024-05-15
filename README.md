@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
-|5|103.156.74.186|8080|Indonesia|Denpasar|PT Trika Global Media|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|136.243.125.1|1369|Germany|Nuremberg|Hetzner Online GmbH|
-|10|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|12|103.68.207.34|82|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
-|13|41.60.26.210|32650|Mauritius|Ebene CyberCity|Maintainer Liquid Telecommunications Operations Limited|
-|14|160.154.163.18|8080|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|45.5.92.94|8137|Mexico|Monclova|Señal Interactiva, S.A De C.V|
-|17|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|18|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|19|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|72.10.160.94|3895|Canada|Montreal|GloboTech Communications|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|10|181.233.93.88|8080|Brazil|Ananindeua|J.A TELECOM.PE|
+|11|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|14|103.159.68.146|8080|India|Udaipur|Agile Netlink Private Limited|
+|15|84.207.252.37|8080|United Kingdom|London|euNetworks GmbH|
+|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|17|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|72.10.164.178|3535|Canada|Montreal|GloboTech Communications|
+|20|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
 
 
 
