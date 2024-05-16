@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|103.87.171.181|32650|India|Jaipur|Tejays|
-|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|179.1.198.36|999|Colombia|Bogotá|Internexa S.a. E.S.P|
-|10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|12|185.165.232.65|6060|Croatia|Zagreb|Intersat Telekomunikacije d.o.o.|
-|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
-|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|18|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|72.10.164.178|29813|Canada|Montreal|GloboTech Communications|
-|20|103.48.71.70|83|India|Hyderabad|Country Online Services PVT LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.59.10.50|999|Argentina|Don Torcuato|COTELCAM|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|103.186.8.162|8080|Indonesia|Pelem Satu|PRISMA|
+|9|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.48.71.70|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|41.174.132.58|8080|DR Congo|Kinshasa|Liquid Telecommunications Ltd|
+|15|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|83.171.90.83|8080|Russia|Moscow|PJSC Rostelecom|
+|17|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
