@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7924** proxies at the latest update. Usable proxies are below.
+> Scraper found **7822** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|210|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|950|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|848|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|335|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5471|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|6|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|7|144.126.215.41|9000|United States|Santa Clara|DigitalOcean, LLC|
-|8|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
-|10|41.209.10.211|8080|Kenya|Nairobi|MTN Business Kenya|
-|11|217.100.239.117|8090|The Netherlands|Alblasserdam|Vodafone Libertel B.V.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|195.35.29.39|80|France|Paris|HOSTINGER FR|
-|15|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|16|72.10.164.178|9927|Canada|Montreal|GloboTech Communications|
-|17|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|72.10.160.173|3333|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|20557|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|203.150.113.144|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|67.43.227.227|7045|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|7045|Canada|Montreal|GloboTech Communications|
+|14|217.100.239.117|8090|The Netherlands|Alblasserdam|Vodafone Libertel B.V.|
+|15|67.43.228.253|29731|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|22195|Canada|Montreal|GloboTech Communications|
+|17|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|67.43.236.20|21667|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|15847|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|21667|Canada|Montreal|GloboTech Communications|
 
 
 
