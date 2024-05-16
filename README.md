@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|103.234.159.5|8080|India|Bengaluru|MWPL|
-|10|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|13|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|14|67.43.236.20|31077|Canada|Montreal|GloboTech Communications|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|8|115.127.140.114|8080|Bangladesh|Dhaka|BRACNet Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|11|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|27.147.217.102|80|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|72.14.184.125|22001|United States|Richardson|Akamai Technologies, Inc.|
-|19|210.12.194.39|8083|China|Chaowai|China Unicom Beijing Province Network|
-|20|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|17|67.43.236.20|31077|Canada|Montreal|GloboTech Communications|
+|18|154.70.115.228|8080|Cameroon|Bertoua|MTN Network Solutions (Cameroon)|
+|19|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|20|67.43.236.20|31077|Canada|Montreal|GloboTech Communications|
 
 
 
