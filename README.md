@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7887** proxies at the latest update. Usable proxies are below.
+> Scraper found **7730** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|206|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|769|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|612|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|148|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5806|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|3|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|4|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|12|187.79.146.98|8080|Brazil|São Luís|V tal|
-|13|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
-|14|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|15|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|182.253.109.182|8080|Indonesia|Semarang|Biznet Metronet|
+|7|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.203.175.33|84|India|Hyderabad|Softgaurd Powertronics|
+|10|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|11|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|103.217.224.27|8085|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|14|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|67.43.227.227|24673|Canada|Montreal|GloboTech Communications|
 |16|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|17|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|41.254.53.70|1981|Libya|Tripoli|LTT Network Backbone and POPs|
-|20|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|17|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|18|72.10.164.178|3333|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|17209|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|24441|Canada|Montreal|GloboTech Communications|
 
 
 
