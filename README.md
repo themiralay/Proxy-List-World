@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|8|114.141.51.51|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|9|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|128.90.145.85|8118|Belgium|Brussels|Powerhouse Management, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|14|118.99.73.177|8080|Indonesia|Cipete Selatan|BIZNET|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|38.54.56.67|3128|Japan|Tokyo|Kaopu Cloud HK Limited|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|113.23.183.154|8989|Malaysia|Johor Bahru|Extreme Broadband|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|18|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |20|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
