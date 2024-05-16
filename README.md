@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|8|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
-|9|148.230.206.229|8080|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
-|10|103.184.54.42|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|11|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
-|12|94.154.152.3|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|103.78.171.10|83|India|Pune|SCC NETWORK PVT LTD|
-|15|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|45.234.61.157|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|19|72.10.160.90|20931|Canada|Montreal|GloboTech Communications|
-|20|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|188.132.221.188|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|201.71.2.115|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|14|190.61.46.227|999|Colombia|Chimá|Ufinet Panama S.A.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|41.174.132.58|8080|DR Congo|Kinshasa|Liquid Telecommunications Ltd|
+|20|69.160.223.65|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
 
 
 
