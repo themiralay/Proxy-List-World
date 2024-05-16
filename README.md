@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|170.239.207.230|999|Colombia|Bogotá|FIBERNET|
+|8|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
+|9|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|13|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.228.253|1407|Canada|Montreal|GloboTech Communications|
-|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|18|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|11|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|103.178.42.225|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|14|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|16|222.174.178.122|4999|China|Xintai|Chinanet|
+|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|67.43.228.253|1407|Canada|Montreal|GloboTech Communications|
 |19|103.106.219.115|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|20|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|139.59.162.253|80|United Kingdom|Slough|DIGITALOCEAN|
 
 
 
