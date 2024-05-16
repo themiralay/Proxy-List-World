@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|5|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|6|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
-|9|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|113.197.109.35|8080|Indonesia|Bandung|ICN|
-|12|49.254.219.125|39915|South Korea|Gwangmyeong|Korea Telecom|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|16|72.10.160.90|4319|Canada|Montreal|GloboTech Communications|
-|17|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|72.10.164.178|25739|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.22|26689|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.79.65.132|8080|United States|Anaheim|Orange County Department of Education|
+|3|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|103.153.246.210|8080|Indonesia|Purwakarta|PRIMAHOME|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|49.254.219.125|39915|South Korea|Gwangmyeong|Korea Telecom|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|193.106.138.52|3128|Ukraine|Kyiv|Industrial Media Network LLC|
+|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
+|17|72.10.160.90|4319|Canada|Montreal|GloboTech Communications|
+|18|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|72.10.164.178|27015|Canada|Montreal|GloboTech Communications|
 
 
 
