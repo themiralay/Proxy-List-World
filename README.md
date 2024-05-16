@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|121.146.251.236|3128|South Korea|Jinju|Korea Telecom|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|7|139.255.41.118|8080|Indonesia|Jakarta|PT. LINKNET|
-|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
-|13|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|14|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
-|15|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|19|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|4|181.48.35.218|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|103.89.4.163|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|10|116.254.117.234|3128|Indonesia|Yogyakarta|PT Media Sarana Data|
+|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|12|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|182.53.143.200|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|72.10.160.90|28613|Canada|Montreal|GloboTech Communications|
 
 
 
