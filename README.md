@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
-|2|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
-|3|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|4|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|7|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|8|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|10|134.35.249.19|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|11|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|12|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
-|13|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
-|14|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|103.159.195.233|9091|Indonesia|Demak|PT Giga Digital Nusantara|
-|19|200.59.186.81|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|45.159.189.244|3128|The Netherlands|Amsterdam|Hosting Solution Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|103.68.214.90|1234|Indonesia|Tangerang|PT Media Grasi Internet|
+|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|6|103.156.17.8|8818|Indonesia|Indramayu|RSTNET|
+|7|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|8|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|9|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
+|10|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|124.106.45.64|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
+|20|103.68.207.34|82|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
 
 
 
