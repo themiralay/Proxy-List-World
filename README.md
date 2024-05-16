@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|77.41.146.53|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|6|118.99.95.26|8080|Indonesia|Jakarta Pusat|Biznet Metronet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|13|103.88.237.6|84|India|Hyderabad|Mana Communications|
-|14|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|15|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|7|77.41.146.53|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|13|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|14|41.180.70.2|8080|South Africa|Johannesburg|X-DSL Networking Solutions|
+|15|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|16|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
 |20|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
