@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|1.179.242.28|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 |3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
-|6|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|8|103.250.130.111|8080|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|9|175.210.146.200|8080|South Korea|Yeonsu-gu|Korea Telecom|
-|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|13|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|183.36.36.147|3128|China|Xiaolou|Chinanet|
-|15|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|61.8.70.114|2023|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|17|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.228.253|21725|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|9559|Canada|Montreal|GloboTech Communications|
+|4|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|94.154.152.108|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|13|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|16|38.156.72.38|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|191.240.153.144|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|18|181.39.35.99|999|Ecuador|Quito|Telconet S.A|
+|19|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
 |20|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
