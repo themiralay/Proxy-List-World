@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|9|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
-|10|103.166.194.114|8080|Indonesia|Bekasi|Hipernet Indodata|
-|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|45.6.224.254|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
-|14|141.145.204.7|3128|France|Paris|Oracle Corporation|
-|15|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
-|16|186.166.138.51|999|Venezuela|Barinas|TELEFONICA VENEZOLANA, C.A.|
-|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|182.18.179.129|83|India|Hyderabad|CtrlS|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|181.10.123.156|999|Argentina|El Carril|Telecom Argentina S.A.|
+|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|14|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|15|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|67.43.227.227|32375|Canada|Montreal|GloboTech Communications|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
