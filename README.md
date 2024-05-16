@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|67.43.227.227|25533|Canada|Montreal|GloboTech Communications|
-|9|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|67.43.236.20|25697|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.230|3121|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|4163|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|25533|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|4163|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|20795|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|25533|Canada|Montreal|GloboTech Communications|
-|18|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|72.10.164.178|4163|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|26341|Canada|Montreal|GloboTech Communications|
+|9|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|10|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|11|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|12|67.43.236.20|25697|Canada|Montreal|GloboTech Communications|
+|13|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|67.43.227.226|20795|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|26341|Canada|Montreal|GloboTech Communications|
+|19|173.212.216.227|8118|Germany|Nuremberg|Contabo GmbH|
+|20|67.43.228.253|2787|Canada|Montreal|GloboTech Communications|
 
 
 
