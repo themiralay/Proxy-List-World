@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|7|46.21.253.164|3128|Russia|Moscow|Start LLC|
-|8|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|9|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|12|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|13|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
-|15|183.36.36.147|3128|China|Xiaolou|Chinanet|
-|16|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|69.160.223.65|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|20|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|1|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|4|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|124.158.182.34|7654|Indonesia|Bogor|PT Jala Lintas Media|
+|10|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|11|201.71.2.115|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.111.207.138|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|14|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|15|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|19|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
