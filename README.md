@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
-|7|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
-|9|118.99.73.177|8080|Indonesia|Cipete Selatan|BIZNET|
-|10|27.147.140.5|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|12|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|13|78.186.109.247|8080|Turkey|Istanbul|Turk Telekomunikasyon A.S|
-|14|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|72.10.160.90|13021|Canada|Montreal|GloboTech Communications|
-|17|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|18|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
-|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|9|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|13|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|16|67.43.236.20|28477|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|13021|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|15431|Canada|Montreal|GloboTech Communications|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
