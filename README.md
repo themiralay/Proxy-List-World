@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|124.105.21.141|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|14|103.156.17.32|8818|Indonesia|Indramayu|RSTNET|
-|15|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|103.176.96.140|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|72.14.184.125|22030|United States|Richardson|Akamai Technologies, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|170.80.203.46|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|6|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|7|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|179.32.62.127|999|Colombia|Barranquilla|Colombia Telecomunicaciones S.a. ESP|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|67.43.236.22|13455|Canada|Montreal|GloboTech Communications|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|72.10.160.171|3501|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|16031|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|25353|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|32677|Canada|Montreal|GloboTech Communications|
+|19|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|72.10.160.173|10381|Canada|Montreal|GloboTech Communications|
 
 
 
