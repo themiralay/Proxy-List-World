@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|38.156.15.160|999|Mexico|Yahualica de Gonzalez Gallo|Wistarip S De RL De CV|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|201.221.9.105|8080|Uruguay|Montevideo|Tecnowind S.A.|
-|8|67.43.236.20|8079|Canada|Montreal|GloboTech Communications|
-|9|103.234.159.5|8080|India|Bengaluru|MWPL|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|67.43.227.229|24543|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|6461|Canada|Montreal|GloboTech Communications|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|5.196.111.29|20488|France|Gravelines|OVH SAS|
-|17|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|18|67.43.236.20|8079|Canada|Montreal|GloboTech Communications|
+|5|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|7|41.33.203.227|1976|Egypt|Cairo|TE Data|
+|8|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|103.48.68.98|83|India|Hyderabad|Country Online Services PVT LTD|
+|10|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|17|72.10.164.178|16375|Canada|Montreal|GloboTech Communications|
+|18|66.27.58.70|8080|United States|Moreno Valley|Spectrum|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|67.43.236.20|8079|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|23957|Canada|Montreal|GloboTech Communications|
 
 
 
