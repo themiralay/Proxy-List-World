@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|602|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|602|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|602|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|483|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|483|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|483|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|5|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|6|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|7|134.35.223.231|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|9|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
-|10|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|81.163.56.104|23500|Russia|Makhachkala|SUBNET05|
-|13|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|103.179.139.170|8080|Indonesia|Bekasi|PT. Fiber Networks Indonesia|
-|15|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|103.28.114.157|66|Indonesia|Bantul|PT Lintas Data Prima|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|19|103.156.17.32|8818|Indonesia|Indramayu|RSTNET|
-|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|6|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|7|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
+|10|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|11|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|15|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|17|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|67.43.227.226|24593|Canada|Montreal|GloboTech Communications|
+|20|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
