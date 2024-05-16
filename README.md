@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8784** proxies at the latest update. Usable proxies are below.
+> Scraper found **8868** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|509|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|509|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|509|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|190|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1171|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1255|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|506|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5959|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|5|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|6|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|49.254.219.125|39915|South Korea|Gwangmyeong|Korea Telecom|
-|8|200.59.186.82|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|9|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|13|72.10.164.178|23125|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|4631|Canada|Montreal|GloboTech Communications|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|67.43.227.228|24669|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|4005|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|4005|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|22119|Canada|Montreal|GloboTech Communications|
-|20|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|2|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|5|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|103.179.139.170|8080|Indonesia|Bekasi|PT. Fiber Networks Indonesia|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|103.153.246.210|8080|Indonesia|Purwakarta|PRIMAHOME|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|41.33.203.227|1976|Egypt|Cairo|TE Data|
+|14|41.174.132.58|8080|DR Congo|Kinshasa|Liquid Telecommunications Ltd|
+|15|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|16|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|17|212.26.234.193|8080|Russia|Ivanovo|PJSC Rostelecom|
+|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|19|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|20|72.10.160.93|17453|Canada|Montreal|GloboTech Communications|
 
 
 
