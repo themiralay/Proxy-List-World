@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|7|103.155.199.144|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|8|103.172.71.15|8080|Indonesia|Karawang|AZNET|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|12|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|72.10.164.178|28397|Canada|Montreal|GloboTech Communications|
-|16|14.97.32.152|80|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|84.207.252.37|8080|United Kingdom|London|euNetworks GmbH|
+|11|72.10.160.92|15765|Canada|Montreal|GloboTech Communications|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|116.80.58.70|4649|Japan|Honchō|InfoSphere|
+|14|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|16|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|116.80.58.70|4649|Japan|Honchō|InfoSphere|
-|20|67.43.236.20|11219|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|6129|Canada|Montreal|GloboTech Communications|
+|19|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
