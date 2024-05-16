@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|61.8.70.114|2023|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|12|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|15|183.36.36.147|3128|China|Xiaolou|Chinanet|
-|16|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
-|18|67.43.236.20|1477|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|1257|Canada|Montreal|GloboTech Communications|
-|20|121.195.170.225|1024|China|Haidian|CERNET|
+|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|3|189.195.139.178|999|Mexico|Churintzio|Mega Cable, S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|45.234.61.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|7|72.14.184.125|22030|United States|Richardson|Akamai Technologies, Inc.|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|103.247.22.237|3127|Indonesia|Bekasi|PT wifian Solution|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|103.184.56.125|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|18|103.48.69.105|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
