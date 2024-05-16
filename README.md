@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|11|72.10.160.174|23975|Canada|Montreal|GloboTech Communications|
-|12|149.210.235.107|8118|The Netherlands|Bodegraven|Signet B.V.|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|72.10.160.90|18305|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.93|23305|Canada|Montreal|GloboTech Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.236.20|31433|Canada|Montreal|GloboTech Communications|
-|18|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|19|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|67.43.236.20|31433|Canada|Montreal|GloboTech Communications|
+|6|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|203.150.128.90|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
+|11|72.10.164.178|17991|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|4223|Canada|Montreal|GloboTech Communications|
+|13|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|20|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
 
 
 
