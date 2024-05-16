@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|10|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|11|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
-|12|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|14|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
-|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|19|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|20|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|11|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|12|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|14|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|41.254.100.192|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|20|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
