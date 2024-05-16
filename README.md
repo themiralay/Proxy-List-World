@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
-|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|8|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|72.10.164.178|33051|Canada|Montreal|GloboTech Communications|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|6|46.21.253.164|3128|Russia|Moscow|Start LLC|
+|7|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|8|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|9|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 |10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|156.146.58.170|10192|United States|New York|DataCamp Limited|
-|12|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
-|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|14|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|72.10.160.94|18003|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|5291|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|30809|Canada|Montreal|GloboTech Communications|
-|18|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|19|72.10.164.178|33051|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|14399|Canada|Montreal|GloboTech Communications|
+|11|103.234.159.5|8080|India|Bengaluru|MWPL|
+|12|109.175.9.203|8080|Bosnia and Herzegovina|Živinice|BH Telecom d.d. Sarajevo|
+|13|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|14|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
+|15|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.164.178|28393|Canada|Montreal|GloboTech Communications|
+|17|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|18|41.111.187.214|80|Algeria|Oran|Algerie Telecom|
+|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 
 
 
