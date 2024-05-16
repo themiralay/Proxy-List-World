@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|103.107.84.124|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|8|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
-|13|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|14|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|16|103.98.131.194|8081|Nepal|Bhojpur|Eastlink Technology Pvt Ltd|
-|17|72.10.160.90|14399|Canada|Montreal|GloboTech Communications|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
+|6|103.184.54.42|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|7|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|10|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|12|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|13|103.158.220.2|83|India|Theni|Nt Cybronet Pvt Ltd|
+|14|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|180.232.127.48|3128|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|17|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
 
 
 
