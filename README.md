@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|178.128.86.199|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
-|7|182.160.103.220|8090|Bangladesh|Dhaka|Aamra Networks Limited|
-|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|103.164.214.122|8080|Indonesia|Kedungdoro|PT iForte Global Internet|
-|11|181.46.243.155|3128|Argentina|Buenos Aires|Telecentro S.A.|
-|12|72.10.164.178|32497|Canada|Montreal|GloboTech Communications|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
-|17|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
-|18|41.174.132.58|8080|DR Congo|Kinshasa|Liquid Telecommunications Ltd|
-|19|67.43.227.227|13219|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|32497|Canada|Montreal|GloboTech Communications|
+|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|7|178.128.86.199|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|10|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
+|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|82.137.244.151|8080|Syria|Babīlā|ISP-TARASSUL|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|16|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|27.147.217.102|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|117.53.46.42|3128|Indonesia|Jakarta|PT Infinys System Indonesia|
+|19|72.10.164.178|32497|Canada|Montreal|GloboTech Communications|
+|20|103.183.63.14|83|Bangladesh|Mātuail|Speed Online|
 
 
 
