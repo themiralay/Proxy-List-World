@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|7|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|84.204.40.154|8080|Russia|St Petersburg|PJSC MegaFon|
-|11|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|6|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|191.102.254.9|8085|Argentina|Rosario|IP·RED|
+|10|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
-|14|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|15|67.43.227.227|14681|Canada|Montreal|GloboTech Communications|
-|16|131.100.48.233|999|Colombia|Neiva|Fibernet TV SAS|
-|17|67.43.228.250|7745|Canada|Montreal|GloboTech Communications|
-|18|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|19|103.234.159.5|8080|India|Bengaluru|MWPL|
-|20|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|67.43.227.227|4443|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|4017|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|4017|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|12113|Canada|Montreal|GloboTech Communications|
+|17|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|18|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|67.43.236.20|18091|Canada|Montreal|GloboTech Communications|
+|20|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
