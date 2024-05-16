@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|67.43.227.227|29621|Canada|Montreal|GloboTech Communications|
-|15|115.127.79.18|8090|Bangladesh|Dhaka|BRACNet Limited|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|20|72.10.160.174|21605|Canada|Montreal|GloboTech Communications|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|9|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|10|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|115.127.140.114|8080|Bangladesh|Dhaka|BRACNet Limited|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|72.10.160.173|1303|Canada|Montreal|GloboTech Communications|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
