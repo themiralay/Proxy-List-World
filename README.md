@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|120.28.196.66|8082|Philippines|Davao City|Globe Telecom|
-|5|192.145.205.97|8080|Brazil|Guaraciama|Vianet Guaraciama Eireli ME|
-|6|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
-|7|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|114.5.199.197|80|Indonesia|Bandung|PT. INDOSAT Tbk|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.18.76.134|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|13|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|181.10.123.156|999|Argentina|El Carril|Telecom Argentina S.A.|
-|17|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|18|202.191.125.147|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|19|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|2|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
+|3|103.217.224.201|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|185.208.101.217|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|7|103.99.22.28|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|12|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
+|15|67.43.227.227|15915|Canada|Montreal|GloboTech Communications|
+|16|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|72.10.164.178|9113|Canada|Montreal|GloboTech Communications|
+|20|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
