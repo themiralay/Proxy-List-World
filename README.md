@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|9|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|12|37.238.168.122|1111|Iraq|Karbala|EarthLinkTelecommunications|
-|13|72.10.164.178|10559|Canada|Montreal|GloboTech Communications|
-|14|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|67.43.227.228|4139|Canada|Montreal|GloboTech Communications|
-|17|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.227.227|18215|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|10559|Canada|Montreal|GloboTech Communications|
-|20|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|7|114.141.51.51|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|8|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|9|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|10|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|14|72.10.164.178|10559|Canada|Montreal|GloboTech Communications|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|17|121.195.170.225|1024|China|Haidian|CERNET|
+|18|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 
 
 
