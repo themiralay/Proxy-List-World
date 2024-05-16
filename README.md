@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|161.34.36.39|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|8|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|11|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|113.160.166.196|6236|Vietnam|Thị Trấn Tân Yên|VietNam Post and Telecom Corporation|
-|14|67.43.236.20|2873|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|29985|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|29201|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|2873|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|3523|Canada|Montreal|GloboTech Communications|
-|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|37.187.115.135|42000|France|Roubaix|OVH SAS|
+|7|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|38.156.72.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|10|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|12|103.48.68.98|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
+|14|202.12.80.14|82|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|187.249.20.153|8081|Mexico|Ciudad Acuña|Transtelco Inc|
+|19|67.43.227.227|24277|Canada|Montreal|GloboTech Communications|
+|20|51.91.252.25|1234|France|Gravelines|OVH SAS|
 
 
 
