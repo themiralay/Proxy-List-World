@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|182.253.234.133|8080|Indonesia|Jakarta|BIZNET|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|8|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|118.99.95.26|8080|Indonesia|Jakarta Pusat|Biznet Metronet|
-|10|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|15|72.10.164.178|32477|Canada|Montreal|GloboTech Communications|
-|16|113.160.166.196|6013|Vietnam|Thị Trấn Tân Yên|VietNam Post and Telecom Corporation|
-|17|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|72.10.164.178|32477|Canada|Montreal|GloboTech Communications|
+|1|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|10|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|11|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|12|160.248.2.125|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|72.10.164.178|32477|Canada|Montreal|GloboTech Communications|
+|14|201.251.61.143|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|17|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|72.10.164.178|32477|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|6353|Canada|Montreal|GloboTech Communications|
 
 
 
