@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
-|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|183.81.156.98|8080|Indonesia|Bekasi|Internet Service Provider|
-|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|12|176.215.1.25|3128|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|67.43.227.227|1395|Canada|Montreal|GloboTech Communications|
-|16|129.213.198.245|80|United States|Ashburn|Oracle Corporation|
-|17|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|18|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|10|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
+|12|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|15|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|16|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|19|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|36.255.84.69|82|India|Bengaluru|Gatik Business Solutions|
 
 
 
