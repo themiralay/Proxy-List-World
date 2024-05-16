@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|1.179.242.28|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|2|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|5.196.111.29|20233|France|Gravelines|OVH SAS|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|67.43.227.227|8141|Canada|Montreal|GloboTech Communications|
-|9|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
-|10|72.10.160.90|17297|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|26401|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|8141|Canada|Montreal|GloboTech Communications|
-|13|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|15|67.43.227.227|8141|Canada|Montreal|GloboTech Communications|
-|16|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|72.10.164.178|23777|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|17297|Canada|Montreal|GloboTech Communications|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|67.43.227.228|28149|Canada|Montreal|GloboTech Communications|
+|4|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|5|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
+|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|11|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|14|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
+|15|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
+|16|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|72.10.160.90|17297|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|5891|Canada|Montreal|GloboTech Communications|
 
 
 
