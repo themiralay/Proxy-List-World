@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
-|2|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
-|8|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|14|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|15|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|67.43.227.227|5885|Canada|Montreal|GloboTech Communications|
-|19|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|20|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|6|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|7|203.202.252.149|1200|Bangladesh|Dhaka|Aamra Networks Limited|
+|8|103.217.224.139|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|9|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|10|113.197.109.35|8080|Indonesia|Bandung|ICN|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|103.48.69.105|83|India|Hyderabad|Country Online Services PVT LTD|
+|16|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|17|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|18|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
 
 
 
