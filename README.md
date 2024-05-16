@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|5|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|9|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|10|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|11|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|12|103.226.232.196|1080|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|8|103.107.84.184|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|9|103.178.43.26|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
+|10|211.34.105.33|80|South Korea|Seongnam-si|Korea Telecom|
+|11|103.226.232.196|1080|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|15|185.44.26.217|43097|Spain|Cartagena|Electronica Martinez de Cartagena S.L.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|178.23.192.249|8901|Poland|Warsaw|Tricomp KLIF|
+|15|103.234.159.5|8080|India|Bengaluru|MWPL|
+|16|186.125.218.188|999|Argentina|Molinos|Telecom Argentina S.A.|
+|17|200.39.120.123|999|Mexico|Las Norias de Ojocaliente|Marcatel Com, S.A. de C.V.|
+|18|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|20|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
 
 
 
