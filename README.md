@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|6|182.253.109.182|8080|Indonesia|Semarang|Biznet Metronet|
-|7|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|12|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|34.154.161.152|80|Italy|Milan|Google LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.160.170|3063|Canada|Montreal|GloboTech Communications|
-|17|182.18.179.129|83|India|Hyderabad|CtrlS|
-|18|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|19|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|20|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|4|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|49.48.45.86|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|12|182.253.234.133|8080|Indonesia|Jakarta|BIZNET|
+|13|103.234.159.5|8080|India|Bengaluru|MWPL|
+|14|67.43.236.20|14739|Canada|Montreal|GloboTech Communications|
+|15|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|19|72.10.160.170|26561|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|32889|Canada|Montreal|GloboTech Communications|
 
 
 
