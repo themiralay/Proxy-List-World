@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.150.128.213|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|103.203.175.33|84|India|Hyderabad|Softgaurd Powertronics|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|8|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|9|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|38.253.88.242|999|United States|Miami|Cogent Communications|
-|13|72.10.164.178|22935|Canada|Montreal|GloboTech Communications|
-|14|181.10.123.156|999|Argentina|El Carril|Telecom Argentina S.A.|
-|15|72.10.160.171|23285|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|22935|Canada|Montreal|GloboTech Communications|
-|17|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.228.253|21935|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|5|77.41.146.53|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|6|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|121.52.156.146|8080|Pakistan|Multan|HEC|
+|9|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
+|10|72.10.164.178|22935|Canada|Montreal|GloboTech Communications|
+|11|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|72.10.160.90|19159|Canada|Montreal|GloboTech Communications|
+|15|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.164.178|22935|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|72.10.160.90|19159|Canada|Montreal|GloboTech Communications|
 
 
 
