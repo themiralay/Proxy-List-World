@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|5|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|8|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|9|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|10|72.10.164.178|3813|Canada|Montreal|GloboTech Communications|
-|11|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|67.43.227.227|8083|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.172|2087|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|3813|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|8117|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|21141|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|3813|Canada|Montreal|GloboTech Communications|
-|18|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|46.253.143.144|3128|Russia|Moscow|ZTV CORP LLC|
-|20|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|6|103.102.153.215|33128|Indonesia|Jakarta|PT Qwords Company International|
+|7|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|12|72.10.164.178|3813|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|3813|Canada|Montreal|GloboTech Communications|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|67.43.227.227|2881|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|8117|Canada|Montreal|GloboTech Communications|
+|17|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
+|18|72.10.164.178|3813|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|3813|Canada|Montreal|GloboTech Communications|
+|20|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
