@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|509|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|509|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|509|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|2|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|9|103.179.139.170|8080|Indonesia|Bekasi|PT. Fiber Networks Indonesia|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|103.153.246.210|8080|Indonesia|Purwakarta|PRIMAHOME|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|41.33.203.227|1976|Egypt|Cairo|TE Data|
-|14|41.174.132.58|8080|DR Congo|Kinshasa|Liquid Telecommunications Ltd|
-|15|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|16|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|17|212.26.234.193|8080|Russia|Ivanovo|PJSC Rostelecom|
-|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|19|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|20|72.10.160.93|17453|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|6|209.79.65.132|8080|United States|Anaheim|Orange County Department of Education|
+|7|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|8|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|9|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|12|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|14|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|15|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
+|18|180.94.12.137|8080|Indonesia|Siak Sri Indrapura|TBKNET|
+|19|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
+|20|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
 
 
 
