@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|182.253.109.182|8080|Indonesia|Semarang|Biznet Metronet|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
-|13|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
-|14|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|15|72.10.160.173|14671|Canada|Montreal|GloboTech Communications|
-|16|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|72.10.164.178|3333|Canada|Montreal|GloboTech Communications|
-|20|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|103.149.194.30|32650|India|New Delhi|Kavya Internet Services Pvt Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|11|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|103.26.109.62|84|India|Kadayanallur|Niss Networks|
+|13|85.193.95.16|36745|Poland|Warsaw|TimeWeb Ltd.|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|16|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|17|72.10.160.173|14671|Canada|Montreal|GloboTech Communications|
+|18|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|19|72.10.160.90|15029|Canada|Montreal|GloboTech Communications|
+|20|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
