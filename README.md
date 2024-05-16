@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|67.43.228.250|29385|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|16455|Canada|Montreal|GloboTech Communications|
-|9|113.160.166.196|6111|Vietnam|Thị Trấn Tân Yên|VietNam Post and Telecom Corporation|
-|10|72.10.164.178|16455|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|16455|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|16455|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|16455|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.92|27027|Canada|Montreal|GloboTech Communications|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|103.41.91.161|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|17|67.43.228.253|11077|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|11191|Canada|Montreal|GloboTech Communications|
-|19|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
-|20|67.43.227.226|28793|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|165.16.55.19|44444|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|9|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|10|72.10.160.92|27027|Canada|Montreal|GloboTech Communications|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
+|13|72.10.160.170|7961|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|11191|Canada|Montreal|GloboTech Communications|
+|15|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|72.10.160.90|31449|Canada|Montreal|GloboTech Communications|
+|18|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|72.10.164.178|19913|Canada|Montreal|GloboTech Communications|
 
 
 
