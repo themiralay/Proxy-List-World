@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|114.141.51.51|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|8|94.154.152.3|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
-|9|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|94.124.16.218|8901|Poland|Warsaw|Tricomp Sp. z. o. o.|
-|13|72.10.160.90|28291|Canada|Montreal|GloboTech Communications|
-|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|67.43.227.227|3895|Canada|Montreal|GloboTech Communications|
-|16|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
-|17|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|18|67.43.236.20|21931|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|30783|Canada|Montreal|GloboTech Communications|
-|20|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|46.21.253.164|3128|Russia|Moscow|Start LLC|
+|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|12|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|72.10.160.90|6789|Canada|Montreal|GloboTech Communications|
+|16|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|17|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|18|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|19|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|72.10.160.171|22225|Canada|Montreal|GloboTech Communications|
 
 
 
