@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|67.43.227.230|26727|Canada|Montreal|GloboTech Communications|
-|6|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|7|72.14.184.125|22030|United States|Richardson|Akamai Technologies, Inc.|
-|8|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|9|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|10|72.10.164.178|2283|Canada|Montreal|GloboTech Communications|
+|5|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|6|67.43.227.230|26727|Canada|Montreal|GloboTech Communications|
+|7|67.43.227.227|30295|Canada|Montreal|GloboTech Communications|
+|8|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|9|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|195.201.202.32|60163|Germany|Gunzenhausen|Hetzner Online GmbH|
 |11|72.10.160.174|28135|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|1793|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|17409|Canada|Montreal|GloboTech Communications|
-|14|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|15|72.10.160.171|31029|Canada|Montreal|GloboTech Communications|
-|16|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|17|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|18|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|19|67.43.227.227|1793|Canada|Montreal|GloboTech Communications|
-|20|197.254.84.86|32650|Kenya|Nairobi|ACCESSKENYA|
+|12|72.10.160.171|17805|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.171|17805|Canada|Montreal|GloboTech Communications|
+|14|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|15|46.253.143.144|3128|Russia|Moscow|ZTV CORP LLC|
+|16|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|17|72.10.164.178|1583|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.164.178|1583|Canada|Montreal|GloboTech Communications|
+|20|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
