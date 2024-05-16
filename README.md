@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|77.41.146.53|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |8|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|179.108.220.184|8080|Brazil|Barbacena|Conecta Ltda.|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|67.43.236.20|19081|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|67.43.236.20|19081|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|17805|Canada|Montreal|GloboTech Communications|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|200.170.210.237|8080|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
+|14|72.10.160.91|24313|Canada|Montreal|GloboTech Communications|
+|15|149.210.235.107|8118|The Netherlands|Bodegraven|Signet B.V.|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|18|72.10.160.171|15253|Canada|Montreal|GloboTech Communications|
+|19|160.248.3.114|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|20|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
 
 
 
