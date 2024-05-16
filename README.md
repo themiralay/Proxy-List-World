@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|9|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|12|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|13|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
-|14|200.59.186.81|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|15|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|178.251.111.28|8080|Ukraine|Borzna|Dataline LLC|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|190.187.201.26|8080|Peru|San Borja|Americatel Peru S.A.|
-|20|72.10.164.178|30981|Canada|Montreal|GloboTech Communications|
+|4|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
+|5|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|203.150.113.144|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|72.10.164.178|30981|Canada|Montreal|GloboTech Communications|
+|11|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|12|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|16|103.234.31.66|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|17|103.115.20.26|8090|Indonesia|Subang|PMYNET|
+|18|72.10.164.178|30981|Canada|Montreal|GloboTech Communications|
+|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|20|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
 
 
 
