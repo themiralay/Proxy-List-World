@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|7|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|72.10.164.178|26817|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|10129|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|10129|Canada|Montreal|GloboTech Communications|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|67.43.228.250|19043|Canada|Montreal|GloboTech Communications|
-|15|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|67.43.236.20|9775|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|23175|Canada|Montreal|GloboTech Communications|
-|18|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
-|19|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.236.20|9775|Canada|Montreal|GloboTech Communications|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.105.76.249|8080|Indonesia|Bojonegoro|GARUDA|
+|8|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|72.10.160.90|11409|Canada|Montreal|GloboTech Communications|
+|12|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
+|15|72.10.164.178|22715|Canada|Montreal|GloboTech Communications|
+|16|103.155.198.53|8181|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|38.156.72.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|39.129.73.6|443|China|Kunming|China Mobile|
+|20|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
