@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|186.125.218.170|999|Argentina|Molinos|Telecom Argentina S.A.|
+|2|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 |7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
 |12|160.248.81.189|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|5.196.111.29|20488|France|Gravelines|OVH SAS|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|72.10.164.178|33141|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|33141|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|19581|Canada|Montreal|GloboTech Communications|
-|18|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|19|103.165.156.8|3127|Indonesia|Jember|MEGADATA-ISP|
-|20|72.10.164.178|33141|Canada|Montreal|GloboTech Communications|
+|13|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|5.196.111.29|20488|France|Gravelines|OVH SAS|
+|16|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|17|85.193.95.16|36745|Poland|Warsaw|TimeWeb Ltd.|
+|18|67.43.227.227|12039|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|33139|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|33139|Canada|Montreal|GloboTech Communications|
 
 
 
