@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|3|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|103.234.159.5|8080|India|Bengaluru|MWPL|
-|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|9|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|10|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|11|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|165.16.55.19|44444|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|13|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|200.24.154.219|999|Ecuador|Manta|Ufinet Panama S.A.|
-|15|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|16|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|17|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|18|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|19|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|20|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|1|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|2|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|3|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
+|4|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|7|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|9|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|10|45.205.167.58|8081|United States|Dallas|Octopus Web Solution Inc|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|200.71.109.102|999|Mexico|Xicotepec de Juarez|Digy Networks S.A De C.V.|
+|16|157.159.10.86|80|France|Évry|IT-EVRY-8/22|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
+|19|200.24.154.219|999|Ecuador|Manta|Ufinet Panama S.A.|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
