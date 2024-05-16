@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|3|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|1|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|4|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|5|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|6|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|7|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|10|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|122.3.121.231|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.155.198.105|8080|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
-|16|103.165.212.210|8080|Indonesia|Bulak|PT iForte Global Internet|
-|17|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|18|45.162.82.244|8080|Colombia|Bogotá|Wifao Colombia S A S|
-|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|10|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
+|11|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
+|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|103.147.246.135|8080|Indonesia|Tangerang|PLBNET|
+|15|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|16|34.30.45.238|3128|United States|Council Bluffs|Google LLC|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|103.217.224.82|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|19|88.84.209.24|3128|Russia|Moscow|Flex Ltd.|
+|20|37.32.15.125|6888|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 
 
 
