@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|131.100.48.124|999|Colombia|Neiva|Fibernet TV SAS|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |6|160.248.4.118|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|203.150.113.144|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|67.43.227.227|7045|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|7045|Canada|Montreal|GloboTech Communications|
-|14|217.100.239.117|8090|The Netherlands|Alblasserdam|Vodafone Libertel B.V.|
-|15|67.43.228.253|29731|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|22195|Canada|Montreal|GloboTech Communications|
-|17|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|67.43.236.20|21667|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|15847|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|21667|Canada|Montreal|GloboTech Communications|
+|7|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|8|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|103.174.175.99|8085|Indonesia|Bekasi|PT Lintas Teknologi Solusindo|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|45.71.185.245|999|Ecuador|El Guabo|Ufinet Panama S.A.|
+|13|160.248.6.107|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|138.204.95.166|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|17|67.43.227.227|7045|Canada|Montreal|GloboTech Communications|
+|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|67.43.228.253|14159|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|22195|Canada|Montreal|GloboTech Communications|
 
 
 
