@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|8|203.150.113.49|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|11|154.127.240.125|64002|Angola|Huambo|HMB-FTTH|
-|12|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|139.84.133.80|3129|India|Bengaluru|The Constant Company|
-|14|139.84.137.63|3129|India|Bengaluru|The Constant Company|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|19|134.35.22.62|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|20|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|101.99.91.107|3128|Malaysia|Taman Melati|Shinjiru Technology Sdn Bhd|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|139.84.133.80|3129|India|Bengaluru|The Constant Company|
+|7|139.84.137.63|3129|India|Bengaluru|The Constant Company|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|139.84.139.248|3129|India|Bengaluru|The Constant Company|
+|11|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|139.84.139.59|3129|India|Bengaluru|The Constant Company|
+|14|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|139.84.131.42|3129|India|Bengaluru|The Constant Company|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|139.84.132.210|3129|India|Bengaluru|The Constant Company|
+|18|72.10.164.178|30043|Canada|Montreal|GloboTech Communications|
+|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|20|72.10.164.178|30043|Canada|Montreal|GloboTech Communications|
 
 
 
