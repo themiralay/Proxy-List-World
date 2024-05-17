@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|103.246.247.148|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.116.94.184|6588|Bulgaria|Petrich|UltraNET Ltd|
-|9|54.238.223.108|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|10|107.155.65.11|3128|Singapore|Singapore|HIVELOCITY, Inc.|
-|11|103.250.130.220|8080|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|12|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|13|36.95.213.27|8080|Indonesia|Cempaka Putih Barat|PT. Telekomunikasi Indonesia|
-|14|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|15|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|16|103.69.60.10|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|17|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|103.143.169.153|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|13|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|154.73.28.49|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|15|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|16|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
+|17|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|213.221.46.10|3128|Russia|Moscow|EDN Sovintel|
+|19|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
+|20|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
