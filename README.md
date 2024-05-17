@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|483|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|483|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|483|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.150.113.49|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|3|203.150.113.49|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |6|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
-|10|103.68.214.97|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|11|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|12|186.190.225.152|999|Colombia|Villanueva|TV AZTECA SUCURSAL COLOMBIA|
-|13|134.35.22.62|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|139.84.133.80|3129|India|Bengaluru|The Constant Company|
-|15|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|139.84.137.63|3129|India|Bengaluru|The Constant Company|
-|18|139.84.139.248|3129|India|Bengaluru|The Constant Company|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|8|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|12|139.84.133.80|3129|India|Bengaluru|The Constant Company|
+|13|139.84.139.248|3129|India|Bengaluru|The Constant Company|
+|14|101.99.91.107|3128|Malaysia|Taman Melati|Shinjiru Technology Sdn Bhd|
+|15|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
+|19|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
 |20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
