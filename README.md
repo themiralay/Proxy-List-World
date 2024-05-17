@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|49.48.47.182|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|18|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|19|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.88.239.38|84|India|Hyderabad|Mana Communications|
+|9|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|10|38.156.73.62|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|179.42.6.24|3128|Brazil|Barra Mansa|SN TELECON LTDA|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|190.61.46.227|999|Colombia|Chimá|Ufinet Panama S.A.|
+|17|216.39.249.210|3128|United States|New York|GTHost|
+|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|20|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
 
 
 
