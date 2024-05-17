@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|160.248.6.193|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|200.70.56.203|3128|Argentina|Buenos Aires|Telefonica de Argentina|
+|4|160.248.6.193|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
 |7|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|211.95.152.50|45046|United States|Los Angeles|China Unicom Guangdong IP network|
-|11|67.43.236.20|30171|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|192.248.95.1|3128|Sri Lanka|Dedunupitiya|Lanka Education and Research Network|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|67.43.228.253|31049|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|31049|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|1723|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|1593|Canada|Montreal|GloboTech Communications|
-|19|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.236.20|30171|Canada|Montreal|GloboTech Communications|
+|8|103.154.139.130|8080|Indonesia|Jakarta|MORATELINDONAP|
+|9|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|11|103.148.130.3|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|12|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|211.95.152.50|45046|United States|Los Angeles|China Unicom Guangdong IP network|
+|15|67.43.228.253|22261|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|192.248.95.1|3128|Sri Lanka|Dedunupitiya|Lanka Education and Research Network|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|72.10.160.171|1723|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|5295|Canada|Montreal|GloboTech Communications|
 
 
 
