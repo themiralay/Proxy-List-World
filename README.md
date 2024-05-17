@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|34.154.161.152|80|Italy|Milan|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|139.84.139.59|3129|India|Bengaluru|The Constant Company|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|4|154.38.180.194|3128|United States|New York|Nubes, LLC|
 |5|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|6|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|124.120.109.65|8080|Thailand|Bangkok|TRUEBB|
-|9|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|10|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.237.210.233|999|Mexico|Chihuahua City|Uninet S.A. de C.V.|
+|8|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
 |11|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|12|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|103.154.77.64|83|Indonesia|Magelang|T2NET|
-|15|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
-|16|41.254.53.70|1981|Libya|Tripoli|LTT Network Backbone and POPs|
-|17|83.148.75.16|3128|Bulgaria|Sofia|BTC-Broadband|
-|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|103.48.71.122|83|India|Hyderabad|Country Online Services PVT LTD|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|14|207.244.254.27|3192|United States|St Louis|Nubes, LLC|
+|15|103.234.159.5|8080|India|Bengaluru|MWPL|
+|16|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
+|17|20.198.19.55|3128|India|Pune|Microsoft Corporation|
+|18|154.53.38.152|3128|United States|New York|Nubes, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|217.182.194.108|3128|France|Gravelines|OVH SAS|
 
 
 
