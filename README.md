@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8268** proxies at the latest update. Usable proxies are below.
+> Scraper found **8271** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|217|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1105|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|336|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|339|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5652|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|4|123.200.10.78|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|110.78.149.217|8080|Thailand|Bangkok|CAT-BB|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|10|156.146.58.170|10006|United States|New York|DataCamp Limited|
-|11|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
-|12|46.166.165.33|4006|Lithuania|Šiauliai|Cherry Servers|
-|13|154.0.156.102|8080|Tanzania|Arusha|Habari Node PLC Dar|
-|14|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|15|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|18|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|200.41.170.211|11201|Argentina|Rincon de Los Sauces|Telefonica de Argentina|
+|11|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
+|14|103.133.68.151|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|15|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|16|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|17|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|20|103.165.218.234|8085|Indonesia|Pegadungan|PT iForte Global Internet|
 
 
 
