@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8200** proxies at the latest update. Usable proxies are below.
+> Scraper found **8199** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|213|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|212|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|744|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|345|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|4|181.204.156.66|41890|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
 |5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|7|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
-|8|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|9|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
-|10|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|12|183.87.160.62|84|India|Mumbai|JPR Digital Pvt Ltd|
-|13|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.164.178|6097|Canada|Montreal|GloboTech Communications|
+|6|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|13|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|14|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|15|72.10.164.178|2257|Canada|Montreal|GloboTech Communications|
+|16|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
+|18|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
