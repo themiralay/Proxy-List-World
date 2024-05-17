@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8225** proxies at the latest update. Usable proxies are below.
+> Scraper found **8199** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|227|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|941|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|915|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|412|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5687|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|139.84.138.223|3129|India|Bengaluru|The Constant Company|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|6|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|7|121.164.145.170|3129|South Korea|Uijeongbu-si|Korea Telecom|
-|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|9|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
-|12|139.84.133.80|3129|India|Bengaluru|The Constant Company|
-|13|47.245.60.185|3128|Japan|Tokyo|Alibaba Cloud LLC|
-|14|163.172.33.137|4000|France|Vitry-sur-Seine|Online S.A.S.|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|121.164.145.170|3129|South Korea|Uijeongbu-si|Korea Telecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.140.188.170|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|7|139.84.139.59|3129|India|Bengaluru|The Constant Company|
+|8|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|11|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|17|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|47.245.60.185|3128|Japan|Tokyo|Alibaba Cloud LLC|
+|19|36.90.216.101|3128|Indonesia|Madiun|PT. Telekomunikasi Indonesia|
+|20|190.61.46.227|999|Colombia|Chimá|Ufinet Panama S.A.|
 
 
 
