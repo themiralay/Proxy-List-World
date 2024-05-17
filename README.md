@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.164.178|12455|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|14807|Canada|Montreal|GloboTech Communications|
-|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|19|121.195.170.225|1024|China|Haidian|CERNET|
-|20|67.43.228.250|31307|Canada|Montreal|GloboTech Communications|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|12|139.255.67.54|3888|Indonesia|Jakarta|PT. LINKNET|
+|13|72.10.164.178|6107|Canada|Montreal|GloboTech Communications|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|16|67.43.227.227|2699|Canada|Montreal|GloboTech Communications|
+|17|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|18|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|67.43.227.227|2699|Canada|Montreal|GloboTech Communications|
 
 
 
