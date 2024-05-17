@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|203.150.128.133|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|154.38.180.194|3128|United States|New York|Nubes, LLC|
 |7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|8|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|9|213.149.182.98|8080|Cyprus|Limassol|CYTANET - Cyprus Telecommunications Authority|
-|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|15|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|139.84.139.59|3129|India|Bengaluru|The Constant Company|
-|18|38.7.31.230|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|19|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|158.69.7.48|8050|Canada|Montreal|OVH SAS|
+|9|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|13|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|72.10.160.90|4231|Canada|Montreal|GloboTech Communications|
+|16|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
 
 
 
