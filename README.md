@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|9|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|200.39.139.65|999|Chile|Valparaíso|Iconex SPA|
-|17|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|18|217.21.78.18|3128|United States|Phoenix|Hostinger International Limited|
-|19|181.29.205.47|8085|Argentina|Buenos Aires|Telecom Argentina S.A|
-|20|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|5|103.99.22.28|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|158.69.7.48|8050|Canada|Montreal|OVH SAS|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|181.29.205.47|8085|Argentina|Buenos Aires|Telecom Argentina S.A|
+|12|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|15|103.99.22.28|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|16|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|17|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
 
 
 
