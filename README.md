@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |6|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
 |7|139.84.216.210|3129|India|Bengaluru|The Constant Company, LLC|
-|8|117.252.9.178|3128|India|Delhi|BSNL Internet|
-|9|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|10|179.32.62.127|999|Colombia|Barranquilla|Colombia Telecomunicaciones S.a. ESP|
-|11|160.248.91.61|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|14|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
-|15|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|16|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|19|161.34.36.99|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.94|14933|Canada|Montreal|GloboTech Communications|
+|8|112.163.201.32|3129|South Korea|Jinju-si|Korea Telecom|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|11|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|160.248.91.61|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|161.34.36.99|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|18|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|20|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
 
 
 
