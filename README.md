@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7175** proxies at the latest update. Usable proxies are below.
+> Scraper found **7187** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|222|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|221|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|634|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|149|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|162|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5212|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.234.159.5|8080|India|Bengaluru|MWPL|
-|12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|16|72.10.160.170|22625|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|19295|Canada|Montreal|GloboTech Communications|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|72.10.160.90|25991|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|4955|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|181.10.123.156|999|Argentina|El Carril|Telecom Argentina S.A.|
+|14|201.71.2.185|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|17|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|19|202.94.164.190|8080|Bangladesh|Gaurnadi|Summit Communications Ltd|
+|20|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
