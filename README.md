@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
-|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|5|121.146.251.236|3128|South Korea|Jinju|Korea Telecom|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.153.246.210|8080|Indonesia|Purwakarta|PRIMAHOME|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|12|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|35.212.237.127|3128|United States|The Dalles|Google LLC|
-|15|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|16|193.36.85.147|1234|Germany|Frankfurt am Main|BitCommand LLC|
-|17|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|116.254.117.234|3128|Indonesia|Yogyakarta|PT Media Sarana Data|
-|19|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
-|20|20.122.126.40|7979|United States|Boydton|Microsoft Corporation|
+|3|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|181.48.35.218|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|10|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|15|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|16|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|17|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
