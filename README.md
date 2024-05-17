@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|8|211.34.105.33|80|South Korea|Seongnam-si|Korea Telecom|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|36.67.208.62|80|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
-|11|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|12|45.191.46.210|999|Colombia|Pitalito|TV AZTECA SUCURSAL COLOMBIA|
-|13|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|14|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
-|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|17|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|38.9.113.164|8080|Brazil|Rio Branco|SEM FRONTEIRAS TELECOMUNICACOES LTDA|
-|19|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|13|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|14|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|15|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|16|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|190.242.125.186|8080|Colombia|Bogotá|Liberty Networks De Colombia|
+|19|38.9.113.164|8080|Brazil|Rio Branco|SEM FRONTEIRAS TELECOMUNICACOES LTDA|
+|20|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
 
 
 
