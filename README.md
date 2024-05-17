@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.174.18.30|8080|Indonesia|Utan|MORATELINDONAP|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|103.24.213.195|8080|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|11|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|12|103.68.207.34|82|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
-|13|72.10.164.178|23783|Canada|Montreal|GloboTech Communications|
-|14|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|67.43.227.226|14581|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|201.71.2.185|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|72.10.164.178|27069|Canada|Montreal|GloboTech Communications|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|67.43.227.226|15103|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|27069|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|27069|Canada|Montreal|GloboTech Communications|
+|17|1.194.236.229|5005|China|Shanghai|China Telecom|
+|18|212.26.234.193|8080|Russia|Ivanovo|PJSC Rostelecom|
+|19|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
+|20|72.10.164.178|27069|Canada|Montreal|GloboTech Communications|
 
 
 
