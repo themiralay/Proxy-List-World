@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|142.11.195.185|80|United States|Seattle|Hostwinds LLC.|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|74.103.66.15|80|United States|Odenton|Verizon Business|
-|6|194.34.232.76|8800|Germany|Düsseldorf|Contabo GmbH|
-|7|47.245.60.185|3128|Japan|Tokyo|Alibaba Cloud LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|179.24.93.250|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|10|139.84.139.59|3129|India|Bengaluru|The Constant Company|
-|11|189.237.210.233|999|Mexico|Chihuahua City|Uninet S.A. de C.V.|
-|12|139.84.137.63|3129|India|Bengaluru|The Constant Company|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|15|139.84.144.173|3129|India|Bengaluru|The Constant Company, LLC|
-|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|140.227.142.120|3128|Japan|Hyōgo|InfoSphere|
-|18|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|20|204.48.31.203|80|United States|North Bergen|DigitalOcean, LLC|
+|1|160.248.91.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|163.172.33.137|4000|France|Vitry-sur-Seine|Online S.A.S.|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|8|185.202.44.110|8888|United States|Los Angeles|QuickPacket, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|117.252.9.178|3128|India|Delhi|BSNL Internet|
+|11|36.81.131.183|80|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|12|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|140.227.142.120|3128|Japan|Hyōgo|InfoSphere|
+|14|139.84.138.223|3129|India|Bengaluru|The Constant Company|
+|15|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|17|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|18|103.221.55.101|8080|Bangladesh|Dhaka|Pandora Technology|
+|19|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|20|161.34.36.85|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
