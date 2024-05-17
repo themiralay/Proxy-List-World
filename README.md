@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|20|67.43.236.20|29589|Canada|Montreal|GloboTech Communications|
+|2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|7|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|8|72.10.164.178|30483|Canada|Montreal|GloboTech Communications|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|187.79.146.98|8080|Brazil|São Luís|V tal|
+|15|1.194.236.229|5005|China|Shanghai|China Telecom|
+|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
+|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|19|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
+|20|67.43.227.227|7087|Canada|Montreal|GloboTech Communications|
 
 
 
