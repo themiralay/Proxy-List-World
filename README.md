@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|6|160.248.6.193|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|18|72.10.164.178|32495|Canada|Montreal|GloboTech Communications|
-|19|103.130.82.46|8080|Indonesia|Bengkalis|PT Central Digital Network|
-|20|72.10.164.178|32495|Canada|Montreal|GloboTech Communications|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.165.157.251|8090|Indonesia|Banjarnegara|MEGADATA-ISP|
+|5|160.248.6.193|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|12|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|13|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|16|207.230.8.10|999|Colombia|Montería|TV&MÁS S.A.S|
+|17|72.10.164.178|3207|Canada|Montreal|GloboTech Communications|
+|18|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|38.253.88.242|999|United States|Miami|Cogent Communications|
+|20|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
 
 
 
