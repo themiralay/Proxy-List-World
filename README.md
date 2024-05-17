@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.133.68.151|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
 |6|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|7|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
+|8|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 |10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|72.10.160.94|3277|Canada|Montreal|GloboTech Communications|
-|12|103.146.185.90|8080|Indonesia|Wonogiri|YAMNET|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|19|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
+|12|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|72.10.164.178|23627|Canada|Montreal|GloboTech Communications|
 
 
 
