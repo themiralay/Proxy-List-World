@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|5|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|6|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
-|7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|9|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|10|103.4.117.153|5020|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|11|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|12|85.193.95.16|36745|Poland|Warsaw|TimeWeb Ltd.|
-|13|72.10.164.178|5579|Canada|Montreal|GloboTech Communications|
-|14|62.72.58.61|3128|India|Mumbai|HOSTINGER IN|
-|15|72.10.160.90|13013|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|5579|Canada|Montreal|GloboTech Communications|
-|17|45.71.3.52|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|18|72.10.164.178|5579|Canada|Montreal|GloboTech Communications|
-|19|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|20|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|34.154.161.152|80|Italy|Milan|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|7|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|8|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
+|9|45.71.3.52|999|Ecuador|La Troncal|Sysnovelltel S.A|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|14|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|15|113.78.190.20|1111|China|Dongguan|Chinanet|
+|16|72.10.160.173|26463|Canada|Montreal|GloboTech Communications|
+|17|182.18.179.129|83|India|Hyderabad|CtrlS|
+|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|19|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
