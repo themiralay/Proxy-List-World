@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.79.148.218|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|5|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|6|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|12|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|14|194.34.232.76|8800|Germany|Düsseldorf|Contabo GmbH|
-|15|179.32.62.127|999|Colombia|Barranquilla|Colombia Telecomunicaciones S.a. ESP|
-|16|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|18|103.99.22.28|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
-|19|104.218.52.160|3128|United States|Secaucus|Interserver, Inc|
-|20|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|2|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|7|45.79.148.218|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|8|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|9|103.133.27.86|8085|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|13|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|17|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|18|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|19|103.234.159.5|8080|India|Bengaluru|MWPL|
+|20|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
