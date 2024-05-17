@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|117.252.9.178|3128|India|Delhi|BSNL Internet|
-|5|103.255.145.62|84|India|Hyderabad|Pioneer Elabs Ltd|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|101.99.91.107|3128|Malaysia|Taman Melati|Shinjiru Technology Sdn Bhd|
-|8|139.84.216.210|3129|India|Bengaluru|The Constant Company, LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|201.182.149.29|999|Ecuador|Zaruma|Esmonsa S.A.|
-|12|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|13|97.76.251.138|8080|United States|Seminole|Spectrum|
-|14|192.99.169.19|8452|Canada|Beauharnois|OVH SAS|
-|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|16|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|17|67.43.227.227|1159|Canada|Montreal|GloboTech Communications|
-|18|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
-|19|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|20|129.222.176.138|999|Peru|Lima|SpaceX Starlink|
+|3|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|4|139.84.133.80|3129|India|Bengaluru|The Constant Company|
+|5|139.84.137.63|3129|India|Bengaluru|The Constant Company|
+|6|139.84.139.248|3129|India|Bengaluru|The Constant Company|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|10|201.182.149.29|999|Ecuador|Zaruma|Esmonsa S.A.|
+|11|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|103.255.145.62|84|India|Hyderabad|Pioneer Elabs Ltd|
+|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|190.6.204.141|999|Honduras|San Pedro Sula|Cablecolor S.A.|
+|15|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|161.34.36.85|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|19|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|157.120.61.226|3128|Japan|Fukaya|NTT PC Communications, Inc.|
 
 
 
