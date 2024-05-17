@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.36.99|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.248.91.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|5|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|103.106.195.41|32650|India|Delhi|Elyzium Consulting|
-|10|101.255.118.98|8080|Indonesia|Jakarta|PT Remala Abadi|
-|11|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|113.160.155.121|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|140.227.142.120|3128|Japan|Hyōgo|InfoSphere|
-|17|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|18|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|19|103.163.102.70|8181|Indonesia|Wonogiri|PT Mamura Inter Media|
-|20|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|121.164.145.170|3129|South Korea|Uijeongbu-si|Korea Telecom|
+|4|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|139.84.133.80|3129|India|Bengaluru|The Constant Company|
+|7|139.84.139.248|3129|India|Bengaluru|The Constant Company|
+|8|139.84.138.223|3129|India|Bengaluru|The Constant Company|
+|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|47.245.60.185|3128|Japan|Tokyo|Alibaba Cloud LLC|
+|12|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
+|16|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|140.227.142.120|3128|Japan|Hyōgo|InfoSphere|
+|19|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
 
 
 
