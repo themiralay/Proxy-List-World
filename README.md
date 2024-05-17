@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|121.164.145.170|3129|South Korea|Uijeongbu-si|Korea Telecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.140.188.170|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|7|139.84.139.59|3129|India|Bengaluru|The Constant Company|
-|8|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|11|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|17|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|47.245.60.185|3128|Japan|Tokyo|Alibaba Cloud LLC|
-|19|36.90.216.101|3128|Indonesia|Madiun|PT. Telekomunikasi Indonesia|
-|20|190.61.46.227|999|Colombia|Chimá|Ufinet Panama S.A.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|5|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
+|8|104.218.52.160|3128|United States|Secaucus|Interserver, Inc|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|11|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|185.202.44.110|8888|United States|Los Angeles|QuickPacket, LLC|
+|18|82.200.205.126|8081|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|19|190.186.1.121|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|20|72.10.164.178|28787|Canada|Montreal|GloboTech Communications|
 
 
 
