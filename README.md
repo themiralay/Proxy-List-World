@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
-|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|72.10.164.178|16603|Canada|Montreal|GloboTech Communications|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|12|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
-|13|72.10.164.178|16603|Canada|Montreal|GloboTech Communications|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|67.43.228.253|12159|Canada|Montreal|GloboTech Communications|
-|16|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|17|67.43.236.18|29593|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|5165|Canada|Montreal|GloboTech Communications|
-|19|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|72.10.160.91|4685|Canada|Montreal|GloboTech Communications|
+|2|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
+|9|45.6.224.254|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|10|72.10.164.178|3869|Canada|Montreal|GloboTech Communications|
+|11|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
+|12|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|13|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|103.164.223.54|80|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|72.10.160.91|4685|Canada|Montreal|GloboTech Communications|
+|18|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
