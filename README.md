@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|582|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|582|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|582|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|6|134.35.22.62|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|139.84.133.80|3129|India|Bengaluru|The Constant Company|
-|12|139.84.137.63|3129|India|Bengaluru|The Constant Company|
-|13|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.189.249.163|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|139.84.139.248|3129|India|Bengaluru|The Constant Company|
-|20|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|3|202.180.54.211|8080|Indonesia|Jakarta|PT. Panca Dewata Utama|
+|4|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|7|134.35.22.62|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.172.42.113|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|16|201.71.2.103|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|17|186.190.225.152|999|Colombia|Villanueva|TV AZTECA SUCURSAL COLOMBIA|
+|18|139.84.133.80|3129|India|Bengaluru|The Constant Company|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
 
 
 
