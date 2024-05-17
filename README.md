@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
-|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|8|103.159.66.61|8080|India|Ghaziabad|Home Broadband Services LLP|
-|9|182.18.179.129|83|India|Hyderabad|CtrlS|
-|10|103.180.247.6|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|11|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
-|12|59.157.2.63|32304|Japan|Tokiwa|FreeBit Co., Ltd.|
-|13|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|16|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|20|67.43.228.253|16111|Canada|Montreal|GloboTech Communications|
+|1|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|7|59.157.2.63|32304|Japan|Tokiwa|FreeBit Co., Ltd.|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|103.156.249.88|1111|Indonesia|Medan|Trans Media Telekomunikasi|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|38.7.31.230|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|15|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|16|72.10.164.178|25095|Canada|Montreal|GloboTech Communications|
+|17|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|18|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
