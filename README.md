@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|9|191.102.68.177|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|177.234.196.226|443|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|3|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|5|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|10|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|11|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
-|15|72.10.164.178|30549|Canada|Montreal|GloboTech Communications|
-|16|103.145.150.26|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|17|67.43.236.20|21307|Canada|Montreal|GloboTech Communications|
-|18|188.190.40.44|8080|Ukraine|Kyiv Oblast|Lanet Network Ltd|
-|19|67.43.236.20|21307|Canada|Montreal|GloboTech Communications|
-|20|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
+|14|200.125.170.21|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|15|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|16|72.10.164.178|30549|Canada|Montreal|GloboTech Communications|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|20|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
 
 
 
