@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|103.115.20.26|8090|Indonesia|Subang|PMYNET|
-|11|103.88.239.38|84|India|Hyderabad|Mana Communications|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|67.43.236.20|30165|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|179.1.134.75|999|Colombia|Ibagué|Internexa S.a. E.S.P|
+|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|12|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
+|13|54.238.223.108|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|14|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|150.129.5.228|8080|Pakistan|Karachi|Ebone Network (Pvt) Ltd|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
+|19|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
+|20|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
