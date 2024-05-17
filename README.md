@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|178.153.8.211|8080|Qatar|Doha|Ooredoo-MBB|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.245.60.185|3128|Japan|Tokyo|Alibaba Cloud LLC|
-|7|139.84.144.173|3129|India|Bengaluru|The Constant Company, LLC|
-|8|45.79.148.218|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|9|139.84.139.59|3129|India|Bengaluru|The Constant Company|
-|10|139.84.137.63|3129|India|Bengaluru|The Constant Company|
-|11|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|12|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|13|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|14|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|121.164.145.170|3129|South Korea|Uijeongbu-si|Korea Telecom|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|19|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|20|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|1|45.79.148.218|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|2|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|6|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|9|45.79.148.218|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|139.84.139.59|3129|India|Bengaluru|The Constant Company|
+|12|38.9.141.27|80|Indonesia|Medan|Cogent Communications|
+|13|139.84.144.173|3129|India|Bengaluru|The Constant Company, LLC|
+|14|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
+|17|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|104.218.52.160|3128|United States|Secaucus|Interserver, Inc|
+|20|139.84.139.248|3129|India|Bengaluru|The Constant Company|
 
 
 
