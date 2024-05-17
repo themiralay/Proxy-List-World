@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|2|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|161.34.36.99|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|161.34.36.99|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.155.135.134|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|4|175.193.58.170|3128|South Korea|Jungnang-gu|Korea Telecom|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
 |8|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|11|121.164.145.170|3129|South Korea|Uijeongbu-si|Korea Telecom|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
+|14|121.164.145.170|3129|South Korea|Uijeongbu-si|Korea Telecom|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|19|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
