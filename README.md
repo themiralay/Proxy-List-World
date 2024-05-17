@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|20.198.19.55|3128|India|Pune|Microsoft Corporation|
-|4|104.218.52.160|3128|United States|Secaucus|Interserver, Inc|
+|3|139.84.139.59|3129|India|Bengaluru|The Constant Company|
+|4|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|9|103.234.159.5|8080|India|Bengaluru|MWPL|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|217.100.239.117|8090|The Netherlands|Alblasserdam|Vodafone Libertel B.V.|
-|12|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|13|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|191.240.153.144|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|41.33.203.227|1976|Egypt|Cairo|TE Data|
-|19|45.159.189.244|3128|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|20|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
+|6|189.237.210.233|999|Mexico|Chihuahua City|Uninet S.A. de C.V.|
+|7|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|8|103.234.159.5|8080|India|Bengaluru|MWPL|
+|9|190.6.204.141|999|Honduras|San Pedro Sula|Cablecolor S.A.|
+|10|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|212.127.78.79|39811|Poland|Wroclaw|Korbank S. A.|
+|15|124.120.109.65|8080|Thailand|Bangkok|TRUEBB|
+|16|38.9.141.27|80|Indonesia|Medan|Cogent Communications|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|180.211.88.190|3125|Indonesia|Bekasi|Kings Network Indonesia, PT|
+|19|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|20|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
