@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|54.238.223.108|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
 |11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|14|80.78.22.36|3128|Sweden|Malmo|ab stract|
+|13|80.78.22.36|3128|Sweden|Malmo|ab stract|
+|14|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
 |15|54.238.223.108|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|18|110.141.237.221|5200|Australia|Melbourne|Telstra Internet|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.164.178|1077|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|8521|Canada|Montreal|GloboTech Communications|
+|18|180.191.16.254|8085|Philippines|Cabanatuan City|Globe Telecom|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
