@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|3|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|181.78.85.45|998|Colombia|Santa Marta|IFX Networks Argentina S.R.L|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|181.225.96.137|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|67.43.227.228|31871|Canada|Montreal|GloboTech Communications|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
-|20|67.43.227.227|30997|Canada|Montreal|GloboTech Communications|
+|12|212.26.234.193|8080|Russia|Ivanovo|PJSC Rostelecom|
+|13|149.210.235.107|8118|The Netherlands|Bodegraven|Signet B.V.|
+|14|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|16|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|84.207.252.37|8080|United Kingdom|London|euNetworks GmbH|
+|18|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|72.10.160.174|5219|Canada|Montreal|GloboTech Communications|
 
 
 
