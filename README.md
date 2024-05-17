@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|190.14.10.19|999|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|9|213.221.46.10|3128|Russia|Moscow|EDN Sovintel|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|8|49.48.47.182|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|12|122.3.45.189|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
-|14|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|15|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|45.173.6.102|8080|Colombia|Bogotá|Columbus Networks Colombia|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.164.178|5395|Canada|Montreal|GloboTech Communications|
+|12|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|16|41.180.70.2|8080|South Africa|Johannesburg|X-DSL Networking Solutions|
+|17|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|18|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|19|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
 
 
 
