@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|9|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|10|116.109.189.183|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|15|157.120.61.196|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|16|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|192.99.169.19|8452|Canada|Beauharnois|OVH SAS|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
-|20|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|1|119.193.129.31|3128|South Korea|Yangju|Korea Telecom|
+|2|161.34.36.99|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|6|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|12|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|15|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|117.252.9.178|3128|India|Delhi|BSNL Internet|
+|18|139.84.216.210|3129|India|Bengaluru|The Constant Company, LLC|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
