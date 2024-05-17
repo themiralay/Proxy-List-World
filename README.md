@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|182.253.175.192|8080|Indonesia|Jakarta|Biznet Metronet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|72.10.164.178|24777|Canada|Montreal|GloboTech Communications|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|72.10.164.178|24777|Canada|Montreal|GloboTech Communications|
-|9|117.7.133.26|25317|Vietnam|Hanoi|Viettel Group|
-|10|117.7.134.17|25322|Vietnam|Hanoi|Viettel Group|
-|11|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|72.10.164.178|24777|Canada|Montreal|GloboTech Communications|
-|14|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
-|15|72.10.164.178|24777|Canada|Montreal|GloboTech Communications|
-|16|103.113.79.123|80|Indonesia|Guntur|Indonesia Network Information Center|
-|17|167.250.222.233|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|18|200.170.210.237|8080|Brazil|São Paulo|Telium Telecomunicações Ltda|
-|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|15|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|16|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.160.90|13259|Canada|Montreal|GloboTech Communications|
+|18|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|19|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
+|20|190.60.36.83|999|Colombia|Corozal|IFX NETWORKS COLOMBIA|
 
 
 
