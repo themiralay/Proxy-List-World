@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|177.240.4.125|999|Mexico|Montemorelos|Mega Cable, S.A. de C.V.|
-|10|116.103.17.249|24047|Vietnam|Da Nang|Viettel Corporation|
-|11|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|170.82.13.121|3600|Brazil|Porto Seguro|Netcenter Telecom|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.36.35.135|8080|Indonesia|Cikini|PT Mora Telematika Indonesia|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|18|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|20|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|9|178.250.189.192|8118|Germany|Falkenstein|Mdcloud LTD|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|150.129.5.228|8080|Pakistan|Karachi|Ebone Network (Pvt) Ltd|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|14|36.95.213.27|8080|Indonesia|Cempaka Putih Barat|PT. Telekomunikasi Indonesia|
+|15|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|16|32.140.234.250|83|United States|Cuyahoga Falls|AT&T Services, Inc.|
+|17|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|18|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
