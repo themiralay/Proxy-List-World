@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|4|103.28.114.140|80|Indonesia|Bantul|PT Lintas Data Prima|
-|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|91.107.155.187|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|45.235.255.170|3129|Mexico|Felipe Carrillo Puerto|Buenas Noticias SA De CV|
-|11|190.90.39.78|999|Colombia|Arauca|InterNexa Global Network|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|16|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|144.126.198.60|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|187.250.215.99|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|13|181.115.93.74|999|Honduras|Santa Cruz de Yojoa|Telgua|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|18|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
+|19|187.62.209.119|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|20|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 
 
 
