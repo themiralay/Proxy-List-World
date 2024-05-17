@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|116.80.58.72|4649|Japan|Honchō|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
-|6|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
-|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|8|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|190.60.36.83|999|Colombia|Corozal|IFX NETWORKS COLOMBIA|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|80.78.22.36|3128|Sweden|Malmo|ab stract|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|211.34.105.33|80|South Korea|Seongnam-si|Korea Telecom|
-|16|190.90.28.18|999|Colombia|Pasto|Internexa S.a. E.S.P|
-|17|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|18|67.43.228.253|16151|Canada|Montreal|GloboTech Communications|
-|19|135.181.115.167|8118|Finland|Helsinki|Hetzner Online GmbH|
-|20|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|7|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|191.102.254.9|8085|Argentina|Rosario|IP·RED|
+|10|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|211.34.105.33|80|South Korea|Seongnam-si|Korea Telecom|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|192.99.169.19|8449|Canada|Beauharnois|OVH SAS|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|15|41.254.53.70|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|16|80.78.22.36|3128|Sweden|Malmo|ab stract|
+|17|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|18|67.43.228.253|22515|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|20629|Canada|Montreal|GloboTech Communications|
+|20|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
