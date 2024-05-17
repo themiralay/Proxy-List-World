@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|103.191.155.46|8080|Indonesia|Sumurgede|PT Ilham Wifi Solution|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|72.10.160.91|21187|Canada|Montreal|GloboTech Communications|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|14|72.10.164.178|22871|Canada|Montreal|GloboTech Communications|
-|15|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|18|67.43.228.253|21261|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|10823|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|21261|Canada|Montreal|GloboTech Communications|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|9|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|13|103.234.159.5|8080|India|Bengaluru|MWPL|
+|14|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|72.10.160.91|21187|Canada|Montreal|GloboTech Communications|
 
 
 
