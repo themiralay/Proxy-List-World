@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|200.170.210.237|8080|Brazil|São Paulo|Telium Telecomunicações Ltda|
-|15|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|6|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|182.253.175.192|8080|Indonesia|Jakarta|Biznet Metronet|
+|9|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|11|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|18|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|67.43.228.253|23211|Canada|Montreal|GloboTech Communications|
+|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
 
 
 
