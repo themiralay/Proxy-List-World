@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.90.156.220|8080|India|Nellore|Myguru Online India Pvt Ltd|
-|3|103.156.17.39|8818|Indonesia|Indramayu|RSTNET|
-|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|139.255.67.54|3888|Indonesia|Jakarta|PT. LINKNET|
+|2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|85.193.95.16|36745|Poland|Warsaw|TimeWeb Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|119.193.129.31|3128|South Korea|Yangju|Korea Telecom|
-|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|18|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|20|72.10.164.178|26437|Canada|Montreal|GloboTech Communications|
+|12|82.200.205.126|8081|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|158.101.157.64|8901|Japan|Tokyo|Oracle Corporation|
+|17|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|72.10.160.92|2045|Canada|Montreal|GloboTech Communications|
 
 
 
