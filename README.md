@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.173.138.196|8080|Indonesia|Tanggamus|PT Serayu Multi Connection|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|41.174.132.58|8080|DR Congo|Kinshasa|Liquid Telecommunications Ltd|
-|8|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|116.107.163.219|26402|Vietnam|Thai Nguyen|Viettel Corporation|
-|11|67.43.236.20|29685|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|8417|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|25445|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|30789|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|25325|Canada|Montreal|GloboTech Communications|
-|16|181.198.1.82|999|Ecuador|Babahoyo|Telconet S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|6|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|187.188.171.73|6969|Mexico|Veracruz|Total Play Telecomunicaciones SA De CV|
+|8|116.107.163.219|26402|Vietnam|Thai Nguyen|Viettel Corporation|
+|9|180.211.88.190|3125|Indonesia|Bekasi|Kings Network Indonesia, PT|
+|10|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|11|67.43.227.227|25445|Canada|Montreal|GloboTech Communications|
+|12|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|103.156.17.39|8818|Indonesia|Indramayu|RSTNET|
 |17|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|18|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|19|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
