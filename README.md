@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8344** proxies at the latest update. Usable proxies are below.
+> Scraper found **8264** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|227|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1107|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|228|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1026|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|365|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5687|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|139.84.139.59|3129|India|Bengaluru|The Constant Company|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|4|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|5|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.237.210.233|999|Mexico|Chihuahua City|Uninet S.A. de C.V.|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|6|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
+|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 |8|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|11|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
-|14|207.244.254.27|3192|United States|St Louis|Nubes, LLC|
-|15|103.234.159.5|8080|India|Bengaluru|MWPL|
-|16|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
-|17|20.198.19.55|3128|India|Pune|Microsoft Corporation|
-|18|154.53.38.152|3128|United States|New York|Nubes, LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|9|139.84.139.59|3129|India|Bengaluru|The Constant Company|
+|10|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|11|139.84.137.63|3129|India|Bengaluru|The Constant Company|
+|12|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|13|20.198.19.55|3128|India|Pune|Microsoft Corporation|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|17|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
+|20|179.42.6.24|3128|Brazil|Barra Mansa|SN TELECON LTDA|
 
 
 
