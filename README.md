@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.26.110.202|84|India|Mayiladuthurai|Niss Networks|
-|9|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|10|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|11|37.187.115.135|42000|France|Roubaix|OVH SAS|
-|12|103.111.137.241|8080|Indonesia|Surabaya|PT Mitra Lintas Multimedia|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|103.87.169.190|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|15|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
-|16|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|38.253.88.242|999|United States|Miami|Cogent Communications|
-|18|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|211.34.105.33|80|South Korea|Seongnam-si|Korea Telecom|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|8|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|9|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|12|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|103.184.54.7|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|200.170.210.237|8080|Brazil|São Paulo|Telium Telecomunicações Ltda|
 |20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
