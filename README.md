@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|103.176.96.134|8082|Indonesia|Bandung|PT Global Sarana Elektronika|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|6|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|7|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|8|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
-|9|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
-|10|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
-|13|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|41.139.197.163|8080|Kenya|Nairobi|Converged services Western|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|101.255.209.42|8080|Indonesia|Wanaherang|PT Remala Abadi|
+|8|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|10|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|11|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 |15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|19|181.115.93.74|999|Honduras|Santa Cruz de Yojoa|Telgua|
-|20|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|16|103.169.254.39|8090|Indonesia|Sidoarjo|PT Master Star Network|
+|17|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
