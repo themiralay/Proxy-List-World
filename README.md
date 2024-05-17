@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|157.100.57.180|999|Ecuador|Quito|Ufinet Panama S.A.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|102.68.128.211|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|18|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|19|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|8|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|14|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|15|103.109.125.155|5555|Indonesia|Medan|PT. PANCA DUTA UTAMA|
+|16|103.156.16.105|8818|Indonesia|Babakangarut|RSTNET|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|103.65.238.225|8181|Indonesia|Medan|PT Media Alvina Sejati|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
