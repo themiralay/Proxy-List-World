@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
-|6|103.153.63.211|8085|Indonesia|Rejoagung Satu|IMEDIANET|
-|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|10|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|11|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|14|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|15|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|16|72.10.160.173|27697|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|1429|Canada|Montreal|GloboTech Communications|
-|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|67.43.236.20|10175|Canada|Montreal|GloboTech Communications|
+|5|103.204.20.21|8080|India|Tanuku|CityOnline Services Ltd|
+|6|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|10|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|11|72.10.160.173|23151|Canada|Montreal|GloboTech Communications|
+|12|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|15|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|16|72.10.164.178|25095|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.252|30679|Canada|Montreal|GloboTech Communications|
+|18|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|19|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
