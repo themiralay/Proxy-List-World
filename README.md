@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|6|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
-|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.151.177.106|80|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|54.238.223.108|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|202.65.158.237|83|India|Hyderabad|Pioneer Elabs Ltd.|
-|13|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|14|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|15|101.255.158.42|8080|Indonesia|Bekasi|PT Remala Abadi|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|203.150.113.59|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|195.116.24.237|8080|Poland|Kock|Orange Polska Spolka Akcyjna|
+|7|14.241.111.97|8080|Vietnam|Ninh Binh|VNPT|
+|8|211.34.105.33|80|South Korea|Seongnam-si|Korea Telecom|
+|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|10|154.73.87.241|8080|Botswana|Gaborone|STATURE (PTY) LTD|
+|11|103.26.110.202|84|India|Mayiladuthurai|Niss Networks|
+|12|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
+|13|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
 |16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|72.10.164.178|31991|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.160.173|29317|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|185.202.165.1|53281|Spain|Mijas|AVATEL TELECOM, SA|
+|19|72.10.160.173|29317|Canada|Montreal|GloboTech Communications|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
