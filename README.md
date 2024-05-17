@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|150.136.42.70|80|United States|Ashburn|Oracle Corporation|
-|7|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|11|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|118.99.73.177|8080|Indonesia|Cipete Selatan|BIZNET|
-|14|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|117.185.69.2|9001|China|Shanghai|China Mobile communications corporation|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|67.43.228.250|24763|Canada|Montreal|GloboTech Communications|
-|19|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
-|20|67.43.228.254|24763|Canada|Montreal|GloboTech Communications|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|150.136.42.70|80|United States|Ashburn|Oracle Corporation|
+|8|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|10|200.170.210.237|8080|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|11|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
+|15|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|17|67.43.228.253|14327|Canada|Montreal|GloboTech Communications|
+|18|212.128.70.78|80|Spain|Alcalá de Henares|RedIRIS Provider|
+|19|67.43.228.250|24763|Canada|Montreal|GloboTech Communications|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
