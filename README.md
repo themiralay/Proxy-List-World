@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|5|103.171.245.14|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|71.14.23.121|8080|United States|Hoover|Spectrum|
-|8|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|9|177.190.189.16|44443|Brazil|Montanha|SPEED PLANET TELECOMUNICAÇÕES LTDA - EPP|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|187.73.102.70|9292|Brazil|Tailândia|Celante Servicos De Telecomunicacoes Ltda - EPP|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
-|14|72.10.164.178|31991|Canada|Montreal|GloboTech Communications|
-|15|103.156.15.212|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|16|67.43.227.227|15351|Canada|Montreal|GloboTech Communications|
-|17|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|18|212.26.234.193|8080|Russia|Ivanovo|PJSC Rostelecom|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|67.43.228.251|25281|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|211.34.105.33|80|South Korea|Seongnam-si|Korea Telecom|
+|6|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|71.14.23.121|8080|United States|Hoover|Spectrum|
+|9|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|208.103.57.18|8181|United States|Swayzee|Swayzee Telephone Company, Inc.|
+|13|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|14|103.93.216.58|8080|Pakistan|Karachi|Rising Cable Net (Pvt) Ltd|
+|15|72.10.160.94|3277|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|41.65.67.167|1976|Egypt|Giza|Enterprise|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
