@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|203.142.69.68|8080|Indonesia|Jakarta|BIZNET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|9|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|11|211.34.105.33|80|South Korea|Seongnam-si|Korea Telecom|
-|12|182.253.170.57|8080|Indonesia|Jakarta|BIZNET|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|16|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|17|179.32.62.127|999|Colombia|Barranquilla|Colombia Telecomunicaciones S.a. ESP|
-|18|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|103.164.223.54|80|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|10|216.39.249.210|3128|United States|New York|GTHost|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|13|148.244.210.142|999|Mexico|Cárdenas|Alestra, S. de R.L. de C.V.|
+|14|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|165.16.27.36|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|20|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 
 
 
