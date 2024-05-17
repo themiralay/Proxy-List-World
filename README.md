@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|161.34.36.99|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|9|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
-|13|103.75.52.186|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|14|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|161.34.36.99|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|12|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|103.191.155.70|8080|Indonesia|Sumurgede|PT Ilham Wifi Solution|
 |16|139.84.216.210|3129|India|Bengaluru|The Constant Company, LLC|
-|17|117.252.9.178|3128|India|Delhi|BSNL Internet|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |18|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|19|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|19|101.255.118.98|8080|Indonesia|Jakarta|PT Remala Abadi|
 |20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
