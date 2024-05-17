@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|7|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|8|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|9|80.78.22.36|3128|Sweden|Malmo|ab stract|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |11|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|72.10.160.92|6131|Canada|Montreal|GloboTech Communications|
-|15|101.6.55.62|10800|China|Haidian|CERNET|
-|16|103.99.22.28|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
-|17|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.164.178|10477|Canada|Montreal|GloboTech Communications|
-|20|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
+|12|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|13|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
+|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
