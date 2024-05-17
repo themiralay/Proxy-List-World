@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|192.99.169.19|8449|Canada|Beauharnois|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|10|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|17|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|67.43.236.20|24167|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|210.79.146.131|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|6|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|80.66.89.152|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
+|11|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|17|67.43.236.20|3237|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.22|10441|Canada|Montreal|GloboTech Communications|
 |19|72.10.160.170|3235|Canada|Montreal|GloboTech Communications|
-|20|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|72.10.160.170|3235|Canada|Montreal|GloboTech Communications|
 
 
 
