@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
+|5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
-|8|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|72.10.164.178|30533|Canada|Montreal|GloboTech Communications|
-|13|103.174.122.46|8181|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|16|67.43.227.227|23343|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|23343|Canada|Montreal|GloboTech Communications|
-|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|20|67.43.227.227|23343|Canada|Montreal|GloboTech Communications|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|72.10.164.178|10477|Canada|Montreal|GloboTech Communications|
+|13|158.181.204.159|8080|Kyrgyzstan|Bishkek|MEGALINE|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
+|19|72.10.160.170|7631|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|23273|Canada|Montreal|GloboTech Communications|
 
 
 
