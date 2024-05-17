@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|203.150.128.133|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|2|203.150.128.133|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|8|140.227.142.120|3128|Japan|Hyōgo|InfoSphere|
-|9|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|11|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|12|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
-|13|160.248.91.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
-|18|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|140.227.142.120|3128|Japan|Hyōgo|InfoSphere|
+|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|11|103.156.17.63|8080|Indonesia|Indramayu|RSTNET|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|16|160.248.91.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|147.92.36.42|3129|Hong Kong|Tseung Kwan O|DNC|
+|18|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
