@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
-|5|200.70.56.203|3128|Argentina|Buenos Aires|Telefonica de Argentina|
-|6|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|7|72.10.164.178|31319|Canada|Montreal|GloboTech Communications|
-|8|27.147.217.102|80|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
-|10|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|11|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|12|72.10.164.178|31319|Canada|Montreal|GloboTech Communications|
+|2|180.131.242.221|48678|Japan|Chatan|GLBB Japan KK|
+|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|12|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
 |13|212.128.70.78|80|Spain|Alcalá de Henares|RedIRIS Provider|
-|14|67.43.227.227|24635|Canada|Montreal|GloboTech Communications|
-|15|103.48.68.67|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|18|202.143.120.73|8080|Pakistan|Karachi|Satcomm (Pvt.) Ltd.|
-|19|72.10.164.178|31319|Canada|Montreal|GloboTech Communications|
-|20|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|16|67.43.227.227|24635|Canada|Montreal|GloboTech Communications|
+|17|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|19|72.10.164.178|6789|Canada|Montreal|GloboTech Communications|
+|20|202.143.120.73|8080|Pakistan|Karachi|Satcomm (Pvt.) Ltd.|
 
 
 
