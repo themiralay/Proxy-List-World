@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.58.72|4649|Japan|Honchō|InfoSphere|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|201.77.108.130|999|Mexico|Jiménez|Nidix Networks S.a. De C.V.|
-|8|203.150.113.59|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|157.100.7.146|999|Ecuador|Quito|Telconet S.A|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|67.43.227.227|18311|Canada|Montreal|GloboTech Communications|
-|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|72.10.164.178|8059|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.59.186.80|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|8|103.88.236.113|84|India|Hyderabad|Mana Communications|
+|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|10|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|13|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|181.48.160.114|9090|Colombia|Bogotá|Telmex Colombia S.A.|
+|18|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
