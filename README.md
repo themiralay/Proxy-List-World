@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|8|201.244.127.210|8080|Colombia|Bogotá|ETB - Colombia|
-|9|67.43.227.227|1799|Canada|Montreal|GloboTech Communications|
-|10|97.76.251.138|8080|United States|Seminole|Spectrum|
-|11|72.10.164.178|1551|Canada|Montreal|GloboTech Communications|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|72.10.164.178|1551|Canada|Montreal|GloboTech Communications|
-|17|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
-|18|72.10.160.90|7103|Canada|Montreal|GloboTech Communications|
+|7|190.61.46.227|999|Colombia|Chimá|Ufinet Panama S.A.|
+|8|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|182.18.179.129|83|India|Hyderabad|CtrlS|
+|12|67.43.227.227|30883|Canada|Montreal|GloboTech Communications|
+|13|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|16|200.170.210.237|8080|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|17|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|18|103.247.23.202|8080|Indonesia|Bekasi|PT wifian Solution|
 |19|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.90|7103|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|30883|Canada|Montreal|GloboTech Communications|
 
 
 
