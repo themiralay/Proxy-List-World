@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|144.91.111.4|3128|Germany|Nuremberg|Contabo GmbH|
-|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|67.43.227.227|5077|Canada|Montreal|GloboTech Communications|
-|19|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|20|72.10.160.90|10439|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|180.232.127.48|3128|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|7|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|12|186.148.181.69|999|Colombia|Cogua|TV AZTECA SUCURSAL COLOMBIA|
+|13|91.229.28.105|3128|Slovakia|Tekovske Luzany|KOMNET, s.r.o.|
+|14|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|219.65.42.161|80|India|New Delhi|Tata Communications Limited|
 
 
 
