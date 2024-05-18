@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|4|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|103.234.159.5|8080|India|Bengaluru|MWPL|
-|8|188.125.167.66|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|41.87.77.34|32650|Nigeria|Abuja|Phase3 Telecom Limited|
-|10|103.165.211.174|3128|Indonesia|Bulak|PT iForte Global Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
-|15|154.127.240.120|64003|Angola|Huambo|HMB-FTTH|
-|16|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|72.10.160.173|27905|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|9|103.234.159.5|8080|India|Bengaluru|MWPL|
+|10|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|154.127.240.120|64003|Angola|Huambo|HMB-FTTH|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
+|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|20|72.10.164.178|32657|Canada|Montreal|GloboTech Communications|
 
 
 
