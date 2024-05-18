@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|116.58.232.186|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
-|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|8|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
-|9|186.103.130.91|8080|Chile|Santiago|Telefonica Empresas|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|183.89.247.182|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|13|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|17|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|18|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|20|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
+|2|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|112.78.47.187|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
+|11|191.240.153.144|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|12|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|16|67.43.236.18|11509|Canada|Montreal|GloboTech Communications|
+|17|103.234.159.5|8080|India|Bengaluru|MWPL|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|5.196.111.29|20488|France|Gravelines|OVH SAS|
 
 
 
