@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
-|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|203.150.128.207|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.228.250|24009|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|67.43.227.227|23075|Canada|Montreal|GloboTech Communications|
-|17|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|103.48.71.122|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|20|72.10.160.90|9999|Canada|Montreal|GloboTech Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|9|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|10|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|67.43.228.250|19431|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|15|67.43.227.227|6911|Canada|Montreal|GloboTech Communications|
+|16|191.102.254.9|8085|Argentina|Rosario|IP·RED|
+|17|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
+|18|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|19|72.10.160.93|3129|Canada|Montreal|GloboTech Communications|
+|20|182.18.179.129|83|India|Hyderabad|CtrlS|
 
 
 
