@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|5|200.106.184.14|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|6|67.43.228.253|1651|Canada|Montreal|GloboTech Communications|
-|7|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|8|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|67.43.227.227|4343|Canada|Montreal|GloboTech Communications|
-|10|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
-|14|72.10.164.178|2845|Canada|Montreal|GloboTech Communications|
-|15|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|152.231.87.10|999|Chile|Las Condes|Entel Chile S.A.|
-|17|67.43.227.227|4343|Canada|Montreal|GloboTech Communications|
-|18|191.102.254.9|8085|Argentina|Rosario|IP·RED|
-|19|67.43.228.253|1651|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|4|175.210.146.200|8080|South Korea|Yeonsu-gu|Korea Telecom|
+|5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|9|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|75.25.159.161|3128|United States|San Francisco|AT&T Services, Inc.|
+|15|67.43.227.227|8885|Canada|Montreal|GloboTech Communications|
+|16|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|190.94.212.240|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
