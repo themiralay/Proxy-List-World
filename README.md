@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|4|121.164.145.170|3129|South Korea|Uijeongbu-si|Korea Telecom|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|188.132.222.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|179.24.93.250|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|179.32.62.127|999|Colombia|Barranquilla|Colombia Telecomunicaciones S.a. ESP|
-|13|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|14|38.49.158.58|999|Mexico|Ixmiquilpan|Ientc S De RL De CV|
-|15|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|160.248.91.61|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|144.126.215.41|9000|United States|Santa Clara|DigitalOcean, LLC|
+|6|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.91.61|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|103.26.176.57|8080|Indonesia|Temenggungan|PT Lintas Jaringan Nusantara|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|72.10.160.94|6937|Canada|Montreal|GloboTech Communications|
+|14|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|17|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
+|18|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|19|67.43.228.253|25441|Canada|Montreal|GloboTech Communications|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
