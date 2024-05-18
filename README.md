@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
 |9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|177.234.212.189|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|11|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|103.151.177.221|8080|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
-|18|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
-|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|15|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|20|183.36.36.147|3128|China|Xiaolou|Chinanet|
 
 
 
