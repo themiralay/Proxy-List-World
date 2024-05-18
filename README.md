@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8503** proxies at the latest update. Usable proxies are below.
+> Scraper found **8496** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|231|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1041|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1034|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|510|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5763|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|202.180.54.211|8080|Indonesia|Jakarta|PT. Panca Dewata Utama|
-|4|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
-|7|134.35.22.62|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.172.42.113|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|16|201.71.2.103|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|17|186.190.225.152|999|Colombia|Villanueva|TV AZTECA SUCURSAL COLOMBIA|
-|18|139.84.133.80|3129|India|Bengaluru|The Constant Company|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
+|2|101.99.91.107|3128|Malaysia|Taman Melati|Shinjiru Technology Sdn Bhd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|38.253.88.242|999|United States|Miami|Cogent Communications|
+|9|201.182.149.29|999|Ecuador|Zaruma|Esmonsa S.A.|
+|10|103.26.176.57|8080|Indonesia|Temenggungan|PT Lintas Jaringan Nusantara|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|13|103.99.22.28|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|14|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|15|103.255.145.62|84|India|Hyderabad|Pioneer Elabs Ltd|
+|16|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|17|36.81.131.183|80|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|38.253.88.242|999|United States|Miami|Cogent Communications|
+|20|67.43.236.20|22491|Canada|Montreal|GloboTech Communications|
 
 
 
