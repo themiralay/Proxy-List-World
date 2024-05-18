@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|5|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|4|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|9|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|13|64.76.211.62|999|Colombia|Bogotá|Level 3|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 |15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|17|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|18|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
-|19|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|18|102.220.142.193|8080|Libya|Tripoli|BSISP Network|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
 
 
 
