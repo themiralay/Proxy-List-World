@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|203.150.128.37|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |3|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|134.35.0.149|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|188.121.128.246|10186|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|9|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|10|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|38.252.209.12|999|Peru|Lima region|Telcom Mikrotik Peru S.A.C.|
-|15|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|16|154.73.111.153|1976|Libya|Tripoli|Trans-Sahara IT & Communication|
-|17|191.102.254.9|8085|Argentina|Rosario|IP·RED|
-|18|67.43.236.20|21667|Canada|Montreal|GloboTech Communications|
-|19|103.113.79.123|80|Indonesia|Guntur|Indonesia Network Information Center|
-|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|188.121.128.246|10186|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|67.43.236.20|4999|Canada|Montreal|GloboTech Communications|
+|10|102.68.128.218|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|11|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|12|67.43.227.227|13661|Canada|Montreal|GloboTech Communications|
+|13|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|14|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
+|15|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
+|16|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|17|67.43.236.20|4999|Canada|Montreal|GloboTech Communications|
+|18|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|19|82.200.205.126|8081|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|20|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
 
 
 
