@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
-|11|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|157.120.61.204|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|13|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|38.7.31.230|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|16|123.200.14.194|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|67.43.236.20|24885|Canada|Montreal|GloboTech Communications|
-|20|116.97.77.168|4000|Vietnam|Hanoi|Viettel Corporation|
+|3|103.191.196.47|3127|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|103.126.28.85|2525|Indonesia|Jakarta|PT Integra Kreasitama Solusindo|
+|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|103.99.22.28|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|103.234.159.5|8080|India|Bengaluru|MWPL|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|157.120.61.204|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|18|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|19|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|20|213.170.117.150|8080|Russia|St Petersburg|Quantum Communications|
 
 
 
