@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|12.163.95.161|8080|United States|Alex|AT&T Services, Inc.|
-|2|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.48.68.98|80|India|Hyderabad|Country Online Services PVT LTD|
-|6|103.68.207.34|83|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
-|7|181.209.77.250|999|Argentina|Mendoza|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|188.132.222.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|151.22.181.241|8080|Italy|Gioia del Colle|INFOSTRADA|
-|15|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|200.117.13.75|999|Argentina|Puerto Eldorado|Telecom Argentina S.A|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|212.26.234.193|8080|Russia|Ivanovo|PJSC Rostelecom|
+|5|200.117.13.75|999|Argentina|Puerto Eldorado|Telecom Argentina S.A|
+|6|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|7|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|187.79.146.98|8080|Brazil|São Luís|V tal|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|170.81.210.254|8080|Brazil|Carapicuíba|Connectvy Telecomunicacoes Ltda|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|72.10.160.90|29835|Canada|Montreal|GloboTech Communications|
+|17|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
+|18|179.60.235.249|8094|Argentina|Empalme Villa Constitucion|WICORP SA|
+|19|72.10.164.178|13207|Canada|Montreal|GloboTech Communications|
+|20|213.170.117.150|8080|Russia|St Petersburg|Quantum Communications|
 
 
 
