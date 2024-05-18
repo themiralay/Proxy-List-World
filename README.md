@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|11|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|12|103.234.159.5|8080|India|Bengaluru|MWPL|
-|13|203.142.74.115|8080|Indonesia|Semarang|BIZNET|
-|14|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|15|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|18|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|6|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.174.87.18|999|Mexico|Ciudad Juárez|Computadoras y Servicios Especiales SA de CV|
+|9|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|10|51.159.66.158|3128|France|Paris|SCALEWAY|
+|11|175.210.146.200|8080|South Korea|Yeonsu-gu|Korea Telecom|
+|12|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|13|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|14|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|20|154.38.180.194|3128|United States|New York|Nubes, LLC|
 
 
 
