@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|7|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|8|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
-|9|37.195.166.140|8181|Russia|Novosibirsk|Novotelecom Ltd.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
-|12|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|157.120.61.196|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|9|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|10|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|11|88.255.102.24|8080|Türkiye|Istanbul|TurkTelekom|
+|12|141.136.56.16|999|Venezuela|San Carlos del Zulia|RED SERVITEL, CA|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|157.120.61.196|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|17|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
+|19|38.253.88.242|999|United States|Miami|Cogent Communications|
+|20|103.159.195.233|9091|Indonesia|Demak|PT Giga Digital Nusantara|
 
 
 
