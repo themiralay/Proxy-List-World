@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|10|113.160.154.23|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|72.10.160.171|22635|Canada|Montreal|GloboTech Communications|
-|14|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
-|15|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|16|67.43.228.253|14385|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|18591|Canada|Montreal|GloboTech Communications|
-|18|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
-|19|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|200.24.153.151|999|Ecuador|Tosagua|Ufinet Panama S.A.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|11|212.3.187.120|8080|Italy|Cisternino|CLIO|
+|12|79.106.165.246|8989|Albania|Tirana|ONE ALBANIA SH.A.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|17|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|64.76.211.62|999|Colombia|Bogotá|Level 3|
+|19|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|14.102.58.186|8080|India|Mathura|WORLDPHONE|
 
 
 
