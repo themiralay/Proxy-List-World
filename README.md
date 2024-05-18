@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|101.99.91.107|3128|Malaysia|Taman Melati|Shinjiru Technology Sdn Bhd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|201.182.149.29|999|Ecuador|Zaruma|Esmonsa S.A.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|101.99.91.107|3128|Malaysia|Taman Melati|Shinjiru Technology Sdn Bhd|
 |7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|38.253.88.242|999|United States|Miami|Cogent Communications|
-|9|201.182.149.29|999|Ecuador|Zaruma|Esmonsa S.A.|
-|10|103.26.176.57|8080|Indonesia|Temenggungan|PT Lintas Jaringan Nusantara|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|13|103.99.22.28|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
-|14|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|15|103.255.145.62|84|India|Hyderabad|Pioneer Elabs Ltd|
-|16|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|17|36.81.131.183|80|Indonesia|Surabaya|PT. TELKOM INDONESIA|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|38.253.88.242|999|United States|Miami|Cogent Communications|
-|20|67.43.236.20|22491|Canada|Montreal|GloboTech Communications|
+|8|36.81.131.183|80|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|9|179.24.93.250|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|12|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|16|67.43.236.20|16477|Canada|Montreal|GloboTech Communications|
+|17|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|18|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|20|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
