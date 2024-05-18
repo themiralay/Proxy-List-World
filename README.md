@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|162.252.84.93|80|United States|Tampa|HIVELOCITY, Inc.|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|85.172.15.98|80|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|157.120.61.226|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|17|67.43.228.253|2787|Canada|Montreal|GloboTech Communications|
-|18|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
+|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|117.50.186.65|82|China|Beijing|UCLOUD|
+|10|185.73.103.23|3128|Czechia|Ostrov|ISP Alliance a.s.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|157.120.61.226|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|16|67.43.228.253|5485|Canada|Montreal|GloboTech Communications|
+|17|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 
 
 
