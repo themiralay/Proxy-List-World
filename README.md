@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|181.78.27.35|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|11|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|203.150.128.37|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|121.164.145.170|3129|South Korea|Uijeongbu-si|Korea Telecom|
+|12|181.10.123.156|999|Argentina|El Carril|Telecom Argentina S.A.|
 |13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |14|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|15|5.196.111.29|20488|France|Gravelines|OVH SAS|
-|16|200.170.210.237|8080|Brazil|São Paulo|Telium Telecomunicações Ltda|
-|17|103.162.63.121|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|15|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
+|16|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|17|179.60.235.249|8094|Argentina|Empalme Villa Constitucion|WICORP SA|
 |18|161.34.36.85|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|20|72.10.164.178|15105|Canada|Montreal|GloboTech Communications|
 
 
 
