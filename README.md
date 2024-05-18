@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|3|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|140.227.142.120|3128|Japan|Hyōgo|InfoSphere|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|110.232.78.68|80|Indonesia|Medan|PT. Media Antar Nusa|
+|4|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|5|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|6|140.227.142.120|3128|Japan|Hyōgo|InfoSphere|
 |7|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
-|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|208.103.57.18|8181|United States|Swayzee|Swayzee Telephone Company, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|17|157.120.61.196|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|18|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|19|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|20|188.132.222.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|203.112.79.90|8080|Bangladesh|Kāfrul|OptiMax Communication Ltd|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|103.162.63.121|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|11|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|12|157.120.61.196|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|13|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|14|200.39.139.65|999|Chile|Valparaíso|Iconex SPA|
+|15|72.10.160.90|8985|Canada|Montreal|GloboTech Communications|
+|16|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|17|72.10.164.178|22857|Canada|Montreal|GloboTech Communications|
+|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|72.10.164.178|22857|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|22857|Canada|Montreal|GloboTech Communications|
 
 
 
