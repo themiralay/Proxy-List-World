@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|119.76.142.202|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|4|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|3|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.116.218.178|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|8|47.245.60.185|3128|Japan|Tokyo|Alibaba Cloud LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|87.103.208.200|3128|Russia|Belovo|Kuzbass Network|
-|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|181.192.26.201|8080|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|103.234.159.5|8080|India|Bengaluru|MWPL|
-|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|118.163.13.200|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|20|137.184.230.255|3129|United States|Santa Clara|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|119.76.142.202|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|15|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|72.10.160.171|4061|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|4061|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.236.20|16299|Canada|Montreal|GloboTech Communications|
+|20|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
 
 
 
