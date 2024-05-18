@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|87.103.208.200|3128|Russia|Belovo|Kuzbass Network|
-|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|6|179.24.93.250|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
 |7|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
 |8|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|9|45.114.145.71|32650|India|Jaipur|Tejays Dynamic Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|12|157.120.61.204|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|67.43.227.228|25923|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|103.164.223.54|80|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|12|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|157.120.61.204|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
 |17|157.120.61.226|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|18|72.10.160.90|16217|Canada|Montreal|GloboTech Communications|
-|19|110.49.110.45|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|18|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |20|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
