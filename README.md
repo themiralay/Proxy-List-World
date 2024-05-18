@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|4|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|179.32.62.127|999|Colombia|Barranquilla|Colombia Telecomunicaciones S.a. ESP|
-|15|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.91.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|6|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|7|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|9|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|10|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|94.124.16.218|8901|Poland|Warsaw|Tricomp Sp. z. o. o.|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.91.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|17|190.187.201.26|8080|Peru|San Borja|Americatel Peru S.A.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|20|161.34.36.99|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
