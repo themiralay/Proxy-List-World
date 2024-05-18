@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|177.136.86.5|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|5|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|6|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|7|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|8|190.152.255.66|3128|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|9|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|203.150.128.37|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|6|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|7|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|8|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|103.28.114.140|80|Indonesia|Bantul|PT Lintas Data Prima|
-|12|121.164.145.170|3129|South Korea|Uijeongbu-si|Korea Telecom|
-|13|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|17|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
-|18|82.200.205.126|8081|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|19|208.103.57.18|8181|United States|Swayzee|Swayzee Telephone Company, Inc.|
-|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|12|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|13|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
+|14|165.16.27.36|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|15|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
