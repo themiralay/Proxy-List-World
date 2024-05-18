@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|54.38.138.114|3128|Poland|Warsaw|OVH SAS|
-|5|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|6|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|8|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|9|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|12|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
-|17|72.10.160.90|8827|Canada|Montreal|GloboTech Communications|
-|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|19|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|7|8.242.85.8|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|8|122.50.6.162|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
+|9|54.38.138.114|3128|Poland|Warsaw|OVH SAS|
+|10|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|11|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|12|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|13|38.49.158.58|999|Mexico|Ixmiquilpan|Ientc S De RL De CV|
+|14|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
+|15|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|16|79.174.188.153|8080|Russia|Moscow|Unitel, LLC|
+|17|175.210.146.200|8080|South Korea|Yeonsu-gu|Korea Telecom|
+|18|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|19|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|20|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
 
 
 
