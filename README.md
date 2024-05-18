@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|38.156.72.57|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|103.48.68.98|80|India|Hyderabad|Country Online Services PVT LTD|
-|9|87.103.208.200|3128|Russia|Belovo|Kuzbass Network|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|119.76.142.202|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|6|87.103.208.200|3128|Russia|Belovo|Kuzbass Network|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |10|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|181.192.26.201|8080|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|43.130.40.161|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|82.200.205.126|8081|Kazakhstan|Shymkent|JSC Kazakhtelecom|
+|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|12|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|20.216.12.190|3128|United Arab Emirates|Dubai|Microsoft Corporation|
+|14|202.69.38.82|8080|Pakistan|Lahore|Advertiese Flag|
+|15|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|72.10.160.171|28893|Canada|Montreal|GloboTech Communications|
 
 
 
