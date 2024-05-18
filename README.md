@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8282** proxies at the latest update. Usable proxies are below.
+> Scraper found **8402** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|232|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|748|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|964|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|430|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|334|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5914|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|4|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|4|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |6|160.248.91.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|118.99.73.177|8080|Indonesia|Cipete Selatan|BIZNET|
-|8|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|9|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|14|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|15|161.34.36.99|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|67.43.236.20|4237|Canada|Montreal|GloboTech Communications|
-|20|121.195.170.225|1024|China|Haidian|CERNET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|79.174.188.153|8080|Russia|Moscow|Unitel, LLC|
+|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|10|51.159.66.158|3128|France|Paris|SCALEWAY|
+|11|38.7.31.230|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|12|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|13|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
+|14|121.164.145.170|3129|South Korea|Uijeongbu-si|Korea Telecom|
+|15|139.255.67.54|3888|Indonesia|Jakarta|PT. LINKNET|
+|16|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|17|160.248.91.61|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|20|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
