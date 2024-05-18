@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|12|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|14.102.58.186|8080|India|Mathura|WORLDPHONE|
-|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|17|128.90.145.85|8118|Belgium|Brussels|Powerhouse Management, Inc.|
-|18|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|19|72.10.164.178|32497|Canada|Montreal|GloboTech Communications|
-|20|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|82.200.80.118|8080|Russia|Novosibirsk|ZSTTK|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|116.12.44.25|9898|Indonesia|Jakarta|ADSNET|
+|9|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|119.92.236.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|15|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|103.9.188.228|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|19|121.101.133.81|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|20|206.84.104.126|8080|Indonesia|Palembang|AGIS|
 
 
 
