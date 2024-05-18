@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|4|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|5|177.234.251.187|999|Ecuador|Riobamba|Ufinet Panama S.A.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|8|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|117.252.9.178|3128|India|Delhi|BSNL Internet|
-|14|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|179.43.8.16|8088|Brazil|Jaicós|Voex Telecom Ltda|
-|16|36.95.27.225|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|121.164.145.170|3129|South Korea|Uijeongbu-si|Korea Telecom|
-|18|101.255.118.10|3127|Indonesia|Jakarta|PT Remala Abadi|
-|19|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|3|124.105.79.237|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|179.1.68.197|999|Colombia|Bogotá|InterNexa Global Network|
+|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|12|117.252.9.178|3128|India|Delhi|BSNL Internet|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|103.156.15.212|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|15|138.201.135.176|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|154.127.240.120|64003|Angola|Huambo|HMB-FTTH|
+|18|36.95.27.225|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
