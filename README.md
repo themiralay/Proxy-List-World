@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|1.20.200.154|8081|Thailand|Bangkok|TOT Public Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|14|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|15|67.43.227.227|1519|Canada|Montreal|GloboTech Communications|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
-|18|72.10.160.92|31737|Canada|Montreal|GloboTech Communications|
-|19|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
-|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.155.199.144|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|14|72.14.184.125|22030|United States|Richardson|Akamai Technologies, Inc.|
+|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|16|103.9.188.228|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|17|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|18|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
 
 
 
