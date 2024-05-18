@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|85.172.15.98|80|Russia|Krasnodar|Southen Telecommunication Maintainer|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|160.248.91.61|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|72.10.164.178|28643|Canada|Montreal|GloboTech Communications|
-|15|190.6.204.141|999|Honduras|San Pedro Sula|Cablecolor S.A.|
-|16|156.146.58.170|10192|United States|New York|DataCamp Limited|
-|17|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|18|67.43.227.227|1849|Canada|Montreal|GloboTech Communications|
-|19|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|12|160.248.91.61|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|72.10.164.178|5901|Canada|Montreal|GloboTech Communications|
+|18|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
