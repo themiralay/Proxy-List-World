@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|203.190.113.167|8071|Indonesia|Sorosutan|PT Union Routelink Communication|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|14|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
-|17|38.7.31.230|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
-|20|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
+|2|203.190.113.167|8071|Indonesia|Sorosutan|PT Union Routelink Communication|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|72.14.184.125|22030|United States|Richardson|Akamai Technologies, Inc.|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|15|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|16|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
