@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|181.10.181.104|999|Argentina|Yuto|Telecom Argentina S.A.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|216.176.187.99|39812|United States|Lynnwood|Wowrack.com|
-|9|147.92.36.42|3129|Hong Kong|Tseung Kwan O|DNC|
-|10|45.234.61.157|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|11|175.210.146.200|8080|South Korea|Yeonsu-gu|Korea Telecom|
-|12|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|13|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|14|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|72.10.164.178|13015|Canada|Montreal|GloboTech Communications|
+|11|182.253.170.57|8080|Indonesia|Jakarta|BIZNET|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|200.35.50.22|3028|Colombia|Medellín|Edatel S.a. E.S.P|
+|14|192.248.95.1|3128|Sri Lanka|Dedunupitiya|Lanka Education and Research Network|
+|15|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|72.10.164.178|13015|Canada|Montreal|GloboTech Communications|
 |17|103.67.90.25|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
-|20|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
