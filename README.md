@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|175.210.146.200|8080|South Korea|Yeonsu-gu|Korea Telecom|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|47.245.60.185|3128|Japan|Tokyo|Alibaba Cloud LLC|
-|9|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
-|10|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|11|203.150.128.207|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|160.248.187.149|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|14|67.43.228.251|28109|Canada|Montreal|GloboTech Communications|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|72.10.160.174|11407|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|4797|Canada|Montreal|GloboTech Communications|
-|19|160.248.91.61|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.227.227|4797|Canada|Montreal|GloboTech Communications|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|8|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|9|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|160.248.187.149|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|67.43.227.227|19165|Canada|Montreal|GloboTech Communications|
+|12|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|16|160.248.91.61|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.160.174|13953|Canada|Montreal|GloboTech Communications|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|20|67.43.227.226|12863|Canada|Montreal|GloboTech Communications|
 
 
 
