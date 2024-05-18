@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|10|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|11|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|203.142.74.115|8080|Indonesia|Semarang|BIZNET|
-|14|168.194.248.18|8080|Brazil|Goiânia|CANAA TELECOMUNICAÇÕES LTDA - ME|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|1|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|103.167.68.77|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|13|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|14|175.210.146.200|8080|South Korea|Yeonsu-gu|Korea Telecom|
+|15|75.119.129.192|3128|Germany|Düsseldorf|Contabo GmbH|
+|16|161.132.125.244|8080|Peru|Lima|Optical Technologies S.A.C.|
 |17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|45.224.22.63|999|Ecuador|Riobamba|Ufinet Panama S.A.|
-|20|34.140.73.25|3128|Belgium|Brussels|Google LLC|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|194.34.232.76|8800|Germany|Düsseldorf|Contabo GmbH|
+|20|101.255.52.163|8080|Indonesia|Jakarta|PT Remala Abadi|
 
 
 
