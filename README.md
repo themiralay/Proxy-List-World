@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
 |5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |6|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|7|109.200.160.110|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|118.173.81.237|8080|Thailand|Nonthaburi|TOT Public Company Limited|
 |8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |10|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|185.206.32.218|8080|Kazakhstan|Almaty|Cloud Master LLC|
-|12|36.91.216.243|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
-|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|17|38.156.74.93|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|19|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|20|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|14|109.200.160.110|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|188.235.6.236|8080|Russia|Voronezh|JSC "ER-Telecom Holding"|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|20|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
 
 
 
