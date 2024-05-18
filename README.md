@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|10|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|103.48.69.105|83|India|Hyderabad|Country Online Services PVT LTD|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|15|67.43.236.20|11893|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|30203|Canada|Montreal|GloboTech Communications|
+|6|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|94.124.16.218|8901|Poland|Warsaw|Tricomp Sp. z. o. o.|
+|10|45.234.61.157|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|11|190.181.59.212|999|Bolivia|Santa Cruz|AXS Bolivia S. A.|
+|12|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|14|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|67.43.236.20|11893|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|11893|Canada|Montreal|GloboTech Communications|
+|18|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|19|101.255.118.98|8080|Indonesia|Jakarta|PT Remala Abadi|
 |20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
