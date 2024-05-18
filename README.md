@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|7|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|12|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
-|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.234.159.5|8080|India|Bengaluru|MWPL|
+|3|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|4|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|45.70.201.253|999|Ecuador|Quito|Ufinet Panama S.A.|
+|7|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|103.234.159.5|8080|India|Bengaluru|MWPL|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|118.173.81.237|8080|Thailand|Nonthaburi|TOT Public Company Limited|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|38.156.74.93|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|17|103.234.159.5|8080|India|Bengaluru|MWPL|
+|18|185.189.199.77|8080|Bulgaria|Bansko|Mis70 LTD|
+|19|75.119.131.36|9393|Germany|Düsseldorf|Contabo GmbH|
+|20|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
 
 
 
