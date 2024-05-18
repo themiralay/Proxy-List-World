@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|4|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|7|103.164.223.54|80|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|6|103.76.149.66|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|7|188.132.222.50|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 |9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|161.34.36.85|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|72.10.160.170|19403|Canada|Montreal|GloboTech Communications|
-|15|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|16|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|157.120.61.196|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|161.34.36.85|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|72.10.160.170|30305|Canada|Montreal|GloboTech Communications|
+|16|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|47.245.60.185|3128|Japan|Tokyo|Alibaba Cloud LLC|
+|18|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|157.120.61.196|3128|Japan|Fukaya|NTT PC Communications, Inc.|
 
 
 
