@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|3|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|179.43.8.16|8088|Brazil|Jaicós|Voex Telecom Ltda|
-|11|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|18|72.10.160.90|26859|Canada|Montreal|GloboTech Communications|
-|19|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|67.43.236.20|10505|Canada|Montreal|GloboTech Communications|
+|2|101.255.118.10|3127|Indonesia|Jakarta|PT Remala Abadi|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|9|124.105.79.237|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|87.103.208.200|3128|Russia|Belovo|Kuzbass Network|
+|17|103.51.205.98|8080|Indonesia|Semarang|Lintas Data Prima, PT|
+|18|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
+|19|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|20|58.69.117.149|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
