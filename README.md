@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|116.58.232.186|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
-|6|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|9|115.75.99.65|8080|Vietnam|Can Tho|VIETELxdsl|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|12|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|161.34.36.85|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|16|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|17|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.227.228|14903|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
-|20|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|38.188.251.10|8080|Indonesia|Lamongan|PT. Menaksopal Link Nusantara|
+|7|161.34.36.85|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|9|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|103.106.219.112|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|13|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|14|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|72.10.160.173|13591|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|24049|Canada|Montreal|GloboTech Communications|
+|18|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.236.20|23923|Canada|Montreal|GloboTech Communications|
+|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
