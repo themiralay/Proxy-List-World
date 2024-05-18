@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|160.248.91.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|97.76.251.138|8080|United States|Seminole|Spectrum|
-|13|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|142.147.114.50|8080|United States|Weatherford|Nextlink Broadband|
-|16|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|162.212.152.9|31280|United States|Flushing|tzulo, inc.|
-|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|19|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|20|206.27.173.58|443|United States|Phoenix|CenturyLink Communications, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|6|160.248.91.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|45.174.87.18|999|Mexico|Ciudad Juárez|Computadoras y Servicios Especiales SA de CV|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|121.164.145.170|3129|South Korea|Uijeongbu-si|Korea Telecom|
+|10|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|206.27.173.58|443|United States|Phoenix|CenturyLink Communications, LLC|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|19|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
