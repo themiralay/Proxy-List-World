@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|14|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|3|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|103.165.211.174|3128|Indonesia|Bulak|PT iForte Global Internet|
+|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|20|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
 
 
 
