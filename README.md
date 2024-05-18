@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|94.79.152.14|80|Germany|Sankt Augustin|Vodafone|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|10|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|204.199.202.132|999|Mexico|Teotihuacán|Level 3 Communications, Inc.|
-|13|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|185.202.44.67|8888|United States|Los Angeles|QuickPacket, LLC|
-|16|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|17|103.51.205.98|8080|Indonesia|Semarang|Lintas Data Prima, PT|
-|18|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|19|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|20|181.205.74.98|21901|Colombia|Medellín|Colombia Móvil|
+|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|117.102.86.146|8080|Indonesia|Jakarta|BIZNET|
+|11|203.202.248.36|80|Bangladesh|Chittagong|Aamra Networks Limited|
+|12|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|13|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|14|154.127.240.120|64003|Angola|Huambo|HMB-FTTH|
+|15|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|195.225.142.169|8080|Romania|Târnăveni|TV Adler-Trading SRL|
+|19|72.10.160.90|12191|Canada|Montreal|GloboTech Communications|
+|20|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
 
 
 
