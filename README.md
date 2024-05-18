@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|80.66.81.39|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|192.46.229.19|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|6|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|7|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|9|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|13|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|72.10.160.172|5507|Canada|Montreal|GloboTech Communications|
-|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|72.10.164.178|33197|Canada|Montreal|GloboTech Communications|
+|17|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|47.90.161.221|3128|United States|Charlottesville|Alibaba.com LLC|
+|20|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
 
 
 
