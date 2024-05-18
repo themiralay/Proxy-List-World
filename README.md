@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|8|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|9|138.118.106.237|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A.|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|103.99.22.28|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
-|13|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|14|121.101.133.81|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|20|72.10.160.94|20299|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|37.152.178.0|3128|Iran|Nā’īn|AbrArvan|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|13|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|15|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|17|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
+|18|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|19|103.82.233.2|53281|Indonesia|Jakarta|PT. Jurnal Consulting Indonesia|
+|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
 
 
 
