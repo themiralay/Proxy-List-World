@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|5|45.159.189.244|3128|The Netherlands|Amsterdam|Hosting Solution Ltd.|
 |6|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|7|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|8|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
-|9|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|10|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
-|11|67.43.227.227|27805|Canada|Montreal|GloboTech Communications|
-|12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|13|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|7|175.210.146.200|8080|South Korea|Yeonsu-gu|Korea Telecom|
+|8|119.193.129.31|3128|South Korea|Yangju|Korea Telecom|
+|9|161.49.89.219|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|10|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|11|190.94.212.240|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|12|46.21.253.164|3128|Russia|Moscow|Start LLC|
+|13|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|18|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|67.43.227.227|30531|Canada|Montreal|GloboTech Communications|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |19|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|20|103.156.15.212|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|20|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
