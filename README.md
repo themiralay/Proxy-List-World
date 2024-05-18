@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|7|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|11|103.48.68.98|83|India|Hyderabad|Country Online Services PVT LTD|
-|12|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|13|67.206.206.74|8888|Puerto Rico|Humacao|OSNET Wireless|
-|14|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|15|72.10.160.91|21951|Canada|Montreal|GloboTech Communications|
-|16|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|18|72.10.164.178|1639|Canada|Montreal|GloboTech Communications|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|1|203.150.128.37|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|66.27.58.70|8080|United States|Moreno Valley|Spectrum|
+|9|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|14|103.234.159.5|8080|India|Bengaluru|MWPL|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|170.239.207.230|999|Colombia|Bogotá|FIBERNET|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|217.100.239.117|8090|The Netherlands|Alblasserdam|Vodafone Libertel B.V.|
+|20|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
 
 
 
