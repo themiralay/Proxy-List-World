@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|175.210.146.200|8080|South Korea|Yeonsu-gu|Korea Telecom|
+|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|7|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|10|94.124.16.218|8901|Poland|Warsaw|Tricomp Sp. z. o. o.|
-|11|103.239.175.90|1111|India|Puducherry|One Eight Technologies Private Limited|
-|12|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|5.17.6.83|8080|Russia|St Petersburg|Z-Telecom|
+|8|72.10.160.170|28881|Canada|Montreal|GloboTech Communications|
+|9|200.35.50.22|3028|Colombia|Medellín|Edatel S.a. E.S.P|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|13|67.206.206.74|8888|Puerto Rico|Humacao|OSNET Wireless|
 |14|72.10.160.90|20571|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|18165|Canada|Montreal|GloboTech Communications|
-|16|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
-|17|179.32.62.127|999|Colombia|Barranquilla|Colombia Telecomunicaciones S.a. ESP|
-|18|72.10.164.178|18165|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|18165|Canada|Montreal|GloboTech Communications|
-|20|103.169.186.153|3125|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|17|200.106.184.14|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|19|72.10.164.178|7931|Canada|Montreal|GloboTech Communications|
+|20|187.50.29.242|8080|Brazil|Itirapina|Vivo|
 
 
 
