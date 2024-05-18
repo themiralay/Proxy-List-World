@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|3|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|10|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |11|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|13|103.156.16.227|8080|Indonesia|Babakangarut|RSTNET|
-|14|154.127.240.120|64003|Angola|Huambo|HMB-FTTH|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|80.66.81.39|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|18|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|19|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|12|103.184.54.3|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|103.165.211.174|3128|Indonesia|Bulak|PT iForte Global Internet|
+|15|154.127.240.120|64003|Angola|Huambo|HMB-FTTH|
+|16|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|18|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|91.185.38.105|7050|Russia|Irkutsk|JSC "ER-Telecom Holding"|
+|20|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
