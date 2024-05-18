@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|4|140.227.142.120|3128|Japan|Hyōgo|InfoSphere|
-|5|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|168.232.174.43|3128|Brazil|Carmo do Cajuru|Sonik Serviços de Comunicação LTDA|
-|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|10|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|181.192.26.201|8080|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
-|13|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|3|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|5|140.227.142.120|3128|Japan|Hyōgo|InfoSphere|
+|6|38.9.141.28|80|Indonesia|Medan|Cogent Communications|
+|7|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|186.125.218.145|999|Argentina|Molinos|Telecom Argentina S.A.|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|103.88.236.9|84|India|Hyderabad|Mana Communications|
+|11|160.248.91.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|12.163.95.161|8080|United States|Alex|AT&T Services, Inc.|
+|13|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|16|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
 |17|160.248.91.61|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|183.36.36.147|3128|China|Xiaolou|Chinanet|
-|20|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|207.230.8.10|999|Colombia|Montería|TV&MÁS S.A.S|
 
 
 
