@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|7|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|8|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|17|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|177.234.251.187|999|Ecuador|Riobamba|Ufinet Panama S.A.|
-|19|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|5|87.103.208.200|3128|Russia|Belovo|Kuzbass Network|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|11|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|13|154.127.240.120|64003|Angola|Huambo|HMB-FTTH|
+|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|16|185.202.44.67|8888|United States|Los Angeles|QuickPacket, LLC|
+|17|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 
 
 
