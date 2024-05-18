@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|103.167.68.77|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |4|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|5|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|9|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
-|10|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|11|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|12|181.233.93.88|8080|Brazil|Ananindeua|J.A TELECOM.PE|
-|13|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|14|188.132.222.25|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|16|103.232.20.99|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|17|185.208.102.125|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|18|175.210.146.200|8080|South Korea|Yeonsu-gu|Korea Telecom|
-|19|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
-|20|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|9|190.144.238.66|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|10|45.224.22.63|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|11|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|12|175.210.146.200|8080|South Korea|Yeonsu-gu|Korea Telecom|
+|13|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
+|14|103.12.21.6|3128|Indonesia|Jakarta|PT Equnix Business Solutions|
+|15|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.99.22.28|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
