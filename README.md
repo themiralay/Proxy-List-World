@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
-|2|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|3|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|4|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|5|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|6|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|183.87.160.62|84|India|Mumbai|JPR Digital Pvt Ltd|
-|8|157.120.61.204|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|9|72.10.160.90|14433|Canada|Montreal|GloboTech Communications|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|168.126.74.132|80|South Korea|Seongnam-si|Korea Telecom|
-|12|45.129.183.14|3128|Germany|Nuremberg|netcup GmbH|
-|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|14|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|72.10.164.178|20813|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|1097|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|45.114.145.71|32650|India|Jaipur|Tejays Dynamic Limited|
+|6|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|7|103.168.254.62|8080|Indonesia|Kudus|PT Fahasa Tri Data|
+|8|38.9.141.28|80|Indonesia|Medan|Cogent Communications|
+|9|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|10|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|11|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|12|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|157.120.61.204|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|14|212.26.234.193|8080|Russia|Ivanovo|PJSC Rostelecom|
+|15|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|16|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|97.76.251.138|8080|United States|Seminole|Spectrum|
+|19|72.10.160.90|14433|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
