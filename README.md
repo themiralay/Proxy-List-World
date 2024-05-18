@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
-|11|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|45.70.201.253|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|15|79.106.33.26|8079|Albania|Peshkopi|ONE ALBANIA SH.A.|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|20|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|7|5.1.100.58|3128|Switzerland|Geneva|AlpineDC SA|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|10|188.34.206.166|3131|Germany|Nuremberg|Hetzner Online GmbH|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|154.127.240.120|64003|Angola|Huambo|HMB-FTTH|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|103.56.206.94|8181|Indonesia|Medan|Argon Data Communication|
+|20|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
