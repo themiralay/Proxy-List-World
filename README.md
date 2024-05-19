@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
+|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|183.36.36.147|3128|China|Xiaolou|Chinanet|
-|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|14|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|178.250.186.37|4000|Russia|Novosibirsk|AZERTA.RU Hosting Solutions|
-|17|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|18|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|20|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.135.14.176|8181|Indonesia|Malang|Dinas Komunikasi dan Informatika Kota Malang|
+|10|191.179.216.84|8080|Brazil|Caruaru|Claro NXT Telecomunicacoes Ltda|
+|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|12|200.7.11.154|8080|Brazil|Goiatuba|Conexao Telematica XcelLink|
+|13|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|14|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|177.234.240.124|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
+|19|103.9.188.228|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|20|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 
 
 
