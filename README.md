@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |8|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|13|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|16|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|72.10.160.94|15707|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|18629|Canada|Montreal|GloboTech Communications|
+|18|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|160.248.2.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
