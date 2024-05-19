@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|12|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.90|29055|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|21167|Canada|Montreal|GloboTech Communications|
-|18|45.8.119.32|3128|Kazakhstan|Astana|NLS ASTANA LLP|
-|19|67.43.227.227|18445|Canada|Montreal|GloboTech Communications|
-|20|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|91.121.88.53|8010|France|Roubaix|OVH SAS|
+|9|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|72.10.164.178|21167|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|103.164.221.34|8080|Indonesia|Surabaya|PT iForte Global Internet|
 
 
 
