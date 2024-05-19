@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|180.180.175.131|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|12|67.43.236.20|14939|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|8089|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|67.43.227.229|8089|Canada|Montreal|GloboTech Communications|
-|16|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|67.43.227.227|1489|Canada|Montreal|GloboTech Communications|
-|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|20|67.43.228.253|17383|Canada|Montreal|GloboTech Communications|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|67.43.236.20|21649|Canada|Montreal|GloboTech Communications|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|67.43.227.227|21975|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|19|171.5.178.177|8080|Thailand|Chachoengsao|Triple T Broadband Public Company Limited|
+|20|160.248.81.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
