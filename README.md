@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|492|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|492|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|492|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|51.250.107.5|4555|Russia|Moscow|Yandex.Cloud LLC|
 |9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|139.180.182.111|80|Australia|Sydney|Choopa|
-|14|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
-|15|72.10.164.178|5267|Canada|Montreal|GloboTech Communications|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|139.84.216.210|3129|India|Bengaluru|The Constant Company, LLC|
-|18|222.174.178.122|4999|China|Xintai|Chinanet|
-|19|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|20|67.43.227.227|21233|Canada|Montreal|GloboTech Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
+|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|150.136.42.70|80|United States|Ashburn|Oracle Corporation|
+|16|150.136.42.70|80|United States|Ashburn|Oracle Corporation|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|19|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
