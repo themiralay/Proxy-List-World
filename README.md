@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|36.94.185.122|60080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |10|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|12|72.10.164.178|19797|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|21649|Canada|Montreal|GloboTech Communications|
-|14|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|67.43.236.20|14939|Canada|Montreal|GloboTech Communications|
+|13|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
 |15|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|16|67.43.227.227|6247|Canada|Montreal|GloboTech Communications|
-|17|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
-|18|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|72.10.164.178|19797|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|6247|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|14939|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|25663|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|22059|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|6021|Canada|Montreal|GloboTech Communications|
+|20|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
 
 
 
