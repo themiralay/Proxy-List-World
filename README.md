@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|7|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|43.153.108.224|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
-|11|104.218.52.160|3128|United States|Secaucus|Interserver, Inc|
-|12|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|13|129.222.176.138|999|Peru|Lima|SpaceX Starlink|
-|14|67.43.227.228|22617|Canada|Montreal|GloboTech Communications|
-|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|16|72.10.160.173|9843|Canada|Montreal|GloboTech Communications|
-|17|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|19|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|67.43.228.253|15813|Canada|Montreal|GloboTech Communications|
+|1|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
+|13|38.156.75.200|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|16|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
