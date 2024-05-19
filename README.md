@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|489|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|489|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|489|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|119.76.142.209|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|116.58.239.95|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.202.44.110|8888|United States|Los Angeles|QuickPacket, LLC|
-|11|103.56.206.93|8181|Indonesia|Medan|Argon Data Communication|
-|12|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|13|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|103.105.55.51|8081|Indonesia|Malang|PT. Mega Artha Lintas Data|
-|16|103.169.148.2|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
-|17|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|14|103.69.106.88|8080|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|15|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|16|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 |19|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|20|72.10.164.178|23849|Canada|Montreal|GloboTech Communications|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
