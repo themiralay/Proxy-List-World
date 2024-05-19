@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|157.120.60.149|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|3|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|157.120.60.149|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|10|103.180.1.242|1111|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|13|103.48.71.122|83|India|Hyderabad|Country Online Services PVT LTD|
-|14|206.84.104.126|8080|Indonesia|Palembang|AGIS|
-|15|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|8|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|9|190.110.97.172|999|Chile|Temuco|Silica Networks Argentina S.A.|
+|10|103.247.216.70|8080|Indonesia|Penggilingan|PT. Parsaoran Global Datatrans|
+|11|179.32.62.127|999|Colombia|Barranquilla|Colombia Telecomunicaciones S.a. ESP|
+|12|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
+|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|191.102.254.9|8085|Argentina|Rosario|IP·RED|
+|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|18|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|19|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|19|154.38.180.194|3128|United States|New York|Nubes, LLC|
 |20|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
