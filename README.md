@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7098** proxies at the latest update. Usable proxies are below.
+> Scraper found **7108** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|17|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|654|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|664|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|236|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5233|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|8|45.117.29.153|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|4|167.71.212.248|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|49.48.42.97|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|6|139.59.238.66|3128|Singapore|Singapore|DIGITALOCEAN|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
 |9|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|72.10.164.178|19913|Canada|Montreal|GloboTech Communications|
-|19|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|20|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|13|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|14.241.111.97|8080|Vietnam|Ninh Binh|VNPT|
+|18|80.66.81.61|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|67.43.236.20|25811|Canada|Montreal|GloboTech Communications|
 
 
 
