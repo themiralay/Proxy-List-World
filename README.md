@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|119.76.142.209|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|11|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|13|72.10.164.178|22255|Canada|Montreal|GloboTech Communications|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|67.43.228.253|7473|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|22255|Canada|Montreal|GloboTech Communications|
-|17|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|19|72.10.160.90|22583|Canada|Montreal|GloboTech Communications|
-|20|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|103.125.154.233|8080|India|Sulur|Live Fibernet|
+|11|188.132.221.188|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|72.10.164.178|22255|Canada|Montreal|GloboTech Communications|
+|13|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|14|144.137.217.187|80|Australia|Sydney|Telstra Internet|
+|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|16|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|18|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|139.84.157.128|3129|India|Bengaluru|The Constant Company, LLC|
+|20|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
