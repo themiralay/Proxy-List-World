@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|202.150.148.218|44556|Indonesia|Bandung|PT Comtronics Systems|
+|2|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|195.24.157.66|4006|Ukraine|Dnipro|Science Production Company "Trifle" Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |12|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|120.28.216.126|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|19|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|13|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
+|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|16|72.10.164.178|18973|Canada|Montreal|GloboTech Communications|
+|17|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|18973|Canada|Montreal|GloboTech Communications|
 
 
 
