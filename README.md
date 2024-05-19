@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|119.93.167.12|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|89.218.175.84|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 |7|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|10|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|16|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|20|119.92.236.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|14|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|15|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|18|177.129.242.245|48580|Brazil|Paracatu|V8 Telecom LTDA|
+|19|119.92.236.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
