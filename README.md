@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|116.103.17.249|24047|Vietnam|Da Nang|Viettel Corporation|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|160.248.187.149|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|10|183.36.36.147|3128|China|Xiaolou|Chinanet|
-|11|159.100.20.162|3128|Germany|Frankfurt am Main|First Colo|
-|12|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|67.43.227.227|8983|Canada|Montreal|GloboTech Communications|
+|11|160.248.1.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|103.150.69.8|8080|Bangladesh|Rāngāmati|Md Johirul Islam|
 |13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|14|160.248.1.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|16|72.10.164.178|29783|Canada|Montreal|GloboTech Communications|
-|17|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|43.153.108.224|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|67.43.227.227|8983|Canada|Montreal|GloboTech Communications|
-|20|191.243.46.50|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|14|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|18|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|20|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
