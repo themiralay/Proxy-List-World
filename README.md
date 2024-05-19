@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|10|139.84.216.210|3129|India|Bengaluru|The Constant Company, LLC|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|103.234.159.5|8080|India|Bengaluru|MWPL|
-|17|165.0.136.30|8080|South Africa|Cape Town|RSAWEB (PTY) LTD|
-|18|139.59.238.66|3128|Singapore|Singapore|DIGITALOCEAN|
-|19|67.43.227.227|12861|Canada|Montreal|GloboTech Communications|
-|20|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|139.59.238.66|3128|Singapore|Singapore|DIGITALOCEAN|
+|12|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|222.174.178.122|4999|China|Xintai|Chinanet|
+|16|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|17|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|19|72.10.160.90|13831|Canada|Montreal|GloboTech Communications|
+|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
