@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|10|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|120.28.216.126|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|67.43.227.227|4559|Canada|Montreal|GloboTech Communications|
-|16|125.229.149.169|65110|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|17|161.34.37.60|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|72.10.160.170|9139|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|67.43.227.227|8335|Canada|Montreal|GloboTech Communications|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|161.34.37.60|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|72.10.160.170|9139|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|67.43.228.251|14213|Canada|Montreal|GloboTech Communications|
+|17|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
