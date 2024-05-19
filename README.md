@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|1|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|8|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|7|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|12|185.202.44.113|8888|United States|Los Angeles|QuickPacket, LLC|
+|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 |14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|19|103.110.10.69|3127|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|20|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
+|17|134.35.13.44|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|103.110.10.69|3127|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|19|191.37.208.1|8080|Brazil|Major Sales|RODRIGUES & SARMENTO LTDA|
+|20|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
