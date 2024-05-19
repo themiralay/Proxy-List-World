@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|11|72.10.160.90|8373|Canada|Montreal|GloboTech Communications|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|14|67.43.228.252|10693|Canada|Montreal|GloboTech Communications|
-|15|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|16|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|17|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|72.10.164.178|27711|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|2953|Canada|Montreal|GloboTech Communications|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|67.43.228.252|10693|Canada|Montreal|GloboTech Communications|
+|11|103.115.31.181|8090|Indonesia|Nganjuk|HSPNET|
+|12|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
+|13|72.10.160.90|8373|Canada|Montreal|GloboTech Communications|
+|14|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|15|72.10.164.178|27711|Canada|Montreal|GloboTech Communications|
+|16|139.5.64.108|80|India|New Delhi|National Crime Records Bureau|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|19|67.43.228.253|1533|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|25125|Canada|Montreal|GloboTech Communications|
 
 
 
