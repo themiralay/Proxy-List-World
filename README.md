@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |4|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|103.160.207.163|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|9|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|159.65.39.234|7732|United States|Clifton|DigitalOcean, LLC|
-|15|5.196.111.29|20109|France|Gravelines|OVH SAS|
-|16|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|17|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|18|34.154.161.152|80|Italy|Milan|Google LLC|
-|19|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|20|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|103.169.132.118|8085|Indonesia|Pasirjaya|PT Alfa Omega Interkoneksi|
+|8|14.187.164.114|3128|Vietnam|Ho Chi Minh City|VNPT|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|12|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|41.222.246.29|7788|Rwanda|Kigali|RWEDNET|
+|17|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
