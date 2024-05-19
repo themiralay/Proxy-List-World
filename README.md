@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|9|201.150.9.53|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
-|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|11|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|15|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|16|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|182.160.113.77|9090|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
+|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|15|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |17|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|72.10.160.90|1205|Canada|Montreal|GloboTech Communications|
-|19|113.160.155.121|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|18|67.43.227.227|10389|Canada|Montreal|GloboTech Communications|
+|19|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|72.10.160.90|23927|Canada|Montreal|GloboTech Communications|
 
 
 
