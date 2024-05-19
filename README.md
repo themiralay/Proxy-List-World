@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|195.130.218.67|3128|Switzerland|Lachen|Diag Dienstleistungen AG|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|12|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|13|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|16|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|17|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.135.14.176|8181|Indonesia|Malang|Dinas Komunikasi dan Informatika Kota Malang|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
+|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|38.156.235.35|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|18|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|115.127.79.18|8090|Bangladesh|Dhaka|BRACNet Limited|
+|20|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
