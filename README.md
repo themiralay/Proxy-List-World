@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -24,7 +24,7 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
-|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|✅|
+|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |5|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|91.121.88.53|8010|France|Roubaix|OVH SAS|
+|6|103.115.243.156|83|Bangladesh|Dohār|Md. Rashed Mollah|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|11|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|13|67.43.228.253|26765|Canada|Montreal|GloboTech Communications|
+|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|11|150.129.5.228|8080|Pakistan|Karachi|Ebone Network (Pvt) Ltd|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|192.141.196.129|8080|Brazil|Juquitiba|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
 |14|72.10.164.178|3275|Canada|Montreal|GloboTech Communications|
-|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|72.10.164.178|3275|Canada|Montreal|GloboTech Communications|
-|18|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|20|72.10.160.92|7789|Canada|Montreal|GloboTech Communications|
+|15|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|16|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
 
 
 
