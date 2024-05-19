@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|52.172.217.51|80|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|67.43.227.226|27015|Canada|Montreal|GloboTech Communications|
+|6|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|72.10.164.178|3045|Canada|Montreal|GloboTech Communications|
 |9|72.10.160.172|7805|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|11397|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|11397|Canada|Montreal|GloboTech Communications|
-|12|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
-|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
-|14|72.10.164.178|11397|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|27015|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|24779|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|6247|Canada|Montreal|GloboTech Communications|
-|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|67.43.236.20|26867|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|6247|Canada|Montreal|GloboTech Communications|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|67.43.227.227|30637|Canada|Montreal|GloboTech Communications|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|14|72.10.164.178|3045|Canada|Montreal|GloboTech Communications|
+|15|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|16|67.43.227.227|30637|Canada|Montreal|GloboTech Communications|
+|17|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|19|103.110.10.69|3127|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|20|72.10.164.178|3045|Canada|Montreal|GloboTech Communications|
 
 
 
