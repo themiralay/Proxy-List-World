@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|157.120.60.149|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|5|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|157.120.60.149|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|45.95.232.128|3128|Switzerland|Zurich|Global Internet Solutions LLC|
+|8|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
+|11|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |12|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|177.234.226.85|1994|Ecuador|Manta|Ufinet Panama S.A.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
-|19|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|103.138.185.81|83|India|Rāwatbhāta|Mahrth Internet Service Private Limited|
+|14|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|101.255.151.70|3125|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
