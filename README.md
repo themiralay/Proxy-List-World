@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|4|141.125.158.9|80|United Kingdom|London|SoftLayer|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|157.120.60.149|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|157.120.60.149|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|14|165.16.59.225|8080|Libya|Tripoli|Aljeel Aljadeed Technology|
-|15|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|16|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
-|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
-|19|97.76.251.138|8080|United States|Seminole|Spectrum|
-|20|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|10|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|12|181.78.11.218|999|Colombia|San Diego|IFX Networks Argentina S.R.L|
+|13|191.240.153.144|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|14|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|15|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|17|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|18|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|19|200.24.153.151|999|Ecuador|Tosagua|Ufinet Panama S.A.|
+|20|141.125.158.9|80|United Kingdom|London|SoftLayer|
 
 
 
