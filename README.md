@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|10|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|11|178.207.11.148|3129|Russia|Al'met'yevsk|TATTELECOM|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|177.234.212.190|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|17|201.150.9.53|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|103.99.22.28|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|12|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
+|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|16|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|103.165.222.190|8080|Indonesia|Pegadungan|PT iForte Global Internet|
+|18|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
