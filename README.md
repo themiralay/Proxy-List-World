@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|180.210.191.122|8080|Bangladesh|Qasba|Premium Connectivity Limited|
-|11|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|14|5.161.62.237|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|7|157.120.60.149|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|103.250.70.214|8080|Bangladesh|Dhaka|Next Online Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 |15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|41.65.67.167|1976|Egypt|Giza|Enterprise|
-|17|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|18|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|19|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
-|20|206.84.104.126|8080|Indonesia|Palembang|AGIS|
+|16|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|103.48.69.105|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
+|20|45.237.185.17|999|Panama|Las Tablas|DBS NETWORK, S.A.|
 
 
 
