@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.232.162.85|22001|United States|Tukwila|Akamai Technologies, Inc.|
-|6|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
-|7|43.153.108.224|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.227.230|32557|Canada|Montreal|GloboTech Communications|
-|12|185.208.102.125|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|13|116.105.39.137|4006|Vietnam|Hanoi|Viettel Corporation|
-|14|67.43.227.227|17679|Canada|Montreal|GloboTech Communications|
-|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|16|72.10.164.178|1639|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|1639|Canada|Montreal|GloboTech Communications|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|72.10.160.92|9525|Canada|Montreal|GloboTech Communications|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|201.246.203.195|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|14|116.105.39.137|4006|Vietnam|Hanoi|Viettel Corporation|
+|15|67.43.227.227|25533|Canada|Montreal|GloboTech Communications|
+|16|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|190.60.36.83|999|Colombia|Corozal|IFX NETWORKS COLOMBIA|
+|18|67.43.227.230|32557|Canada|Montreal|GloboTech Communications|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
