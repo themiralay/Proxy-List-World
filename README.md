@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|113.11.183.67|3128|Indonesia|Purwodadi Grobogan|BIZNET|
-|5|14.241.111.97|8080|Vietnam|Ninh Binh|VNPT|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|201.246.203.195|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|11|45.114.144.89|32650|India|Jaipur|Tejays Dynamic Limited|
-|12|103.247.23.181|1111|Indonesia|Bekasi|PT wifian Solution|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.153.246.210|3125|Indonesia|Purwakarta|PRIMAHOME|
+|9|201.246.203.195|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|10|113.11.183.67|3128|Indonesia|Purwodadi Grobogan|BIZNET|
+|11|14.241.111.97|8080|Vietnam|Ninh Binh|VNPT|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|112.198.186.77|8082|Philippines|Nasugbu|Globe Telecom|
+|14|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 |16|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|17|116.105.39.137|4006|Vietnam|Hanoi|Viettel Corporation|
-|18|67.43.236.20|12673|Canada|Montreal|GloboTech Communications|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|72.10.160.91|7337|Canada|Montreal|GloboTech Communications|
+|17|182.252.81.185|8080|Bangladesh|Sirajganj|Agni Systems Limited|
+|18|202.154.18.9|2121|Indonesia|Lamongan|DIGITNET|
+|19|49.48.42.97|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
