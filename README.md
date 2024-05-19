@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|4|149.86.146.130|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|5|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|6|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|7|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|113.160.166.196|7034|Vietnam|Thị Trấn Tân Yên|VietNam Post and Telecom Corporation|
-|10|67.43.227.227|9163|Canada|Montreal|GloboTech Communications|
-|11|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|67.43.227.227|9163|Canada|Montreal|GloboTech Communications|
-|13|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|14|72.10.164.178|15109|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|13131|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|67.43.227.228|15139|Canada|Montreal|GloboTech Communications|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|67.43.227.227|9163|Canada|Montreal|GloboTech Communications|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|16|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.91|18031|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.173|17907|Canada|Montreal|GloboTech Communications|
 |19|67.43.236.20|19773|Canada|Montreal|GloboTech Communications|
-|20|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
 
 
 
