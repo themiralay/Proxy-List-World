@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|160.248.91.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|6|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|11|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|178.128.243.121|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
-|18|67.43.236.20|14509|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|10683|Canada|Montreal|GloboTech Communications|
-|20|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
+|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|132.145.20.212|80|United Kingdom|London|Oracle Corporation|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|15|178.207.11.148|3129|Russia|Al'met'yevsk|TATTELECOM|
+|16|181.119.67.134|999|Colombia|Florida|IFX Networks Argentina S.R.L|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|182.18.179.129|83|India|Hyderabad|CtrlS|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
