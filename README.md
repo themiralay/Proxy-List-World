@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|9|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|10|181.37.240.89|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.108.88.41|8080|Bangladesh|Nārāyanganj|BKB Network|
+|5|139.255.33.242|8080|Indonesia|Jakarta|PT. LINKNET|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|8|80.66.81.61|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|9|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|10|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
 |11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|12|36.88.111.98|55443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|15|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|16|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|12|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|13|67.43.227.227|4399|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|2423|Canada|Montreal|GloboTech Communications|
+|15|222.174.178.122|4999|China|Xintai|Chinanet|
+|16|139.180.182.111|80|Australia|Sydney|Choopa|
 |17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 |18|72.10.164.178|2423|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|4399|Canada|Montreal|GloboTech Communications|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
