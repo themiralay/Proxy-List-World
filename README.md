@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|103.172.70.153|2022|Indonesia|Karangampel|AZNET|
-|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|11|103.234.159.5|8080|India|Bengaluru|MWPL|
-|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|202.4.119.97|5020|Bangladesh|Dhaka|Dhakacom Limited|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|103.148.130.3|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|17|46.253.143.144|3128|Russia|Moscow|ZTV CORP LLC|
-|18|67.43.227.228|30385|Canada|Montreal|GloboTech Communications|
-|19|176.213.141.107|8080|Russia|Severnyy|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
-|20|5.196.111.29|20090|France|Gravelines|OVH SAS|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|119.76.142.209|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|116.58.239.95|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|185.202.44.108|8888|United States|Los Angeles|QuickPacket, LLC|
+|10|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|185.202.44.66|8888|United States|Los Angeles|QuickPacket, LLC|
+|18|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
+|19|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|20|51.91.252.25|1234|France|Gravelines|OVH SAS|
 
 
 
