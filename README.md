@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|9|46.243.71.2|8888|Slovakia|Michalovce|Minet s.r.o.|
+|10|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |12|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|16|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
-|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|19|185.185.168.112|8080|Finland|Helsinki|Local Loop Oy|
-|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
+|14|103.231.249.242|3128|Vietnam|Tay Ho|MTD|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|142.190.149.206|8080|United States|Frisco City|Uniti Fiber Holdings Inc.|
 
 
 
