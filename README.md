@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.2.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
+|19|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
