@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|203.190.46.83|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|12|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|187.79.146.98|8080|Brazil|São Luís|V tal|
-|16|103.88.237.6|84|India|Hyderabad|Mana Communications|
-|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|18|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|19|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
-|20|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|9|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|103.159.46.14|83|India|Ahmedabad|King Netsol Private Limited|
+|16|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|82.200.80.118|8080|Russia|Novosibirsk|ZSTTK|
+|18|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|19|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|20|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
 
 
 
