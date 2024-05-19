@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|8|72.10.164.178|19797|Canada|Montreal|GloboTech Communications|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|7|72.10.164.178|19797|Canada|Montreal|GloboTech Communications|
+|8|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|72.10.164.178|19797|Canada|Montreal|GloboTech Communications|
 |11|72.10.164.178|19797|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.21|6045|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|25663|Canada|Montreal|GloboTech Communications|
-|14|45.225.89.145|999|Ecuador|Balzar|Guzman Guzman Lenin Marcelo|
-|15|72.10.164.178|19797|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|19797|Canada|Montreal|GloboTech Communications|
-|17|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|18|67.43.227.227|33107|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19797|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|33107|Canada|Montreal|GloboTech Communications|
+|12|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|13|72.10.160.90|27013|Canada|Montreal|GloboTech Communications|
+|14|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|15|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|72.10.160.171|22973|Canada|Montreal|GloboTech Communications|
+|17|43.153.108.224|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|19|67.43.236.21|6045|Canada|Montreal|GloboTech Communications|
+|20|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
 
 
 
