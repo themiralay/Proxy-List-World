@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|16|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|20|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|8|103.125.216.147|3128|Japan|Tokyo|Marketingboys B.V|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|72.10.160.90|10309|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 
 
 
