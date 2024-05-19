@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
 |4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|103.110.10.69|3127|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|45.189.118.92|999|Peru|Lima|Fiber Digital S.R.L|
 |11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|103.203.172.45|84|India|Hyderabad|Softgaurd Powertronics|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|88.80.103.9|6888|Bulgaria|Dupnitsa|UltraNET Ltd. C08|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|103.110.10.69|3127|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|17|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|18|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|154.127.240.114|64002|Angola|Huambo|HMB-FTTH|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|13|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|103.143.168.98|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|19|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|20|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
