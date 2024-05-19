@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.248.2.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|8|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 |13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|16|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|17|207.244.254.27|3192|United States|St Louis|Nubes, LLC|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|19|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|203.150.166.174|8080|Thailand|Trang|Internet Thailand Company Ltd.|
 
 
 
