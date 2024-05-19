@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.148.130.3|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|9|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|10|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|11|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|12|103.172.70.153|2022|Indonesia|Karangampel|AZNET|
 |13|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
-|15|72.10.164.178|5267|Canada|Montreal|GloboTech Communications|
+|14|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|18|67.43.236.19|17697|Canada|Montreal|GloboTech Communications|
-|19|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|67.43.228.251|24697|Canada|Montreal|GloboTech Communications|
+|17|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|18|103.186.254.218|2016|India|Visakhapatnam|Pioneer Elabs Ltd.|
+|19|72.10.164.178|5267|Canada|Montreal|GloboTech Communications|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
