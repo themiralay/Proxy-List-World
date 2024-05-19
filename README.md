@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|14|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|15|43.153.108.224|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|72.10.164.178|3627|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.236.20|26833|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|7023|Canada|Montreal|GloboTech Communications|
+|4|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|101.255.165.130|1111|Indonesia|Bekasi|PT Remala Abadi|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|67.43.236.20|17721|Canada|Montreal|GloboTech Communications|
+|10|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|11|72.10.164.178|25985|Canada|Montreal|GloboTech Communications|
+|12|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
+|13|72.10.160.90|3995|Canada|Montreal|GloboTech Communications|
+|14|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.227.227|16555|Canada|Montreal|GloboTech Communications|
+|19|186.96.97.90|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
