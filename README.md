@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|134.35.246.139|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|7|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|5.78.57.82|3128|United States|Portland|Hetzner Online GmbH|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|15|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|116.202.213.226|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|20|5.78.57.82|3128|United States|Portland|Hetzner Online GmbH|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|121.52.156.146|8080|Pakistan|Multan|HEC|
+|5|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|134.35.246.139|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|10|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|13|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|16|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|161.34.37.40|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.37.60|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
