@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|5|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|6|97.76.251.138|8080|United States|Seminole|Spectrum|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|105.174.40.54|8080|Angola|Luanda|UNITEL SA|
+|11|50.235.247.114|8085|United States|Rincon|Comcast Cable Communications, LLC|
 |12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|14|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|16|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
 |17|157.120.60.149|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.227.229|32365|Canada|Montreal|GloboTech Communications|
-|20|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
+|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|67.43.227.229|32365|Canada|Montreal|GloboTech Communications|
 
 
 
