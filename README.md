@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|202.154.37.141|8080|Indonesia|Surabaya|RADNET|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|103.17.182.3|9091|Indonesia|Jakarta|PT Tinelo Digital Network|
-|8|192.46.230.135|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|9|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
-|13|161.34.37.60|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|15|154.127.240.117|64001|Angola|Huambo|HMB-FTTH|
-|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|17|117.252.9.178|3128|India|Delhi|BSNL Internet|
-|18|67.43.228.253|2161|Canada|Montreal|GloboTech Communications|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|185.202.44.108|8888|United States|Los Angeles|QuickPacket, LLC|
+|8|202.154.37.141|8080|Indonesia|Surabaya|RADNET|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|161.34.37.60|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|185.202.44.110|8888|United States|Los Angeles|QuickPacket, LLC|
+|19|116.80.58.72|4649|Japan|Honchō|InfoSphere|
 |20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
