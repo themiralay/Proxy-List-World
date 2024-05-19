@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|103.189.250.67|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|9|72.10.160.90|5369|Canada|Montreal|GloboTech Communications|
-|10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.228.254|5555|Canada|Montreal|GloboTech Communications|
-|15|188.132.222.46|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|67.43.236.20|28031|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|28031|Canada|Montreal|GloboTech Communications|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|4|103.141.109.157|8080|Indonesia|Blitar|Data Buana Nusantara|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|12|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|72.10.160.90|33223|Canada|Montreal|GloboTech Communications|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|67.43.236.20|27973|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 
 
 
