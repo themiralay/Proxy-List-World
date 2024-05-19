@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|1|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|8|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|13|146.120.73.210|8080|Russia|St Petersburg|Unet Communication LLC|
-|14|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|15|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|16|183.87.160.62|84|India|Mumbai|JPR Digital Pvt Ltd|
-|17|38.7.31.230|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|20|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|6|157.120.60.149|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|7|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|11|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|12|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
+|13|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|15|160.248.91.93|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|157.120.60.149|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
 
 
 
