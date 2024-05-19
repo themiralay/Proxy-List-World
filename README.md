@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|11|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|72.10.164.178|13599|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|13599|Canada|Montreal|GloboTech Communications|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|72.10.164.178|13599|Canada|Montreal|GloboTech Communications|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|72.10.164.178|13599|Canada|Montreal|GloboTech Communications|
-|20|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|2|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|67.43.236.20|17005|Canada|Montreal|GloboTech Communications|
+|18|212.42.116.161|8080|Kyrgyzstan|Bishkek|"ElCat" Ltd.|
+|19|67.43.228.250|12377|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
