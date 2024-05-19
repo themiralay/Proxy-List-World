@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6942** proxies at the latest update. Usable proxies are below.
+> Scraper found **6927** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|576|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|163|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|148|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5214|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.125.216.147|3128|Japan|Tokyo|Marketingboys B.V|
-|3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|4|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|103.129.201.158|8080|Bangladesh|Gafargaon|Weblink Communications Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|18|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|20|160.248.79.139|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
