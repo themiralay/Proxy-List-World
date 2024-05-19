@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|167.71.212.248|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|49.48.42.97|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|6|139.59.238.66|3128|Singapore|Singapore|DIGITALOCEAN|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|9|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|13|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|15|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|14.241.111.97|8080|Vietnam|Ninh Binh|VNPT|
-|18|80.66.81.61|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|67.43.236.20|25811|Canada|Montreal|GloboTech Communications|
+|1|160.248.81.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|160.248.187.149|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|167.71.212.248|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|8|223.204.92.126|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|9|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|11|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|136.243.82.121|1082|Germany|Cologne|Hetzner Online GmbH|
+|14|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|16|49.48.42.97|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|17|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.236.20|23071|Canada|Montreal|GloboTech Communications|
+|19|121.195.170.225|1024|China|Haidian|CERNET|
+|20|67.43.227.227|9683|Canada|Montreal|GloboTech Communications|
 
 
 
