@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.2.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|103.230.81.135|8080|Indonesia|Banten|PT. Pandeglang Akses Semesta|
-|5|20.198.19.55|3128|India|Pune|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|8|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|10|198.199.83.206|8000|United States|North Bergen|DigitalOcean, LLC|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|14|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|16|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|160.248.91.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|103.87.169.189|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|10|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
+|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|185.202.44.96|8888|United States|Los Angeles|QuickPacket, LLC|
 |17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|18|103.127.106.245|8085|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|19|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
-|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
 
 
 
