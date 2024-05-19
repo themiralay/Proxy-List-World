@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|8|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|72.10.160.91|10567|Canada|Montreal|GloboTech Communications|
-|10|160.248.2.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|72.10.160.92|4677|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.171|7109|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|30229|Canada|Montreal|GloboTech Communications|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.164.178|27283|Canada|Montreal|GloboTech Communications|
-|18|160.248.91.61|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|38.52.221.250|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|9|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|12|160.248.2.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|15|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|16|160.248.91.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|67.43.227.227|30229|Canada|Montreal|GloboTech Communications|
 
 
 
