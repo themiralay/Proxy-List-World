@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|5|14.187.164.114|3128|Vietnam|Ho Chi Minh City|VNPT|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|217.21.78.18|3128|United States|Phoenix|Hostinger International Limited|
-|11|103.169.132.118|8085|Indonesia|Pasirjaya|PT Alfa Omega Interkoneksi|
-|12|37.187.115.135|42000|France|Roubaix|OVH SAS|
-|13|67.43.228.253|3295|Canada|Montreal|GloboTech Communications|
-|14|43.243.174.3|82|India|Pune|Shah Solutions|
-|15|5.78.57.82|3128|United States|Portland|Hetzner Online GmbH|
-|16|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
-|17|72.10.160.90|7965|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13175|Canada|Montreal|GloboTech Communications|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|45.174.57.26|999|Mexico|Panindícuaro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
+|5|139.180.182.111|80|Australia|Sydney|Choopa|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|95.111.238.142|3128|Germany|Nuremberg|Contabo GmbH|
+|11|139.5.64.108|80|India|New Delhi|National Crime Records Bureau|
+|12|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|13|103.160.207.163|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|67.43.228.253|3295|Canada|Montreal|GloboTech Communications|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|72.10.164.178|1433|Canada|Montreal|GloboTech Communications|
+|19|136.243.82.121|1083|Germany|Cologne|Hetzner Online GmbH|
+|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 
 
 
