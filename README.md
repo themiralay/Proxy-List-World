@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.129.201.158|8080|Bangladesh|Gafargaon|Weblink Communications Ltd|
-|3|179.1.129.91|999|Colombia|Bogotá|Internexa S.a. E.S.P|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|179.1.129.91|999|Colombia|Bogotá|Internexa S.a. E.S.P|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|160.248.5.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|9|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|10|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|20.204.190.254|3129|India|Pune|Microsoft Corporation|
 |14|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 |15|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|181.233.90.70|999|Venezuela|Cabimas|Colnetwork C.A.|
-|18|72.10.164.178|11209|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|31683|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|17991|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|19|67.43.227.228|20491|Canada|Montreal|GloboTech Communications|
 |20|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 
 
