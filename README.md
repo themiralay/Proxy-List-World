@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|157.120.60.149|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|5|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|14|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|15|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|16|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
-|18|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|19|59.4.229.43|3128|South Korea|Jinju|Korea Telecom|
-|20|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|4|157.120.61.35|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|5|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|146.120.73.210|8080|Russia|St Petersburg|Unet Communication LLC|
+|12|5.135.188.62|9999|France|Roubaix|OVH SAS|
+|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|15|182.253.170.57|8080|Indonesia|Jakarta|BIZNET|
+|16|191.240.153.144|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
+|19|84.204.40.154|8080|Russia|St Petersburg|PJSC MegaFon|
+|20|52.80.19.207|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
 
 
 
