@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|167.71.212.248|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.238.66|3128|Singapore|Singapore|DIGITALOCEAN|
+|2|139.59.238.66|3128|Singapore|Singapore|DIGITALOCEAN|
+|3|167.71.212.248|8888|Singapore|Singapore|DigitalOcean, LLC|
 |4|180.191.20.194|8082|Philippines|Cabanatuan City|Globe Telecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|202.154.18.9|2121|Indonesia|Lamongan|DIGITNET|
-|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|113.11.183.67|3128|Indonesia|Purwodadi Grobogan|BIZNET|
-|12|201.246.203.195|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
-|13|157.120.60.149|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|15|160.248.81.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|45.114.144.89|32650|India|Jaipur|Tejays Dynamic Limited|
-|20|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|202.154.18.9|2121|Indonesia|Lamongan|DIGITNET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|118.99.126.52|8080|Indonesia|Malang|Biznet Networks|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|201.246.203.195|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|10|157.120.60.149|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|11|49.49.56.54|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|12|160.248.81.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|112.198.186.77|8082|Philippines|Nasugbu|Globe Telecom|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|103.247.23.181|1111|Indonesia|Bekasi|PT wifian Solution|
+|17|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.248.91.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|20|160.248.187.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
