@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|67.43.236.19|32541|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|2377|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|13843|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.226|2101|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|2377|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|23755|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|72.10.164.178|2377|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|2377|Canada|Montreal|GloboTech Communications|
-|17|122.3.121.231|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|103.88.239.118|84|India|Hyderabad|Mana Communications|
-|19|67.43.227.227|13843|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.230|19531|Canada|Montreal|GloboTech Communications|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|67.43.236.19|32541|Canada|Montreal|GloboTech Communications|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|12|67.43.228.250|23755|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|210.79.146.131|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|15|72.10.164.178|21241|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|1371|Canada|Montreal|GloboTech Communications|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|101.255.140.1|8090|Indonesia|Jakarta|PT Remala Abadi|
+|19|67.43.227.230|19531|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|1371|Canada|Montreal|GloboTech Communications|
 
 
 
