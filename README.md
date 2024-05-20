@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|185.202.44.70|8888|United States|Los Angeles|QuickPacket, LLC|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|15|189.195.139.178|999|Mexico|Churintzio|Mega Cable, S.A. de C.V.|
-|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|19|134.35.13.169|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|20|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|80.66.81.61|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|9|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|103.165.155.226|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|17|103.234.159.5|8080|India|Bengaluru|MWPL|
+|18|103.51.205.98|8080|Indonesia|Semarang|Lintas Data Prima, PT|
+|19|67.43.236.20|3775|Canada|Montreal|GloboTech Communications|
+|20|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
