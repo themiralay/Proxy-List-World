@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.163.160.38|3129|South Korea|Nammyeon|Korea Telecom|
-|7|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
-|13|94.79.152.14|80|Germany|Sankt Augustin|Vodafone|
-|14|36.93.68.47|41890|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|15|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|67.43.228.254|27835|Canada|Montreal|GloboTech Communications|
-|17|64.225.105.185|8000|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|64.225.105.185|8000|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|67.43.227.227|28971|Canada|Montreal|GloboTech Communications|
+|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|112.163.160.38|3129|South Korea|Nammyeon|Korea Telecom|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|9|94.79.152.14|80|Germany|Sankt Augustin|Vodafone|
+|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|181.204.172.170|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|13|181.204.172.170|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|14|41.222.246.29|7788|Rwanda|Kigali|RWEDNET|
+|15|112.163.160.38|3129|South Korea|Nammyeon|Korea Telecom|
+|16|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|17|178.213.24.233|8080|Russia|Khasavyurt|DAGNET|
+|18|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|139.84.212.228|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
