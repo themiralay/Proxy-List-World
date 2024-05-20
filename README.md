@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|8|197.232.47.122|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|72.10.160.174|22265|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|15|13.53.197.204|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|16|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|113.160.166.196|6141|Vietnam|Thị Trấn Tân Yên|VietNam Post and Telecom Corporation|
-|19|67.43.228.250|26499|Canada|Montreal|GloboTech Communications|
-|20|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.148.130.215|8088|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|8|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|10|109.164.38.201|2306|Czechia|Děčín|STARNET, s.r.o.|
+|11|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
+|14|68.183.100.186|8000|United States|North Bergen|DigitalOcean, LLC|
+|15|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|72.10.160.174|22265|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|67.43.228.250|1747|Canada|Montreal|GloboTech Communications|
 
 
 
