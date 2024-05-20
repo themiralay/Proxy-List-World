@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|4|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|180.178.98.91|2526|Indonesia|Jakarta|PT Hipernet Indodata|
-|8|103.234.159.5|8080|India|Bengaluru|MWPL|
-|9|181.118.143.1|999|Argentina|Posadas|Siternet SRL|
-|10|72.10.160.170|30569|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|8781|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|31261|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|26665|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|14385|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|6775|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|31261|Canada|Montreal|GloboTech Communications|
-|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|67.43.236.20|26665|Canada|Montreal|GloboTech Communications|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|1|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|6|13.53.197.204|3128|Sweden|Stockholm|Amazon Technologies Inc.|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|157.120.61.226|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|10|91.192.33.52|43801|Czechia|Boleboř|ISP Alliance a.s.|
+|11|201.246.205.57|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|12|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.154.113.90|8080|Indonesia|Jakarta|MORATELINDONAP|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|67.43.236.20|6277|Canada|Montreal|GloboTech Communications|
+|17|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|19|67.43.236.20|6277|Canada|Montreal|GloboTech Communications|
+|20|116.80.58.72|4649|Japan|Honchō|InfoSphere|
 
 
 
