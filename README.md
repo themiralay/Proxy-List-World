@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|12|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|176.124.190.45|80|Poland|Warsaw|Krzysztof Muklewicz|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|200.111.232.94|8080|Chile|Santiago|Entel Chile S.A.|
-|16|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|20|103.139.242.169|83|India|Pune|Spectram Telecom Pvt.Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|7|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
+|10|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|11|176.124.190.45|80|Poland|Warsaw|Krzysztof Muklewicz|
+|12|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
+|13|139.84.213.188|3129|India|Bengaluru|The Constant Company, LLC|
+|14|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|39.129.73.6|443|China|Kunming|China Mobile|
+|17|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|18|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
+|20|5.135.188.62|9999|France|Roubaix|OVH SAS|
 
 
 
