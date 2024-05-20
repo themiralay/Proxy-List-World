@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
-|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|103.28.114.140|80|Indonesia|Bantul|PT Lintas Data Prima|
-|11|103.68.215.2|1234|Indonesia|Tangerang|PT Media Grasi Internet|
-|12|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|14|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|18|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|19|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
-|20|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|103.155.199.144|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|7|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
+|9|181.39.24.155|999|Ecuador|Quito|Telconet S.A|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|15|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|67.43.227.227|19559|Canada|Montreal|GloboTech Communications|
+|18|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|19|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
