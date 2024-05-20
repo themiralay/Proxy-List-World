@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7589** proxies at the latest update. Usable proxies are below.
+> Scraper found **7584** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|70|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|708|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|703|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|221|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5632|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|103.137.45.55|24052|India|Pūrna|Wsnl Broadband Private Limited|
-|6|171.252.131.44|21040|Vietnam|Da Nang|Viettel Corporation|
-|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|9|72.10.160.92|25537|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|1601|Canada|Montreal|GloboTech Communications|
-|11|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|12|67.43.227.227|23033|Canada|Montreal|GloboTech Communications|
-|13|36.91.216.243|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|67.43.236.20|8019|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|23033|Canada|Montreal|GloboTech Communications|
-|17|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|38.156.75.26|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|2|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|180.191.23.9|8082|Philippines|Cabanatuan City|Globe Telecom|
+|9|67.43.236.19|1125|Canada|Montreal|GloboTech Communications|
+|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|11|72.10.160.91|31281|Canada|Montreal|GloboTech Communications|
+|12|159.192.139.178|8080|Thailand|Samphanthawong|CAT-BB|
+|13|72.10.160.90|8473|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|11803|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|11803|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|10595|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|3219|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|8469|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|9703|Canada|Montreal|GloboTech Communications|
+|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
