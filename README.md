@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|5|134.35.13.169|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|4|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|134.35.13.169|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|103.51.205.98|8080|Indonesia|Semarang|Lintas Data Prima, PT|
 |8|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|45.119.113.62|83|India|Hyderabad|Netrun Technologies PVT LTD|
 |11|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|12|185.202.44.86|8888|United States|Los Angeles|QuickPacket, LLC|
-|13|72.10.164.178|16539|Canada|Montreal|GloboTech Communications|
-|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|15|72.10.160.90|8491|Canada|Montreal|GloboTech Communications|
-|16|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|18|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|20|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|12|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|13|72.10.160.90|8491|Canada|Montreal|GloboTech Communications|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|161.34.37.60|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|17|38.252.209.12|999|Peru|Lima region|Telcom Mikrotik Peru S.A.C.|
+|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|19|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
