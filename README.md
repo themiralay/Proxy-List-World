@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|150.95.89.162|10090|Japan|Chiyoda|GMO-Z.COM PTE. LTD.|
+|2|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |11|67.43.227.226|21537|Canada|Montreal|GloboTech Communications|
-|12|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|67.43.236.20|1343|Canada|Montreal|GloboTech Communications|
 |13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|67.43.236.20|1343|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|21537|Canada|Montreal|GloboTech Communications|
-|16|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
-|17|72.10.160.172|10425|Canada|Montreal|GloboTech Communications|
-|18|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|222.174.178.122|4999|China|Xintai|Chinanet|
-|20|72.10.160.90|24715|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.226|21537|Canada|Montreal|GloboTech Communications|
+|15|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|18|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|19|103.180.247.6|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
+|20|222.174.178.122|4999|China|Xintai|Chinanet|
 
 
 
