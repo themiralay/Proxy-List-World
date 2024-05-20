@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|150.95.89.162|10090|Japan|Chiyoda|GMO-Z.COM PTE. LTD.|
-|7|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|8|72.10.164.178|25709|Canada|Montreal|GloboTech Communications|
-|9|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|67.43.236.20|12555|Canada|Montreal|GloboTech Communications|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|67.43.227.228|2191|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|28659|Canada|Montreal|GloboTech Communications|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|117.252.9.178|3128|India|Delhi|BSNL Internet|
-|18|72.10.164.178|25709|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.94|31757|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|17667|Canada|Montreal|GloboTech Communications|
+|6|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|7|67.43.228.252|27471|Canada|Montreal|GloboTech Communications|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|47.245.60.185|3128|Japan|Tokyo|Alibaba Cloud LLC|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|13|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
+|14|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
+|15|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|16|139.84.212.228|3129|India|Bengaluru|The Constant Company, LLC|
+|17|180.250.173.67|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|18|67.43.227.227|8531|Canada|Montreal|GloboTech Communications|
+|19|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
 
 
 
