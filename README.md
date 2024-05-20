@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.35.13.169|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|80.66.81.61|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|6|103.168.44.210|3127|Indonesia|Boyolali|PT CYB Media Group|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|80.66.81.61|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
 |8|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|9|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|10|177.87.250.66|999|Argentina|San Juan|Twainsat SRL|
-|11|139.84.157.128|3129|India|Bengaluru|The Constant Company, LLC|
-|12|103.35.110.94|5020|Bangladesh|Dhaka|Ranks ITT|
-|13|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|14|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|139.84.157.128|3129|India|Bengaluru|The Constant Company, LLC|
+|11|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|12|103.51.205.98|8080|Indonesia|Semarang|Lintas Data Prima, PT|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 |15|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|17|185.202.44.86|8888|United States|Los Angeles|QuickPacket, LLC|
-|18|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|19|67.43.236.20|13289|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|23939|Canada|Montreal|GloboTech Communications|
+|16|87.76.1.251|8080|Russia|Ulyanovsk|JSC Telecom.ru|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|19|47.245.60.185|3128|Japan|Tokyo|Alibaba Cloud LLC|
+|20|51.91.252.25|1234|France|Gravelines|OVH SAS|
 
 
 
