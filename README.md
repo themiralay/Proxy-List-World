@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|67.43.236.19|1125|Canada|Montreal|GloboTech Communications|
-|7|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
-|8|139.162.224.37|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|9|72.10.160.91|27613|Canada|Montreal|GloboTech Communications|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|72.10.160.90|8177|Canada|Montreal|GloboTech Communications|
-|12|139.84.213.188|3129|India|Bengaluru|The Constant Company, LLC|
-|13|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|46.10.209.230|8080|Bulgaria|Sofia|BTC-BROADBAND|
-|16|67.43.227.226|3219|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|1601|Canada|Montreal|GloboTech Communications|
-|18|45.224.247.102|80|Brazil|Fortaleza|Upix Networks|
-|19|67.43.236.20|33145|Canada|Montreal|GloboTech Communications|
-|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|4|139.84.212.228|3129|India|Bengaluru|The Constant Company, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|11|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|12|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|13|67.43.227.227|6395|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|1601|Canada|Montreal|GloboTech Communications|
+|15|177.115.239.37|8080|Brazil|São Paulo|Vivo|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|72.10.164.178|1601|Canada|Montreal|GloboTech Communications|
+|19|49.70.141.216|20005|China|Shanghai|Chinanet|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
