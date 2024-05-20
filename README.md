@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|203.150.113.240|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|203.150.113.240|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|82.65.249.238|8118|France|La Garenne-Colombes|Proxad / Free SAS|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
+|7|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|200.61.16.80|8080|Argentina|Buenos Aires|Silica Networks Argentina S.A|
+|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 |14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|67.43.228.250|26767|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|15789|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|32635|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|7855|Canada|Montreal|GloboTech Communications|
-|19|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.228.253|9255|Canada|Montreal|GloboTech Communications|
+|15|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|67.43.228.253|1077|Canada|Montreal|GloboTech Communications|
+|20|203.150.128.170|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 
 
 
