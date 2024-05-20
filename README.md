@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|7|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|188.132.166.51|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
