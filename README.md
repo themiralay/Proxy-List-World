@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|8|72.10.164.178|27957|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|19637|Canada|Montreal|GloboTech Communications|
-|10|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|117.252.9.178|3128|India|Delhi|BSNL Internet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.164.178|27957|Canada|Montreal|GloboTech Communications|
-|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|17|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|18|72.10.164.178|27957|Canada|Montreal|GloboTech Communications|
-|19|186.148.195.168|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
-|20|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|94.153.252.170|8080|Ukraine|Kyiv|Kyivstar UA|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|70.90.138.109|8080|United States|Northville|Comcast Cable Communications, LLC|
+|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|147.92.36.42|3129|Hong Kong|Tseung Kwan O|DNC|
+|15|112.163.160.38|3129|South Korea|Nammyeon|Korea Telecom|
+|16|181.10.123.154|999|Argentina|El Carril|Telecom Argentina S.A.|
+|17|117.252.9.178|3128|India|Delhi|BSNL Internet|
+|18|46.253.143.144|3128|Russia|Moscow|ZTV CORP LLC|
+|19|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|67.43.236.20|26131|Canada|Montreal|GloboTech Communications|
 
 
 
