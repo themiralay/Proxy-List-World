@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
 |2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|8|171.252.131.134|21091|Vietnam|Da Nang|Viettel Corporation|
+|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
 |9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
+|10|103.28.114.140|80|Indonesia|Bantul|PT Lintas Data Prima|
+|11|103.68.215.2|1234|Indonesia|Tangerang|PT Media Grasi Internet|
+|12|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
 |15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|16|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|139.84.216.210|3129|India|Bengaluru|The Constant Company, LLC|
-|19|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|18|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|19|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
+|20|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
