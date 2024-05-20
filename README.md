@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|4|139.84.154.204|3129|India|Bengaluru|The Constant Company, LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|94.231.192.206|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|13.53.197.204|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|10|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|11|139.84.154.204|3129|India|Bengaluru|The Constant Company, LLC|
-|12|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|115.178.49.181|8080|Indonesia|Pengasinan|NOC SIMAYA|
-|14|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
-|15|67.43.227.227|12943|Canada|Montreal|GloboTech Communications|
-|16|13.53.197.204|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|17|150.136.42.70|80|United States|Ashburn|Oracle Corporation|
-|18|67.43.236.20|17069|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|17069|Canada|Montreal|GloboTech Communications|
-|20|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|91.107.222.154|8118|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|7|190.181.59.212|999|Bolivia|Santa Cruz|AXS Bolivia S. A.|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|72.10.164.178|24823|Canada|Montreal|GloboTech Communications|
+|11|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|67.43.236.20|4891|Canada|Montreal|GloboTech Communications|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|72.10.160.90|23409|Canada|Montreal|GloboTech Communications|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.160.174|27449|Canada|Montreal|GloboTech Communications|
+|20|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
