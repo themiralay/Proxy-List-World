@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|72.10.164.178|25829|Canada|Montreal|GloboTech Communications|
-|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|7|72.10.164.178|25829|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.174|22611|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.229|32125|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|8519|Canada|Montreal|GloboTech Communications|
-|11|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|72.10.164.178|25829|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|25829|Canada|Montreal|GloboTech Communications|
-|14|5.196.111.29|20109|France|Gravelines|OVH SAS|
-|15|67.43.236.20|8519|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|25829|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|31629|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|26173|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|25829|Canada|Montreal|GloboTech Communications|
-|20|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|6|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|7|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|72.10.164.178|25893|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|9923|Canada|Montreal|GloboTech Communications|
+|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|11|72.10.164.178|25893|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|25893|Canada|Montreal|GloboTech Communications|
+|13|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|178.170.122.55|3128|France|Pantin|Ikoula Ripe|
+|15|72.10.164.178|25893|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|25893|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|30113|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.94|2207|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|9923|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
