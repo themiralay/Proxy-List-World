@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
-|8|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|9|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|10|217.100.239.117|8090|The Netherlands|Alblasserdam|Vodafone Libertel B.V.|
-|11|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|203.150.113.214|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|14|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.236.22|3707|Canada|Montreal|GloboTech Communications|
-|18|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|19|72.10.164.178|13201|Canada|Montreal|GloboTech Communications|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|80.66.81.61|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|8|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|139.84.157.128|3129|India|Bengaluru|The Constant Company, LLC|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|15|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|16|67.43.236.22|3707|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|72.10.164.178|10869|Canada|Montreal|GloboTech Communications|
+|20|103.51.205.98|8080|Indonesia|Semarang|Lintas Data Prima, PT|
 
 
 
