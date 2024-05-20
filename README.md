@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.53.197.204|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
-|6|72.10.164.178|18963|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|18963|Canada|Montreal|GloboTech Communications|
+|2|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|13.53.197.204|3128|Sweden|Stockholm|Amazon Technologies Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |8|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|9|67.43.228.250|26991|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.171|6445|Canada|Montreal|GloboTech Communications|
-|11|186.148.182.82|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
-|12|139.59.238.66|3128|Singapore|Singapore|DIGITALOCEAN|
-|13|72.10.164.178|18963|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|8097|Canada|Montreal|GloboTech Communications|
-|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|16|67.43.228.253|21107|Canada|Montreal|GloboTech Communications|
-|17|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|18|72.10.160.172|3133|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|27.112.70.59|1111|Indonesia|Jakarta|GRAHANET|
+|11|188.132.203.106|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|115.178.49.181|8080|Indonesia|Pengasinan|NOC SIMAYA|
+|14|103.175.46.201|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|15|139.59.238.66|3128|Singapore|Singapore|DIGITALOCEAN|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|157.100.60.171|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|201.246.205.57|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|67.43.236.20|8097|Canada|Montreal|GloboTech Communications|
+|20|45.8.119.32|3128|Kazakhstan|Astana|NLS ASTANA LLP|
 
 
 
