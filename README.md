@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.68.215.2|1234|Indonesia|Tangerang|PT Media Grasi Internet|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|45.8.119.32|3128|Kazakhstan|Astana|NLS ASTANA LLP|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|103.129.115.241|8096|Bangladesh|Meherpur|Earth Tel|
-|9|77.50.100.180|8080|Russia|Moscow|StarLink Telecom Network|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|15|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
-|16|67.43.236.20|7549|Canada|Montreal|GloboTech Communications|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|91.121.88.53|80|France|Roubaix|OVH SAS|
-|19|67.43.227.227|19559|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|26349|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|203.150.113.214|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|74.48.89.231|9988|United States|Los Angeles|Multacom Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|13|91.214.31.136|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|16|139.177.190.161|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|17|178.65.171.6|8080|Russia|Monchegorsk|PJSC "Rostelecom" North-West region|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|36.64.52.226|8081|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|20|103.48.71.2|82|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
