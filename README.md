@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
-|2|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|185.202.44.110|8888|United States|Los Angeles|QuickPacket, LLC|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|14|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|15|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|67.43.227.228|15817|Canada|Montreal|GloboTech Communications|
-|17|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
-|18|154.127.240.126|64003|Angola|Huambo|HMB-FTTH|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|4|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|45.8.119.32|3128|Kazakhstan|Astana|NLS ASTANA LLP|
+|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|15|109.72.232.217|8080|Russia|Moscow|MOSLINE|
+|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|19|67.43.227.228|15817|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|1871|Canada|Montreal|GloboTech Communications|
 
 
 
