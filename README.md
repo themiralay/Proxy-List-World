@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7342** proxies at the latest update. Usable proxies are below.
+> Scraper found **7338** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|68|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|651|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|647|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|219|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5446|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|6|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|72.10.160.172|9323|Canada|Montreal|GloboTech Communications|
-|9|183.36.36.147|3128|China|Xiaolou|Chinanet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|43.153.108.224|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|16|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
-|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|19|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
+|2|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|72.10.164.178|22733|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.228|4909|Canada|Montreal|GloboTech Communications|
+|10|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
+|11|183.36.36.147|3128|China|Xiaolou|Chinanet|
+|12|67.43.227.228|4909|Canada|Montreal|GloboTech Communications|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|72.10.164.178|22733|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|3159|Canada|Montreal|GloboTech Communications|
+|17|103.252.169.158|8080|India|Nagpur|UCN CABLE NETWORK PVT. LTD|
+|18|72.10.160.90|2145|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.160.90|2145|Canada|Montreal|GloboTech Communications|
 
 
 
