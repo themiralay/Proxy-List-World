@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|2|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|9|72.10.160.94|9913|Canada|Montreal|GloboTech Communications|
-|10|190.120.249.180|999|Venezuela|Caracas|CORPORACION FIBEX TELECOM, C.A.|
-|11|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|12|67.43.236.20|32949|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|10509|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|32949|Canada|Montreal|GloboTech Communications|
-|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|16|72.10.164.178|10509|Canada|Montreal|GloboTech Communications|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|172.232.111.150|22027|India|Chennai|Akamai Technologies, Inc.|
-|19|72.10.164.178|10509|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|11765|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|27699|Canada|Montreal|GloboTech Communications|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|72.10.164.178|2377|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|30749|Canada|Montreal|GloboTech Communications|
+|12|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
+|13|5.196.111.29|20477|France|Gravelines|OVH SAS|
+|14|67.43.227.227|27699|Canada|Montreal|GloboTech Communications|
+|15|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|18|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|19|67.43.236.21|13201|Canada|Montreal|GloboTech Communications|
+|20|103.141.109.219|8080|Indonesia|Blitar|Data Buana Nusantara|
 
 
 
