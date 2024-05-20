@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|6|113.160.166.196|7034|Vietnam|Thị Trấn Tân Yên|VietNam Post and Telecom Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|113.160.166.196|7034|Vietnam|Thị Trấn Tân Yên|VietNam Post and Telecom Corporation|
-|9|113.160.166.196|7034|Vietnam|Thị Trấn Tân Yên|VietNam Post and Telecom Corporation|
-|10|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
-|11|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|72.10.164.178|22707|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|22707|Canada|Montreal|GloboTech Communications|
-|15|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
-|16|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|17|67.43.227.228|12547|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|22707|Canada|Montreal|GloboTech Communications|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|72.10.160.170|24765|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|22707|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.253|5799|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.253|5799|Canada|Montreal|GloboTech Communications|
+|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|72.10.160.90|13475|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|22707|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|3845|Canada|Montreal|GloboTech Communications|
+|18|183.36.36.147|3128|China|Xiaolou|Chinanet|
 |19|72.10.164.178|22707|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|72.10.164.178|22707|Canada|Montreal|GloboTech Communications|
 
 
 
