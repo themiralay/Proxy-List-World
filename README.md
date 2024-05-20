@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|203.202.252.149|1200|Bangladesh|Dhaka|Aamra Networks Limited|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|11|134.35.13.169|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|15|139.84.157.128|3129|India|Bengaluru|The Constant Company, LLC|
-|16|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|17|137.184.230.255|3129|United States|Santa Clara|DigitalOcean, LLC|
-|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|19|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|7|72.14.184.125|22030|United States|Richardson|Akamai Technologies, Inc.|
+|8|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|9|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|12|139.84.157.128|3129|India|Bengaluru|The Constant Company, LLC|
+|13|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|19|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|20|188.132.221.188|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
