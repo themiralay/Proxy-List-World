@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|6|45.8.119.32|3128|Kazakhstan|Astana|NLS ASTANA LLP|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
-|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|103.155.199.144|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|11|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|14|185.202.44.71|8888|United States|Los Angeles|QuickPacket, LLC|
-|15|190.109.168.196|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|13|103.165.218.234|8085|Indonesia|Pegadungan|PT iForte Global Internet|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|179.50.90.164|8507|Colombia|Medellín|GTD COLOMBIA|
 |16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|185.202.44.122|8888|United States|Los Angeles|QuickPacket, LLC|
-|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|171.252.131.134|21091|Vietnam|Da Nang|Viettel Corporation|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|185.202.44.74|8888|United States|Los Angeles|QuickPacket, LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
