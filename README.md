@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|180.190.200.210|8085|Philippines|Lahug|Globe Telecom|
-|4|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|8|5.187.79.198|44331|Russia|Voronezh|Svyaz-Telecom Ltd|
-|9|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|10|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|11|72.10.160.170|10939|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|33207|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|1737|Canada|Montreal|GloboTech Communications|
-|14|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|210.73.75.166|80|China|Beijing|NO.11 Xi San Huan Zhong Road, Beijing|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|67.43.227.228|1613|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1737|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|30113|Canada|Montreal|GloboTech Communications|
-|20|115.248.66.131|3129|India|Hyderabad|Reliance Communications Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|72.10.160.90|1449|Canada|Montreal|GloboTech Communications|
+|12|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|13|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|14|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|15|72.10.160.174|7443|Canada|Montreal|GloboTech Communications|
+|16|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.170|5671|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
 
 
 
