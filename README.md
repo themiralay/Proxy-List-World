@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|67.43.236.20|1343|Canada|Montreal|GloboTech Communications|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|72.10.164.178|15713|Canada|Montreal|GloboTech Communications|
-|6|103.156.201.170|84|India|Brahmapur|Reis Network Solutions|
-|7|72.10.160.90|11793|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|4387|Canada|Montreal|GloboTech Communications|
-|9|41.254.53.70|1976|Libya|Tripoli|LTT Network Backbone and POPs|
-|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|12|67.43.227.228|2223|Canada|Montreal|GloboTech Communications|
-|13|180.74.171.206|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|14|72.10.160.174|18195|Canada|Montreal|GloboTech Communications|
-|15|103.115.227.21|80|Indonesia|Surakarta|Pemerintah Kota Surakarta|
-|16|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|117.252.9.178|3128|India|Delhi|BSNL Internet|
-|18|119.160.13.29|3128|Pakistan|Karachi|PMCL Transit|
-|19|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
-|20|67.43.227.227|4387|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|67.43.227.227|8875|Canada|Montreal|GloboTech Communications|
+|10|171.252.131.44|21040|Vietnam|Da Nang|Viettel Corporation|
+|11|103.115.227.21|80|Indonesia|Surakarta|Pemerintah Kota Surakarta|
+|12|103.184.180.30|8080|Indonesia|Magetan|Lintas Data Prima, PT|
+|13|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|14|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|17|72.10.160.174|18195|Canada|Montreal|GloboTech Communications|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|67.43.236.20|24437|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|27021|Canada|Montreal|GloboTech Communications|
 
 
 
