@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|9|134.35.13.169|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|45.8.119.32|3128|Kazakhstan|Astana|NLS ASTANA LLP|
-|13|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|14|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|16|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|19|67.43.227.227|28985|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|24779|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|6|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|9|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
+|10|103.35.110.94|5020|Bangladesh|Dhaka|Ranks ITT|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|103.99.22.28|8080|Indonesia|Cilacap|PT Pesona Nusa Vision|
+|13|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.48.68.29|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|123.16.32.162|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
