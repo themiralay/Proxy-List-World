@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|203.150.113.240|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|10|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|11|103.148.49.234|8080|Indonesia|Pontianak|BCMEDIA|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
-|16|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
-|17|34.154.161.152|80|Italy|Milan|Google LLC|
-|18|67.43.228.253|1077|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|18103|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|18103|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|12|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.236.20|23415|Canada|Montreal|GloboTech Communications|
+|14|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
+|15|67.43.227.227|18103|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|5029|Canada|Montreal|GloboTech Communications|
+|17|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|18|46.21.253.164|3128|Russia|Moscow|Start LLC|
+|19|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|20|72.10.164.178|1025|Canada|Montreal|GloboTech Communications|
 
 
 
