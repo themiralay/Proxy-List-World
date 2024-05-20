@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |8|72.10.164.178|4005|Canada|Montreal|GloboTech Communications|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|67.43.228.253|26121|Canada|Montreal|GloboTech Communications|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|167.71.110.174|8118|United States|Clifton|DigitalOcean, LLC|
+|11|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
 |12|67.43.227.227|17835|Canada|Montreal|GloboTech Communications|
-|13|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|72.10.164.178|4005|Canada|Montreal|GloboTech Communications|
-|15|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|16|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
+|16|72.10.164.178|4005|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|30001|Canada|Montreal|GloboTech Communications|
+|18|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
 |19|67.43.236.18|15081|Canada|Montreal|GloboTech Communications|
-|20|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
+|20|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
 
 
 
