@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
-|13|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|14|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|15|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
 |16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|20|23.225.72.125|3503|United States|Dallas|Cnservers LLC|
+|17|103.125.154.233|8080|India|Sulur|Live Fibernet|
+|18|103.186.8.162|8080|Indonesia|Pelem Satu|PRISMA|
+|19|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
