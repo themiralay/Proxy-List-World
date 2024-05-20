@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
-|6|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|7|119.12.170.184|80|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|8|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|9|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
-|13|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|14|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.227.227|4399|Canada|Montreal|GloboTech Communications|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|72.10.164.178|22807|Canada|Montreal|GloboTech Communications|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|11|185.202.44.67|8888|United States|Los Angeles|QuickPacket, LLC|
+|12|186.7.92.60|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|13|188.132.221.188|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|15|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|18|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
