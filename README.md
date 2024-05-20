@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|3|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|171.252.131.44|21040|Vietnam|Da Nang|Viettel Corporation|
-|17|97.64.69.73|16099|United States|College Station|PRONSS|
-|18|72.10.164.178|1533|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|1533|Canada|Montreal|GloboTech Communications|
-|20|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|67.43.228.253|10413|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|31765|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|31765|Canada|Montreal|GloboTech Communications|
+|17|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
+|19|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
+|20|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
 
 
 
