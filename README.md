@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|7|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|6|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|7|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |10|139.84.133.80|3129|India|Bengaluru|The Constant Company|
-|11|72.10.160.172|10287|Canada|Montreal|GloboTech Communications|
-|12|139.84.132.210|3129|India|Bengaluru|The Constant Company|
-|13|94.79.152.14|80|Germany|Sankt Augustin|Vodafone|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|176.124.190.45|80|Poland|Warsaw|Krzysztof Muklewicz|
-|16|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|67.43.236.19|11629|Canada|Montreal|GloboTech Communications|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|72.10.164.178|28811|Canada|Montreal|GloboTech Communications|
+|11|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|139.84.132.210|3129|India|Bengaluru|The Constant Company|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
