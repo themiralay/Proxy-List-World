@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7071** proxies at the latest update. Usable proxies are below.
+> Scraper found **7070** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|57|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|56|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|599|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|184|✅|
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|72.10.160.93|5597|Canada|Montreal|GloboTech Communications|
-|8|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|72.10.160.90|7851|Canada|Montreal|GloboTech Communications|
-|12|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|13|72.10.160.90|7851|Canada|Montreal|GloboTech Communications|
-|14|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|16|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|18|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|19|72.10.164.178|21063|Canada|Montreal|GloboTech Communications|
-|20|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|67.43.236.20|28369|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.170|16211|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.93|5597|Canada|Montreal|GloboTech Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.160.170|16211|Canada|Montreal|GloboTech Communications|
+|12|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|13|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|14|72.10.164.178|5225|Canada|Montreal|GloboTech Communications|
+|15|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.160.171|1887|Canada|Montreal|GloboTech Communications|
+|17|181.205.251.115|999|Colombia|Medellín|Colombia Móvil|
+|18|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|67.43.236.20|28369|Canada|Montreal|GloboTech Communications|
 
 
 
