@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|6|112.78.155.210|8080|Indonesia|Jakarta|BIZNET|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|4|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|5|45.8.119.32|3128|Kazakhstan|Astana|NLS ASTANA LLP|
+|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 |7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|195.201.202.32|60895|Germany|Gunzenhausen|Hetzner Online GmbH|
+|11|61.14.227.121|8888|United States|Los Angeles|QuickPacket, LLC|
 |12|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|13|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|14|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|15|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|17|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.227.227|21091|Canada|Montreal|GloboTech Communications|
+|13|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|16|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|17|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|18|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|5.42.84.36|4545|Sweden|Stockholm|Aeza International LTD|
+|20|200.55.249.135|8080|Ecuador|Machala|Comm & Net S.A|
 
 
 
