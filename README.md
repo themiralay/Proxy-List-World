@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|112.163.160.38|3129|South Korea|Nammyeon|Korea Telecom|
-|6|67.43.236.20|31331|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.226|9691|Canada|Montreal|GloboTech Communications|
-|8|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|67.43.228.253|5941|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|5941|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|5.196.111.29|20121|France|Gravelines|OVH SAS|
-|15|72.10.160.172|1111|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|25545|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|25545|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.252|27471|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|5941|Canada|Montreal|GloboTech Communications|
-|20|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|10|67.43.227.226|9691|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|29993|Canada|Montreal|GloboTech Communications|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|5.196.111.29|20121|France|Gravelines|OVH SAS|
+|14|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|122.54.92.233|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|103.115.31.39|8181|Indonesia|Nganjuk|HSPNET|
+|20|67.43.228.253|5941|Canada|Montreal|GloboTech Communications|
 
 
 
