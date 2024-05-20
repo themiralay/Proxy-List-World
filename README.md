@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7146** proxies at the latest update. Usable proxies are below.
+> Scraper found **7108** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|56|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|735|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|697|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|124|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5273|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|7|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|8|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|139.84.154.204|3129|India|Bengaluru|The Constant Company, LLC|
-|10|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.236.18|25093|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|6079|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|31547|Canada|Montreal|GloboTech Communications|
-|20|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|103.159.225.34|80|Indonesia|Majalengka|PT Arkananta Global Media|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|139.84.154.204|3129|India|Bengaluru|The Constant Company, LLC|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|72.10.160.91|8293|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|6843|Canada|Montreal|GloboTech Communications|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|103.228.246.130|6060|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|16|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|17|67.43.236.20|27659|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.94|8293|Canada|Montreal|GloboTech Communications|
+|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|72.10.164.178|7257|Canada|Montreal|GloboTech Communications|
 
 
 
