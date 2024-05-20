@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |5|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|139.84.213.188|3129|India|Bengaluru|The Constant Company, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|9|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
-|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|14|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|19|46.21.253.164|3128|Russia|Moscow|Start LLC|
-|20|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
+|6|67.55.186.25|8080|United States|Floris|Aureon Network Services|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
+|12|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|13|72.10.164.178|13187|Canada|Montreal|GloboTech Communications|
+|14|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
