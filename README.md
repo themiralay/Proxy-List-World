@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|72.10.160.170|31707|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|21211|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|31707|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.172|19681|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|18983|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|31707|Canada|Montreal|GloboTech Communications|
-|14|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|67.43.227.228|6039|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|1887|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|1887|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|31707|Canada|Montreal|GloboTech Communications|
-|19|103.88.239.17|84|India|Hyderabad|Mana Communications|
-|20|67.43.228.253|18983|Canada|Montreal|GloboTech Communications|
+|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|8|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|14|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
+|15|188.132.166.51|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|16|202.154.36.103|1111|Indonesia|Surabaya|RADNET-BDG|
+|17|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|103.143.169.153|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|19|72.10.160.170|14593|Canada|Montreal|GloboTech Communications|
+|20|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
 
 
 
