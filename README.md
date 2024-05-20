@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.225.89.145|999|Ecuador|Balzar|Guzman Guzman Lenin Marcelo|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|5|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |8|139.84.139.59|3129|India|Bengaluru|The Constant Company|
-|9|139.84.133.80|3129|India|Bengaluru|The Constant Company|
+|9|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
 |10|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |11|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|12|67.43.227.229|18951|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|28971|Canada|Montreal|GloboTech Communications|
-|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
-|16|72.10.160.90|12975|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|15279|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|27935|Canada|Montreal|GloboTech Communications|
-|19|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|20|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|139.84.213.188|3129|India|Bengaluru|The Constant Company, LLC|
+|13|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
+|14|72.10.160.90|12975|Canada|Montreal|GloboTech Communications|
+|15|206.42.27.113|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|16|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|17|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|19|67.43.227.227|28971|Canada|Montreal|GloboTech Communications|
+|20|103.53.185.8|8088|Indonesia|Makassar|BOSOWA|
 
 
 
