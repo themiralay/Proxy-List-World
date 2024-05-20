@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|14|72.10.164.178|1601|Canada|Montreal|GloboTech Communications|
-|15|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|17|72.10.164.178|1601|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1601|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|12003|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|30265|Canada|Montreal|GloboTech Communications|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|15|67.43.236.20|8019|Canada|Montreal|GloboTech Communications|
+|16|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
+|17|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|18|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|72.10.164.178|28403|Canada|Montreal|GloboTech Communications|
+|20|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
 
 
 
