@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|10|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|14|154.127.240.126|64003|Angola|Huambo|HMB-FTTH|
-|15|72.10.160.170|31049|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|26349|Canada|Montreal|GloboTech Communications|
-|17|161.34.34.223|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|19|67.43.227.227|22719|Canada|Montreal|GloboTech Communications|
-|20|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunicação Ltda|
+|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|15|38.49.158.58|999|Mexico|Ixmiquilpan|Ientc S De RL De CV|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
