@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.202.44.67|8888|United States|Los Angeles|QuickPacket, LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|128.95.53.237|80|United States|Seattle|University of Washington|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|154.127.240.119|64002|Angola|Huambo|HMB-FTTH|
-|16|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|20|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|17|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|20|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
