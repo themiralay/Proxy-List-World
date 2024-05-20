@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|10|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|139.84.157.128|3129|India|Bengaluru|The Constant Company, LLC|
-|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|148.72.140.24|30186|United States|St Louis|GoDaddy.com|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|137.184.123.71|3131|United States|Santa Clara|DigitalOcean, LLC|
+|9|154.127.240.120|64003|Angola|Huambo|HMB-FTTH|
+|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|148.72.140.24|30186|United States|St Louis|GoDaddy.com|
+|14|45.8.119.32|3128|Kazakhstan|Astana|NLS ASTANA LLP|
+|15|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|20|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
 
 
 
