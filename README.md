@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|205.196.184.69|50704|United States|Houston|Phonoscope|
-|12|67.43.236.20|27381|Canada|Montreal|GloboTech Communications|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|121.195.170.225|1024|China|Haidian|CERNET|
-|16|5.196.111.29|20109|France|Gravelines|OVH SAS|
-|17|72.10.160.94|23523|Canada|Montreal|GloboTech Communications|
-|18|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
-|19|72.10.164.178|24979|Canada|Montreal|GloboTech Communications|
-|20|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|67.43.236.20|22173|Canada|Montreal|GloboTech Communications|
+|10|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|11|121.195.170.225|1024|China|Haidian|CERNET|
+|12|72.10.160.94|23523|Canada|Montreal|GloboTech Communications|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|72.10.160.90|3537|Canada|Montreal|GloboTech Communications|
+|15|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|67.43.227.227|7487|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|7487|Canada|Montreal|GloboTech Communications|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
