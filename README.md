@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|171.252.131.44|21040|Vietnam|Da Nang|Viettel Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
 |5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.53.197.204|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|9|1.194.236.229|5005|China|Shanghai|China Telecom|
-|10|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|181.78.8.154|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|10|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|11|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 |12|67.43.227.227|1093|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|8291|Canada|Montreal|GloboTech Communications|
-|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|15|72.10.160.90|9971|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|20531|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|13991|Canada|Montreal|GloboTech Communications|
-|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|67.43.236.20|8291|Canada|Montreal|GloboTech Communications|
+|15|35.243.227.100|80|United States|North Charleston|Google LLC|
+|16|67.43.228.253|13991|Canada|Montreal|GloboTech Communications|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |19|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|20|72.10.160.170|28843|Canada|Montreal|GloboTech Communications|
 
 
 
