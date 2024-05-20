@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|13.53.197.204|3128|Sweden|Stockholm|Amazon Technologies Inc.|
 |5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|7|67.43.227.228|32983|Canada|Montreal|GloboTech Communications|
-|8|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|139.84.216.210|3129|India|Bengaluru|The Constant Company, LLC|
-|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|12|136.243.73.229|9999|Germany|Cologne|Hetzner Online GmbH|
-|13|5.196.111.29|20600|France|Gravelines|OVH SAS|
-|14|67.43.227.227|6073|Canada|Montreal|GloboTech Communications|
-|15|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|16|67.43.227.228|32983|Canada|Montreal|GloboTech Communications|
-|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|18|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
-|19|139.84.213.188|3129|India|Bengaluru|The Constant Company, LLC|
-|20|72.10.164.178|25071|Canada|Montreal|GloboTech Communications|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|27.112.70.59|1111|Indonesia|Jakarta|GRAHANET|
+|8|181.78.8.154|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|13|67.43.227.227|30795|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|32983|Canada|Montreal|GloboTech Communications|
+|15|1.194.236.229|5005|China|Shanghai|China Telecom|
+|16|67.43.228.250|10853|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|32983|Canada|Montreal|GloboTech Communications|
+|18|119.59.96.112|80|Thailand|Samphanthawong|Metrabyte Co., Ltd|
+|19|103.230.81.135|8080|Indonesia|Banten|PT. Pandeglang Akses Semesta|
+|20|115.178.49.181|8080|Indonesia|Pengasinan|NOC SIMAYA|
 
 
 
