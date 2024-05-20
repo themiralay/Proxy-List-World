@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|511|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|511|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|511|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|3|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|12|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
-|13|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|144.137.217.187|80|Australia|Sydney|Telstra Internet|
-|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|19|5.78.57.82|3128|United States|Portland|Hetzner Online GmbH|
-|20|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|1|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|16|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|17|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
 
 
 
