@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|2|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
+|3|103.250.130.220|8080|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|7|95.110.227.85|3128|Italy|Ponte San Pietro|Aruba S.p.A. Network|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|103.153.35.87|3127|Indonesia|Subang|JMExpress|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|68.183.104.254|8000|United States|North Bergen|DigitalOcean, LLC|
-|20|201.131.239.233|999|Mexico|Fresnillo|Telecable del Mineral, S. A. de C.V.|
+|6|185.202.44.71|8888|United States|Los Angeles|QuickPacket, LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|137.184.156.168|8000|United States|North Bergen|DigitalOcean, LLC|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|11|103.108.88.41|8080|Bangladesh|Nārāyanganj|BKB Network|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|80.66.89.10|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|14|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|19|198.199.120.65|8000|United States|North Bergen|DigitalOcean, LLC|
+|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 
 
 
