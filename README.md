@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
 |4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|5|203.150.113.214|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|103.51.205.98|8080|Indonesia|Semarang|Lintas Data Prima, PT|
-|10|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|11|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
-|12|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|87.76.1.251|8080|Russia|Ulyanovsk|JSC Telecom.ru|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|17|72.10.164.178|3003|Canada|Montreal|GloboTech Communications|
-|18|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|19|67.43.236.20|5443|Canada|Montreal|GloboTech Communications|
-|20|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|11|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|103.148.130.215|8088|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|13|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|45.238.58.1|999|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
+|17|67.43.236.19|9891|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|24921|Canada|Montreal|GloboTech Communications|
+|19|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
