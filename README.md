@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|45.8.119.32|3128|Kazakhstan|Astana|NLS ASTANA LLP|
-|5|186.125.218.149|999|Argentina|Molinos|Telecom Argentina S.A.|
+|1|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|157.120.61.226|3128|Japan|Fukaya|NTT PC Communications, Inc.|
-|8|103.191.155.70|8080|Indonesia|Sumurgede|PT Ilham Wifi Solution|
-|9|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|169.239.248.198|8080|Ghana|Accra|Ghanaian Academic and Research Network|
-|11|80.66.81.61|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|12|45.8.119.32|3128|Kazakhstan|Astana|NLS ASTANA LLP|
-|13|13.53.197.204|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|14|67.43.227.228|19039|Canada|Montreal|GloboTech Communications|
-|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|16|139.84.157.128|3129|India|Bengaluru|The Constant Company, LLC|
-|17|201.246.205.57|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
-|18|5.135.188.62|9999|France|Roubaix|OVH SAS|
-|19|67.43.227.227|28613|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|9347|Canada|Montreal|GloboTech Communications|
+|7|45.8.119.32|3128|Kazakhstan|Astana|NLS ASTANA LLP|
+|8|46.21.253.164|3128|Russia|Moscow|Start LLC|
+|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|10|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|67.43.227.228|6879|Canada|Montreal|GloboTech Communications|
+|16|201.246.205.57|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|18|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|67.43.227.226|9347|Canada|Montreal|GloboTech Communications|
+|20|45.8.119.32|3128|Kazakhstan|Astana|NLS ASTANA LLP|
 
 
 
