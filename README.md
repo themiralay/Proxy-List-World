@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|10|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|11|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|14|139.84.144.173|3129|India|Bengaluru|The Constant Company, LLC|
-|15|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|16|72.10.160.171|22001|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.228.253|28121|Canada|Montreal|GloboTech Communications|
-|19|117.252.9.178|3128|India|Delhi|BSNL Internet|
-|20|103.160.41.54|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|8|67.43.228.253|28121|Canada|Montreal|GloboTech Communications|
+|9|139.84.213.188|3129|India|Bengaluru|The Constant Company, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|12|67.43.236.20|16425|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|14505|Canada|Montreal|GloboTech Communications|
+|14|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|15|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|17|170.80.242.78|999|Mexico|General Lazaro Cardenas|TV CABLE DEL GUADIANA S.A DE C.V.|
+|18|147.92.36.42|3129|Hong Kong|Tseung Kwan O|DNC|
+|19|72.10.160.171|22001|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.91|13395|Canada|Montreal|GloboTech Communications|
 
 
 
