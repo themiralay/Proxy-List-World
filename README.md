@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|133.32.32.57|8080|Japan|Fujisawa|ARTERIA Networks Corporation|
-|7|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
-|8|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|118.99.111.224|8080|Indonesia|Jakarta|BIZNET|
-|12|189.201.191.75|999|Mexico|Jesus Maria|IP Matrix, S.A. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|61.219.53.24|8080|Taiwan|Taoyuan District|Chunghwa Telecom Co., Ltd.|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
-|18|72.10.160.90|14399|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|10627|Canada|Montreal|GloboTech Communications|
-|20|103.53.185.8|8088|Indonesia|Makassar|BOSOWA|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|202.57.2.20|80|Indonesia|Pademangan Timur|Primanet - ISP|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|118.99.111.224|8080|Indonesia|Jakarta|BIZNET|
+|9|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|186.123.26.79|8080|Argentina|Villa Ballester|Techtel LMDS Comunicaciones Interactivas S.A.|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|177.43.72.250|3128|Brazil|Brasília|Vivo|
+|16|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
+|17|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|18|61.219.53.24|8080|Taiwan|Taoyuan District|Chunghwa Telecom Co., Ltd.|
+|19|72.10.160.90|29081|Canada|Montreal|GloboTech Communications|
+|20|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
 
 
 
