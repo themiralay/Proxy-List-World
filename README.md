@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|7|45.232.79.0|9292|Brazil|Buritama|D. A. F. BANSI & CIA LTDA|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|5|182.253.72.108|8082|Indonesia|Jakarta Pusat|BIZNET|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|195.68.158.11|3129|Russia|Moscow|PJSC "Vimpelcom"|
 |8|160.248.90.213|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |9|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
-|11|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
-|12|67.43.236.20|30081|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|24007|Canada|Montreal|GloboTech Communications|
-|14|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|15|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|72.10.160.171|7047|Canada|Montreal|GloboTech Communications|
-|18|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
-|19|67.43.236.18|20645|Canada|Montreal|GloboTech Communications|
-|20|177.184.199.36|80|Brazil|Suzano|Wireless Comm Services LTDA|
+|10|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|11|72.10.164.178|26281|Canada|Montreal|GloboTech Communications|
+|12|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|13|72.10.160.173|20013|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|72.10.164.178|26281|Canada|Montreal|GloboTech Communications|
+|17|59.38.63.95|9999|China|Guangzhou|Chinanet|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|72.10.160.170|14931|Canada|Montreal|GloboTech Communications|
+|20|103.142.241.165|8085|Indonesia|Jember|Multi Teknologi Telematika|
 
 
 
