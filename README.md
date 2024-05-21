@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.53.185.8|8088|Indonesia|Makassar|BOSOWA|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.79.148.218|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|7|128.95.53.237|80|United States|Seattle|University of Washington|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|72.10.164.178|30967|Canada|Montreal|GloboTech Communications|
-|10|152.67.0.109|80|India|Mumbai|Oracle Corporation|
-|11|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|12|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|13|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|67.43.227.227|3025|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|30967|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|6635|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|30967|Canada|Montreal|GloboTech Communications|
-|19|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|45.231.220.67|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|2|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.79.148.218|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|9|103.163.244.52|83|India|Panipat|Infolink System|
+|10|190.90.22.106|999|Colombia|Bogotá|InterNexa Global Network|
+|11|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|12|180.130.190.32|3000|China|Chengdu|China Unicom Yunnan Province Network|
+|13|200.69.159.177|8080|Argentina|La Plata|Citarella S.A.|
+|14|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
+|15|188.244.38.227|7999|Russia|Moscow|2COM|
+|16|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|72.10.164.178|30967|Canada|Montreal|GloboTech Communications|
+|18|120.28.216.126|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|19|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|72.10.164.178|30967|Canada|Montreal|GloboTech Communications|
 
 
 
