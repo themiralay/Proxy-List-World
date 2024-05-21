@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|112.163.160.38|3129|South Korea|Nammyeon|Korea Telecom|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|186.96.95.205|999|Costa Rica|San José|Telefonica de Costa Rica TC, SA|
-|12|103.154.77.64|83|Indonesia|Magelang|T2NET|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|36.133.183.200|7890|China|Shenzhen|China Mobile|
-|15|103.239.175.90|1111|India|Puducherry|One Eight Technologies Private Limited|
-|16|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|18|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|67.43.227.227|26821|Canada|Montreal|GloboTech Communications|
+|5|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|8|36.133.183.200|7890|China|Shenzhen|China Mobile|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|12|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|14|67.43.227.227|9919|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.174|13953|Canada|Montreal|GloboTech Communications|
+|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
+|18|72.10.164.178|2817|Canada|Montreal|GloboTech Communications|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|72.10.160.90|12249|Canada|Montreal|GloboTech Communications|
 
 
 
