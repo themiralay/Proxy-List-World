@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|103.245.193.244|4444|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|4|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|80.66.81.43|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
 |7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 |12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|15|150.136.42.70|80|United States|Ashburn|Oracle Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|20|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|14|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|15|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|139.84.144.173|3129|India|Bengaluru|The Constant Company, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
 
 
 
