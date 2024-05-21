@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
-|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|182.253.109.10|8080|Indonesia|Semarang|Biznet Metronet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|171.252.131.44|21040|Vietnam|Da Nang|Viettel Corporation|
-|9|72.10.164.178|22021|Canada|Montreal|GloboTech Communications|
-|10|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|181.78.21.149|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|12|72.10.164.178|22021|Canada|Montreal|GloboTech Communications|
-|13|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|14|72.10.160.172|25427|Canada|Montreal|GloboTech Communications|
-|15|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
-|16|72.10.164.178|22021|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|24207|Canada|Montreal|GloboTech Communications|
-|18|103.245.193.244|4444|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
-|19|72.10.164.178|22021|Canada|Montreal|GloboTech Communications|
-|20|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|11|72.10.160.90|11257|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|25713|Canada|Montreal|GloboTech Communications|
+|13|190.40.234.18|999|Peru|Chiclayo|Telefonica del Peru|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|160.248.187.157|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|67.43.227.227|9013|Canada|Montreal|GloboTech Communications|
+|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
