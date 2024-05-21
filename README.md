@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|157.120.61.226|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|3|157.120.61.226|3128|Japan|Fukaya|NTT PC Communications, Inc.|
+|4|182.253.109.10|8080|Indonesia|Semarang|Biznet Metronet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|182.253.109.10|8080|Indonesia|Semarang|Biznet Metronet|
+|7|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 |10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |11|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|72.10.160.170|14065|Canada|Montreal|GloboTech Communications|
+|12|51.91.252.25|1234|France|Gravelines|OVH SAS|
 |13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|16|67.43.227.230|24005|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|13555|Canada|Montreal|GloboTech Communications|
-|18|103.164.223.54|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|19|72.10.164.178|5211|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|5211|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|11697|Canada|Montreal|GloboTech Communications|
+|15|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|67.43.227.227|10783|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|14065|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.164.178|11697|Canada|Montreal|GloboTech Communications|
+|20|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
 
 
 
