@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|58.69.117.149|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.185.198.242|7999|India|Gurugram|Bharti Airtel Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|220.178.4.2|8080|China|Bengbu|Chinanet|
-|11|185.202.44.108|8888|United States|Los Angeles|QuickPacket, LLC|
-|12|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|72.10.160.90|13733|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|21413|Canada|Montreal|GloboTech Communications|
-|20|181.233.93.88|8080|Brazil|Ananindeua|J.A TELECOM.PE|
+|10|217.199.151.94|83|Kenya|Nairobi|MTN Business Kenya|
+|11|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|72.10.164.178|21413|Canada|Montreal|GloboTech Communications|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|72.10.160.90|13733|Canada|Montreal|GloboTech Communications|
 
 
 
