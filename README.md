@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|182.253.109.201|8080|Indonesia|Semarang|Biznet Metronet|
-|4|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|158.101.211.163|9000|Netherlands|Amsterdam|Oracle Corporation|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
+|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 |9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|67.43.227.227|5551|Canada|Montreal|GloboTech Communications|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|67.43.236.20|24489|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|24489|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|8211|Canada|Montreal|GloboTech Communications|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|171.252.131.44|21040|Vietnam|Da Nang|Viettel Corporation|
+|13|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|17|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
 |18|72.10.164.178|28051|Canada|Montreal|GloboTech Communications|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|67.43.236.20|18277|Canada|Montreal|GloboTech Communications|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
