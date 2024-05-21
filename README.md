@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|5|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
 |6|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|7|142.190.149.206|8080|United States|Frisco City|Uniti Fiber Holdings Inc.|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |8|203.150.128.219|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|220.178.4.2|8080|China|Bengbu|Chinanet|
-|12|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|13|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|15|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|67.43.236.21|9561|Canada|Montreal|GloboTech Communications|
-|17|14.243.54.177|4006|Vietnam|Nui Thanh|VNPT|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|67.43.228.251|1763|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|12|220.178.4.2|8080|China|Bengbu|Chinanet|
+|13|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|102.67.101.242|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
+|15|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|147.92.36.42|3129|Hong Kong|Tseung Kwan O|DNC|
+|20|51.91.252.25|1234|France|Gravelines|OVH SAS|
 
 
 
