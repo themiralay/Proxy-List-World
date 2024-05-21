@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|57.181.36.106|80|Japan|Tokyo|Amazon.com, Inc.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
+|11|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
 |12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|203.194.108.23|3129|India|Mumbai|In2cable|
+|13|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|19|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
