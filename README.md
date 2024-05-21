@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|4|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|210.73.75.166|80|China|Beijing|NO.11 Xi San Huan Zhong Road, Beijing|
+|6|67.43.227.227|12795|Canada|Montreal|GloboTech Communications|
+|7|201.168.199.7|999|Mexico|Juventino Rosas|Marcatel Com, S.A. de C.V.|
+|8|72.10.160.91|18031|Canada|Montreal|GloboTech Communications|
 |9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|10|72.10.160.91|18031|Canada|Montreal|GloboTech Communications|
+|10|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|67.43.236.20|12781|Canada|Montreal|GloboTech Communications|
-|12|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.236.18|7197|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|29863|Canada|Montreal|GloboTech Communications|
-|15|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
-|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|17|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|18|67.43.227.227|12795|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|29863|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|12795|Canada|Montreal|GloboTech Communications|
+|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|13|72.10.164.178|28181|Canada|Montreal|GloboTech Communications|
+|14|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|18|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|19|201.184.53.180|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|20|154.38.180.194|3128|United States|New York|Nubes, LLC|
 
 
 
