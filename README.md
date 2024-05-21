@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|3|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
-|4|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|5|122.185.198.242|7999|India|Gurugram|Bharti Airtel Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|72.10.164.178|4817|Canada|Montreal|GloboTech Communications|
-|9|103.53.185.8|8088|Indonesia|Makassar|BOSOWA|
-|10|103.53.185.8|8088|Indonesia|Makassar|BOSOWA|
-|11|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|222.243.174.132|81|China|Xiangtan|Chinanet|
-|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|17|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|45.229.58.33|999|Panama|La Chorrera|GEEK NETWORKS, S.A|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|7|72.10.164.178|9471|Canada|Montreal|GloboTech Communications|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|103.137.160.186|8090|Bangladesh|Dhaka|Top Network|
+|11|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
+|12|103.184.56.125|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|13|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
+|14|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|17|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
+|18|120.196.207.10|80|China|Shenzhen|China Mobile communications corporation|
+|19|72.10.164.178|9471|Canada|Montreal|GloboTech Communications|
+|20|185.202.44.85|8888|United States|Los Angeles|QuickPacket, LLC|
 
 
 
