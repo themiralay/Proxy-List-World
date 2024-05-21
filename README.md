@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.207.92.41|80|India|Mumbai|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|14.243.54.177|4006|Vietnam|Nui Thanh|VNPT|
-|9|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|14|103.169.186.151|3125|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|15|67.43.236.20|17451|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|15623|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|15623|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|27349|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|1319|Canada|Montreal|GloboTech Communications|
-|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|101.255.167.142|3125|Indonesia|Bekasi|PT Remala Abadi|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|67.43.236.20|19721|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|6355|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|23603|Canada|Montreal|GloboTech Communications|
+|15|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|72.10.160.90|14001|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|23603|Canada|Montreal|GloboTech Communications|
+|18|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|19|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|20|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
