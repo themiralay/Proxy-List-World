@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.53.185.8|8088|Indonesia|Makassar|BOSOWA|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|6|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|7|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |10|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|11|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
-|12|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|13|1.194.236.229|5005|China|Shanghai|China Telecom|
-|14|83.148.75.16|3128|Bulgaria|Sofia|BTC-Broadband|
-|15|67.43.236.18|26627|Canada|Montreal|GloboTech Communications|
-|16|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|18|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.187.157|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|13|24.176.53.183|8080|United States|Portage|Charter Communications|
+|14|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.133.25.10|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|160.248.187.157|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|72.10.160.90|7349|Canada|Montreal|GloboTech Communications|
+|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 
 
 
