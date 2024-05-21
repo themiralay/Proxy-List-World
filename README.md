@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|103.28.114.157|66|Indonesia|Bantul|PT Lintas Data Prima|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|50.235.247.114|8085|United States|Rincon|Comcast Cable Communications, LLC|
-|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|9|221.168.37.223|8888|South Korea|Seongnam-si|Korea Telecom|
+|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|50.235.247.114|8085|United States|Rincon|Comcast Cable Communications, LLC|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|12|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
-|13|67.43.236.21|32251|Canada|Montreal|GloboTech Communications|
-|14|61.219.53.24|8080|Taiwan|Taoyuan District|Chunghwa Telecom Co., Ltd.|
-|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|16|114.104.227.225|41122|China|Rongcheng|Chinanet|
-|17|72.10.160.90|29511|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|16561|Canada|Montreal|GloboTech Communications|
-|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|20|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
+|11|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|12|72.10.160.90|18061|Canada|Montreal|GloboTech Communications|
+|13|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
+|14|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|15|61.219.53.24|8080|Taiwan|Taoyuan District|Chunghwa Telecom Co., Ltd.|
+|16|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
+|17|103.145.149.36|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|67.43.236.21|32251|Canada|Montreal|GloboTech Communications|
+|20|103.245.193.244|4444|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
 
 
 
