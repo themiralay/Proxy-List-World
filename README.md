@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|133.32.32.57|8080|Japan|Fujisawa|ARTERIA Networks Corporation|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|103.245.193.244|4444|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|75.25.159.161|3128|United States|San Francisco|AT&T Services, Inc.|
-|8|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|15|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
-|16|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|17|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|67.43.227.227|23143|Canada|Montreal|GloboTech Communications|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|7|36.64.52.226|8081|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
+|10|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
+|14|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
+|15|171.252.131.44|21040|Vietnam|Da Nang|Viettel Corporation|
+|16|50.235.247.114|8085|United States|Rincon|Comcast Cable Communications, LLC|
+|17|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|103.245.193.244|4444|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
+|19|181.204.172.170|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|20|72.10.164.178|32927|Canada|Montreal|GloboTech Communications|
 
 
 
