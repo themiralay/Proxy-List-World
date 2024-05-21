@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.117.31.129|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|4|115.77.241.235|4006|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|7|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|9|67.43.227.227|18103|Canada|Montreal|GloboTech Communications|
-|10|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|14|171.252.131.44|21040|Vietnam|Da Nang|Viettel Corporation|
-|15|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|16|72.10.164.178|22183|Canada|Montreal|GloboTech Communications|
-|17|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|4|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|12|72.10.164.178|11923|Canada|Montreal|GloboTech Communications|
+|13|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|72.10.164.178|11923|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|21085|Canada|Montreal|GloboTech Communications|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|67.43.228.252|10089|Canada|Montreal|GloboTech Communications|
+|19|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
+|20|67.43.236.20|24935|Canada|Montreal|GloboTech Communications|
 
 
 
