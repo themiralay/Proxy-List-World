@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|6|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|11|212.39.74.207|8080|Bulgaria|Pleven|Bulgarian Telecommunications Company Plc.|
-|12|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|13|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|14|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
-|15|67.43.236.20|7925|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|22183|Canada|Montreal|GloboTech Communications|
+|4|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|8|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|9|67.43.236.20|7925|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|15859|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|8973|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|7925|Canada|Montreal|GloboTech Communications|
+|13|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|72.10.164.178|13535|Canada|Montreal|GloboTech Communications|
+|16|181.233.93.88|8080|Brazil|Ananindeua|J.A TELECOM.PE|
 |17|72.10.160.90|15859|Canada|Montreal|GloboTech Communications|
-|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|20|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|18|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|19|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
+|20|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
 
 
 
