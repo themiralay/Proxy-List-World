@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|1|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|182.253.109.201|8080|Indonesia|Semarang|Biznet Metronet|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|160.248.187.157|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|67.43.227.230|17505|Canada|Montreal|GloboTech Communications|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|67.43.236.20|26999|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|17885|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|19997|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|5473|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|19997|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|4391|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|14851|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|20033|Canada|Montreal|GloboTech Communications|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|182.253.109.201|8080|Indonesia|Semarang|Biznet Metronet|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|160.248.187.157|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|67.43.236.20|30419|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
+|20|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
 
 
 
