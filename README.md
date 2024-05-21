@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7147** proxies at the latest update. Usable proxies are below.
+> Scraper found **7445** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|83|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|806|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|880|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|247|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5053|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|228|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5296|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.88.237.6|84|India|Hyderabad|Mana Communications|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
+|7|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|11|13.80.177.101|8118|Netherlands|Amsterdam|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|12|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
+|13|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
 |14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|150.136.42.70|80|United States|Ashburn|Oracle Corporation|
-|16|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|18|72.10.164.178|12605|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|16873|Canada|Montreal|GloboTech Communications|
-|20|5.61.62.24|8118|United Kingdom|Manchester|M247 Europe SRL|
+|15|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.164.178|12605|Canada|Montreal|GloboTech Communications|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
