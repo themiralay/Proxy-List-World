@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|9|67.43.228.250|7563|Canada|Montreal|GloboTech Communications|
-|10|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
+|6|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
+|7|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|8|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|9|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|10|67.220.86.253|3128|United States|Phoenix|GTHost|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|67.43.228.254|2347|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.250|9665|Canada|Montreal|GloboTech Communications|
 |13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|67.43.227.228|30511|Canada|Montreal|GloboTech Communications|
-|15|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|16|72.10.160.173|21875|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|67.43.227.227|23143|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.94|23389|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|23143|Canada|Montreal|GloboTech Communications|
+|14|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
+|15|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|17|72.10.164.178|12867|Canada|Montreal|GloboTech Communications|
+|18|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|19|72.10.160.173|26327|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.94|10325|Canada|Montreal|GloboTech Communications|
 
 
 
