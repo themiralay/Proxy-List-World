@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|11|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|12|103.175.218.132|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
-|13|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|14|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
-|15|115.248.66.131|3129|India|Hyderabad|Reliance Communications Limited|
-|16|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|17|72.10.164.178|20923|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|30333|Canada|Montreal|GloboTech Communications|
-|19|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|5|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|72.10.164.178|2289|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.92|3169|Canada|Montreal|GloboTech Communications|
+|13|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|222.243.174.132|81|China|Xiangtan|Chinanet|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
