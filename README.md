@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|182.253.109.10|8080|Indonesia|Semarang|Biznet Metronet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|134.35.19.99|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|165.22.52.144|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|11|36.88.111.98|55443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|133.32.32.57|8080|Japan|Fujisawa|ARTERIA Networks Corporation|
-|13|65.108.226.74|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|72.10.160.171|26119|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|20789|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.94|23043|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|20789|Canada|Montreal|GloboTech Communications|
-|18|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|19|67.43.236.20|4131|Canada|Montreal|GloboTech Communications|
-|20|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|4|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|133.32.32.57|8080|Japan|Fujisawa|ARTERIA Networks Corporation|
+|8|72.10.164.178|20789|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.171|26119|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.94|23891|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|4131|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|20789|Canada|Montreal|GloboTech Communications|
+|13|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|72.10.164.178|20789|Canada|Montreal|GloboTech Communications|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
+|17|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
+|18|72.10.160.173|21219|Canada|Montreal|GloboTech Communications|
+|19|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|20|67.43.228.253|33165|Canada|Montreal|GloboTech Communications|
 
 
 
