@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.79.148.218|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|6|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|7|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|72.10.164.178|10953|Canada|Montreal|GloboTech Communications|
-|12|103.217.224.53|3127|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|72.10.160.90|22151|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|14383|Canada|Montreal|GloboTech Communications|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|67.43.236.20|11811|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.79.148.218|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|4|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
+|6|112.163.160.38|3129|South Korea|Nammyeon|Korea Telecom|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|120.28.216.126|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|15|195.189.16.190|8080|Russia|Taman'|Telecommunication company FEONET+ LLC|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|61.74.186.71|3128|South Korea|Seongnam-si|Korea Telecom|
 
 
 
