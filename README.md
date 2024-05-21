@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|142.190.149.206|8080|United States|Frisco City|Uniti Fiber Holdings Inc.|
-|8|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
-|10|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|11|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.236.18|30133|Canada|Montreal|GloboTech Communications|
-|15|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|187.188.169.169|8080|Mexico|Molcaxac|Total Play Telecomunicaciones SA De CV|
+|6|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|181.78.64.75|8080|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|103.154.77.64|83|Indonesia|Magelang|T2NET|
+|13|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|15|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|17|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|18|67.43.227.226|2237|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|25071|Canada|Montreal|GloboTech Communications|
-|20|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|17|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
+|19|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|67.43.227.227|16573|Canada|Montreal|GloboTech Communications|
 
 
 
