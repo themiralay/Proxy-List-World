@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|170.82.13.121|3600|Brazil|Porto Seguro|Netcenter Telecom|
-|7|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|10|43.129.178.138|8000|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|139.59.238.66|3128|Singapore|Singapore|DIGITALOCEAN|
-|12|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|103.122.1.74|7777|Indonesia|Palembang|PT. Java Digital Nusantara|
-|15|139.84.144.173|3129|India|Bengaluru|The Constant Company, LLC|
-|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|67.43.227.228|20757|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|3495|Canada|Montreal|GloboTech Communications|
-|20|128.199.17.168|3128|India|Bengaluru|DigitalOcean, LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|7|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|8|103.67.90.25|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
+|9|103.162.154.14|8888|Australia|Nikenbah|Serenitas Communities Holdings Pty Ltd|
+|10|154.38.180.194|3128|United States|New York|Nubes, LLC|
+|11|43.153.108.224|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|14|139.84.144.173|3129|India|Bengaluru|The Constant Company, LLC|
+|15|154.127.240.126|64003|Angola|Huambo|HMB-FTTH|
+|16|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
+|17|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
+|18|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
