@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|202.40.185.166|8090|Bangladesh|Dhaka|Ranks ITT|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|2|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.237.185.17|999|Panama|Las Tablas|DBS NETWORK, S.A.|
-|9|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|10|222.243.174.132|81|China|Xiangtan|Chinanet|
-|11|67.43.236.20|9321|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|13157|Canada|Montreal|GloboTech Communications|
-|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|72.10.160.90|13401|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.171|8743|Canada|Montreal|GloboTech Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.236.20|9321|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|31735|Canada|Montreal|GloboTech Communications|
-|19|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|20|186.148.182.82|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
+|8|72.10.164.178|13105|Canada|Montreal|GloboTech Communications|
+|9|103.160.150.251|8080|Indonesia|Samarinda|PT. LINTASMAYA MULTI MEDIA|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|172.232.114.25|8080|India|Chennai|Akamai Technologies, Inc.|
+|13|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
+|14|222.243.174.132|81|China|Xiangtan|Chinanet|
+|15|47.245.60.185|3128|Japan|Tokyo|Alibaba Cloud LLC|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|18|67.43.227.227|31735|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|24655|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|24655|Canada|Montreal|GloboTech Communications|
 
 
 
