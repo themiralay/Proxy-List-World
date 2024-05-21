@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|2|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|94.75.76.10|8080|Poland|Warsaw|ASTER Sp. z o.o|
+|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|10|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|72.10.160.90|29629|Canada|Montreal|GloboTech Communications|
+|19|177.73.136.29|8080|Brazil|Blumenau|UNIFIQUE TELECOMUNICACOES S/A|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+
 
 
 ## Contributing
