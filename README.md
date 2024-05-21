@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|3|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|4|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|7|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
+|7|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|8|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
+|9|220.178.4.2|8080|China|Bengbu|Chinanet|
 |10|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
-|12|45.238.58.1|999|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|13|46.209.49.226|3698|Iran|Tehran|Respina|
-|14|220.178.4.2|8080|China|Bengbu|Chinanet|
-|15|72.10.164.178|12399|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|26937|Canada|Montreal|GloboTech Communications|
-|17|80.66.81.43|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|18|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|67.43.236.18|3281|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|1605|Canada|Montreal|GloboTech Communications|
+|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|203.142.74.115|8080|Indonesia|Semarang|BIZNET|
+|14|103.217.224.201|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|16|72.10.164.178|13021|Canada|Montreal|GloboTech Communications|
+|17|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
+|19|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
