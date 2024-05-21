@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|171.252.131.44|21040|Vietnam|Da Nang|Viettel Corporation|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|72.10.160.90|5703|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|8889|Canada|Montreal|GloboTech Communications|
-|10|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
-|11|67.43.227.226|30043|Canada|Montreal|GloboTech Communications|
-|12|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|188.132.222.47|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|67.43.236.20|8889|Canada|Montreal|GloboTech Communications|
-|15|139.84.144.173|3129|India|Bengaluru|The Constant Company, LLC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|19|67.43.227.226|30043|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|13981|Canada|Montreal|GloboTech Communications|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|8|46.21.253.164|3128|Russia|Moscow|Start LLC|
+|9|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|103.137.45.10|13799|India|Pūrna|Wsnl Broadband Private Limited|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
+|13|38.188.127.123|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|14|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.160.90|5703|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|11131|Canada|Montreal|GloboTech Communications|
+|18|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|67.43.227.226|25101|Canada|Montreal|GloboTech Communications|
 
 
 
