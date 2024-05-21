@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|160.248.187.157|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|103.154.120.147|8080|Indonesia|Jakarta|MORATELINDONAP|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|82.202.151.57|8080|Russia|Yuzhno-Sakhalinsk|Site LLC|
-|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|67.43.236.20|5249|Canada|Montreal|GloboTech Communications|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|133.32.32.57|8080|Japan|Fujisawa|ARTERIA Networks Corporation|
-|20|67.43.236.20|5249|Canada|Montreal|GloboTech Communications|
+|1|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|160.248.187.157|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|7|172.232.114.54|8080|India|Chennai|Akamai Technologies, Inc.|
+|8|101.231.64.89|8443|China|Shanghai|China Telecom (Group)|
+|9|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
+|10|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|43.153.108.224|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|67.43.227.228|6083|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|17439|Canada|Montreal|GloboTech Communications|
+|16|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|222.243.174.132|81|China|Xiangtan|Chinanet|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
