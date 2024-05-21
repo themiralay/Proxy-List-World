@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|6|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|12|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|17|171.238.157.36|19017|Vietnam|Da Nang|Viettel Corporation|
-|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|19|139.84.144.173|3129|India|Bengaluru|The Constant Company, LLC|
-|20|171.238.157.36|19017|Vietnam|Da Nang|Viettel Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|41.33.203.228|1976|Egypt|Cairo|TE Data|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|15|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|19|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|20|20.219.183.188|3129|India|Pune|Microsoft Corporation|
 
 
 
