@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|12|67.43.227.228|23301|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|19203|Canada|Montreal|GloboTech Communications|
-|14|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.227.227|11983|Canada|Montreal|GloboTech Communications|
-|18|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|19|205.196.184.69|50704|United States|Houston|Phonoscope|
-|20|72.10.160.90|28203|Canada|Montreal|GloboTech Communications|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|67.43.228.251|28509|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|29385|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|29385|Canada|Montreal|GloboTech Communications|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|72.10.160.90|28203|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|29761|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|13661|Canada|Montreal|GloboTech Communications|
+|16|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|17|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.227.228|23301|Canada|Montreal|GloboTech Communications|
+|19|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|20|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
 
 
 
