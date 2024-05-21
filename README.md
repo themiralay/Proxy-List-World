@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|52.179.80.83|8080|United States|Boydton|Microsoft Corporation|
-|6|46.21.253.164|3128|Russia|Moscow|Start LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|3|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
-|17|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|72.10.164.178|16843|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|1659|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|16843|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|72.10.160.170|1659|Canada|Montreal|GloboTech Communications|
+|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|72.10.164.178|26107|Canada|Montreal|GloboTech Communications|
 
 
 
