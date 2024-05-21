@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|5.196.111.29|20658|France|Gravelines|OVH SAS|
-|13|72.10.160.92|4005|Canada|Montreal|GloboTech Communications|
-|14|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
-|15|67.43.228.251|15463|Canada|Montreal|GloboTech Communications|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|18|72.10.160.90|29011|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|8949|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|28795|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|13|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|14|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|15|72.10.160.92|14775|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|8949|Canada|Montreal|GloboTech Communications|
+|17|5.196.111.29|20658|France|Gravelines|OVH SAS|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
