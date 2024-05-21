@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|6|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|74.208.29.124|3128|United States|Philadelphia|IONOS SE|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|122.3.121.231|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|72.10.164.178|7443|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.228.253|4711|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|7087|Canada|Montreal|GloboTech Communications|
-|19|182.253.109.201|8080|Indonesia|Semarang|Biznet Metronet|
-|20|67.43.228.250|13083|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|67.43.227.227|7327|Canada|Montreal|GloboTech Communications|
+|13|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|14|72.10.160.93|13477|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|20905|Canada|Montreal|GloboTech Communications|
+|16|182.253.109.201|8080|Indonesia|Semarang|Biznet Metronet|
+|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|18|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|19|72.10.160.172|11497|Canada|Montreal|GloboTech Communications|
+|20|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
