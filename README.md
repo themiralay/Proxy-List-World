@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|182.253.109.10|8080|Indonesia|Semarang|Biznet Metronet|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|165.22.52.144|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|182.253.109.10|8080|Indonesia|Semarang|Biznet Metronet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|134.35.19.99|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |6|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|67.43.236.20|10595|Canada|Montreal|GloboTech Communications|
-|9|192.210.228.107|3128|United States|Elk Grove Village|HostPapa|
-|10|67.43.227.227|4965|Canada|Montreal|GloboTech Communications|
-|11|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|72.10.164.178|20789|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.164.178|20789|Canada|Montreal|GloboTech Communications|
-|15|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|17|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|154.38.180.194|3128|United States|New York|Nubes, LLC|
-|19|67.43.236.20|10595|Canada|Montreal|GloboTech Communications|
-|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|119.110.71.58|12543|Indonesia|Jakarta|Maxindo|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|72.10.164.178|8713|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|26481|Canada|Montreal|GloboTech Communications|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|14|67.43.227.227|3785|Canada|Montreal|GloboTech Communications|
+|15|160.248.187.157|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|179.1.192.21|999|Colombia|Neiva|InterNexa Global Network|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|19|67.43.227.227|3785|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|8713|Canada|Montreal|GloboTech Communications|
 
 
 
