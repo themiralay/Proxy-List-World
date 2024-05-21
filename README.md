@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
-|5|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|112.163.160.38|3129|South Korea|Nammyeon|Korea Telecom|
-|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|10|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|67.43.236.20|18499|Canada|Montreal|GloboTech Communications|
-|18|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.236.18|11639|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|11639|Canada|Montreal|GloboTech Communications|
+|4|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
+|5|112.163.160.38|3129|South Korea|Nammyeon|Korea Telecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|67.43.236.20|18499|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.18|22549|Canada|Montreal|GloboTech Communications|
+|11|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|16|97.64.69.57|16099|United States|College Station|PRONSS|
+|17|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
+|18|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
