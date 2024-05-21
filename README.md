@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|119.2.52.152|8282|Indonesia|Pugeran Maguwoharjo|GMEDIA|
-|7|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|8|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|5|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|8|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|9|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |10|160.248.187.157|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|72.10.164.178|22991|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|19569|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|13881|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|19569|Canada|Montreal|GloboTech Communications|
-|15|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|177.136.85.193|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|17|83.148.75.16|3128|Bulgaria|Sofia|BTC-Broadband|
-|18|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
-|19|72.10.160.92|13479|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|19569|Canada|Montreal|GloboTech Communications|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|67.43.227.227|29979|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|21581|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|29979|Canada|Montreal|GloboTech Communications|
+|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|16|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|19|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
+|20|72.10.160.92|13479|Canada|Montreal|GloboTech Communications|
 
 
 
