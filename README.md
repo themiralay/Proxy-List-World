@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|36.133.183.200|7890|China|Shenzhen|China Mobile|
-|8|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|47.184.172.63|3128|United States|Garland|Frontier Communications Solutions|
-|10|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|72.10.164.178|28851|Canada|Montreal|GloboTech Communications|
-|12|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|72.10.164.178|28851|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|28851|Canada|Montreal|GloboTech Communications|
-|16|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|201.71.3.58|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|18|72.10.160.170|25707|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|15967|Canada|Montreal|GloboTech Communications|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|3|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.164.178|29995|Canada|Montreal|GloboTech Communications|
+|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|18|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|72.10.160.170|18909|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
