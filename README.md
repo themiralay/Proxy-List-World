@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.90.213|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|3|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|57.181.36.106|80|Japan|Tokyo|Amazon.com, Inc.|
-|8|185.64.208.118|53281|Russia|Kstovo|Svyazist LLC|
-|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|195.189.16.190|8080|Russia|Taman'|Telecommunication company FEONET+ LLC|
-|12|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|13|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|14|41.205.24.11|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|117.102.81.3|53281|Indonesia|Sunter Agung|Biznet Networks|
-|19|57.181.36.106|80|Japan|Tokyo|Amazon.com, Inc.|
-|20|72.10.164.178|13651|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|154.201.76.228|3128|United States|Dallas|Galaxy Broadband Pvt Ltd|
+|5|57.181.36.106|80|Japan|Tokyo|Amazon.com, Inc.|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|72.10.164.178|8337|Canada|Montreal|GloboTech Communications|
+|8|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|9|72.10.164.178|8337|Canada|Montreal|GloboTech Communications|
+|10|61.28.230.30|3128|Vietnam|Phường Mười Ba|Vietnam Internet Network Information Center|
+|11|67.43.227.227|19513|Canada|Montreal|GloboTech Communications|
+|12|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|72.10.160.90|32047|Canada|Montreal|GloboTech Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.160.93|28609|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|8337|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|32047|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|15623|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|19513|Canada|Montreal|GloboTech Communications|
 
 
 
