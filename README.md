@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|119.76.142.227|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|9|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.248.90.213|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|161.34.0.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|7|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|72.10.164.178|24007|Canada|Montreal|GloboTech Communications|
-|15|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|16|67.43.227.227|11323|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|24007|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|72.10.160.90|3661|Canada|Montreal|GloboTech Communications|
-|20|80.66.81.43|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|13|160.248.90.213|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|17|67.43.236.20|7129|Canada|Montreal|GloboTech Communications|
+|18|220.178.4.2|8080|China|Bengbu|Chinanet|
+|19|72.10.160.90|20293|Canada|Montreal|GloboTech Communications|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
