@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|181.78.64.75|8080|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|7|36.133.183.200|7890|China|Shenzhen|China Mobile|
-|8|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|72.10.160.170|12043|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|29531|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|31627|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|16573|Canada|Montreal|GloboTech Communications|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.164.178|31627|Canada|Montreal|GloboTech Communications|
-|18|114.118.5.211|3128|China|Beijing|CloudVsp.Inc|
-|19|103.246.247.150|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|20|72.10.164.178|31627|Canada|Montreal|GloboTech Communications|
+|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|6|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|187.188.169.169|8080|Mexico|Molcaxac|Total Play Telecomunicaciones SA De CV|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|80.82.55.71|80|Russia|Voronezh|CenterTelecom Voronezh ISP|
+|17|134.35.44.98|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
