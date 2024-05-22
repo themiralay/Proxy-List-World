@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
-|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|13|186.13.16.33|8080|Argentina|Salta|Techtel LMDS Comunicaciones Interactivas S.A.|
-|14|87.107.166.6|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|15|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|18|217.65.2.14|3333|Russia|Moscow|Citytelecom LLC|
-|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|3|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|4|103.46.8.55|8181|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|47.251.22.102|443|United States|Santa Clara|Alibaba Cloud LLC|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|10|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|122.185.180.190|32650|India|Bhubaneswar|Bharti Airtel Limited|
+|15|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|16|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|17|72.10.160.170|3785|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.174|31961|Canada|Montreal|GloboTech Communications|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
