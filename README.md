@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|10|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|15|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|200.24.134.53|999|Ecuador|Guaranda|Ufinet Panama S.A.|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|7|183.178.214.186|9091|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|13|186.13.16.33|8080|Argentina|Salta|Techtel LMDS Comunicaciones Interactivas S.A.|
+|14|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
 |19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|72.10.160.90|7855|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
