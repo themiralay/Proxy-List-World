@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|47.251.22.102|443|United States|Santa Clara|Alibaba Cloud LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.202.44.66|8888|United States|Los Angeles|QuickPacket, LLC|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|185.202.44.86|8888|United States|Los Angeles|QuickPacket, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|10|87.107.166.6|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|14|80.66.89.198|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|15|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|17|47.251.22.102|443|United States|Santa Clara|Alibaba Cloud LLC|
-|18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|87.107.166.6|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|7|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|10|220.178.4.2|8080|China|Bengbu|Chinanet|
+|11|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|12|67.43.228.253|13591|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|5537|Canada|Montreal|GloboTech Communications|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
+|17|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
+|18|160.248.187.157|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|186.13.16.33|8080|Argentina|Salta|Techtel LMDS Comunicaciones Interactivas S.A.|
+|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
