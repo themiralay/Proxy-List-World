@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7588** proxies at the latest update. Usable proxies are below.
+> Scraper found **7587** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|130|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|129|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|927|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|227|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|94.61.57.219|8118|Portugal|Porto|Vodafone Portugal|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.160.174|3943|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|31561|Canada|Montreal|GloboTech Communications|
-|17|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|18|72.10.160.90|13001|Canada|Montreal|GloboTech Communications|
-|19|58.186.130.35|4000|Vietnam|Hanoi|FPT Telecom Company|
-|20|67.43.236.18|21071|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|5|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|190.61.43.121|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
+|13|190.52.108.248|6666|Venezuela|Porlamar|Gold Data USA Inc|
+|14|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|72.10.160.90|16823|Canada|Montreal|GloboTech Communications|
 
 
 
