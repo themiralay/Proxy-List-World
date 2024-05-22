@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|160.248.184.233|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|193.106.138.52|3128|Ukraine|Kyiv|Industrial Media Network LLC|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
-|10|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|15|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|18|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
-|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|160.248.184.233|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|80.78.65.230|8080|Albania|Tirana|ABCom|
+|11|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
+|12|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|13|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|45.117.30.137|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|103.146.184.220|1111|Indonesia|Sragen|YAMNET|
+|18|80.66.89.198|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|19|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 
 
 
