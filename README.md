@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|87.107.166.6|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|9|186.13.16.33|8080|Argentina|Salta|Techtel LMDS Comunicaciones Interactivas S.A.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|222.127.67.204|8085|Philippines|Lahug|INNOVE|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|17|189.222.2.70|999|Mexico|Mexicali|Uninet S.A. de C.V.|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|87.107.166.6|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|20|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|16|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|17|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
