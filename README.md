@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.90.213|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|23.225.72.125|3503|United States|Dallas|Cnservers LLC|
-|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|123.200.7.110|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|158.220.87.11|3128|United Kingdom|Portsmouth|Contabo GmbH|
-|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|20|58.80.134.185|1080|Japan|Uji|ARTERIA Networks Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|6|200.174.198.236|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|11|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|204.48.31.203|80|United States|North Bergen|DigitalOcean, LLC|
+|14|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
+|15|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 
 
 
