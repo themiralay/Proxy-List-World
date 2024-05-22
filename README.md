@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|6|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|7|200.108.190.42|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|181.204.172.170|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
 |8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|72.10.164.178|3205|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|4709|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|2995|Canada|Montreal|GloboTech Communications|
-|14|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|15|72.10.160.93|2509|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|4709|Canada|Montreal|GloboTech Communications|
-|17|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
-|18|67.43.228.253|5069|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|3205|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|12183|Canada|Montreal|GloboTech Communications|
+|9|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.172.70.153|2022|Indonesia|Karangampel|AZNET|
+|11|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
+|12|67.43.236.20|1817|Canada|Montreal|GloboTech Communications|
+|13|185.202.44.67|8888|United States|Los Angeles|QuickPacket, LLC|
+|14|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
+|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|16|39.129.73.6|443|China|Kunming|China Mobile|
+|17|72.10.164.178|3205|Canada|Montreal|GloboTech Communications|
+|18|171.252.131.44|21040|Vietnam|Da Nang|Viettel Corporation|
+|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|20|67.43.236.20|1817|Canada|Montreal|GloboTech Communications|
 
 
 
