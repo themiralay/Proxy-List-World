@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7495** proxies at the latest update. Usable proxies are below.
+> Scraper found **7663** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|150|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|898|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1066|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|298|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5191|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|203.150.128.20|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|160.248.184.233|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|178.130.93.3|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
-|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|195.133.44.200|3128|Germany|Frankfurt am Main|DE-RUVDS|
-|12|41.222.246.29|7788|Rwanda|Kigali|RWEDNET|
-|13|103.191.196.47|3127|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|14|79.111.13.223|8080|Russia|Moscow|PJSC MegaFon|
-|15|38.65.172.132|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|160.248.184.233|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|38.65.172.132|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|11|178.130.93.3|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|5.161.62.237|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|41.174.132.58|8080|DR Congo|Kinshasa|Liquid Telecommunications Ltd|
 |16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|19|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|20|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
 
 
 
