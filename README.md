@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|3|27.123.1.46|3128|Indonesia|Pela Mampang|PT Tele Globe Global|
-|4|103.171.245.14|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|103.174.238.113|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|8|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|103.132.52.210|3128|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|202.55.134.227|3128|Vietnam|Hanoi|Vietserver Services Technology Company Limited|
-|16|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|222.99.192.29|8080|South Korea|Seongnam-si|Korea Telecom|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|5|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|6|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|7|123.200.18.155|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|19|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|20|185.126.183.120|8080|Russia|Moscow|"Telko" JSC|
 
 
 
