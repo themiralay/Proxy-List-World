@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|67.43.236.20|7749|Canada|Montreal|GloboTech Communications|
+|5|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|72.10.160.173|15411|Canada|Montreal|GloboTech Communications|
 |10|72.10.160.91|10539|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.172|3155|Canada|Montreal|GloboTech Communications|
-|12|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|13|72.10.164.178|3779|Canada|Montreal|GloboTech Communications|
-|14|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|15|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|45.231.220.67|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|17|67.43.227.227|12457|Canada|Montreal|GloboTech Communications|
-|18|160.248.187.157|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|72.10.164.178|3779|Canada|Montreal|GloboTech Communications|
-|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|12|67.43.227.227|5205|Canada|Montreal|GloboTech Communications|
+|13|190.43.92.134|999|Peru|Tacna|Telefonica Del Peru|
+|14|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|15|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|160.248.187.157|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|19|72.10.160.172|3155|Canada|Montreal|GloboTech Communications|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
