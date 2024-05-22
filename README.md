@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|148.72.165.7|10529|United States|St Louis|GoDaddy.com|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|220.178.4.2|8080|China|Bengbu|Chinanet|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|17|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|186.13.16.33|8080|Argentina|Salta|Techtel LMDS Comunicaciones Interactivas S.A.|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|11|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|148.72.165.7|10529|United States|St Louis|GoDaddy.com|
+|18|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
