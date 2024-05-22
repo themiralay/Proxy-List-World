@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|177.127.136.16|8080|Brazil|Niterói|Claro NXT Telecomunicacoes Ltda|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|216.39.249.210|3128|United States|New York|GTHost|
-|10|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|11|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
-|12|113.160.166.196|6139|Vietnam|Thị Trấn Tân Yên|VietNam Post and Telecom Corporation|
-|13|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|16|186.166.142.82|999|Venezuela|Barinas|TELEFONICA VENEZOLANA, C.A.|
-|17|39.129.73.6|443|China|Kunming|China Mobile|
-|18|201.251.61.143|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|19|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|5|64.23.193.53|8081|United States|San Francisco|DigitalOcean, LLC|
+|6|207.246.202.244|3128|United States|Los Angeles|XFERNET|
+|7|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|8|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|216.39.249.210|3128|United States|New York|GTHost|
+|13|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|14|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|15|39.129.73.6|443|China|Kunming|China Mobile|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|139.84.131.42|3129|India|Bengaluru|The Constant Company|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
