@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|77.91.68.43|3128|Finland|Helsinki|Daniil Yevchenko|
-|6|123.200.18.155|80|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|103.179.182.159|8888|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|216.39.249.210|3128|United States|New York|GTHost|
-|15|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|213.149.182.98|8080|Cyprus|Limassol|CYTANET - Cyprus Telecommunications Authority|
-|18|72.10.164.178|3247|Canada|Montreal|GloboTech Communications|
-|19|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.236.18|20561|Canada|Montreal|GloboTech Communications|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.174.238.113|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|123.200.18.155|80|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|103.168.44.210|3127|Indonesia|Boyolali|PT CYB Media Group|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|45.5.92.94|8137|Mexico|Monclova|Señal Interactiva, S.A De C.V|
+|14|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|216.39.249.210|3128|United States|New York|GTHost|
+|18|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|72.10.164.178|20655|Canada|Montreal|GloboTech Communications|
+|20|102.39.156.37|8080|South Africa|Cape Town|Vox Telecom|
 
 
 
