@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|203.190.113.167|8071|Indonesia|Sorosutan|PT Union Routelink Communication|
-|7|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|9|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|14|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|19|185.202.44.85|8888|United States|Los Angeles|QuickPacket, LLC|
-|20|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|10|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|11|103.73.164.190|32650|Cambodia|Phnom Penh|TPLC Holdings Ltd|
+|12|147.92.36.43|3129|Hong Kong|Tseung Kwan O|DNC|
+|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|16|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
