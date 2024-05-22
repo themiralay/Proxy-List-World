@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|1|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|209.15.113.71|80|Thailand|Vadhana|catCloud|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|38.65.172.132|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|6|134.35.4.253|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|12|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|18|67.43.227.227|4879|Canada|Montreal|GloboTech Communications|
-|19|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
-|20|52.42.230.155|80|United States|Portland|Amazon.com, Inc.|
+|10|72.10.164.178|15055|Canada|Montreal|GloboTech Communications|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|179.49.156.26|999|Peru|Lima|Vemax S.A.C|
+|13|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|67.43.227.227|30473|Canada|Montreal|GloboTech Communications|
+|15|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|16|67.43.236.22|17715|Canada|Montreal|GloboTech Communications|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|67.43.227.227|30473|Canada|Montreal|GloboTech Communications|
+|19|103.78.113.15|8080|Indonesia|Jakarta|MORATELINDO|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
