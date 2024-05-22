@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |4|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|12|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|110.78.186.171|8080|Thailand|Chon Buri|CAT-BB|
+|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|10|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|11|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |13|185.202.44.110|8888|United States|Los Angeles|QuickPacket, LLC|
-|14|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|15|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|14.47.70.137|8080|South Korea|Suwon|Korea Telecom|
+|16|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|20|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
