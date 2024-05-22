@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|148.72.165.7|10529|United States|St Louis|GoDaddy.com|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|80.66.89.198|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|15|109.72.232.217|8080|Russia|Moscow|MOSLINE|
-|16|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|85.117.60.133|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|18|101.109.61.50|8080|Thailand|Pattaya|TOT Public Company Limited|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|181.115.69.118|999|Honduras|San Pedro Sula|Telgua|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|77.41.146.12|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|10|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|11|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|12|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|15|190.52.108.248|6666|Venezuela|Porlamar|Gold Data USA Inc|
+|16|72.10.164.178|24585|Canada|Montreal|GloboTech Communications|
+|17|202.154.36.129|8080|Indonesia|Surabaya|RADNET-BDG|
+|18|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
+|19|181.204.172.170|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
