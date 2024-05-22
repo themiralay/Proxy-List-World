@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|11|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|103.234.159.5|8080|India|Bengaluru|MWPL|
-|14|67.43.227.227|10211|Canada|Montreal|GloboTech Communications|
-|15|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|16|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|72.10.160.90|32211|Canada|Montreal|GloboTech Communications|
-|18|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|22665|Canada|Montreal|GloboTech Communications|
-|20|154.73.110.33|1981|Libya|Tripoli|LibTrans-Sahara IT & Communication|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|181.192.21.236|8080|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|16|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|186.13.16.33|8080|Argentina|Salta|Techtel LMDS Comunicaciones Interactivas S.A.|
 
 
 
