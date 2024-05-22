@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|103.158.27.88|1212|Indonesia|Magelang|PT Madina Solusi Indonesia|
-|9|160.248.184.233|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|80.66.81.43|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|13|142.93.196.242|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|15|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|19|72.10.164.178|26767|Canada|Montreal|GloboTech Communications|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|207.246.202.244|3128|United States|Los Angeles|XFERNET|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|10|64.23.193.53|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|14|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|160.248.184.233|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|38.60.249.25|3128|Germany|Frankfurt am Main|Kaopu Cloud HK Limited|
+|18|103.111.29.134|8080|Indonesia|Gandul|ICONPLN|
+|19|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
