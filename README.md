@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|10|46.101.223.220|3124|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|72.10.160.92|16043|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|2875|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.228.253|9323|Canada|Montreal|GloboTech Communications|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|133.32.32.57|8080|Japan|Fujisawa|ARTERIA Networks Corporation|
-|17|72.10.160.170|12767|Canada|Montreal|GloboTech Communications|
-|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|133.32.32.57|8080|Japan|Fujisawa|ARTERIA Networks Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|103.148.195.22|8080|Indonesia|Tabanan|Dinas Komunikasi DAN Informatika Kabupaten Tabanan|
+|15|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
+|16|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.160.90|29747|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|22681|Canada|Montreal|GloboTech Communications|
 |19|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
-|20|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
