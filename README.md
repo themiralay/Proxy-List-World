@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|139.84.137.63|3129|India|Bengaluru|The Constant Company|
-|7|103.169.149.254|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
-|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|139.84.132.210|3129|India|Bengaluru|The Constant Company|
-|10|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|11|207.246.202.244|3128|United States|Los Angeles|XFERNET|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.160.173|20489|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.91|7239|Canada|Montreal|GloboTech Communications|
-|15|113.160.166.196|6238|Vietnam|Thị Trấn Tân Yên|VietNam Post and Telecom Corporation|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|20|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|216.39.249.210|3128|United States|New York|GTHost|
+|16|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|18|36.66.171.243|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
 
 
 
