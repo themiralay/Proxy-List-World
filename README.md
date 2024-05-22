@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|182.253.178.209|80|Indonesia|Sokaraja|BIZNET|
-|13|72.10.160.170|2073|Canada|Montreal|GloboTech Communications|
-|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|15|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|18|67.43.227.228|9397|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|27365|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7267|Canada|Montreal|GloboTech Communications|
+|2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|11|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|14|34.154.161.152|80|Italy|Milan|Google LLC|
+|15|190.52.108.248|6666|Venezuela|Porlamar|Gold Data USA Inc|
+|16|103.234.159.5|8080|India|Bengaluru|MWPL|
+|17|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|18|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|19|182.253.178.209|80|Indonesia|Sokaraja|BIZNET|
+|20|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
 
 
 
