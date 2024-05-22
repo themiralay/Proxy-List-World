@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|4|112.78.164.29|8080|Indonesia|Jakarta|Biznet Networks|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|15|67.43.236.20|13797|Canada|Montreal|GloboTech Communications|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|101.231.64.89|8443|China|Shanghai|China Telecom (Group)|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|203.150.128.223|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|19|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|72.10.164.178|6269|Canada|Montreal|GloboTech Communications|
+|17|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|18|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
