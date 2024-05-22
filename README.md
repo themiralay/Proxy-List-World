@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|203.150.128.20|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|160.248.184.233|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|178.130.93.3|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|9|45.117.30.137|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|181.205.74.98|21901|Colombia|Medellín|Colombia Móvil|
-|15|80.66.81.61|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|16|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|17|72.10.164.178|3129|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|3129|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|24249|Canada|Montreal|GloboTech Communications|
-|20|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
+|5|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|178.130.93.3|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
+|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|195.133.44.200|3128|Germany|Frankfurt am Main|DE-RUVDS|
+|12|41.222.246.29|7788|Rwanda|Kigali|RWEDNET|
+|13|103.191.196.47|3127|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|14|79.111.13.223|8080|Russia|Moscow|PJSC MegaFon|
+|15|38.65.172.132|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|18|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
 
 
 
