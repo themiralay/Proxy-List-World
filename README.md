@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.90.213|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|23.225.72.125|3503|United States|Dallas|Cnservers LLC|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
-|13|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|14|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|185.165.232.65|6060|Croatia|Zagreb|Intersat Telekomunikacije d.o.o.|
-|18|45.174.248.35|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|3|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
+|20|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
 
 
 
