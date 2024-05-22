@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|104.238.222.54|3128|United States|Los Angeles|ReliableSite.Net LLC|
+|2|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |12|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|19|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
-|20|216.39.249.210|3128|United States|New York|GTHost|
+|13|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|16|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.164.178|25111|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
 
 
 
