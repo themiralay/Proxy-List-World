@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|5|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|6|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|217.24.245.58|8079|Albania|Tirana|ONE ALBANIA SH.A.|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|17|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|72.10.164.178|2805|Canada|Montreal|GloboTech Communications|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|15|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|72.10.164.178|2805|Canada|Montreal|GloboTech Communications|
+|18|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|19|114.118.5.211|3128|China|Beijing|CloudVsp.Inc|
+|20|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
