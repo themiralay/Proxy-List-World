@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|188.116.22.67|25124|Hong Kong|Hong Kong|M247 Europe SRL|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|4|207.246.202.244|3128|United States|Los Angeles|XFERNET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|7|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 |10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|84.52.125.113|8082|Russia|St Petersburg|WestCall|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|72.10.164.178|4947|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|216.39.249.210|3128|United States|New York|GTHost|
+|11|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|72.10.164.178|4947|Canada|Montreal|GloboTech Communications|
+|20|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
 
 
 
