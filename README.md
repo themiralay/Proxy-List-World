@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|8|64.23.193.53|8081|United States|San Francisco|DigitalOcean, LLC|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|190.52.108.248|6666|Venezuela|Porlamar|Gold Data USA Inc|
-|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|105.214.81.186|53281|South Africa|Johannesburg|MTN SA|
-|16|67.43.227.227|2229|Canada|Montreal|GloboTech Communications|
-|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|18|103.15.223.251|3128|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|183.165.247.21|8089|China|Shenzhen|Chinanet|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|101.109.61.50|8080|Thailand|Pattaya|TOT Public Company Limited|
+|7|38.65.172.132|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|8|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|103.111.137.241|8080|Indonesia|Surabaya|PT Mitra Lintas Multimedia|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|183.165.247.21|8089|China|Shenzhen|Chinanet|
+|13|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|16|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|17|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
+|18|181.204.172.170|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|19|103.178.194.122|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|20|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
 
 
 
