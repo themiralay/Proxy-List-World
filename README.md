@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|8|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|38.9.141.79|80|Indonesia|Medan|Cogent Communications|
-|14|186.13.16.33|8080|Argentina|Salta|Techtel LMDS Comunicaciones Interactivas S.A.|
-|15|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|128.92.239.190|8080|United States|Los Angeles|Spectrum|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
+|8|47.251.22.102|443|United States|Santa Clara|Alibaba Cloud LLC|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|11|14.162.146.186|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|12|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|67.43.236.22|33169|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|17213|Canada|Montreal|GloboTech Communications|
+|16|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.164.178|17213|Canada|Montreal|GloboTech Communications|
+|18|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|20|31.13.212.38|8800|Bulgaria|Sofia|DarkNet Ltd|
 
 
 
