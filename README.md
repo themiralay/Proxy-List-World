@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|87.107.166.6|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|186.13.16.33|8080|Argentina|Salta|Techtel LMDS Comunicaciones Interactivas S.A.|
-|11|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|87.107.166.6|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|16|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
-|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|52.42.230.155|80|United States|Portland|Amazon.com, Inc.|
-|19|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|7|80.66.89.198|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|8|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|10|52.42.230.155|80|United States|Portland|Amazon.com, Inc.|
+|11|154.73.111.133|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
+|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|87.107.166.6|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|15|67.43.227.227|11651|Canada|Montreal|GloboTech Communications|
+|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|17|72.10.160.91|31275|Canada|Montreal|GloboTech Communications|
+|18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|20|61.28.230.30|3128|Vietnam|Phường Mười Ba|Vietnam Internet Network Information Center|
 
 
 
