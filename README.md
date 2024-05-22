@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|36.94.30.238|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|6|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|64.23.193.53|8081|United States|San Francisco|DigitalOcean, LLC|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|12|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|37.251.98.111|3128|The Netherlands|Huizen|ISPFabriek|
-|14|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
-|15|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.164.178|8981|Canada|Montreal|GloboTech Communications|
-|18|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|20|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|180.180.218.250|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|115.166.102.238|8080|Indonesia|Jakarta|ISATNET|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|77.91.68.43|3128|Finland|Helsinki|Daniil Yevchenko|
+|15|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|16|191.243.46.166|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|17|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|18|72.10.164.178|3247|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
