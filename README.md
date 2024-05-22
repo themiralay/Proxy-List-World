@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7746** proxies at the latest update. Usable proxies are below.
+> Scraper found **7669** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|96|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|588|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|94|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|513|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|184|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5920|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|10|72.10.160.172|32309|Canada|Montreal|GloboTech Communications|
-|11|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|12|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|15|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|16|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|20|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|5|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|78.135.66.137|80|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|8|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|67.43.228.250|8443|Canada|Montreal|GloboTech Communications|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|186.13.16.33|8080|Argentina|Salta|Techtel LMDS Comunicaciones Interactivas S.A.|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|177.221.44.89|49999|Brazil|Jaboatao dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|14|72.10.160.90|2389|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|17|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
+|18|67.43.228.253|9389|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|17243|Canada|Montreal|GloboTech Communications|
+|20|39.129.73.6|443|China|Kunming|China Mobile|
 
 
 
