@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|4|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|6|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|45.71.3.52|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|10|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|67.43.236.20|29285|Canada|Montreal|GloboTech Communications|
-|15|177.87.15.141|8081|Brazil|Martins|L GONZAGA JUNIOR SERVICOS DE INTERNET - ME|
-|16|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|72.10.160.90|2963|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|29285|Canada|Montreal|GloboTech Communications|
+|9|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|16|72.10.160.170|3063|Canada|Montreal|GloboTech Communications|
+|17|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|18|72.10.164.178|30881|Canada|Montreal|GloboTech Communications|
+|19|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|20|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
