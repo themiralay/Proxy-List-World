@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|131.117.163.227|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|207.246.202.244|3128|United States|Los Angeles|XFERNET|
-|6|139.84.210.133|3129|India|Bengaluru|The Constant Company, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|72.10.160.90|17697|Canada|Montreal|GloboTech Communications|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|67.43.236.20|2699|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|6597|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|7055|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|2699|Canada|Montreal|GloboTech Communications|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|216.39.249.210|3128|United States|New York|GTHost|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|72.10.164.178|7055|Canada|Montreal|GloboTech Communications|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|8|38.65.172.132|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|207.246.202.244|3128|United States|Los Angeles|XFERNET|
+|12|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|16|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
