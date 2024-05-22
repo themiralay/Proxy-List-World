@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
+|3|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|45.12.214.202|3128|The Netherlands|Dronten|Zomro B.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|148.72.165.7|10529|United States|St Louis|GoDaddy.com|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|222.127.67.204|8085|Philippines|Lahug|INNOVE|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|14|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
+|15|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|43.128.178.62|8080|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|18|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
 
 
 
