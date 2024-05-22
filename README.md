@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|1|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|10|181.192.21.236|8080|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|72.10.160.174|8633|Canada|Montreal|GloboTech Communications|
-|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
-|16|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.236.20|30513|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19003|Canada|Montreal|GloboTech Communications|
-|20|177.93.16.66|8080|Costa Rica|San José|Telecable Economico S.A.|
+|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|160.248.3.117|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|72.10.160.174|8633|Canada|Montreal|GloboTech Communications|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|200.41.170.211|11201|Argentina|Rincon de Los Sauces|Telefonica de Argentina|
+|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|19|67.43.228.253|5587|Canada|Montreal|GloboTech Communications|
+|20|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
