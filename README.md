@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|180.232.127.48|3128|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|2|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|143.47.39.227|11111|Spain|Madrid|Oracle Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|11|35.212.237.127|3128|United States|The Dalles|Google LLC|
-|12|128.199.116.34|4444|Singapore|Singapore|DigitalOcean, LLC|
-|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|14|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|16|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|20|31.43.191.118|80|Azerbaijan|Baku|Telkom Internet LTD|
+|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|14|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|15|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|17|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|19|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
