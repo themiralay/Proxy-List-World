@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|9|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|216.39.249.210|3128|United States|New York|GTHost|
-|12|118.96.216.78|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|16|94.102.228.101|32650|Montenegro|Podgorica|One Crna Gora DOO|
-|17|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|18|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|19|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|180.190.200.210|8085|Philippines|Lahug|Globe Telecom|
+|9|216.39.249.210|3128|United States|New York|GTHost|
+|10|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|118.96.216.78|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
+|14|134.122.22.233|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|67.43.228.253|2135|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|21071|Canada|Montreal|GloboTech Communications|
+|20|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
 
 
 
