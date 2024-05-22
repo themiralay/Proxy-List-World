@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|188.116.22.67|25124|Hong Kong|Hong Kong|M247 Europe SRL|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|37.148.217.235|999|Dominican Republic|Santiago de los Caballeros|IPXO|
-|12|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|13|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|14|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|15|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|12|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|13|94.153.252.170|8080|Ukraine|Kyiv|Kyivstar UA|
+|14|182.191.123.24|8080|Pakistan|Islamabad|Pakistan Telecommuication company limited|
+|15|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
 |16|72.10.164.178|21557|Canada|Montreal|GloboTech Communications|
 |17|72.10.164.178|21557|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|21557|Canada|Montreal|GloboTech Communications|
-|19|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|20|72.10.164.178|21557|Canada|Montreal|GloboTech Communications|
+|18|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|20.42.119.47|80|United States|Boydton|Microsoft Corporation|
+|20|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
