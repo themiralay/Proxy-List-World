@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|6|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|20.42.119.47|80|United States|Boydton|Microsoft Corporation|
-|10|77.41.146.12|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|11|14.142.36.210|1111|India|Mumbai|Tata Communications Limited|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|132.148.74.201|8080|United States|Tempe|GoDaddy.com, LLC|
-|15|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|20.121.139.25|3128|United States|Boydton|Microsoft Corporation|
-|17|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
-|18|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|19|185.126.183.120|8080|Russia|Moscow|"Telko" JSC|
-|20|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
+|11|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
+|14|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|15|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
+|16|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|17|72.10.164.178|7249|Canada|Montreal|GloboTech Communications|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|154.0.156.102|8080|Tanzania|Arusha|Habari Node PLC Dar|
+|20|186.32.226.7|999|Honduras|Tegucigalpa|Newcom Limited|
 
 
 
