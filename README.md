@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7663** proxies at the latest update. Usable proxies are below.
+> Scraper found **7740** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|150|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1066|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|298|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|375|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5191|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|203.150.128.20|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|160.248.184.233|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|38.65.172.132|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
-|11|178.130.93.3|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|14|5.161.62.237|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|41.174.132.58|8080|DR Congo|Kinshasa|Liquid Telecommunications Ltd|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|19|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|20|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|12|77.41.146.12|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|13|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
+|14|72.10.160.90|29445|Canada|Montreal|GloboTech Communications|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|17|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|121.228.74.75|888|China|Nanjing|China Telecom|
 
 
 
