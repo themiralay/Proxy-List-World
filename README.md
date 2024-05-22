@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|103.186.147.13|80|Vietnam|Quận Hà Đông|THM Refrigeration Technicians Company Limited|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|103.5.18.86|84|India|Malakāpuram|CityOnline|
-|16|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
-|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|20|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|11|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|103.87.169.189|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|14|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|216.39.249.210|3128|United States|New York|GTHost|
+|17|103.186.147.13|80|Vietnam|Quận Hà Đông|THM Refrigeration Technicians Company Limited|
+|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
 
 
 
