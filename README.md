@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|40.127.8.243|80|South Africa|Johannesburg|Microsoft Corporation|
-|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|5|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|16|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.160.90|28653|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|22685|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|7221|Canada|Montreal|GloboTech Communications|
+|3|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|8|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
+|10|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|168.227.11.135|9999|Brazil|Nova Lima|Companhia Itabirana Telecomunicações Ltda|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|72.10.160.90|4285|Canada|Montreal|GloboTech Communications|
+|19|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
