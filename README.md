@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|64.23.193.53|8081|United States|San Francisco|DigitalOcean, LLC|
-|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|12|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|94.154.152.68|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
-|15|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|103.12.21.4|3128|Indonesia|Jakarta|PT Equnix Business Solutions|
-|18|38.65.172.132|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
-|19|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|20|124.217.97.131|8080|Philippines|General Santos|Philippine Long Distance Telephone Co.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|4|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
+|5|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|217.100.239.117|8090|The Netherlands|Alblasserdam|Vodafone Libertel B.V.|
+|7|177.93.60.70|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|72.10.164.178|14097|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.230|31661|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|3013|Canada|Montreal|GloboTech Communications|
+|18|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|19|181.78.19.242|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|20|103.68.1.74|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
 
 
 
