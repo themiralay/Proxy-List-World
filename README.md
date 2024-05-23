@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|9|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|67.43.228.253|7187|Canada|Montreal|GloboTech Communications|
-|16|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|67.43.227.227|13477|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|33253|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|7|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|103.252.169.158|8080|India|Nagpur|UCN CABLE NETWORK PVT. LTD|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|200.41.170.211|11201|Argentina|Rincon de Los Sauces|Telefonica de Argentina|
+|12|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|13|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|16|103.179.139.170|8080|Indonesia|Bekasi|PT. Fiber Networks Indonesia|
+|17|72.10.160.171|3921|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
