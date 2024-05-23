@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|13|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|14|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|16|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|17|200.106.184.21|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|18|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|19|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|20|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|3|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|9|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|202.4.119.97|5020|Bangladesh|Dhaka|Dhakacom Limited|
+|12|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
+|13|151.22.181.205|8080|Italy|Gioia del Colle|INFOSTRADA|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|149.28.180.246|12009|Australia|Sydney|The Constant Company|
+|19|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
