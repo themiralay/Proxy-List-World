@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|179.61.98.3|999|Chile|Chimbarongo|HomeNet LTDA|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|7|67.43.228.253|24597|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|6663|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|7475|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|6663|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|7475|Canada|Montreal|GloboTech Communications|
-|12|190.181.24.206|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|185.202.44.86|8888|United States|Los Angeles|QuickPacket, LLC|
-|14|67.43.227.227|7475|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.174|18679|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|23831|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|6663|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|12945|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|15295|Canada|Montreal|GloboTech Communications|
-|20|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|188.72.43.162|47193|Iraq|Erbil|Pirmam For Information Technology Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|13|72.10.164.178|16871|Canada|Montreal|GloboTech Communications|
+|14|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|15|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|16|72.10.160.90|12945|Canada|Montreal|GloboTech Communications|
+|17|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|18|181.233.93.88|8080|Brazil|Ananindeua|J.A TELECOM.PE|
+|19|149.86.140.141|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|20|72.10.160.170|32947|Canada|Montreal|GloboTech Communications|
 
 
 
