@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|154.127.240.121|64003|Angola|Huambo|HMB-FTTH|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|83.244.33.34|8080|Palestinian Territory|Ramallah|Palestine Telecommunications Company|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|154.127.240.125|64002|Angola|Huambo|HMB-FTTH|
-|19|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
-|20|177.54.229.164|9292|Brazil|Eldorado dos Carajas|Aranet Comunicacao Ltda|
+|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|19|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|20|103.203.174.182|84|India|Hyderabad|Softgaurd Powertronics|
 
 
 
