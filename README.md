@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|78.170.135.164|8080|Turkey|Istanbul|TurkTelecom|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|103.247.23.198|8080|Indonesia|Bekasi|PT wifian Solution|
+|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|6|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|72.10.160.174|14825|Canada|Montreal|GloboTech Communications|
-|9|45.4.201.99|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|72.10.164.178|24177|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|24177|Canada|Montreal|GloboTech Communications|
-|13|51.91.109.83|80|France|Strasbourg|OVH SAS|
-|14|186.148.182.82|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
-|15|67.43.227.227|1533|Canada|Montreal|GloboTech Communications|
-|16|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
-|17|182.93.85.225|8080|Nepal|Dharān|Subisu D85|
-|18|67.43.236.20|21867|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|24177|Canada|Montreal|GloboTech Communications|
-|20|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|10|34.125.246.223|80|United States|Las Vegas|Google LLC|
+|11|179.1.142.129|8080|Colombia|Bogotá|InterNexa Global Network|
+|12|103.177.10.139|8080|Indonesia|Kediri|PT Nalendra Gigantara Media|
+|13|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|14|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|36.95.213.27|8080|Indonesia|Cempaka Putih Barat|PT. Telekomunikasi Indonesia|
+|17|103.110.10.190|3128|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|18|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
+|19|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
