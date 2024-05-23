@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|15|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|18|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|181.233.93.88|8080|Brazil|Ananindeua|J.A TELECOM.PE|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|161.34.34.231|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|222.127.75.23|8085|Philippines|Lahug|INNOVE|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|161.49.176.173|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
+|18|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
