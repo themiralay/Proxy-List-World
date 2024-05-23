@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|12|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|14|206.27.173.58|443|United States|Phoenix|CenturyLink Communications, LLC|
-|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|18|89.116.21.210|3128|India|Mumbai|Hostinger International Limited|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|10|177.234.212.189|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|154.127.240.121|64003|Angola|Huambo|HMB-FTTH|
+|12|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
+|13|64.23.193.53|8081|United States|San Francisco|DigitalOcean, LLC|
+|14|103.215.207.65|83|India|Kānker|Foxtel Telecommunications Pvt. Ltd.|
+|15|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|16|138.122.99.110|999|Mexico|San Jose Iturbide|Ientc S De RL De CV|
+|17|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|154.127.240.125|64002|Angola|Huambo|HMB-FTTH|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
