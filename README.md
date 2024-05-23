@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|136.62.144.33|80|United States|Austin|Google Fiber Inc.|
-|11|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|190.217.69.203|999|Colombia|Tumaco|Level 3 Colombia S.A|
-|13|139.84.144.173|3129|India|Bengaluru|The Constant Company, LLC|
-|14|186.125.218.147|999|Argentina|Molinos|Telecom Argentina S.A.|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|148.72.140.24|30182|United States|St Louis|GoDaddy.com|
-|18|149.28.180.246|12009|Australia|Sydney|The Constant Company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|139.180.182.111|80|Australia|Sydney|Choopa|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|195.35.29.39|80|France|Paris|HOSTINGER FR|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|103.151.53.24|10011|Vietnam|Quận Cẩm Lệ|Viet Digital Technology Liability Company|
+|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|154.127.240.125|64002|Angola|Huambo|HMB-FTTH|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|154.127.240.117|64003|Angola|Huambo|HMB-FTTH|
+|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|18|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
 |19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|38.180.146.227|3128|United States|Dallas|Scalaxy B.V.|
+|20|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
 
 
 
