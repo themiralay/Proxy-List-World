@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|4|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|103.191.165.61|8080|Indonesia|Subang|PT Sakti Wijaya Network|
-|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|11|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|67.43.228.251|31707|Canada|Montreal|GloboTech Communications|
-|16|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|17|190.14.249.174|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|18|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|103.88.239.178|84|India|Hyderabad|Mana Communications|
-|20|67.43.236.18|13043|Canada|Montreal|GloboTech Communications|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|67.43.228.251|31707|Canada|Montreal|GloboTech Communications|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|103.203.174.182|84|India|Hyderabad|Softgaurd Powertronics|
+|16|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|17|67.43.236.18|13043|Canada|Montreal|GloboTech Communications|
+|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|67.43.228.253|8503|Canada|Montreal|GloboTech Communications|
 
 
 
