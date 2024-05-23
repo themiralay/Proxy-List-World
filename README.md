@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|13|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|67.55.186.25|8080|United States|Floris|Aureon Network Services|
+|11|72.10.160.90|29491|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|29491|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|23191|Canada|Montreal|GloboTech Communications|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |15|72.10.164.178|9995|Canada|Montreal|GloboTech Communications|
-|16|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|17|72.10.164.178|9995|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|28293|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|26139|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|6605|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|103.84.177.218|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|67.43.228.253|13739|Canada|Montreal|GloboTech Communications|
+|20|103.146.197.43|4995|Indonesia|Banyuwangi|RIYADNETWORK|
 
 
 
