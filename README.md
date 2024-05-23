@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.154.161.152|80|Italy|Milan|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|38.156.74.93|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|134.35.82.103|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|216.39.249.210|3128|United States|New York|GTHost|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|19|72.10.160.171|25245|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|25245|Canada|Montreal|GloboTech Communications|
+|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|6|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|216.39.249.210|3128|United States|New York|GTHost|
+|13|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|14|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|15|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.160.171|21223|Canada|Montreal|GloboTech Communications|
+|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
