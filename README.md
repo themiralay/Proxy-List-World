@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|161.34.34.231|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|78.38.243.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|38.180.146.227|3128|United States|Dallas|Scalaxy B.V.|
-|19|103.150.69.8|8080|Bangladesh|Rāngāmati|Md Johirul Islam|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|101.99.91.107|3128|Malaysia|Taman Melati|Shinjiru Technology Sdn Bhd|
+|7|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|161.34.34.231|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
 
 
 
