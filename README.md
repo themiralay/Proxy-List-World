@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|14|101.255.116.163|33333|Indonesia|Jakarta|PT Remala Abadi|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|5.196.111.29|20249|France|Gravelines|OVH SAS|
-|17|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|19|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|20|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|41.223.74.16|3128|Botswana|Gaborone|Mascom Wireless|
+|6|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|11|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|15|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|154.127.240.123|64003|Angola|Huambo|HMB-FTTH|
+|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|20|72.10.164.178|27125|Canada|Montreal|GloboTech Communications|
 
 
 
