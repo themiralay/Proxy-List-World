@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|2|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|200.13.47.165|8080|Argentina|San Jorge|Trynet S.R.L.|
-|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|7|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|45.117.31.193|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|12|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|190.52.108.248|6666|Venezuela|Porlamar|Gold Data USA Inc|
-|16|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
-|17|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
-|18|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|45.117.31.37|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|38.180.146.227|3128|United States|Dallas|Scalaxy B.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|11|5.187.79.198|44331|Russia|Voronezh|Svyaz-Telecom Ltd|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
