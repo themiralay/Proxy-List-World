@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|45.4.201.99|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|7|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|216.39.249.210|3128|United States|New York|GTHost|
-|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|67.43.228.253|19125|Canada|Montreal|GloboTech Communications|
-|12|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.160.90|19741|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|30913|Canada|Montreal|GloboTech Communications|
-|16|103.48.71.30|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|18|72.10.160.173|26179|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|30913|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|9351|Canada|Montreal|GloboTech Communications|
+|4|103.145.160.5|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|7|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|216.39.249.210|3128|United States|New York|GTHost|
+|13|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|14|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.115.20.26|8090|Indonesia|Subang|PMYNET|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|72.10.160.173|26179|Canada|Montreal|GloboTech Communications|
 
 
 
