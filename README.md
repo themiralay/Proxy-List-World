@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
 |3|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|201.131.239.233|999|Mexico|Fresnillo|Telecable del Mineral, S. A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|9|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
-|10|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|11|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|103.105.55.51|8081|Indonesia|Malang|PT. Mega Artha Lintas Data|
-|13|157.100.60.144|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|147.92.36.43|3129|Hong Kong|Tseung Kwan O|DNC|
-|16|147.45.49.2|3128|Japan|Shinagawa|Global Connectivity Solutions LLP|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|19|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|20|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|4|157.100.60.144|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|147.45.49.2|3128|Japan|Shinagawa|Global Connectivity Solutions LLP|
+|12|67.43.236.21|11559|Canada|Montreal|GloboTech Communications|
+|13|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|14|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|15|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|16|72.10.160.92|21159|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|14343|Canada|Montreal|GloboTech Communications|
+|18|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
+|19|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
 
 
 
