@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7461** proxies at the latest update. Usable proxies are below.
+> Scraper found **7359** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|170|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|892|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|790|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|207|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5234|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|11|83.244.33.34|8080|Palestinian Territory|Ramallah|Palestine Telecommunications Company|
-|12|195.201.34.206|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|13|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
-|14|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|18|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
-|19|67.43.236.20|9221|Canada|Montreal|GloboTech Communications|
-|20|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|5|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|72.10.160.90|24399|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|16|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|72.10.164.178|10871|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|10871|Canada|Montreal|GloboTech Communications|
+|20|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
