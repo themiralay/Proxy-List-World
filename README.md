@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|4|80.78.64.70|8080|Albania|Tirana|ABCom|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
-|9|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|10|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|11|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|16|45.231.220.67|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|20|147.182.164.100|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|216.39.249.210|3128|United States|New York|GTHost|
+|8|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|72.10.164.178|26027|Canada|Montreal|GloboTech Communications|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|67.43.227.227|23505|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|3417|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|72.10.164.178|26027|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|10377|Canada|Montreal|GloboTech Communications|
+|20|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
