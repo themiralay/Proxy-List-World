@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|8|58.147.190.110|8080|Indonesia|Bogor|PT. Transhybrid Communication|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|5|50.236.203.15|8080|United States|Houston|Comcast Cable Communications, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|50.236.203.15|8080|United States|Houston|Comcast Cable Communications, LLC|
+|8|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
 |9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|14|178.214.80.28|1981|Palestinian Territory|Ramallah|Gemzo information technology Private Joint-Stock company|
-|15|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
-|16|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|10|154.127.240.117|64001|Angola|Huambo|HMB-FTTH|
+|11|154.127.240.125|64002|Angola|Huambo|HMB-FTTH|
+|12|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
