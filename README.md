@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|134.209.139.1|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|206.27.173.58|443|United States|Phoenix|CenturyLink Communications, LLC|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|67.43.227.227|9033|Canada|Montreal|GloboTech Communications|
-|15|103.215.207.65|83|India|Kānker|Foxtel Telecommunications Pvt. Ltd.|
-|16|86.189.191.132|80|United Kingdom|Wandsworth|BT Public Internet Service|
-|17|12.163.95.129|8080|United States|Alex|AT&T Services, Inc.|
-|18|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
-|19|187.86.133.125|3128|Brazil|Pelotas|VETORIALNET INF. E SERVIÇOS DE INTERNET LTDA|
-|20|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|191.252.191.254|3128|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|206.189.37.104|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|66.23.195.93|3128|United States|Dallas|Dot-Tech LLC|
+|15|154.127.240.121|64003|Angola|Huambo|HMB-FTTH|
+|16|67.43.227.227|3849|Canada|Montreal|GloboTech Communications|
+|17|151.22.181.205|8080|Italy|Gioia del Colle|INFOSTRADA|
+|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|20|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
