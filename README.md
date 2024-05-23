@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|180.191.59.254|8081|Philippines|Cabanatuan City|Globe Telecom|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|209.15.113.71|80|Thailand|Vadhana|catCloud|
 |11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|185.89.156.2|44224|Albania|Elbasan|ATU|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|18|115.248.66.131|3129|India|Hyderabad|Reliance Communications Limited|
-|19|200.111.249.195|999|Chile|Santiago|Entel Chile S.A.|
-|20|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|67.43.236.20|24857|Canada|Montreal|GloboTech Communications|
+|16|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|17|72.10.164.178|2627|Canada|Montreal|GloboTech Communications|
+|18|103.10.71.81|80|Indonesia|Situsaeur|PT Wadma Berkah Sedaya|
+|19|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
 
 
 
