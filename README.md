@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.15.113.250|80|Thailand|Vadhana|catCloud|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|168.232.174.43|3128|Brazil|Carmo do Cajuru|Sonik Serviços de Comunicação LTDA|
 |13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.122.1.74|7777|Indonesia|Palembang|PT. Java Digital Nusantara|
-|16|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|18|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|20|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|177.73.68.150|8080|Brazil|Brasília|Level 3 Communications, Inc.|
 
 
 
