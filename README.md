@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|2|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
-|8|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|11|103.156.249.52|8080|Indonesia|Medan|Trans Media Telekomunikasi|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
-|20|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|4|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|187.250.215.99|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
+|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|13|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|14|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
 
 
 
